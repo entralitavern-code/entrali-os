@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-24T22:04:47.958135",
+    "generated_at": "2026-06-24T22:11:14.531974",
     "generated_date": "2026-06-24",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -6950,9 +6950,9 @@
       "part_no": "1671",
       "desc": "Jack Daniels G/ Jack 750ml",
       "group": "9",
-      "price": 370.0,
+      "price": 420.0,
       "cost": 319.99,
-      "gp_pct": 13.5,
+      "gp_pct": 23.8,
       "qty": 0.0,
       "minimum": 0.0,
       "maximum": 0.0,
@@ -6961,7 +6961,7 @@
       "days_since_sold": 1909,
       "lastsold": "2021-04-02",
       "lastbuy": "2021-03-23",
-      "loyalty_eligible": false,
+      "loyalty_eligible": true,
       "alert": "OUT OF STOCK"
     },
     {
@@ -12693,7 +12693,7 @@
       "date": "2026-05-29",
       "desc": "Castle Dbl Malt 750ml",
       "amount": 75.0,
-      "gp_pct": 35.3,
+      "gp_pct": 19.2,
       "points": 1,
       "cashier": "Nwabisa"
     },
@@ -13278,7 +13278,7 @@
       "date": "2026-05-30",
       "desc": "Castle Dbl Malt 750ml",
       "amount": 50.0,
-      "gp_pct": 35.3,
+      "gp_pct": 19.2,
       "points": 1,
       "cashier": "Nwabisa"
     },
@@ -16887,7 +16887,7 @@
       "date": "2026-05-31",
       "desc": "Castle Dbl Malt 750ml",
       "amount": 100.0,
-      "gp_pct": 35.3,
+      "gp_pct": 19.2,
       "points": 2,
       "cashier": "Nwabisa"
     },
@@ -17769,7 +17769,7 @@
       "date": "2026-05-31",
       "desc": "Castle Dbl Malt 750ml",
       "amount": 50.0,
-      "gp_pct": 35.3,
+      "gp_pct": 19.2,
       "points": 1,
       "cashier": "Nwabisa"
     },
@@ -17877,7 +17877,7 @@
       "date": "2026-06-01",
       "desc": "Castle Dbl Malt 750ml",
       "amount": 50.0,
-      "gp_pct": 35.3,
+      "gp_pct": 19.2,
       "points": 1,
       "cashier": "Nwabisa"
     },
@@ -21756,7 +21756,7 @@
       "date": "2026-06-06",
       "desc": "Castle Dbl Malt 750ml",
       "amount": 50.0,
-      "gp_pct": 35.3,
+      "gp_pct": 19.2,
       "points": 1,
       "cashier": "Nwabisa"
     },
@@ -23835,7 +23835,7 @@
       "date": "2026-06-07",
       "desc": "Castle Dbl Malt 750ml",
       "amount": 200.0,
-      "gp_pct": 35.3,
+      "gp_pct": 19.2,
       "points": 4,
       "cashier": "Nwabisa"
     },
@@ -24222,7 +24222,7 @@
       "date": "2026-06-07",
       "desc": "Castle Dbl Malt 750ml",
       "amount": 50.0,
-      "gp_pct": 35.3,
+      "gp_pct": 19.2,
       "points": 1,
       "cashier": "Nwabisa"
     },
@@ -34590,7 +34590,7 @@
       "date": "2026-06-21",
       "desc": "Castle Dbl Malt 750ml",
       "amount": 100.0,
-      "gp_pct": 35.3,
+      "gp_pct": 19.2,
       "points": 2,
       "cashier": "Nwabisa"
     },
@@ -35671,6 +35671,6 @@
     "out_of_stock": 471,
     "on_promo": 0,
     "dead_stock_30d": 78,
-    "loyalty_eligible": 280
+    "loyalty_eligible": 281
   }
 }
