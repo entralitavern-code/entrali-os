@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-24T20:22:29.135222",
+    "generated_at": "2026-06-24T20:29:04.780911",
     "generated_date": "2026-06-24",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-24",
-    "revenue": 0,
-    "cost": 9428.16,
-    "gp_pct": 0.0,
-    "transactions": 0,
-    "vs_yesterday": 0
+    "revenue": 10092.88,
+    "cost": 9447.49,
+    "gp_pct": 6.4,
+    "transactions": 84,
+    "vs_yesterday": 8231.88
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 0,
-    "cost": 504794.89,
-    "gp_pct": 0.0,
-    "transactions": 0,
+    "revenue": 551950.85,
+    "cost": 504814.22,
+    "gp_pct": 8.5,
+    "transactions": 5359,
     "days_elapsed": 24
   },
   "latest_cashup": {
@@ -273,7 +273,225 @@
       "total": 9138.3
     }
   ],
-  "daily_summary": [],
+  "daily_summary": [
+    {
+      "date": "2026-05-25",
+      "revenue": 22971.0,
+      "cost": 20491.39,
+      "transactions": 293,
+      "gp_pct": 10.8
+    },
+    {
+      "date": "2026-05-26",
+      "revenue": 16010.5,
+      "cost": 14068.58,
+      "transactions": 181,
+      "gp_pct": 12.1
+    },
+    {
+      "date": "2026-05-27",
+      "revenue": 14445.75,
+      "cost": 13505.56,
+      "transactions": 134,
+      "gp_pct": 6.5
+    },
+    {
+      "date": "2026-05-28",
+      "revenue": 11107.0,
+      "cost": 9923.87,
+      "transactions": 115,
+      "gp_pct": 10.7
+    },
+    {
+      "date": "2026-05-29",
+      "revenue": 35311.7,
+      "cost": 30167.9,
+      "transactions": 347,
+      "gp_pct": 14.6
+    },
+    {
+      "date": "2026-05-30",
+      "revenue": 63530.71,
+      "cost": 59553.36,
+      "transactions": 551,
+      "gp_pct": 6.3
+    },
+    {
+      "date": "2026-05-31",
+      "revenue": 86103.38,
+      "cost": 76435.38,
+      "transactions": 733,
+      "gp_pct": 11.2
+    },
+    {
+      "date": "2026-06-01",
+      "revenue": 25074.83,
+      "cost": 22124.19,
+      "transactions": 274,
+      "gp_pct": 11.8
+    },
+    {
+      "date": "2026-06-02",
+      "revenue": 23979.58,
+      "cost": 22727.05,
+      "transactions": 192,
+      "gp_pct": 5.2
+    },
+    {
+      "date": "2026-06-03",
+      "revenue": 15245.5,
+      "cost": 14361.32,
+      "transactions": 148,
+      "gp_pct": 5.8
+    },
+    {
+      "date": "2026-06-04",
+      "revenue": 17648.5,
+      "cost": 16179.76,
+      "transactions": 148,
+      "gp_pct": 8.3
+    },
+    {
+      "date": "2026-06-05",
+      "revenue": 34210.03,
+      "cost": 31560.2,
+      "transactions": 231,
+      "gp_pct": 7.7
+    },
+    {
+      "date": "2026-06-06",
+      "revenue": 47307.21,
+      "cost": 43033.81,
+      "transactions": 389,
+      "gp_pct": 9.0
+    },
+    {
+      "date": "2026-06-07",
+      "revenue": 61864.25,
+      "cost": 54442.59,
+      "transactions": 544,
+      "gp_pct": 12.0
+    },
+    {
+      "date": "2026-06-08",
+      "revenue": 23564.38,
+      "cost": 23158.93,
+      "transactions": 269,
+      "gp_pct": 1.7
+    },
+    {
+      "date": "2026-06-09",
+      "revenue": 12855.0,
+      "cost": 11701.61,
+      "transactions": 141,
+      "gp_pct": 9.0
+    },
+    {
+      "date": "2026-06-10",
+      "revenue": 6651.0,
+      "cost": 6281.41,
+      "transactions": 85,
+      "gp_pct": 5.6
+    },
+    {
+      "date": "2026-06-11",
+      "revenue": 9202.33,
+      "cost": 9607.74,
+      "transactions": 109,
+      "gp_pct": -4.4
+    },
+    {
+      "date": "2026-06-12",
+      "revenue": 16504.5,
+      "cost": 15011.17,
+      "transactions": 130,
+      "gp_pct": 9.0
+    },
+    {
+      "date": "2026-06-13",
+      "revenue": 34556.0,
+      "cost": 30661.83,
+      "transactions": 325,
+      "gp_pct": 11.3
+    },
+    {
+      "date": "2026-06-14",
+      "revenue": 40977.88,
+      "cost": 36328.36,
+      "transactions": 414,
+      "gp_pct": 11.3
+    },
+    {
+      "date": "2026-06-15",
+      "revenue": 22084.0,
+      "cost": 21971.86,
+      "transactions": 282,
+      "gp_pct": 0.5
+    },
+    {
+      "date": "2026-06-16",
+      "revenue": 26556.84,
+      "cost": 25206.52,
+      "transactions": 325,
+      "gp_pct": 5.1
+    },
+    {
+      "date": "2026-06-17",
+      "revenue": 11093.0,
+      "cost": 9697.95,
+      "transactions": 143,
+      "gp_pct": 12.6
+    },
+    {
+      "date": "2026-06-18",
+      "revenue": 11496.0,
+      "cost": 10349.47,
+      "transactions": 121,
+      "gp_pct": 10.0
+    },
+    {
+      "date": "2026-06-19",
+      "revenue": 19459.5,
+      "cost": 16780.23,
+      "transactions": 191,
+      "gp_pct": 13.8
+    },
+    {
+      "date": "2026-06-20",
+      "revenue": 37062.64,
+      "cost": 32320.99,
+      "transactions": 312,
+      "gp_pct": 12.8
+    },
+    {
+      "date": "2026-06-21",
+      "revenue": 33715.0,
+      "cost": 29626.17,
+      "transactions": 308,
+      "gp_pct": 12.1
+    },
+    {
+      "date": "2026-06-22",
+      "revenue": 8889.0,
+      "cost": 8434.17,
+      "transactions": 117,
+      "gp_pct": 5.1
+    },
+    {
+      "date": "2026-06-23",
+      "revenue": 1861.0,
+      "cost": 3799.42,
+      "transactions": 77,
+      "gp_pct": -104.2
+    },
+    {
+      "date": "2026-06-24",
+      "revenue": 10092.88,
+      "cost": 9447.49,
+      "transactions": 84,
+      "gp_pct": 6.4
+    }
+  ],
   "hourly_today": [
     {
       "hour": 0,
@@ -326,10 +544,10 @@
     {
       "hour": 6,
       "label": "06:00",
-      "revenue": 0.0,
-      "cost": 0.0,
-      "gp_pct": 0.0,
-      "transactions": 0
+      "revenue": 30.0,
+      "cost": 25.88,
+      "gp_pct": 13.7,
+      "transactions": 1
     },
     {
       "hour": 7,
@@ -342,106 +560,106 @@
     {
       "hour": 8,
       "label": "08:00",
-      "revenue": 0.0,
-      "cost": 0.0,
-      "gp_pct": 0.0,
-      "transactions": 0
+      "revenue": 885.0,
+      "cost": 813.32,
+      "gp_pct": 8.1,
+      "transactions": 1
     },
     {
       "hour": 9,
       "label": "09:00",
-      "revenue": 0.0,
+      "revenue": -1.0,
       "cost": 0.0,
       "gp_pct": 0.0,
-      "transactions": 0
+      "transactions": 1
     },
     {
       "hour": 10,
       "label": "10:00",
-      "revenue": 0.0,
-      "cost": 0.0,
-      "gp_pct": 0.0,
-      "transactions": 0
+      "revenue": 565.0,
+      "cost": 575.76,
+      "gp_pct": -1.9,
+      "transactions": 7
     },
     {
       "hour": 11,
       "label": "11:00",
-      "revenue": 0.0,
-      "cost": 0.0,
-      "gp_pct": 0.0,
-      "transactions": 0
+      "revenue": 100.0,
+      "cost": 92.0,
+      "gp_pct": 8.0,
+      "transactions": 1
     },
     {
       "hour": 12,
       "label": "12:00",
-      "revenue": 0.0,
-      "cost": 0.0,
-      "gp_pct": 0.0,
-      "transactions": 0
+      "revenue": 654.0,
+      "cost": 525.01,
+      "gp_pct": 19.7,
+      "transactions": 10
     },
     {
       "hour": 13,
       "label": "13:00",
-      "revenue": 0.0,
-      "cost": 0.0,
-      "gp_pct": 0.0,
-      "transactions": 0
+      "revenue": 148.0,
+      "cost": 130.67,
+      "gp_pct": 11.7,
+      "transactions": 3
     },
     {
       "hour": 14,
       "label": "14:00",
-      "revenue": 0.0,
-      "cost": 0.0,
-      "gp_pct": 0.0,
-      "transactions": 0
+      "revenue": 310.0,
+      "cost": 259.0,
+      "gp_pct": 16.4,
+      "transactions": 5
     },
     {
       "hour": 15,
       "label": "15:00",
-      "revenue": 0.0,
-      "cost": 0.0,
-      "gp_pct": 0.0,
-      "transactions": 0
+      "revenue": 3502.88,
+      "cost": 3531.19,
+      "gp_pct": -0.8,
+      "transactions": 11
     },
     {
       "hour": 16,
       "label": "16:00",
-      "revenue": 0.0,
-      "cost": 0.0,
-      "gp_pct": 0.0,
-      "transactions": 0
+      "revenue": 805.0,
+      "cost": 732.34,
+      "gp_pct": 9.0,
+      "transactions": 5
     },
     {
       "hour": 17,
       "label": "17:00",
-      "revenue": 0.0,
-      "cost": 0.0,
-      "gp_pct": 0.0,
-      "transactions": 0
+      "revenue": 904.0,
+      "cost": 799.82,
+      "gp_pct": 11.5,
+      "transactions": 12
     },
     {
       "hour": 18,
       "label": "18:00",
-      "revenue": 0.0,
-      "cost": 0.0,
-      "gp_pct": 0.0,
-      "transactions": 0
+      "revenue": 1395.0,
+      "cost": 1287.62,
+      "gp_pct": 7.7,
+      "transactions": 16
     },
     {
       "hour": 19,
       "label": "19:00",
-      "revenue": 0.0,
-      "cost": 0.0,
-      "gp_pct": 0.0,
-      "transactions": 0
+      "revenue": 610.0,
+      "cost": 506.54,
+      "gp_pct": 17.0,
+      "transactions": 9
     },
     {
       "hour": 20,
       "label": "20:00",
-      "revenue": 0.0,
-      "cost": 0.0,
-      "gp_pct": 0.0,
-      "transactions": 0
+      "revenue": 185.0,
+      "cost": 168.33,
+      "gp_pct": 9.0,
+      "transactions": 2
     },
     {
       "hour": 21,
@@ -474,8 +692,8 @@
       "desc": "Carling Black Label 750ml",
       "price": 25.0,
       "gp_pct": 22.7,
-      "revenue": 188721.37,
-      "qty_sold": 8693.0
+      "revenue": 188746.37,
+      "qty_sold": 8694.0
     },
     {
       "internal": 171,
@@ -630,7 +848,22 @@
       "qty_sold": 500.0
     }
   ],
-  "cashier_summary": [],
+  "cashier_summary": [
+    {
+      "cashier": "Thabiso",
+      "revenue": 418233.4,
+      "cost": 388446.3,
+      "transactions": 4026,
+      "gp_pct": 7.1
+    },
+    {
+      "cashier": "Nwabisa",
+      "revenue": 383197.49,
+      "cost": 337255.94,
+      "transactions": 3687,
+      "gp_pct": 12.0
+    }
+  ],
   "low_stock_alerts": [
     {
       "internal": 80,
