@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-24T22:17:32.533131",
+    "generated_at": "2026-06-24T22:23:49.288396",
     "generated_date": "2026-06-24",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -1497,9 +1497,9 @@
       "part_no": "22814",
       "desc": "Rusthof Dry Red 5L",
       "group": "2",
-      "price": 160.0,
+      "price": 170.0,
       "cost": 166.0,
-      "gp_pct": -3.8,
+      "gp_pct": 2.4,
       "qty": -4.0,
       "minimum": 0.0,
       "maximum": 0.0,
