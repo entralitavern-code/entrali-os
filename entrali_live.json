@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-26T01:14:25.107519",
+    "generated_at": "2026-06-26T01:20:45.456325",
     "generated_date": "2026-06-26",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-26",
-    "revenue": 476.0,
-    "cost": 407.0,
-    "gp_pct": 14.5,
-    "transactions": 5,
-    "vs_yesterday": -26544.5
+    "revenue": 701.0,
+    "cost": 589.41,
+    "gp_pct": 15.9,
+    "transactions": 7,
+    "vs_yesterday": -26319.5
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 579997.35,
-    "cost": 527622.58,
+    "revenue": 580222.35,
+    "cost": 527804.99,
     "gp_pct": 9.0,
-    "transactions": 5587,
+    "transactions": 5589,
     "days_elapsed": 26
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-26",
-      "revenue": 476.0,
-      "cost": 407.0,
-      "transactions": 5,
-      "gp_pct": 14.5
+      "revenue": 701.0,
+      "cost": 589.41,
+      "transactions": 7,
+      "gp_pct": 15.9
     }
   ],
   "hourly_today": [
@@ -504,10 +504,10 @@
     {
       "hour": 1,
       "label": "01:00",
-      "revenue": 0.0,
-      "cost": 0.0,
-      "gp_pct": 0.0,
-      "transactions": 0
+      "revenue": 225.0,
+      "cost": 182.41,
+      "gp_pct": 18.9,
+      "transactions": 2
     },
     {
       "hour": 2,
@@ -692,8 +692,8 @@
       "desc": "Carling Black Label 750ml",
       "price": 25.0,
       "gp_pct": 24.3,
-      "revenue": 185476.37,
-      "qty_sold": 8552.0
+      "revenue": 185501.37,
+      "qty_sold": 8553.0
     },
     {
       "internal": 171,
@@ -716,8 +716,8 @@
       "desc": "Paarl Perle' 2L",
       "price": 75.0,
       "gp_pct": 13.0,
-      "revenue": 34940.86,
-      "qty_sold": 471.0
+      "revenue": 35015.86,
+      "qty_sold": 472.0
     },
     {
       "internal": 204,
@@ -858,9 +858,9 @@
     },
     {
       "cashier": "Nwabisa",
-      "revenue": 375023.99,
-      "cost": 329480.04,
-      "transactions": 3548,
+      "revenue": 375248.99,
+      "cost": 329662.45,
+      "transactions": 3550,
       "gp_pct": 12.1
     }
   ],
@@ -35300,6 +35300,15 @@
       "amount": 100.0,
       "gp_pct": 23.3,
       "points": 2,
+      "cashier": "Nwabisa"
+    },
+    {
+      "number": 517379,
+      "date": "2026-06-26",
+      "desc": "Chicken Wings (sauce)",
+      "amount": 80.0,
+      "gp_pct": 21.1,
+      "points": 1,
       "cashier": "Nwabisa"
     }
   ],
