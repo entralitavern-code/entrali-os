@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-25T12:57:23.993221",
+    "generated_at": "2026-06-25T13:03:53.971214",
     "generated_date": "2026-06-25",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-25",
-    "revenue": 5479.0,
-    "cost": 5437.21,
-    "gp_pct": 0.8,
-    "transactions": 23,
-    "vs_yesterday": -5163.88
+    "revenue": 5934.0,
+    "cost": 5605.88,
+    "gp_pct": 5.5,
+    "transactions": 26,
+    "vs_yesterday": -4708.88
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 557979.85,
-    "cost": 507997.36,
+    "revenue": 558434.85,
+    "cost": 508166.03,
     "gp_pct": 9.0,
-    "transactions": 5390,
+    "transactions": 5393,
     "days_elapsed": 25
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-25",
-      "revenue": 5479.0,
-      "cost": 5437.21,
-      "transactions": 23,
-      "gp_pct": 0.8
+      "revenue": 5934.0,
+      "cost": 5605.88,
+      "transactions": 26,
+      "gp_pct": 5.5
     }
   ],
   "hourly_today": [
@@ -592,18 +592,18 @@
     {
       "hour": 12,
       "label": "12:00",
-      "revenue": 925.0,
-      "cost": 783.3,
-      "gp_pct": 15.3,
-      "transactions": 7
+      "revenue": 1175.0,
+      "cost": 1000.22,
+      "gp_pct": 14.9,
+      "transactions": 8
     },
     {
       "hour": 13,
       "label": "13:00",
-      "revenue": 0.0,
-      "cost": 0.0,
-      "gp_pct": 0.0,
-      "transactions": 0
+      "revenue": 205.0,
+      "cost": 168.67,
+      "gp_pct": 17.7,
+      "transactions": 2
     },
     {
       "hour": 14,
@@ -692,8 +692,8 @@
       "desc": "Carling Black Label 750ml",
       "price": 25.0,
       "gp_pct": 24.3,
-      "revenue": 184888.37,
-      "qty_sold": 8524.0
+      "revenue": 184913.37,
+      "qty_sold": 8525.0
     },
     {
       "internal": 171,
@@ -756,8 +756,8 @@
       "desc": "4th Street Sweet Red 5L",
       "price": 180.0,
       "gp_pct": 16.8,
-      "revenue": 18000.0,
-      "qty_sold": 100.0
+      "revenue": 18180.0,
+      "qty_sold": 101.0
     },
     {
       "internal": 231,
@@ -851,9 +851,9 @@
   "cashier_summary": [
     {
       "cashier": "Thabiso",
-      "revenue": 410470.4,
-      "cost": 378974.84,
-      "transactions": 3911,
+      "revenue": 410925.4,
+      "cost": 379143.51,
+      "transactions": 3914,
       "gp_pct": 7.7
     },
     {
