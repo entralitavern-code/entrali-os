@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-25T16:20:37.994662",
+    "generated_at": "2026-06-25T16:27:15.061732",
     "generated_date": "2026-06-25",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-25",
-    "revenue": 14166.0,
-    "cost": 13359.24,
+    "revenue": 14176.0,
+    "cost": 13367.23,
     "gp_pct": 5.7,
-    "transactions": 84,
-    "vs_yesterday": 3523.12
+    "transactions": 85,
+    "vs_yesterday": 3533.12
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 566666.85,
-    "cost": 515919.39,
+    "revenue": 566676.85,
+    "cost": 515927.38,
     "gp_pct": 9.0,
-    "transactions": 5451,
+    "transactions": 5452,
     "days_elapsed": 25
   },
   "latest_cashup": {
@@ -486,9 +486,9 @@
     },
     {
       "date": "2026-06-25",
-      "revenue": 14166.0,
-      "cost": 13359.24,
-      "transactions": 84,
+      "revenue": 14176.0,
+      "cost": 13367.23,
+      "transactions": 85,
       "gp_pct": 5.7
     }
   ],
@@ -624,10 +624,10 @@
     {
       "hour": 16,
       "label": "16:00",
-      "revenue": 706.0,
-      "cost": 635.07,
-      "gp_pct": 10.0,
-      "transactions": 9
+      "revenue": 716.0,
+      "cost": 643.06,
+      "gp_pct": 10.2,
+      "transactions": 10
     },
     {
       "hour": 17,
@@ -851,9 +851,9 @@
   "cashier_summary": [
     {
       "cashier": "Thabiso",
-      "revenue": 419157.4,
-      "cost": 386896.87,
-      "transactions": 3972,
+      "revenue": 419167.4,
+      "cost": 386904.86,
+      "transactions": 3973,
       "gp_pct": 7.7
     },
     {
@@ -1094,6 +1094,25 @@
       "alert": "OUT OF STOCK"
     },
     {
+      "internal": 399,
+      "part_no": "4061",
+      "desc": "Drinking Glass Zombie",
+      "group": "10",
+      "price": 10.0,
+      "cost": 7.99,
+      "gp_pct": 20.1,
+      "qty": -45.0,
+      "minimum": 0.0,
+      "maximum": 0.0,
+      "on_promo": false,
+      "promo_price": null,
+      "days_since_sold": 0,
+      "lastsold": "2026-06-25",
+      "lastbuy": "2025-12-26",
+      "loyalty_eligible": true,
+      "alert": "OUT OF STOCK"
+    },
+    {
       "internal": 512,
       "part_no": "1712",
       "desc": "Jameson 25ml",
@@ -1110,25 +1129,6 @@
       "lastsold": "2026-06-14",
       "lastbuy": null,
       "loyalty_eligible": false,
-      "alert": "OUT OF STOCK"
-    },
-    {
-      "internal": 399,
-      "part_no": "4061",
-      "desc": "Drinking Glass Zombie",
-      "group": "10",
-      "price": 10.0,
-      "cost": 7.99,
-      "gp_pct": 20.1,
-      "qty": -44.0,
-      "minimum": 0.0,
-      "maximum": 0.0,
-      "on_promo": false,
-      "promo_price": null,
-      "days_since_sold": 0,
-      "lastsold": "2026-06-25",
-      "lastbuy": "2025-12-26",
-      "loyalty_eligible": true,
       "alert": "OUT OF STOCK"
     },
     {
