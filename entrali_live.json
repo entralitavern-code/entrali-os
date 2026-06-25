@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-25T20:01:54.354726",
+    "generated_at": "2026-06-25T20:08:15.506158",
     "generated_date": "2026-06-25",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-25",
-    "revenue": 21547.5,
-    "cost": 20019.49,
-    "gp_pct": 7.1,
-    "transactions": 150,
-    "vs_yesterday": 10904.62
+    "revenue": 21737.5,
+    "cost": 20174.96,
+    "gp_pct": 7.2,
+    "transactions": 153,
+    "vs_yesterday": 11094.62
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 574048.35,
-    "cost": 522579.64,
+    "revenue": 574238.35,
+    "cost": 522735.11,
     "gp_pct": 9.0,
-    "transactions": 5517,
+    "transactions": 5520,
     "days_elapsed": 25
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-25",
-      "revenue": 21547.5,
-      "cost": 20019.49,
-      "transactions": 150,
-      "gp_pct": 7.1
+      "revenue": 21737.5,
+      "cost": 20174.96,
+      "transactions": 153,
+      "gp_pct": 7.2
     }
   ],
   "hourly_today": [
@@ -656,10 +656,10 @@
     {
       "hour": 20,
       "label": "20:00",
-      "revenue": 0.0,
-      "cost": 0.0,
-      "gp_pct": 0.0,
-      "transactions": 0
+      "revenue": 190.0,
+      "cost": 155.47,
+      "gp_pct": 18.2,
+      "transactions": 3
     },
     {
       "hour": 21,
@@ -692,16 +692,16 @@
       "desc": "Carling Black Label 750ml",
       "price": 25.0,
       "gp_pct": 24.3,
-      "revenue": 189442.37,
-      "qty_sold": 8742.0
+      "revenue": 189467.37,
+      "qty_sold": 8743.0
     },
     {
       "internal": 171,
       "desc": "Paarl Perle' 1L",
       "price": 45.0,
       "gp_pct": 21.9,
-      "revenue": 69980.5,
-      "qty_sold": 1750.0
+      "revenue": 70025.5,
+      "qty_sold": 1751.0
     },
     {
       "internal": 188,
@@ -716,8 +716,8 @@
       "desc": "Paarl Perle' 2L",
       "price": 75.0,
       "gp_pct": 13.0,
-      "revenue": 35765.86,
-      "qty_sold": 482.0
+      "revenue": 35840.86,
+      "qty_sold": 483.0
     },
     {
       "internal": 204,
@@ -844,8 +844,8 @@
       "desc": "Castle Lager 750ml",
       "price": 20.0,
       "gp_pct": 17.1,
-      "revenue": 9891.57,
-      "qty_sold": 495.0
+      "revenue": 9911.57,
+      "qty_sold": 496.0
     }
   ],
   "cashier_summary": [
@@ -858,9 +858,9 @@
     },
     {
       "cashier": "Nwabisa",
-      "revenue": 376475.99,
-      "cost": 330549.63,
-      "transactions": 3565,
+      "revenue": 376665.99,
+      "cost": 330705.1,
+      "transactions": 3568,
       "gp_pct": 12.2
     }
   ],
