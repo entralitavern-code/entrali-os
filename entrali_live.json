@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-25T14:21:45.906987",
+    "generated_at": "2026-06-25T14:28:20.737364",
     "generated_date": "2026-06-25",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-25",
-    "revenue": 9148.0,
-    "cost": 8756.47,
-    "gp_pct": 4.3,
-    "transactions": 43,
-    "vs_yesterday": -1494.88
+    "revenue": 9448.0,
+    "cost": 8834.47,
+    "gp_pct": 6.5,
+    "transactions": 46,
+    "vs_yesterday": -1194.88
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 561648.85,
-    "cost": 511316.63,
+    "revenue": 561948.85,
+    "cost": 511394.62,
     "gp_pct": 9.0,
-    "transactions": 5410,
+    "transactions": 5413,
     "days_elapsed": 25
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-25",
-      "revenue": 9148.0,
-      "cost": 8756.47,
-      "transactions": 43,
-      "gp_pct": 4.3
+      "revenue": 9448.0,
+      "cost": 8834.47,
+      "transactions": 46,
+      "gp_pct": 6.5
     }
   ],
   "hourly_today": [
@@ -608,10 +608,10 @@
     {
       "hour": 14,
       "label": "14:00",
-      "revenue": 1239.0,
-      "cost": 1127.64,
-      "gp_pct": 9.0,
-      "transactions": 4
+      "revenue": 1539.0,
+      "cost": 1386.72,
+      "gp_pct": 9.9,
+      "transactions": 7
     },
     {
       "hour": 15,
@@ -764,8 +764,8 @@
       "desc": "Heineken 650ml",
       "price": 25.0,
       "gp_pct": 10.3,
-      "revenue": 16825.0,
-      "qty_sold": 673.0
+      "revenue": 16875.0,
+      "qty_sold": 675.0
     },
     {
       "internal": 169,
@@ -851,9 +851,9 @@
   "cashier_summary": [
     {
       "cashier": "Thabiso",
-      "revenue": 414139.4,
-      "cost": 382294.11,
-      "transactions": 3931,
+      "revenue": 414439.4,
+      "cost": 382372.1,
+      "transactions": 3934,
       "gp_pct": 7.7
     },
     {
