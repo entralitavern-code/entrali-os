@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-25T22:30:44.728199",
+    "generated_at": "2026-06-25T22:43:18.888695",
     "generated_date": "2026-06-25",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-25",
-    "revenue": 25622.5,
-    "cost": 23448.11,
-    "gp_pct": 8.5,
-    "transactions": 196,
-    "vs_yesterday": 14979.62
+    "revenue": 25751.5,
+    "cost": 23587.02,
+    "gp_pct": 8.4,
+    "transactions": 200,
+    "vs_yesterday": 15108.62
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 578123.35,
-    "cost": 526008.26,
+    "revenue": 578252.35,
+    "cost": 526147.17,
     "gp_pct": 9.0,
-    "transactions": 5563,
+    "transactions": 5567,
     "days_elapsed": 25
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-25",
-      "revenue": 25622.5,
-      "cost": 23448.11,
-      "transactions": 196,
-      "gp_pct": 8.5
+      "revenue": 25751.5,
+      "cost": 23587.02,
+      "transactions": 200,
+      "gp_pct": 8.4
     }
   ],
   "hourly_today": [
@@ -672,10 +672,10 @@
     {
       "hour": 22,
       "label": "22:00",
-      "revenue": 609.0,
-      "cost": 470.6,
-      "gp_pct": 22.7,
-      "transactions": 9
+      "revenue": 738.0,
+      "cost": 572.59,
+      "gp_pct": 22.4,
+      "transactions": 13
     },
     {
       "hour": 23,
@@ -692,16 +692,16 @@
       "desc": "Carling Black Label 750ml",
       "price": 25.0,
       "gp_pct": 24.3,
-      "revenue": 189817.37,
-      "qty_sold": 8757.0
+      "revenue": 189867.37,
+      "qty_sold": 8759.0
     },
     {
       "internal": 171,
       "desc": "Paarl Perle' 1L",
       "price": 45.0,
       "gp_pct": 21.9,
-      "revenue": 70160.5,
-      "qty_sold": 1754.0
+      "revenue": 70205.5,
+      "qty_sold": 1755.0
     },
     {
       "internal": 188,
@@ -796,8 +796,8 @@
       "desc": "Sedgwicks Old Brown Sherry 1L",
       "price": 75.0,
       "gp_pct": 16.8,
-      "revenue": 12505.0,
-      "qty_sold": 169.0
+      "revenue": 12580.0,
+      "qty_sold": 170.0
     },
     {
       "internal": 712,
@@ -858,9 +858,9 @@
     },
     {
       "cashier": "Nwabisa",
-      "revenue": 380550.99,
-      "cost": 333978.25,
-      "transactions": 3611,
+      "revenue": 380679.99,
+      "cost": 334117.16,
+      "transactions": 3615,
       "gp_pct": 12.2
     }
   ],
