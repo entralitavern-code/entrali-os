@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-25T23:15:46.044308",
+    "generated_at": "2026-06-25T23:42:51.457612",
     "generated_date": "2026-06-25",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-25",
-    "revenue": 26405.5,
-    "cost": 24104.79,
+    "revenue": 26555.5,
+    "cost": 24234.6,
     "gp_pct": 8.7,
-    "transactions": 210,
-    "vs_yesterday": 15762.62
+    "transactions": 212,
+    "vs_yesterday": 15912.62
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 578906.35,
-    "cost": 526664.95,
+    "revenue": 579056.35,
+    "cost": 526794.75,
     "gp_pct": 9.0,
-    "transactions": 5577,
+    "transactions": 5579,
     "days_elapsed": 25
   },
   "latest_cashup": {
@@ -486,9 +486,9 @@
     },
     {
       "date": "2026-06-25",
-      "revenue": 26405.5,
-      "cost": 24104.79,
-      "transactions": 210,
+      "revenue": 26555.5,
+      "cost": 24234.6,
+      "transactions": 212,
       "gp_pct": 8.7
     }
   ],
@@ -680,10 +680,10 @@
     {
       "hour": 23,
       "label": "23:00",
-      "revenue": 305.0,
-      "cost": 249.74,
-      "gp_pct": 18.1,
-      "transactions": 6
+      "revenue": 455.0,
+      "cost": 379.54,
+      "gp_pct": 16.6,
+      "transactions": 8
     }
   ],
   "top_products": [
@@ -716,8 +716,8 @@
       "desc": "Paarl Perle' 2L",
       "price": 75.0,
       "gp_pct": 13.0,
-      "revenue": 35915.86,
-      "qty_sold": 484.0
+      "revenue": 35990.86,
+      "qty_sold": 485.0
     },
     {
       "internal": 204,
@@ -772,8 +772,8 @@
       "desc": "Redd's Original 660ml",
       "price": 25.0,
       "gp_pct": 17.0,
-      "revenue": 15098.0,
-      "qty_sold": 632.0
+      "revenue": 15123.0,
+      "qty_sold": 633.0
     },
     {
       "internal": 200,
@@ -858,9 +858,9 @@
     },
     {
       "cashier": "Nwabisa",
-      "revenue": 381333.99,
-      "cost": 334634.93,
-      "transactions": 3625,
+      "revenue": 381483.99,
+      "cost": 334764.73,
+      "transactions": 3627,
       "gp_pct": 12.2
     }
   ],
