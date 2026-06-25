@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-25T22:04:51.405402",
+    "generated_at": "2026-06-25T22:11:18.131372",
     "generated_date": "2026-06-25",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-25",
-    "revenue": 25013.5,
-    "cost": 22977.51,
-    "gp_pct": 8.1,
-    "transactions": 187,
-    "vs_yesterday": 14370.62
+    "revenue": 25213.5,
+    "cost": 23143.93,
+    "gp_pct": 8.2,
+    "transactions": 188,
+    "vs_yesterday": 14570.62
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 577514.35,
-    "cost": 525537.66,
+    "revenue": 577714.35,
+    "cost": 525704.08,
     "gp_pct": 9.0,
-    "transactions": 5554,
+    "transactions": 5555,
     "days_elapsed": 25
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-25",
-      "revenue": 25013.5,
-      "cost": 22977.51,
-      "transactions": 187,
-      "gp_pct": 8.1
+      "revenue": 25213.5,
+      "cost": 23143.93,
+      "transactions": 188,
+      "gp_pct": 8.2
     }
   ],
   "hourly_today": [
@@ -672,10 +672,10 @@
     {
       "hour": 22,
       "label": "22:00",
-      "revenue": 0.0,
-      "cost": 0.0,
-      "gp_pct": 0.0,
-      "transactions": 0
+      "revenue": 200.0,
+      "cost": 166.42,
+      "gp_pct": 16.8,
+      "transactions": 1
     },
     {
       "hour": 23,
@@ -756,8 +756,8 @@
       "desc": "4th Street Sweet Red 5L",
       "price": 180.0,
       "gp_pct": 16.8,
-      "revenue": 18360.0,
-      "qty_sold": 102.0
+      "revenue": 18540.0,
+      "qty_sold": 103.0
     },
     {
       "internal": 231,
@@ -858,9 +858,9 @@
     },
     {
       "cashier": "Nwabisa",
-      "revenue": 379941.99,
-      "cost": 333507.65,
-      "transactions": 3602,
+      "revenue": 380141.99,
+      "cost": 333674.07,
+      "transactions": 3603,
       "gp_pct": 12.2
     }
   ],
