@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-25T16:00:49.974720",
+    "generated_at": "2026-06-25T16:13:54.485706",
     "generated_date": "2026-06-25",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-25",
-    "revenue": 13460.0,
-    "cost": 12724.17,
-    "gp_pct": 5.5,
-    "transactions": 75,
-    "vs_yesterday": 2817.12
+    "revenue": 14166.0,
+    "cost": 13359.24,
+    "gp_pct": 5.7,
+    "transactions": 84,
+    "vs_yesterday": 3523.12
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 565960.85,
-    "cost": 515284.32,
+    "revenue": 566666.85,
+    "cost": 515919.39,
     "gp_pct": 9.0,
-    "transactions": 5442,
+    "transactions": 5451,
     "days_elapsed": 25
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-25",
-      "revenue": 13460.0,
-      "cost": 12724.17,
-      "transactions": 75,
-      "gp_pct": 5.5
+      "revenue": 14166.0,
+      "cost": 13359.24,
+      "transactions": 84,
+      "gp_pct": 5.7
     }
   ],
   "hourly_today": [
@@ -624,10 +624,10 @@
     {
       "hour": 16,
       "label": "16:00",
-      "revenue": 0.0,
-      "cost": 0.0,
-      "gp_pct": 0.0,
-      "transactions": 0
+      "revenue": 706.0,
+      "cost": 635.07,
+      "gp_pct": 10.0,
+      "transactions": 9
     },
     {
       "hour": 17,
@@ -692,16 +692,16 @@
       "desc": "Carling Black Label 750ml",
       "price": 25.0,
       "gp_pct": 24.3,
-      "revenue": 187991.37,
-      "qty_sold": 8675.0
+      "revenue": 188235.37,
+      "qty_sold": 8687.0
     },
     {
       "internal": 171,
       "desc": "Paarl Perle' 1L",
       "price": 45.0,
       "gp_pct": 21.9,
-      "revenue": 68818.0,
-      "qty_sold": 1720.0
+      "revenue": 68863.0,
+      "qty_sold": 1721.0
     },
     {
       "internal": 188,
@@ -716,8 +716,8 @@
       "desc": "Paarl Perle' 2L",
       "price": 75.0,
       "gp_pct": 13.0,
-      "revenue": 35240.86,
-      "qty_sold": 475.0
+      "revenue": 35315.86,
+      "qty_sold": 476.0
     },
     {
       "internal": 204,
@@ -748,8 +748,8 @@
       "desc": "Savanna Dry 500ml",
       "price": 25.0,
       "gp_pct": 13.3,
-      "revenue": 19050.0,
-      "qty_sold": 762.0
+      "revenue": 19075.0,
+      "qty_sold": 763.0
     },
     {
       "internal": 238,
@@ -804,8 +804,8 @@
       "desc": "Bernini Mimosa 500ml",
       "price": 25.0,
       "gp_pct": 33.4,
-      "revenue": 11635.0,
-      "qty_sold": 595.0
+      "revenue": 11755.0,
+      "qty_sold": 601.0
     },
     {
       "internal": 266,
@@ -840,20 +840,20 @@
       "qty_sold": 495.0
     },
     {
-      "internal": 18,
-      "desc": "Castle Lite 660ml",
-      "price": 25.0,
-      "gp_pct": 19.0,
-      "revenue": 9750.0,
-      "qty_sold": 390.0
+      "internal": 134,
+      "desc": "Castle Lager 750ml",
+      "price": 20.0,
+      "gp_pct": 17.1,
+      "revenue": 9771.57,
+      "qty_sold": 489.0
     }
   ],
   "cashier_summary": [
     {
       "cashier": "Thabiso",
-      "revenue": 418451.4,
-      "cost": 386261.8,
-      "transactions": 3963,
+      "revenue": 419157.4,
+      "cost": 386896.87,
+      "transactions": 3972,
       "gp_pct": 7.7
     },
     {
@@ -968,13 +968,13 @@
       "price": -1.0,
       "cost": -2.0,
       "gp_pct": 0.0,
-      "qty": -651.0,
+      "qty": -655.0,
       "minimum": 0.0,
       "maximum": 0.0,
       "on_promo": false,
       "promo_price": null,
-      "days_since_sold": 1,
-      "lastsold": "2026-06-24",
+      "days_since_sold": 0,
+      "lastsold": "2026-06-25",
       "lastbuy": null,
       "loyalty_eligible": false,
       "alert": "OUT OF STOCK"
@@ -1120,13 +1120,13 @@
       "price": 10.0,
       "cost": 7.99,
       "gp_pct": 20.1,
-      "qty": -42.0,
+      "qty": -44.0,
       "minimum": 0.0,
       "maximum": 0.0,
       "on_promo": false,
       "promo_price": null,
-      "days_since_sold": 2,
-      "lastsold": "2026-06-23",
+      "days_since_sold": 0,
+      "lastsold": "2026-06-25",
       "lastbuy": "2025-12-26",
       "loyalty_eligible": true,
       "alert": "OUT OF STOCK"
@@ -1139,7 +1139,7 @@
       "price": 90.0,
       "cost": 80.93,
       "gp_pct": 10.1,
-      "qty": -42.0,
+      "qty": -43.0,
       "minimum": 0.0,
       "maximum": 0.0,
       "on_promo": false,
@@ -35307,6 +35307,33 @@
       "desc": "Carling Black Label 750ml",
       "amount": 50.0,
       "gp_pct": 24.3,
+      "points": 1,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 517235,
+      "date": "2026-06-25",
+      "desc": "Bernini Mimosa 500ml",
+      "amount": 120.0,
+      "gp_pct": 33.4,
+      "points": 2,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 517237,
+      "date": "2026-06-25",
+      "desc": "Carling Black Label 750ml",
+      "amount": 244.0,
+      "gp_pct": 24.3,
+      "points": 4,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 517238,
+      "date": "2026-06-25",
+      "desc": "Redd's Dry 660ml",
+      "amount": 75.0,
+      "gp_pct": 25.3,
       "points": 1,
       "cashier": "Thabiso"
     }
