@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-25T23:42:51.457612",
+    "generated_at": "2026-06-25T23:49:34.439713",
     "generated_date": "2026-06-25",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-25",
-    "revenue": 26555.5,
-    "cost": 24234.6,
+    "revenue": 26755.5,
+    "cost": 24416.26,
     "gp_pct": 8.7,
-    "transactions": 212,
-    "vs_yesterday": 15912.62
+    "transactions": 214,
+    "vs_yesterday": 16112.62
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 579056.35,
-    "cost": 526794.75,
+    "revenue": 579256.35,
+    "cost": 526976.41,
     "gp_pct": 9.0,
-    "transactions": 5579,
+    "transactions": 5581,
     "days_elapsed": 25
   },
   "latest_cashup": {
@@ -486,9 +486,9 @@
     },
     {
       "date": "2026-06-25",
-      "revenue": 26555.5,
-      "cost": 24234.6,
-      "transactions": 212,
+      "revenue": 26755.5,
+      "cost": 24416.26,
+      "transactions": 214,
       "gp_pct": 8.7
     }
   ],
@@ -680,10 +680,10 @@
     {
       "hour": 23,
       "label": "23:00",
-      "revenue": 455.0,
-      "cost": 379.54,
-      "gp_pct": 16.6,
-      "transactions": 8
+      "revenue": 655.0,
+      "cost": 561.2,
+      "gp_pct": 14.3,
+      "transactions": 10
     }
   ],
   "top_products": [
@@ -708,8 +708,8 @@
       "desc": "Sedgwicks Old Brown Sherry 750ml",
       "price": 60.0,
       "gp_pct": 23.3,
-      "revenue": 40239.97,
-      "qty_sold": 764.0
+      "revenue": 40339.97,
+      "qty_sold": 766.0
     },
     {
       "internal": 172,
@@ -764,8 +764,8 @@
       "desc": "Heineken 650ml",
       "price": 25.0,
       "gp_pct": 10.3,
-      "revenue": 17475.0,
-      "qty_sold": 699.0
+      "revenue": 17575.0,
+      "qty_sold": 703.0
     },
     {
       "internal": 169,
@@ -858,9 +858,9 @@
     },
     {
       "cashier": "Nwabisa",
-      "revenue": 381483.99,
-      "cost": 334764.73,
-      "transactions": 3627,
+      "revenue": 381683.99,
+      "cost": 334946.4,
+      "transactions": 3629,
       "gp_pct": 12.2
     }
   ],
@@ -35758,6 +35758,15 @@
       "desc": "Pork Chops",
       "amount": 100.0,
       "gp_pct": 39.4,
+      "points": 2,
+      "cashier": "Nwabisa"
+    },
+    {
+      "number": 517370,
+      "date": "2026-06-25",
+      "desc": "Sedgwicks Old Brown Sherry 750ml",
+      "amount": 100.0,
+      "gp_pct": 23.3,
       "points": 2,
       "cashier": "Nwabisa"
     }
