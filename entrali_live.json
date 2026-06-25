@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-25T13:03:53.971214",
+    "generated_at": "2026-06-25T13:10:22.689386",
     "generated_date": "2026-06-25",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-25",
-    "revenue": 5934.0,
-    "cost": 5605.88,
-    "gp_pct": 5.5,
-    "transactions": 26,
-    "vs_yesterday": -4708.88
+    "revenue": 5959.0,
+    "cost": 6049.79,
+    "gp_pct": -1.5,
+    "transactions": 27,
+    "vs_yesterday": -4683.88
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 558434.85,
-    "cost": 508166.03,
-    "gp_pct": 9.0,
-    "transactions": 5393,
+    "revenue": 558459.85,
+    "cost": 508609.95,
+    "gp_pct": 8.9,
+    "transactions": 5394,
     "days_elapsed": 25
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-25",
-      "revenue": 5934.0,
-      "cost": 5605.88,
-      "transactions": 26,
-      "gp_pct": 5.5
+      "revenue": 5959.0,
+      "cost": 6049.79,
+      "transactions": 27,
+      "gp_pct": -1.5
     }
   ],
   "hourly_today": [
@@ -600,10 +600,10 @@
     {
       "hour": 13,
       "label": "13:00",
-      "revenue": 205.0,
-      "cost": 168.67,
-      "gp_pct": 17.7,
-      "transactions": 2
+      "revenue": 230.0,
+      "cost": 190.58,
+      "gp_pct": 17.1,
+      "transactions": 3
     },
     {
       "hour": 14,
@@ -700,8 +700,8 @@
       "desc": "Paarl Perle' 1L",
       "price": 45.0,
       "gp_pct": 21.9,
-      "revenue": 67828.0,
-      "qty_sold": 1694.0
+      "revenue": 68278.0,
+      "qty_sold": 1706.0
     },
     {
       "internal": 188,
@@ -851,10 +851,10 @@
   "cashier_summary": [
     {
       "cashier": "Thabiso",
-      "revenue": 410925.4,
-      "cost": 379143.51,
-      "transactions": 3914,
-      "gp_pct": 7.7
+      "revenue": 410950.4,
+      "cost": 379587.43,
+      "transactions": 3915,
+      "gp_pct": 7.6
     },
     {
       "cashier": "Nwabisa",
@@ -35128,6 +35128,15 @@
       "amount": 50.0,
       "gp_pct": 24.3,
       "points": 1,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 517185,
+      "date": "2026-06-25",
+      "desc": "Paarl Perle' 1L",
+      "amount": 450.0,
+      "gp_pct": 21.9,
+      "points": 9,
       "cashier": "Thabiso"
     }
   ],
