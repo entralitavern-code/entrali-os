@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-25T15:54:23.443284",
+    "generated_at": "2026-06-25T16:00:49.974720",
     "generated_date": "2026-06-25",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-25",
-    "revenue": 13178.0,
-    "cost": 12481.4,
-    "gp_pct": 5.3,
-    "transactions": 71,
-    "vs_yesterday": 2535.12
+    "revenue": 13460.0,
+    "cost": 12724.17,
+    "gp_pct": 5.5,
+    "transactions": 75,
+    "vs_yesterday": 2817.12
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 565678.85,
-    "cost": 515041.55,
+    "revenue": 565960.85,
+    "cost": 515284.32,
     "gp_pct": 9.0,
-    "transactions": 5438,
+    "transactions": 5442,
     "days_elapsed": 25
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-25",
-      "revenue": 13178.0,
-      "cost": 12481.4,
-      "transactions": 71,
-      "gp_pct": 5.3
+      "revenue": 13460.0,
+      "cost": 12724.17,
+      "transactions": 75,
+      "gp_pct": 5.5
     }
   ],
   "hourly_today": [
@@ -616,10 +616,10 @@
     {
       "hour": 15,
       "label": "15:00",
-      "revenue": 2400.0,
-      "cost": 2320.36,
-      "gp_pct": 3.3,
-      "transactions": 18
+      "revenue": 2682.0,
+      "cost": 2563.13,
+      "gp_pct": 4.4,
+      "transactions": 22
     },
     {
       "hour": 16,
@@ -700,8 +700,8 @@
       "desc": "Paarl Perle' 1L",
       "price": 45.0,
       "gp_pct": 21.9,
-      "revenue": 68773.0,
-      "qty_sold": 1719.0
+      "revenue": 68818.0,
+      "qty_sold": 1720.0
     },
     {
       "internal": 188,
@@ -716,8 +716,8 @@
       "desc": "Paarl Perle' 2L",
       "price": 75.0,
       "gp_pct": 13.0,
-      "revenue": 35165.86,
-      "qty_sold": 474.0
+      "revenue": 35240.86,
+      "qty_sold": 475.0
     },
     {
       "internal": 204,
@@ -851,9 +851,9 @@
   "cashier_summary": [
     {
       "cashier": "Thabiso",
-      "revenue": 418169.4,
-      "cost": 386019.03,
-      "transactions": 3959,
+      "revenue": 418451.4,
+      "cost": 386261.8,
+      "transactions": 3963,
       "gp_pct": 7.7
     },
     {
@@ -1139,7 +1139,7 @@
       "price": 90.0,
       "cost": 80.93,
       "gp_pct": 10.1,
-      "qty": -41.0,
+      "qty": -42.0,
       "minimum": 0.0,
       "maximum": 0.0,
       "on_promo": false,
