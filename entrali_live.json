@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-25T12:18:24.335825",
+    "generated_at": "2026-06-25T12:24:52.014766",
     "generated_date": "2026-06-25",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-25",
-    "revenue": 4854.0,
-    "cost": 4684.83,
-    "gp_pct": 3.5,
-    "transactions": 17,
-    "vs_yesterday": -5788.88
+    "revenue": 5089.0,
+    "cost": 4872.15,
+    "gp_pct": 4.3,
+    "transactions": 19,
+    "vs_yesterday": -5553.88
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 557354.85,
-    "cost": 507244.98,
+    "revenue": 557589.85,
+    "cost": 507432.3,
     "gp_pct": 9.0,
-    "transactions": 5384,
+    "transactions": 5386,
     "days_elapsed": 25
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-25",
-      "revenue": 4854.0,
-      "cost": 4684.83,
-      "transactions": 17,
-      "gp_pct": 3.5
+      "revenue": 5089.0,
+      "cost": 4872.15,
+      "transactions": 19,
+      "gp_pct": 4.3
     }
   ],
   "hourly_today": [
@@ -592,10 +592,10 @@
     {
       "hour": 12,
       "label": "12:00",
-      "revenue": 300.0,
-      "cost": 247.83,
-      "gp_pct": 17.4,
-      "transactions": 1
+      "revenue": 535.0,
+      "cost": 435.15,
+      "gp_pct": 18.7,
+      "transactions": 3
     },
     {
       "hour": 13,
@@ -808,20 +808,20 @@
       "qty_sold": 153.0
     },
     {
-      "internal": 266,
-      "desc": "Pork Chops",
-      "price": 40.0,
-      "gp_pct": 39.4,
-      "revenue": 10955.0,
-      "qty_sold": 312.0
-    },
-    {
       "internal": 271,
       "desc": "Braaiwors",
       "price": 35.0,
       "gp_pct": 28.6,
-      "revenue": 10915.0,
-      "qty_sold": 348.0
+      "revenue": 11035.0,
+      "qty_sold": 352.0
+    },
+    {
+      "internal": 266,
+      "desc": "Pork Chops",
+      "price": 40.0,
+      "gp_pct": 39.4,
+      "revenue": 11025.0,
+      "qty_sold": 314.0
     },
     {
       "internal": 599,
@@ -851,9 +851,9 @@
   "cashier_summary": [
     {
       "cashier": "Thabiso",
-      "revenue": 409845.4,
-      "cost": 378222.46,
-      "transactions": 3905,
+      "revenue": 410080.4,
+      "cost": 378409.78,
+      "transactions": 3907,
       "gp_pct": 7.7
     },
     {
@@ -35073,6 +35073,33 @@
       "desc": "Commando Brandy 200ml",
       "amount": 70.0,
       "gp_pct": 19.8,
+      "points": 1,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 517175,
+      "date": "2026-06-25",
+      "desc": "Pork Chops",
+      "amount": 70.0,
+      "gp_pct": 39.4,
+      "points": 1,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 517175,
+      "date": "2026-06-25",
+      "desc": "Braaiwors",
+      "amount": 60.0,
+      "gp_pct": 28.6,
+      "points": 1,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 517176,
+      "date": "2026-06-25",
+      "desc": "Braaiwors",
+      "amount": 60.0,
+      "gp_pct": 28.6,
       "points": 1,
       "cashier": "Thabiso"
     }
