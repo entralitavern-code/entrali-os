@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-25T13:10:22.689386",
+    "generated_at": "2026-06-25T13:16:50.880744",
     "generated_date": "2026-06-25",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-25",
-    "revenue": 5959.0,
-    "cost": 6049.79,
-    "gp_pct": -1.5,
-    "transactions": 27,
-    "vs_yesterday": -4683.88
+    "revenue": 6639.0,
+    "cost": 6249.13,
+    "gp_pct": 5.9,
+    "transactions": 30,
+    "vs_yesterday": -4003.88
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 558459.85,
-    "cost": 508609.95,
-    "gp_pct": 8.9,
-    "transactions": 5394,
+    "revenue": 559139.85,
+    "cost": 508809.28,
+    "gp_pct": 9.0,
+    "transactions": 5397,
     "days_elapsed": 25
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-25",
-      "revenue": 5959.0,
-      "cost": 6049.79,
-      "transactions": 27,
-      "gp_pct": -1.5
+      "revenue": 6639.0,
+      "cost": 6249.13,
+      "transactions": 30,
+      "gp_pct": 5.9
     }
   ],
   "hourly_today": [
@@ -600,10 +600,10 @@
     {
       "hour": 13,
       "label": "13:00",
-      "revenue": 230.0,
-      "cost": 190.58,
-      "gp_pct": 17.1,
-      "transactions": 3
+      "revenue": 910.0,
+      "cost": 811.91,
+      "gp_pct": 10.8,
+      "transactions": 6
     },
     {
       "hour": 14,
@@ -692,8 +692,8 @@
       "desc": "Carling Black Label 750ml",
       "price": 25.0,
       "gp_pct": 24.3,
-      "revenue": 184913.37,
-      "qty_sold": 8525.0
+      "revenue": 184938.37,
+      "qty_sold": 8526.0
     },
     {
       "internal": 171,
@@ -740,8 +740,8 @@
       "desc": "4th Street Sweet L/H 5l",
       "price": 180.0,
       "gp_pct": 11.9,
-      "revenue": 21420.0,
-      "qty_sold": 119.0
+      "revenue": 21600.0,
+      "qty_sold": 120.0
     },
     {
       "internal": 161,
@@ -851,10 +851,10 @@
   "cashier_summary": [
     {
       "cashier": "Thabiso",
-      "revenue": 410950.4,
-      "cost": 379587.43,
-      "transactions": 3915,
-      "gp_pct": 7.6
+      "revenue": 411630.4,
+      "cost": 379786.76,
+      "transactions": 3918,
+      "gp_pct": 7.7
     },
     {
       "cashier": "Nwabisa",
