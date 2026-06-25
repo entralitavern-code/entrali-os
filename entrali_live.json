@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-25T08:52:57.447916",
+    "generated_at": "2026-06-25T08:59:18.769113",
     "generated_date": "2026-06-25",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-25",
-    "revenue": 295.0,
-    "cost": 292.21,
-    "gp_pct": 0.9,
-    "transactions": 2,
-    "vs_yesterday": -10347.88
+    "revenue": 305.0,
+    "cost": 299.82,
+    "gp_pct": 1.7,
+    "transactions": 3,
+    "vs_yesterday": -10337.88
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 552795.85,
-    "cost": 502852.36,
+    "revenue": 552805.85,
+    "cost": 502859.97,
     "gp_pct": 9.0,
-    "transactions": 5369,
+    "transactions": 5370,
     "days_elapsed": 25
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-25",
-      "revenue": 295.0,
-      "cost": 292.21,
-      "transactions": 2,
-      "gp_pct": 0.9
+      "revenue": 305.0,
+      "cost": 299.82,
+      "transactions": 3,
+      "gp_pct": 1.7
     }
   ],
   "hourly_today": [
@@ -560,10 +560,10 @@
     {
       "hour": 8,
       "label": "08:00",
-      "revenue": 295.0,
-      "cost": 292.21,
-      "gp_pct": 0.9,
-      "transactions": 2
+      "revenue": 305.0,
+      "cost": 299.82,
+      "gp_pct": 1.7,
+      "transactions": 3
     },
     {
       "hour": 9,
@@ -851,9 +851,9 @@
   "cashier_summary": [
     {
       "cashier": "Thabiso",
-      "revenue": 405286.4,
-      "cost": 373829.84,
-      "transactions": 3890,
+      "revenue": 405296.4,
+      "cost": 373837.45,
+      "transactions": 3891,
       "gp_pct": 7.8
     },
     {
@@ -1044,13 +1044,13 @@
       "price": 10.0,
       "cost": 7.61,
       "gp_pct": 23.9,
-      "qty": -178.0,
+      "qty": -179.0,
       "minimum": 0.0,
       "maximum": 0.0,
       "on_promo": false,
       "promo_price": null,
-      "days_since_sold": 1,
-      "lastsold": "2026-06-24",
+      "days_since_sold": 0,
+      "lastsold": "2026-06-25",
       "lastbuy": null,
       "loyalty_eligible": true,
       "alert": "OUT OF STOCK"
