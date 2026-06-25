@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-25T23:02:39.313306",
+    "generated_at": "2026-06-25T23:09:11.058900",
     "generated_date": "2026-06-25",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-25",
-    "revenue": 26100.5,
-    "cost": 23855.06,
+    "revenue": 26335.5,
+    "cost": 24071.55,
     "gp_pct": 8.6,
-    "transactions": 204,
-    "vs_yesterday": 15457.62
+    "transactions": 208,
+    "vs_yesterday": 15692.62
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 578601.35,
-    "cost": 526415.21,
+    "revenue": 578836.35,
+    "cost": 526631.7,
     "gp_pct": 9.0,
-    "transactions": 5571,
+    "transactions": 5575,
     "days_elapsed": 25
   },
   "latest_cashup": {
@@ -486,9 +486,9 @@
     },
     {
       "date": "2026-06-25",
-      "revenue": 26100.5,
-      "cost": 23855.06,
-      "transactions": 204,
+      "revenue": 26335.5,
+      "cost": 24071.55,
+      "transactions": 208,
       "gp_pct": 8.6
     }
   ],
@@ -680,10 +680,10 @@
     {
       "hour": 23,
       "label": "23:00",
-      "revenue": 0.0,
-      "cost": 0.0,
-      "gp_pct": 0.0,
-      "transactions": 0
+      "revenue": 235.0,
+      "cost": 197.58,
+      "gp_pct": 15.9,
+      "transactions": 4
     }
   ],
   "top_products": [
@@ -692,8 +692,8 @@
       "desc": "Carling Black Label 750ml",
       "price": 25.0,
       "gp_pct": 24.3,
-      "revenue": 189867.37,
-      "qty_sold": 8759.0
+      "revenue": 189917.37,
+      "qty_sold": 8761.0
     },
     {
       "internal": 171,
@@ -716,8 +716,8 @@
       "desc": "Paarl Perle' 2L",
       "price": 75.0,
       "gp_pct": 13.0,
-      "revenue": 35840.86,
-      "qty_sold": 483.0
+      "revenue": 35915.86,
+      "qty_sold": 484.0
     },
     {
       "internal": 204,
@@ -764,8 +764,8 @@
       "desc": "Heineken 650ml",
       "price": 25.0,
       "gp_pct": 10.3,
-      "revenue": 17375.0,
-      "qty_sold": 695.0
+      "revenue": 17475.0,
+      "qty_sold": 699.0
     },
     {
       "internal": 169,
@@ -812,8 +812,8 @@
       "desc": "Bernini Mimosa 500ml",
       "price": 25.0,
       "gp_pct": 33.4,
-      "revenue": 11855.0,
-      "qty_sold": 605.0
+      "revenue": 11880.0,
+      "qty_sold": 606.0
     },
     {
       "internal": 271,
@@ -858,9 +858,9 @@
     },
     {
       "cashier": "Nwabisa",
-      "revenue": 381028.99,
-      "cost": 334385.2,
-      "transactions": 3619,
+      "revenue": 381263.99,
+      "cost": 334601.69,
+      "transactions": 3623,
       "gp_pct": 12.2
     }
   ],
