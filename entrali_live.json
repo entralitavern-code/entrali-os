@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-25T14:08:44.437265",
+    "generated_at": "2026-06-25T14:15:09.459332",
     "generated_date": "2026-06-25",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-25",
-    "revenue": 7954.0,
-    "cost": 7486.6,
-    "gp_pct": 5.9,
-    "transactions": 40,
-    "vs_yesterday": -2688.88
+    "revenue": 8989.0,
+    "cost": 8429.25,
+    "gp_pct": 6.2,
+    "transactions": 42,
+    "vs_yesterday": -1653.88
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 560454.85,
-    "cost": 510046.75,
+    "revenue": 561489.85,
+    "cost": 510989.4,
     "gp_pct": 9.0,
-    "transactions": 5407,
+    "transactions": 5409,
     "days_elapsed": 25
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-25",
-      "revenue": 7954.0,
-      "cost": 7486.6,
-      "transactions": 40,
-      "gp_pct": 5.9
+      "revenue": 8989.0,
+      "cost": 8429.25,
+      "transactions": 42,
+      "gp_pct": 6.2
     }
   ],
   "hourly_today": [
@@ -608,10 +608,10 @@
     {
       "hour": 14,
       "label": "14:00",
-      "revenue": 45.0,
-      "cost": 38.84,
-      "gp_pct": 13.7,
-      "transactions": 1
+      "revenue": 1080.0,
+      "cost": 981.49,
+      "gp_pct": 9.1,
+      "transactions": 3
     },
     {
       "hour": 15,
@@ -700,24 +700,24 @@
       "desc": "Paarl Perle' 1L",
       "price": 45.0,
       "gp_pct": 21.9,
-      "revenue": 68323.0,
-      "qty_sold": 1707.0
+      "revenue": 68773.0,
+      "qty_sold": 1719.0
     },
     {
       "internal": 188,
       "desc": "Sedgwicks Old Brown Sherry 750ml",
       "price": 60.0,
       "gp_pct": 23.3,
-      "revenue": 39139.97,
-      "qty_sold": 743.0
+      "revenue": 39239.97,
+      "qty_sold": 745.0
     },
     {
       "internal": 172,
       "desc": "Paarl Perle' 2L",
       "price": 75.0,
       "gp_pct": 13.0,
-      "revenue": 34655.86,
-      "qty_sold": 467.0
+      "revenue": 35090.86,
+      "qty_sold": 473.0
     },
     {
       "internal": 204,
@@ -851,9 +851,9 @@
   "cashier_summary": [
     {
       "cashier": "Thabiso",
-      "revenue": 412945.4,
-      "cost": 381024.23,
-      "transactions": 3928,
+      "revenue": 413980.4,
+      "cost": 381966.88,
+      "transactions": 3930,
       "gp_pct": 7.7
     },
     {
@@ -35182,6 +35182,33 @@
       "amount": 60.0,
       "gp_pct": 23.3,
       "points": 1,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 517198,
+      "date": "2026-06-25",
+      "desc": "Redd's Dry 660ml",
+      "amount": 50.0,
+      "gp_pct": 25.3,
+      "points": 1,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 517199,
+      "date": "2026-06-25",
+      "desc": "Paarl Perle' 1L",
+      "amount": 450.0,
+      "gp_pct": 21.9,
+      "points": 9,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 517199,
+      "date": "2026-06-25",
+      "desc": "Sedgwicks Old Brown Sherry 750ml",
+      "amount": 100.0,
+      "gp_pct": 23.3,
+      "points": 2,
       "cashier": "Thabiso"
     }
   ],
