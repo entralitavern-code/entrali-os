@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-25T12:37:54.206727",
+    "generated_at": "2026-06-25T12:44:20.109817",
     "generated_date": "2026-06-25",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-25",
-    "revenue": 5269.0,
-    "cost": 5034.01,
+    "revenue": 5419.0,
+    "cost": 5174.3,
     "gp_pct": 4.5,
-    "transactions": 20,
-    "vs_yesterday": -5373.88
+    "transactions": 22,
+    "vs_yesterday": -5223.88
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 557769.85,
-    "cost": 507594.16,
+    "revenue": 557919.85,
+    "cost": 507734.45,
     "gp_pct": 9.0,
-    "transactions": 5387,
+    "transactions": 5389,
     "days_elapsed": 25
   },
   "latest_cashup": {
@@ -486,9 +486,9 @@
     },
     {
       "date": "2026-06-25",
-      "revenue": 5269.0,
-      "cost": 5034.01,
-      "transactions": 20,
+      "revenue": 5419.0,
+      "cost": 5174.3,
+      "transactions": 22,
       "gp_pct": 4.5
     }
   ],
@@ -592,10 +592,10 @@
     {
       "hour": 12,
       "label": "12:00",
-      "revenue": 715.0,
-      "cost": 597.01,
-      "gp_pct": 16.5,
-      "transactions": 4
+      "revenue": 865.0,
+      "cost": 737.3,
+      "gp_pct": 14.8,
+      "transactions": 6
     },
     {
       "hour": 13,
@@ -748,8 +748,8 @@
       "desc": "Savanna Dry 500ml",
       "price": 25.0,
       "gp_pct": 13.3,
-      "revenue": 18850.0,
-      "qty_sold": 754.0
+      "revenue": 18900.0,
+      "qty_sold": 756.0
     },
     {
       "internal": 238,
@@ -808,20 +808,20 @@
       "qty_sold": 153.0
     },
     {
+      "internal": 266,
+      "desc": "Pork Chops",
+      "price": 40.0,
+      "gp_pct": 39.4,
+      "revenue": 11125.0,
+      "qty_sold": 318.0
+    },
+    {
       "internal": 271,
       "desc": "Braaiwors",
       "price": 35.0,
       "gp_pct": 28.6,
       "revenue": 11035.0,
       "qty_sold": 352.0
-    },
-    {
-      "internal": 266,
-      "desc": "Pork Chops",
-      "price": 40.0,
-      "gp_pct": 39.4,
-      "revenue": 11025.0,
-      "qty_sold": 314.0
     },
     {
       "internal": 599,
@@ -851,9 +851,9 @@
   "cashier_summary": [
     {
       "cashier": "Thabiso",
-      "revenue": 410260.4,
-      "cost": 378571.64,
-      "transactions": 3908,
+      "revenue": 410410.4,
+      "cost": 378711.93,
+      "transactions": 3910,
       "gp_pct": 7.7
     },
     {
@@ -35101,6 +35101,15 @@
       "amount": 60.0,
       "gp_pct": 28.6,
       "points": 1,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 517179,
+      "date": "2026-06-25",
+      "desc": "Pork Chops",
+      "amount": 100.0,
+      "gp_pct": 39.4,
+      "points": 2,
       "cashier": "Thabiso"
     }
   ],
