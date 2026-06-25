@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-25T21:51:56.176629",
+    "generated_at": "2026-06-25T21:58:25.982898",
     "generated_date": "2026-06-25",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-25",
-    "revenue": 24678.5,
-    "cost": 22691.44,
+    "revenue": 25013.5,
+    "cost": 22977.51,
     "gp_pct": 8.1,
-    "transactions": 184,
-    "vs_yesterday": 14035.62
+    "transactions": 187,
+    "vs_yesterday": 14370.62
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 577179.35,
-    "cost": 525251.59,
+    "revenue": 577514.35,
+    "cost": 525537.66,
     "gp_pct": 9.0,
-    "transactions": 5551,
+    "transactions": 5554,
     "days_elapsed": 25
   },
   "latest_cashup": {
@@ -486,9 +486,9 @@
     },
     {
       "date": "2026-06-25",
-      "revenue": 24678.5,
-      "cost": 22691.44,
-      "transactions": 184,
+      "revenue": 25013.5,
+      "cost": 22977.51,
+      "transactions": 187,
       "gp_pct": 8.1
     }
   ],
@@ -664,10 +664,10 @@
     {
       "hour": 21,
       "label": "21:00",
-      "revenue": 1241.0,
-      "cost": 1055.58,
-      "gp_pct": 14.9,
-      "transactions": 16
+      "revenue": 1576.0,
+      "cost": 1358.23,
+      "gp_pct": 13.8,
+      "transactions": 19
     },
     {
       "hour": 22,
@@ -764,8 +764,8 @@
       "desc": "Heineken 650ml",
       "price": 25.0,
       "gp_pct": 10.3,
-      "revenue": 17200.0,
-      "qty_sold": 688.0
+      "revenue": 17325.0,
+      "qty_sold": 693.0
     },
     {
       "internal": 169,
@@ -858,9 +858,9 @@
     },
     {
       "cashier": "Nwabisa",
-      "revenue": 379606.99,
-      "cost": 333221.58,
-      "transactions": 3599,
+      "revenue": 379941.99,
+      "cost": 333507.65,
+      "transactions": 3602,
       "gp_pct": 12.2
     }
   ],
@@ -1044,7 +1044,7 @@
       "price": 10.0,
       "cost": 7.61,
       "gp_pct": 23.9,
-      "qty": -179.0,
+      "qty": -180.0,
       "minimum": 0.0,
       "maximum": 0.0,
       "on_promo": false,
