@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-25T20:27:42.127100",
+    "generated_at": "2026-06-25T20:34:06.332589",
     "generated_date": "2026-06-25",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-25",
-    "revenue": 22207.5,
-    "cost": 20577.28,
-    "gp_pct": 7.3,
-    "transactions": 158,
-    "vs_yesterday": 11564.62
+    "revenue": 22477.5,
+    "cost": 20786.76,
+    "gp_pct": 7.5,
+    "transactions": 159,
+    "vs_yesterday": 11834.62
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 574708.35,
-    "cost": 523137.44,
+    "revenue": 574978.35,
+    "cost": 523346.91,
     "gp_pct": 9.0,
-    "transactions": 5525,
+    "transactions": 5526,
     "days_elapsed": 25
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-25",
-      "revenue": 22207.5,
-      "cost": 20577.28,
-      "transactions": 158,
-      "gp_pct": 7.3
+      "revenue": 22477.5,
+      "cost": 20786.76,
+      "transactions": 159,
+      "gp_pct": 7.5
     }
   ],
   "hourly_today": [
@@ -656,10 +656,10 @@
     {
       "hour": 20,
       "label": "20:00",
-      "revenue": 660.0,
-      "cost": 557.79,
-      "gp_pct": 15.5,
-      "transactions": 8
+      "revenue": 930.0,
+      "cost": 767.27,
+      "gp_pct": 17.5,
+      "transactions": 9
     },
     {
       "hour": 21,
@@ -800,20 +800,20 @@
       "qty_sold": 168.0
     },
     {
+      "internal": 266,
+      "desc": "Pork Chops",
+      "price": 40.0,
+      "gp_pct": 39.4,
+      "revenue": 11815.0,
+      "qty_sold": 343.0
+    },
+    {
       "internal": 712,
       "desc": "Bernini Mimosa 500ml",
       "price": 25.0,
       "gp_pct": 33.4,
       "revenue": 11780.0,
       "qty_sold": 602.0
-    },
-    {
-      "internal": 266,
-      "desc": "Pork Chops",
-      "price": 40.0,
-      "gp_pct": 39.4,
-      "revenue": 11745.0,
-      "qty_sold": 341.0
     },
     {
       "internal": 271,
@@ -858,9 +858,9 @@
     },
     {
       "cashier": "Nwabisa",
-      "revenue": 377135.99,
-      "cost": 331107.42,
-      "transactions": 3573,
+      "revenue": 377405.99,
+      "cost": 331316.9,
+      "transactions": 3574,
       "gp_pct": 12.2
     }
   ],
@@ -35595,6 +35595,24 @@
       "desc": "Carling Black Label 750ml",
       "amount": 50.0,
       "gp_pct": 24.3,
+      "points": 1,
+      "cashier": "Nwabisa"
+    },
+    {
+      "number": 517316,
+      "date": "2026-06-25",
+      "desc": "Brutal Fruit Ruby Apple 330ml",
+      "amount": 200.0,
+      "gp_pct": 21.1,
+      "points": 4,
+      "cashier": "Nwabisa"
+    },
+    {
+      "number": 517316,
+      "date": "2026-06-25",
+      "desc": "Pork Chops",
+      "amount": 70.0,
+      "gp_pct": 39.4,
       "points": 1,
       "cashier": "Nwabisa"
     }
