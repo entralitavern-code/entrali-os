@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-25T10:28:18.202861",
+    "generated_at": "2026-06-25T10:34:48.339794",
     "generated_date": "2026-06-25",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-25",
-    "revenue": 1105.0,
-    "cost": 1091.45,
-    "gp_pct": 1.2,
-    "transactions": 8,
-    "vs_yesterday": -9537.88
+    "revenue": 1255.0,
+    "cost": 1219.09,
+    "gp_pct": 2.9,
+    "transactions": 9,
+    "vs_yesterday": -9387.88
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 553605.85,
-    "cost": 503651.61,
+    "revenue": 553755.85,
+    "cost": 503779.24,
     "gp_pct": 9.0,
-    "transactions": 5375,
+    "transactions": 5376,
     "days_elapsed": 25
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-25",
-      "revenue": 1105.0,
-      "cost": 1091.45,
-      "transactions": 8,
-      "gp_pct": 1.2
+      "revenue": 1255.0,
+      "cost": 1219.09,
+      "transactions": 9,
+      "gp_pct": 2.9
     }
   ],
   "hourly_today": [
@@ -576,10 +576,10 @@
     {
       "hour": 10,
       "label": "10:00",
-      "revenue": 470.0,
-      "cost": 475.98,
-      "gp_pct": -1.3,
-      "transactions": 1
+      "revenue": 620.0,
+      "cost": 603.62,
+      "gp_pct": 2.6,
+      "transactions": 2
     },
     {
       "hour": 11,
@@ -716,8 +716,8 @@
       "desc": "Paarl Perle' 2L",
       "price": 75.0,
       "gp_pct": 13.0,
-      "revenue": 34145.86,
-      "qty_sold": 460.0
+      "revenue": 34220.86,
+      "qty_sold": 461.0
     },
     {
       "internal": 204,
@@ -804,8 +804,8 @@
       "desc": "Sedgwicks Old Brown Sherry 1L",
       "price": 75.0,
       "gp_pct": 16.8,
-      "revenue": 11400.0,
-      "qty_sold": 152.0
+      "revenue": 11475.0,
+      "qty_sold": 153.0
     },
     {
       "internal": 266,
@@ -851,10 +851,10 @@
   "cashier_summary": [
     {
       "cashier": "Thabiso",
-      "revenue": 406096.4,
-      "cost": 374629.09,
-      "transactions": 3896,
-      "gp_pct": 7.7
+      "revenue": 406246.4,
+      "cost": 374756.72,
+      "transactions": 3897,
+      "gp_pct": 7.8
     },
     {
       "cashier": "Nwabisa",
