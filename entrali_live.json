@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-25T20:53:27.216189",
+    "generated_at": "2026-06-25T20:59:56.731110",
     "generated_date": "2026-06-25",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-25",
-    "revenue": 23212.5,
-    "cost": 21427.24,
-    "gp_pct": 7.7,
-    "transactions": 166,
-    "vs_yesterday": 12569.62
+    "revenue": 23437.5,
+    "cost": 21619.28,
+    "gp_pct": 7.8,
+    "transactions": 168,
+    "vs_yesterday": 12794.62
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 575713.35,
-    "cost": 523987.39,
+    "revenue": 575938.35,
+    "cost": 524179.43,
     "gp_pct": 9.0,
-    "transactions": 5533,
+    "transactions": 5535,
     "days_elapsed": 25
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-25",
-      "revenue": 23212.5,
-      "cost": 21427.24,
-      "transactions": 166,
-      "gp_pct": 7.7
+      "revenue": 23437.5,
+      "cost": 21619.28,
+      "transactions": 168,
+      "gp_pct": 7.8
     }
   ],
   "hourly_today": [
@@ -656,10 +656,10 @@
     {
       "hour": 20,
       "label": "20:00",
-      "revenue": 1665.0,
-      "cost": 1407.75,
-      "gp_pct": 15.5,
-      "transactions": 16
+      "revenue": 1890.0,
+      "cost": 1599.79,
+      "gp_pct": 15.4,
+      "transactions": 18
     },
     {
       "hour": 21,
@@ -692,8 +692,8 @@
       "desc": "Carling Black Label 750ml",
       "price": 25.0,
       "gp_pct": 24.3,
-      "revenue": 189517.37,
-      "qty_sold": 8745.0
+      "revenue": 189542.37,
+      "qty_sold": 8746.0
     },
     {
       "internal": 171,
@@ -740,8 +740,8 @@
       "desc": "4th Street Sweet L/H 5l",
       "price": 180.0,
       "gp_pct": 11.9,
-      "revenue": 21780.0,
-      "qty_sold": 121.0
+      "revenue": 21960.0,
+      "qty_sold": 122.0
     },
     {
       "internal": 161,
@@ -858,9 +858,9 @@
     },
     {
       "cashier": "Nwabisa",
-      "revenue": 378140.99,
-      "cost": 331957.38,
-      "transactions": 3581,
+      "revenue": 378365.99,
+      "cost": 332149.42,
+      "transactions": 3583,
       "gp_pct": 12.2
     }
   ],
