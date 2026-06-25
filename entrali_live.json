@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-25T11:58:50.220822",
+    "generated_at": "2026-06-25T12:05:16.861528",
     "generated_date": "2026-06-25",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-25",
-    "revenue": 3414.0,
-    "cost": 4437.0,
-    "gp_pct": -30.0,
-    "transactions": 15,
-    "vs_yesterday": -7228.88
+    "revenue": 4854.0,
+    "cost": 4684.83,
+    "gp_pct": 3.5,
+    "transactions": 17,
+    "vs_yesterday": -5788.88
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 555914.85,
-    "cost": 506997.15,
-    "gp_pct": 8.8,
-    "transactions": 5382,
+    "revenue": 557354.85,
+    "cost": 507244.98,
+    "gp_pct": 9.0,
+    "transactions": 5384,
     "days_elapsed": 25
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-25",
-      "revenue": 3414.0,
-      "cost": 4437.0,
-      "transactions": 15,
-      "gp_pct": -30.0
+      "revenue": 4854.0,
+      "cost": 4684.83,
+      "transactions": 17,
+      "gp_pct": 3.5
     }
   ],
   "hourly_today": [
@@ -584,18 +584,18 @@
     {
       "hour": 11,
       "label": "11:00",
-      "revenue": 2114.0,
-      "cost": 2057.77,
-      "gp_pct": 2.7,
-      "transactions": 5
+      "revenue": 3254.0,
+      "cost": 3182.74,
+      "gp_pct": 2.2,
+      "transactions": 6
     },
     {
       "hour": 12,
       "label": "12:00",
-      "revenue": 0.0,
-      "cost": 0.0,
-      "gp_pct": 0.0,
-      "transactions": 0
+      "revenue": 300.0,
+      "cost": 247.83,
+      "gp_pct": 17.4,
+      "transactions": 1
     },
     {
       "hour": 13,
@@ -851,10 +851,10 @@
   "cashier_summary": [
     {
       "cashier": "Thabiso",
-      "revenue": 408405.4,
-      "cost": 377974.63,
-      "transactions": 3903,
-      "gp_pct": 7.5
+      "revenue": 409845.4,
+      "cost": 378222.46,
+      "transactions": 3905,
+      "gp_pct": 7.7
     },
     {
       "cashier": "Nwabisa",
@@ -35065,6 +35065,15 @@
       "amount": 450.0,
       "gp_pct": 21.9,
       "points": 9,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 517174,
+      "date": "2026-06-25",
+      "desc": "Commando Brandy 200ml",
+      "amount": 70.0,
+      "gp_pct": 19.8,
+      "points": 1,
       "cashier": "Thabiso"
     }
   ],
