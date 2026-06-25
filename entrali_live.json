@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-25T14:02:15.042911",
+    "generated_at": "2026-06-25T14:08:44.437265",
     "generated_date": "2026-06-25",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-25",
-    "revenue": 7909.0,
+    "revenue": 7954.0,
     "cost": 7486.6,
-    "gp_pct": 5.3,
-    "transactions": 39,
-    "vs_yesterday": -2733.88
+    "gp_pct": 5.9,
+    "transactions": 40,
+    "vs_yesterday": -2688.88
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 560409.85,
+    "revenue": 560454.85,
     "cost": 510046.75,
     "gp_pct": 9.0,
-    "transactions": 5406,
+    "transactions": 5407,
     "days_elapsed": 25
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-25",
-      "revenue": 7909.0,
+      "revenue": 7954.0,
       "cost": 7486.6,
-      "transactions": 39,
-      "gp_pct": 5.3
+      "transactions": 40,
+      "gp_pct": 5.9
     }
   ],
   "hourly_today": [
@@ -608,10 +608,10 @@
     {
       "hour": 14,
       "label": "14:00",
-      "revenue": 0.0,
-      "cost": 0.0,
-      "gp_pct": 0.0,
-      "transactions": 0
+      "revenue": 45.0,
+      "cost": 38.84,
+      "gp_pct": 13.7,
+      "transactions": 1
     },
     {
       "hour": 15,
@@ -851,9 +851,9 @@
   "cashier_summary": [
     {
       "cashier": "Thabiso",
-      "revenue": 412900.4,
+      "revenue": 412945.4,
       "cost": 381024.23,
-      "transactions": 3927,
+      "transactions": 3928,
       "gp_pct": 7.7
     },
     {
