@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-25T17:58:39.284061",
+    "generated_at": "2026-06-25T18:05:02.380409",
     "generated_date": "2026-06-25",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-25",
-    "revenue": 16540.0,
-    "cost": 15551.38,
+    "revenue": 16975.0,
+    "cost": 15948.83,
     "gp_pct": 6.0,
-    "transactions": 106,
-    "vs_yesterday": 5897.12
+    "transactions": 109,
+    "vs_yesterday": 6332.12
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 569040.85,
-    "cost": 518111.54,
-    "gp_pct": 9.0,
-    "transactions": 5473,
+    "revenue": 569475.85,
+    "cost": 518508.98,
+    "gp_pct": 8.9,
+    "transactions": 5476,
     "days_elapsed": 25
   },
   "latest_cashup": {
@@ -486,9 +486,9 @@
     },
     {
       "date": "2026-06-25",
-      "revenue": 16540.0,
-      "cost": 15551.38,
-      "transactions": 106,
+      "revenue": 16975.0,
+      "cost": 15948.83,
+      "transactions": 109,
       "gp_pct": 6.0
     }
   ],
@@ -632,18 +632,18 @@
     {
       "hour": 17,
       "label": "17:00",
-      "revenue": 1879.0,
-      "cost": 1717.33,
-      "gp_pct": 8.6,
-      "transactions": 17
+      "revenue": 2019.0,
+      "cost": 1822.57,
+      "gp_pct": 9.7,
+      "transactions": 18
     },
     {
       "hour": 18,
       "label": "18:00",
-      "revenue": 0.0,
-      "cost": 0.0,
-      "gp_pct": 0.0,
-      "transactions": 0
+      "revenue": 295.0,
+      "cost": 292.21,
+      "gp_pct": 0.9,
+      "transactions": 2
     },
     {
       "hour": 19,
@@ -692,8 +692,8 @@
       "desc": "Carling Black Label 750ml",
       "price": 25.0,
       "gp_pct": 24.3,
-      "revenue": 188704.37,
-      "qty_sold": 8708.0
+      "revenue": 188948.37,
+      "qty_sold": 8720.0
     },
     {
       "internal": 171,
@@ -716,8 +716,8 @@
       "desc": "Paarl Perle' 2L",
       "price": 75.0,
       "gp_pct": 13.0,
-      "revenue": 35315.86,
-      "qty_sold": 476.0
+      "revenue": 35390.86,
+      "qty_sold": 477.0
     },
     {
       "internal": 204,
@@ -812,8 +812,8 @@
       "desc": "Pork Chops",
       "price": 40.0,
       "gp_pct": 39.4,
-      "revenue": 11605.0,
-      "qty_sold": 336.0
+      "revenue": 11645.0,
+      "qty_sold": 337.0
     },
     {
       "internal": 271,
@@ -840,20 +840,20 @@
       "qty_sold": 495.0
     },
     {
-      "internal": 134,
-      "desc": "Castle Lager 750ml",
-      "price": 20.0,
-      "gp_pct": 17.1,
-      "revenue": 9771.57,
-      "qty_sold": 489.0
+      "internal": 18,
+      "desc": "Castle Lite 660ml",
+      "price": 25.0,
+      "gp_pct": 19.0,
+      "revenue": 9850.0,
+      "qty_sold": 394.0
     }
   ],
   "cashier_summary": [
     {
       "cashier": "Thabiso",
-      "revenue": 421531.4,
-      "cost": 389089.02,
-      "transactions": 3994,
+      "revenue": 421966.4,
+      "cost": 389486.46,
+      "transactions": 3997,
       "gp_pct": 7.7
     },
     {
@@ -35425,6 +35425,24 @@
       "amount": 100.0,
       "gp_pct": 23.3,
       "points": 2,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 517264,
+      "date": "2026-06-25",
+      "desc": "Castle Lite 660ml",
+      "amount": 100.0,
+      "gp_pct": 19.0,
+      "points": 2,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 517266,
+      "date": "2026-06-25",
+      "desc": "Carling Black Label 750ml",
+      "amount": 244.0,
+      "gp_pct": 24.3,
+      "points": 4,
       "cashier": "Thabiso"
     }
   ],
