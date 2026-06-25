@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-25T10:34:48.339794",
+    "generated_at": "2026-06-25T10:41:21.110017",
     "generated_date": "2026-06-25",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-25",
-    "revenue": 1255.0,
-    "cost": 1219.09,
-    "gp_pct": 2.9,
-    "transactions": 9,
-    "vs_yesterday": -9387.88
+    "revenue": 1300.0,
+    "cost": 1254.26,
+    "gp_pct": 3.5,
+    "transactions": 10,
+    "vs_yesterday": -9342.88
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 553755.85,
-    "cost": 503779.24,
+    "revenue": 553800.85,
+    "cost": 503814.41,
     "gp_pct": 9.0,
-    "transactions": 5376,
+    "transactions": 5377,
     "days_elapsed": 25
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-25",
-      "revenue": 1255.0,
-      "cost": 1219.09,
-      "transactions": 9,
-      "gp_pct": 2.9
+      "revenue": 1300.0,
+      "cost": 1254.26,
+      "transactions": 10,
+      "gp_pct": 3.5
     }
   ],
   "hourly_today": [
@@ -576,10 +576,10 @@
     {
       "hour": 10,
       "label": "10:00",
-      "revenue": 620.0,
-      "cost": 603.62,
-      "gp_pct": 2.6,
-      "transactions": 2
+      "revenue": 665.0,
+      "cost": 638.78,
+      "gp_pct": 3.9,
+      "transactions": 3
     },
     {
       "hour": 11,
@@ -700,8 +700,8 @@
       "desc": "Paarl Perle' 1L",
       "price": 45.0,
       "gp_pct": 21.9,
-      "revenue": 66883.0,
-      "qty_sold": 1669.0
+      "revenue": 66928.0,
+      "qty_sold": 1670.0
     },
     {
       "internal": 188,
@@ -851,9 +851,9 @@
   "cashier_summary": [
     {
       "cashier": "Thabiso",
-      "revenue": 406246.4,
-      "cost": 374756.72,
-      "transactions": 3897,
+      "revenue": 406291.4,
+      "cost": 374791.89,
+      "transactions": 3898,
       "gp_pct": 7.8
     },
     {
