@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-25T11:32:54.587162",
+    "generated_at": "2026-06-25T11:39:26.633125",
     "generated_date": "2026-06-25",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-25",
-    "revenue": 1400.0,
-    "cost": 1346.26,
-    "gp_pct": 3.8,
-    "transactions": 11,
-    "vs_yesterday": -9242.88
+    "revenue": 1834.0,
+    "cost": 1737.58,
+    "gp_pct": 5.3,
+    "transactions": 13,
+    "vs_yesterday": -8808.88
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 553900.85,
-    "cost": 503906.41,
+    "revenue": 554334.85,
+    "cost": 504297.73,
     "gp_pct": 9.0,
-    "transactions": 5378,
+    "transactions": 5380,
     "days_elapsed": 25
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-25",
-      "revenue": 1400.0,
-      "cost": 1346.26,
-      "transactions": 11,
-      "gp_pct": 3.8
+      "revenue": 1834.0,
+      "cost": 1737.58,
+      "transactions": 13,
+      "gp_pct": 5.3
     }
   ],
   "hourly_today": [
@@ -584,10 +584,10 @@
     {
       "hour": 11,
       "label": "11:00",
-      "revenue": 100.0,
-      "cost": 92.0,
-      "gp_pct": 8.0,
-      "transactions": 1
+      "revenue": 534.0,
+      "cost": 483.32,
+      "gp_pct": 9.5,
+      "transactions": 3
     },
     {
       "hour": 12,
@@ -716,8 +716,8 @@
       "desc": "Paarl Perle' 2L",
       "price": 75.0,
       "gp_pct": 13.0,
-      "revenue": 34220.86,
-      "qty_sold": 461.0
+      "revenue": 34655.86,
+      "qty_sold": 467.0
     },
     {
       "internal": 204,
@@ -851,9 +851,9 @@
   "cashier_summary": [
     {
       "cashier": "Thabiso",
-      "revenue": 406391.4,
-      "cost": 374883.89,
-      "transactions": 3899,
+      "revenue": 406825.4,
+      "cost": 375275.21,
+      "transactions": 3901,
       "gp_pct": 7.8
     },
     {
@@ -987,13 +987,13 @@
       "price": -1.0,
       "cost": -2.0,
       "gp_pct": 0.0,
-      "qty": -390.0,
+      "qty": -391.0,
       "minimum": 0.0,
       "maximum": 0.0,
       "on_promo": false,
       "promo_price": null,
-      "days_since_sold": 1,
-      "lastsold": "2026-06-24",
+      "days_since_sold": 0,
+      "lastsold": "2026-06-25",
       "lastbuy": null,
       "loyalty_eligible": false,
       "alert": "OUT OF STOCK"
