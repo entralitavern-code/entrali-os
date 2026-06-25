@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-25T21:26:03.337613",
+    "generated_at": "2026-06-25T21:32:36.551701",
     "generated_date": "2026-06-25",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-25",
-    "revenue": 23717.5,
-    "cost": 21847.53,
+    "revenue": 24042.5,
+    "cost": 22132.36,
     "gp_pct": 7.9,
-    "transactions": 172,
-    "vs_yesterday": 13074.62
+    "transactions": 176,
+    "vs_yesterday": 13399.62
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 576218.35,
-    "cost": 524407.68,
+    "revenue": 576543.35,
+    "cost": 524692.51,
     "gp_pct": 9.0,
-    "transactions": 5539,
+    "transactions": 5543,
     "days_elapsed": 25
   },
   "latest_cashup": {
@@ -486,9 +486,9 @@
     },
     {
       "date": "2026-06-25",
-      "revenue": 23717.5,
-      "cost": 21847.53,
-      "transactions": 172,
+      "revenue": 24042.5,
+      "cost": 22132.36,
+      "transactions": 176,
       "gp_pct": 7.9
     }
   ],
@@ -664,10 +664,10 @@
     {
       "hour": 21,
       "label": "21:00",
-      "revenue": 280.0,
-      "cost": 228.25,
-      "gp_pct": 18.5,
-      "transactions": 4
+      "revenue": 605.0,
+      "cost": 513.08,
+      "gp_pct": 15.2,
+      "transactions": 8
     },
     {
       "hour": 22,
@@ -700,8 +700,8 @@
       "desc": "Paarl Perle' 1L",
       "price": 45.0,
       "gp_pct": 21.9,
-      "revenue": 70070.5,
-      "qty_sold": 1752.0
+      "revenue": 70115.5,
+      "qty_sold": 1753.0
     },
     {
       "internal": 188,
@@ -748,8 +748,8 @@
       "desc": "Savanna Dry 500ml",
       "price": 25.0,
       "gp_pct": 13.3,
-      "revenue": 19325.0,
-      "qty_sold": 773.0
+      "revenue": 19350.0,
+      "qty_sold": 774.0
     },
     {
       "internal": 238,
@@ -796,8 +796,8 @@
       "desc": "Sedgwicks Old Brown Sherry 1L",
       "price": 75.0,
       "gp_pct": 16.8,
-      "revenue": 12430.0,
-      "qty_sold": 168.0
+      "revenue": 12505.0,
+      "qty_sold": 169.0
     },
     {
       "internal": 266,
@@ -844,8 +844,8 @@
       "desc": "Castle Lager 750ml",
       "price": 20.0,
       "gp_pct": 17.1,
-      "revenue": 9991.57,
-      "qty_sold": 500.0
+      "revenue": 10011.57,
+      "qty_sold": 501.0
     }
   ],
   "cashier_summary": [
@@ -858,9 +858,9 @@
     },
     {
       "cashier": "Nwabisa",
-      "revenue": 378645.99,
-      "cost": 332377.67,
-      "transactions": 3587,
+      "revenue": 378970.99,
+      "cost": 332662.5,
+      "transactions": 3591,
       "gp_pct": 12.2
     }
   ],
