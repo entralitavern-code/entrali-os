@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-25T10:09:24.418184",
+    "generated_at": "2026-06-25T10:15:43.597586",
     "generated_date": "2026-06-25",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-25",
-    "revenue": 635.0,
-    "cost": 615.47,
-    "gp_pct": 3.1,
-    "transactions": 7,
-    "vs_yesterday": -10007.88
+    "revenue": 1105.0,
+    "cost": 1091.45,
+    "gp_pct": 1.2,
+    "transactions": 8,
+    "vs_yesterday": -9537.88
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 553135.85,
-    "cost": 503175.63,
+    "revenue": 553605.85,
+    "cost": 503651.61,
     "gp_pct": 9.0,
-    "transactions": 5374,
+    "transactions": 5375,
     "days_elapsed": 25
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-25",
-      "revenue": 635.0,
-      "cost": 615.47,
-      "transactions": 7,
-      "gp_pct": 3.1
+      "revenue": 1105.0,
+      "cost": 1091.45,
+      "transactions": 8,
+      "gp_pct": 1.2
     }
   ],
   "hourly_today": [
@@ -576,10 +576,10 @@
     {
       "hour": 10,
       "label": "10:00",
-      "revenue": 0.0,
-      "cost": 0.0,
-      "gp_pct": 0.0,
-      "transactions": 0
+      "revenue": 470.0,
+      "cost": 475.98,
+      "gp_pct": -1.3,
+      "transactions": 1
     },
     {
       "hour": 11,
@@ -692,8 +692,8 @@
       "desc": "Carling Black Label 750ml",
       "price": 25.0,
       "gp_pct": 24.3,
-      "revenue": 182886.37,
-      "qty_sold": 8426.0
+      "revenue": 183130.37,
+      "qty_sold": 8438.0
     },
     {
       "internal": 171,
@@ -768,20 +768,20 @@
       "qty_sold": 673.0
     },
     {
+      "internal": 169,
+      "desc": "Redd's Original 660ml",
+      "price": 25.0,
+      "gp_pct": 17.0,
+      "revenue": 14500.0,
+      "qty_sold": 606.0
+    },
+    {
       "internal": 200,
       "desc": "KWV 3yrs 750ml",
       "price": 200.0,
       "gp_pct": 12.5,
       "revenue": 14320.0,
       "qty_sold": 72.0
-    },
-    {
-      "internal": 169,
-      "desc": "Redd's Original 660ml",
-      "price": 25.0,
-      "gp_pct": 17.0,
-      "revenue": 14226.0,
-      "qty_sold": 594.0
     },
     {
       "internal": 183,
@@ -851,10 +851,10 @@
   "cashier_summary": [
     {
       "cashier": "Thabiso",
-      "revenue": 405626.4,
-      "cost": 374153.11,
-      "transactions": 3895,
-      "gp_pct": 7.8
+      "revenue": 406096.4,
+      "cost": 374629.09,
+      "transactions": 3896,
+      "gp_pct": 7.7
     },
     {
       "cashier": "Nwabisa",
@@ -35011,6 +35011,15 @@
       "amount": 60.0,
       "gp_pct": 20.3,
       "points": 1,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 517165,
+      "date": "2026-06-25",
+      "desc": "Carling Black Label 750ml",
+      "amount": 244.0,
+      "gp_pct": 24.3,
+      "points": 4,
       "cashier": "Thabiso"
     }
   ],
