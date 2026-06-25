@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-25T12:24:52.014766",
+    "generated_at": "2026-06-25T12:31:20.836559",
     "generated_date": "2026-06-25",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-25",
-    "revenue": 5089.0,
-    "cost": 4872.15,
-    "gp_pct": 4.3,
-    "transactions": 19,
-    "vs_yesterday": -5553.88
+    "revenue": 5269.0,
+    "cost": 5034.01,
+    "gp_pct": 4.5,
+    "transactions": 20,
+    "vs_yesterday": -5373.88
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 557589.85,
-    "cost": 507432.3,
+    "revenue": 557769.85,
+    "cost": 507594.16,
     "gp_pct": 9.0,
-    "transactions": 5386,
+    "transactions": 5387,
     "days_elapsed": 25
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-25",
-      "revenue": 5089.0,
-      "cost": 4872.15,
-      "transactions": 19,
-      "gp_pct": 4.3
+      "revenue": 5269.0,
+      "cost": 5034.01,
+      "transactions": 20,
+      "gp_pct": 4.5
     }
   ],
   "hourly_today": [
@@ -592,10 +592,10 @@
     {
       "hour": 12,
       "label": "12:00",
-      "revenue": 535.0,
-      "cost": 435.15,
-      "gp_pct": 18.7,
-      "transactions": 3
+      "revenue": 715.0,
+      "cost": 597.01,
+      "gp_pct": 16.5,
+      "transactions": 4
     },
     {
       "hour": 13,
@@ -851,9 +851,9 @@
   "cashier_summary": [
     {
       "cashier": "Thabiso",
-      "revenue": 410080.4,
-      "cost": 378409.78,
-      "transactions": 3907,
+      "revenue": 410260.4,
+      "cost": 378571.64,
+      "transactions": 3908,
       "gp_pct": 7.7
     },
     {
@@ -1151,6 +1151,25 @@
       "alert": "OUT OF STOCK"
     },
     {
+      "internal": 662,
+      "part_no": "515",
+      "desc": "4 BL + 1761",
+      "group": "11",
+      "price": 90.0,
+      "cost": 80.93,
+      "gp_pct": 10.1,
+      "qty": -40.0,
+      "minimum": 0.0,
+      "maximum": 0.0,
+      "on_promo": false,
+      "promo_price": null,
+      "days_since_sold": 0,
+      "lastsold": "2026-06-25",
+      "lastbuy": "2021-05-17",
+      "loyalty_eligible": false,
+      "alert": "OUT OF STOCK"
+    },
+    {
       "internal": 496,
       "part_no": "40061",
       "desc": "Drinking Glass Fancy",
@@ -1185,25 +1204,6 @@
       "days_since_sold": 5,
       "lastsold": "2026-06-20",
       "lastbuy": "2019-11-26",
-      "loyalty_eligible": false,
-      "alert": "OUT OF STOCK"
-    },
-    {
-      "internal": 662,
-      "part_no": "515",
-      "desc": "4 BL + 1761",
-      "group": "11",
-      "price": 90.0,
-      "cost": 80.93,
-      "gp_pct": 10.1,
-      "qty": -38.0,
-      "minimum": 0.0,
-      "maximum": 0.0,
-      "on_promo": false,
-      "promo_price": null,
-      "days_since_sold": 1,
-      "lastsold": "2026-06-24",
-      "lastbuy": "2021-05-17",
       "loyalty_eligible": false,
       "alert": "OUT OF STOCK"
     },
