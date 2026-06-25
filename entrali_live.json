@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-25T09:31:00.912177",
+    "generated_at": "2026-06-25T09:37:22.958784",
     "generated_date": "2026-06-25",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-25",
-    "revenue": 550.0,
-    "cost": 548.73,
-    "gp_pct": 0.2,
-    "transactions": 5,
-    "vs_yesterday": -10092.88
+    "revenue": 610.0,
+    "cost": 596.56,
+    "gp_pct": 2.2,
+    "transactions": 6,
+    "vs_yesterday": -10032.88
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 553050.85,
-    "cost": 503108.88,
+    "revenue": 553110.85,
+    "cost": 503156.71,
     "gp_pct": 9.0,
-    "transactions": 5372,
+    "transactions": 5373,
     "days_elapsed": 25
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-25",
-      "revenue": 550.0,
-      "cost": 548.73,
-      "transactions": 5,
-      "gp_pct": 0.2
+      "revenue": 610.0,
+      "cost": 596.56,
+      "transactions": 6,
+      "gp_pct": 2.2
     }
   ],
   "hourly_today": [
@@ -568,10 +568,10 @@
     {
       "hour": 9,
       "label": "09:00",
-      "revenue": 245.0,
-      "cost": 248.91,
-      "gp_pct": -1.6,
-      "transactions": 2
+      "revenue": 305.0,
+      "cost": 296.74,
+      "gp_pct": 2.7,
+      "transactions": 3
     },
     {
       "hour": 10,
@@ -851,9 +851,9 @@
   "cashier_summary": [
     {
       "cashier": "Thabiso",
-      "revenue": 405541.4,
-      "cost": 374086.36,
-      "transactions": 3893,
+      "revenue": 405601.4,
+      "cost": 374134.19,
+      "transactions": 3894,
       "gp_pct": 7.8
     },
     {
@@ -35002,6 +35002,15 @@
       "amount": 244.0,
       "gp_pct": 24.3,
       "points": 4,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 517163,
+      "date": "2026-06-25",
+      "desc": "Smirnoff Vodka 200ml",
+      "amount": 60.0,
+      "gp_pct": 20.3,
+      "points": 1,
       "cashier": "Thabiso"
     }
   ],
