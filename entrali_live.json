@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-25T22:43:18.888695",
+    "generated_at": "2026-06-25T22:49:48.870958",
     "generated_date": "2026-06-25",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-25",
-    "revenue": 25751.5,
+    "revenue": 25800.5,
     "cost": 23587.02,
-    "gp_pct": 8.4,
-    "transactions": 200,
-    "vs_yesterday": 15108.62
+    "gp_pct": 8.6,
+    "transactions": 201,
+    "vs_yesterday": 15157.62
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 578252.35,
+    "revenue": 578301.35,
     "cost": 526147.17,
     "gp_pct": 9.0,
-    "transactions": 5567,
+    "transactions": 5568,
     "days_elapsed": 25
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-25",
-      "revenue": 25751.5,
+      "revenue": 25800.5,
       "cost": 23587.02,
-      "transactions": 200,
-      "gp_pct": 8.4
+      "transactions": 201,
+      "gp_pct": 8.6
     }
   ],
   "hourly_today": [
@@ -672,10 +672,10 @@
     {
       "hour": 22,
       "label": "22:00",
-      "revenue": 738.0,
-      "cost": 572.59,
-      "gp_pct": 22.4,
-      "transactions": 13
+      "revenue": 787.0,
+      "cost": 609.51,
+      "gp_pct": 22.6,
+      "transactions": 14
     },
     {
       "hour": 23,
@@ -858,9 +858,9 @@
     },
     {
       "cashier": "Nwabisa",
-      "revenue": 380679.99,
+      "revenue": 380728.99,
       "cost": 334117.16,
-      "transactions": 3615,
+      "transactions": 3616,
       "gp_pct": 12.2
     }
   ],
