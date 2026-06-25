@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-25T19:29:37.745315",
+    "generated_at": "2026-06-25T19:35:56.949610",
     "generated_date": "2026-06-25",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-25",
-    "revenue": 20583.5,
-    "cost": 19141.97,
+    "revenue": 20623.5,
+    "cost": 19175.14,
     "gp_pct": 7.0,
-    "transactions": 140,
-    "vs_yesterday": 9940.62
+    "transactions": 141,
+    "vs_yesterday": 9980.62
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 573084.35,
-    "cost": 521702.13,
+    "revenue": 573124.35,
+    "cost": 521735.29,
     "gp_pct": 9.0,
-    "transactions": 5507,
+    "transactions": 5508,
     "days_elapsed": 25
   },
   "latest_cashup": {
@@ -486,9 +486,9 @@
     },
     {
       "date": "2026-06-25",
-      "revenue": 20583.5,
-      "cost": 19141.97,
-      "transactions": 140,
+      "revenue": 20623.5,
+      "cost": 19175.14,
+      "transactions": 141,
       "gp_pct": 7.0
     }
   ],
@@ -648,10 +648,10 @@
     {
       "hour": 19,
       "label": "19:00",
-      "revenue": 795.0,
-      "cost": 691.04,
-      "gp_pct": 13.1,
-      "transactions": 9
+      "revenue": 835.0,
+      "cost": 724.2,
+      "gp_pct": 13.3,
+      "transactions": 10
     },
     {
       "hour": 20,
@@ -844,8 +844,8 @@
       "desc": "Castle Lager 750ml",
       "price": 20.0,
       "gp_pct": 17.1,
-      "revenue": 9851.57,
-      "qty_sold": 493.0
+      "revenue": 9891.57,
+      "qty_sold": 495.0
     }
   ],
   "cashier_summary": [
@@ -858,9 +858,9 @@
     },
     {
       "cashier": "Nwabisa",
-      "revenue": 375511.99,
-      "cost": 329672.11,
-      "transactions": 3555,
+      "revenue": 375551.99,
+      "cost": 329705.28,
+      "transactions": 3556,
       "gp_pct": 12.2
     }
   ],
