@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-26T19:50:31.139969",
+    "generated_at": "2026-06-26T19:56:58.894067",
     "generated_date": "2026-06-26",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-26",
-    "revenue": 33869.33,
-    "cost": 32842.21,
-    "gp_pct": 3.0,
-    "transactions": 262,
-    "vs_yesterday": 6848.83
+    "revenue": 34557.33,
+    "cost": 33091.88,
+    "gp_pct": 4.2,
+    "transactions": 270,
+    "vs_yesterday": 7536.83
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 613390.68,
-    "cost": 592002.11,
-    "gp_pct": 3.5,
-    "transactions": 5844,
+    "revenue": 614078.68,
+    "cost": 592251.78,
+    "gp_pct": 3.6,
+    "transactions": 5852,
     "days_elapsed": 26
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-26",
-      "revenue": 33869.33,
-      "cost": 32842.21,
-      "transactions": 262,
-      "gp_pct": 3.0
+      "revenue": 34557.33,
+      "cost": 33091.88,
+      "transactions": 270,
+      "gp_pct": 4.2
     }
   ],
   "hourly_today": [
@@ -648,10 +648,10 @@
     {
       "hour": 19,
       "label": "19:00",
-      "revenue": 5040.0,
-      "cost": 4141.59,
-      "gp_pct": 17.8,
-      "transactions": 44
+      "revenue": 5728.0,
+      "cost": 4747.26,
+      "gp_pct": 17.1,
+      "transactions": 52
     },
     {
       "hour": 20,
@@ -692,8 +692,8 @@
       "desc": "Carling Black Label 750ml",
       "price": 25.0,
       "gp_pct": 24.3,
-      "revenue": 193214.7,
-      "qty_sold": 8911.0
+      "revenue": 193289.7,
+      "qty_sold": 8914.0
     },
     {
       "internal": 171,
@@ -716,8 +716,8 @@
       "desc": "Paarl Perle' 2L",
       "price": 75.0,
       "gp_pct": 13.0,
-      "revenue": 36500.86,
-      "qty_sold": 492.0
+      "revenue": 36575.86,
+      "qty_sold": 493.0
     },
     {
       "internal": 204,
@@ -800,20 +800,20 @@
       "qty_sold": 660.0
     },
     {
+      "internal": 184,
+      "desc": "Sedgwicks Old Brown Sherry 1L",
+      "price": 75.0,
+      "gp_pct": 16.8,
+      "revenue": 12505.0,
+      "qty_sold": 169.0
+    },
+    {
       "internal": 712,
       "desc": "Bernini Mimosa 500ml",
       "price": 25.0,
       "gp_pct": 33.4,
       "revenue": 12445.0,
       "qty_sold": 643.0
-    },
-    {
-      "internal": 184,
-      "desc": "Sedgwicks Old Brown Sherry 1L",
-      "price": 75.0,
-      "gp_pct": 16.8,
-      "revenue": 12430.0,
-      "qty_sold": 168.0
     },
     {
       "internal": 266,
@@ -851,10 +851,10 @@
   "cashier_summary": [
     {
       "cashier": "Thabiso",
-      "revenue": 435132.9,
-      "cost": 429152.75,
-      "transactions": 4069,
-      "gp_pct": 1.4
+      "revenue": 435820.9,
+      "cost": 429402.42,
+      "transactions": 4077,
+      "gp_pct": 1.5
     },
     {
       "cashier": "Nwabisa",
@@ -36353,6 +36353,15 @@
       "desc": "Braaiwors",
       "amount": 60.0,
       "gp_pct": 28.6,
+      "points": 1,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 517639,
+      "date": "2026-06-26",
+      "desc": "Carling Black Label 750ml",
+      "amount": 50.0,
+      "gp_pct": 24.3,
       "points": 1,
       "cashier": "Thabiso"
     }
