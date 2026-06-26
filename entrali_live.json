@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-26T23:17:35.854814",
+    "generated_at": "2026-06-26T23:24:03.200781",
     "generated_date": "2026-06-26",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-26",
-    "revenue": 49812.17,
-    "cost": 52159.86,
+    "revenue": 50297.17,
+    "cost": 52640.01,
     "gp_pct": -4.7,
-    "transactions": 416,
-    "vs_yesterday": 22791.67
+    "transactions": 421,
+    "vs_yesterday": 23276.67
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 629333.52,
-    "cost": 611319.76,
+    "revenue": 629818.52,
+    "cost": 611799.9,
     "gp_pct": 2.9,
-    "transactions": 5998,
+    "transactions": 6003,
     "days_elapsed": 26
   },
   "latest_cashup": {
@@ -486,9 +486,9 @@
     },
     {
       "date": "2026-06-26",
-      "revenue": 49812.17,
-      "cost": 52159.86,
-      "transactions": 416,
+      "revenue": 50297.17,
+      "cost": 52640.01,
+      "transactions": 421,
       "gp_pct": -4.7
     }
   ],
@@ -680,10 +680,10 @@
     {
       "hour": 23,
       "label": "23:00",
-      "revenue": 625.0,
-      "cost": 486.28,
-      "gp_pct": 22.2,
-      "transactions": 13
+      "revenue": 1110.0,
+      "cost": 883.11,
+      "gp_pct": 20.4,
+      "transactions": 18
     }
   ],
   "top_products": [
@@ -692,8 +692,8 @@
       "desc": "Carling Black Label 750ml",
       "price": 25.0,
       "gp_pct": 24.3,
-      "revenue": 194739.7,
-      "qty_sold": 8972.0
+      "revenue": 194789.7,
+      "qty_sold": 8974.0
     },
     {
       "internal": 171,
@@ -756,8 +756,8 @@
       "desc": "4th Street Sweet Red 5L",
       "price": 180.0,
       "gp_pct": 16.8,
-      "revenue": 20160.0,
-      "qty_sold": 112.0
+      "revenue": 20340.0,
+      "qty_sold": 113.0
     },
     {
       "internal": 231,
@@ -796,8 +796,8 @@
       "desc": "Bernini Mimosa 500ml",
       "price": 25.0,
       "gp_pct": 33.4,
-      "revenue": 13000.0,
-      "qty_sold": 670.0
+      "revenue": 13170.0,
+      "qty_sold": 678.0
     },
     {
       "internal": 599,
@@ -828,8 +828,8 @@
       "desc": "Braaiwors",
       "price": 35.0,
       "gp_pct": 28.6,
-      "revenue": 11625.0,
-      "qty_sold": 372.0
+      "revenue": 11685.0,
+      "qty_sold": 374.0
     },
     {
       "internal": 134,
@@ -851,9 +851,9 @@
   "cashier_summary": [
     {
       "cashier": "Thabiso",
-      "revenue": 451075.74,
-      "cost": 448470.4,
-      "transactions": 4223,
+      "revenue": 451560.74,
+      "cost": 448950.54,
+      "transactions": 4228,
       "gp_pct": 0.6
     },
     {
@@ -36886,6 +36886,42 @@
       "desc": "Sedgwicks Old Brown Sherry 750ml",
       "amount": 60.0,
       "gp_pct": 23.3,
+      "points": 1,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 517791,
+      "date": "2026-06-26",
+      "desc": "Bernini Mimosa 500ml",
+      "amount": 120.0,
+      "gp_pct": 33.4,
+      "points": 2,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 517793,
+      "date": "2026-06-26",
+      "desc": "Amarula 50ml",
+      "amount": 75.0,
+      "gp_pct": 26.0,
+      "points": 1,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 517794,
+      "date": "2026-06-26",
+      "desc": "Braaiwors",
+      "amount": 60.0,
+      "gp_pct": 28.6,
+      "points": 1,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 517794,
+      "date": "2026-06-26",
+      "desc": "Bernini Mimosa 500ml",
+      "amount": 50.0,
+      "gp_pct": 33.4,
       "points": 1,
       "cashier": "Thabiso"
     }
