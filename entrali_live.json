@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-26T15:38:29.373372",
+    "generated_at": "2026-06-26T15:45:03.451470",
     "generated_date": "2026-06-26",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-26",
-    "revenue": 15349.33,
-    "cost": 14123.02,
+    "revenue": 15399.33,
+    "cost": 14166.35,
     "gp_pct": 8.0,
-    "transactions": 121,
-    "vs_yesterday": -11671.17
+    "transactions": 122,
+    "vs_yesterday": -11621.17
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 594870.68,
-    "cost": 541333.92,
+    "revenue": 594920.68,
+    "cost": 541377.25,
     "gp_pct": 9.0,
-    "transactions": 5703,
+    "transactions": 5704,
     "days_elapsed": 26
   },
   "latest_cashup": {
@@ -486,9 +486,9 @@
     },
     {
       "date": "2026-06-26",
-      "revenue": 15349.33,
-      "cost": 14123.02,
-      "transactions": 121,
+      "revenue": 15399.33,
+      "cost": 14166.35,
+      "transactions": 122,
       "gp_pct": 8.0
     }
   ],
@@ -616,10 +616,10 @@
     {
       "hour": 15,
       "label": "15:00",
-      "revenue": 1656.0,
-      "cost": 1441.77,
+      "revenue": 1706.0,
+      "cost": 1485.1,
       "gp_pct": 12.9,
-      "transactions": 15
+      "transactions": 16
     },
     {
       "hour": 16,
@@ -748,8 +748,8 @@
       "desc": "Savanna Dry 500ml",
       "price": 25.0,
       "gp_pct": 13.3,
-      "revenue": 19525.0,
-      "qty_sold": 781.0
+      "revenue": 19575.0,
+      "qty_sold": 783.0
     },
     {
       "internal": 238,
@@ -851,9 +851,9 @@
   "cashier_summary": [
     {
       "cashier": "Thabiso",
-      "revenue": 416612.9,
-      "cost": 384428.56,
-      "transactions": 3928,
+      "revenue": 416662.9,
+      "cost": 384471.89,
+      "transactions": 3929,
       "gp_pct": 7.7
     },
     {
