@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-26T21:14:36.676921",
+    "generated_at": "2026-06-26T21:21:06.433848",
     "generated_date": "2026-06-26",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-26",
-    "revenue": 42948.17,
-    "cost": 42487.52,
-    "gp_pct": 1.1,
-    "transactions": 330,
-    "vs_yesterday": 15927.67
+    "revenue": 43357.17,
+    "cost": 42820.14,
+    "gp_pct": 1.2,
+    "transactions": 335,
+    "vs_yesterday": 16336.67
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 622469.52,
-    "cost": 601647.42,
-    "gp_pct": 3.3,
-    "transactions": 5912,
+    "revenue": 622878.52,
+    "cost": 601980.04,
+    "gp_pct": 3.4,
+    "transactions": 5917,
     "days_elapsed": 26
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-26",
-      "revenue": 42948.17,
-      "cost": 42487.52,
-      "transactions": 330,
-      "gp_pct": 1.1
+      "revenue": 43357.17,
+      "cost": 42820.14,
+      "transactions": 335,
+      "gp_pct": 1.2
     }
   ],
   "hourly_today": [
@@ -664,10 +664,10 @@
     {
       "hour": 21,
       "label": "21:00",
-      "revenue": 2669.0,
-      "cost": 3799.09,
-      "gp_pct": -42.3,
-      "transactions": 13
+      "revenue": 3078.0,
+      "cost": 4129.33,
+      "gp_pct": -34.2,
+      "transactions": 18
     },
     {
       "hour": 22,
@@ -692,8 +692,8 @@
       "desc": "Carling Black Label 750ml",
       "price": 25.0,
       "gp_pct": 24.3,
-      "revenue": 193989.7,
-      "qty_sold": 8942.0
+      "revenue": 194039.7,
+      "qty_sold": 8944.0
     },
     {
       "internal": 171,
@@ -828,8 +828,8 @@
       "desc": "Braaiwors",
       "price": 35.0,
       "gp_pct": 28.6,
-      "revenue": 11355.0,
-      "qty_sold": 364.0
+      "revenue": 11390.0,
+      "qty_sold": 365.0
     },
     {
       "internal": 134,
@@ -851,9 +851,9 @@
   "cashier_summary": [
     {
       "cashier": "Thabiso",
-      "revenue": 444211.74,
-      "cost": 438798.05,
-      "transactions": 4137,
+      "revenue": 444620.74,
+      "cost": 439130.67,
+      "transactions": 4142,
       "gp_pct": 1.2
     },
     {
@@ -36679,6 +36679,24 @@
       "desc": "Braaiwors",
       "amount": 60.0,
       "gp_pct": 28.6,
+      "points": 1,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 517705,
+      "date": "2026-06-26",
+      "desc": "Brutal Fruit Ruby Apple 500ml",
+      "amount": 125.0,
+      "gp_pct": 28.7,
+      "points": 2,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 517705,
+      "date": "2026-06-26",
+      "desc": "Carling Black Label 750ml",
+      "amount": 50.0,
+      "gp_pct": 24.3,
       "points": 1,
       "cashier": "Thabiso"
     }
