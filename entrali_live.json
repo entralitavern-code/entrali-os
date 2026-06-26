@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-27T01:38:50.655145",
+    "generated_at": "2026-06-27T01:45:16.530137",
     "generated_date": "2026-06-27",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-27",
-    "revenue": 2113.0,
-    "cost": 2500.19,
-    "gp_pct": -18.3,
-    "transactions": 42,
-    "vs_yesterday": -50516.09
+    "revenue": 2139.0,
+    "cost": 2519.4,
+    "gp_pct": -17.8,
+    "transactions": 44,
+    "vs_yesterday": -50490.09
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 634263.44,
-    "cost": 616127.99,
+    "revenue": 634289.44,
+    "cost": 616147.19,
     "gp_pct": 2.9,
-    "transactions": 6072,
+    "transactions": 6074,
     "days_elapsed": 27
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-27",
-      "revenue": 2113.0,
-      "cost": 2500.19,
-      "transactions": 42,
-      "gp_pct": -18.3
+      "revenue": 2139.0,
+      "cost": 2519.4,
+      "transactions": 44,
+      "gp_pct": -17.8
     }
   ],
   "hourly_today": [
@@ -504,10 +504,10 @@
     {
       "hour": 1,
       "label": "01:00",
-      "revenue": 323.0,
-      "cost": 242.9,
-      "gp_pct": 24.8,
-      "transactions": 10
+      "revenue": 349.0,
+      "cost": 262.11,
+      "gp_pct": 24.9,
+      "transactions": 12
     },
     {
       "hour": 2,
@@ -836,8 +836,8 @@
       "desc": "Castle Lager 750ml",
       "price": 20.0,
       "gp_pct": 17.1,
-      "revenue": 10431.57,
-      "qty_sold": 522.0
+      "revenue": 10451.57,
+      "qty_sold": 523.0
     },
     {
       "internal": 224,
@@ -851,9 +851,9 @@
   "cashier_summary": [
     {
       "cashier": "Thabiso",
-      "revenue": 442690.16,
-      "cost": 439651.75,
-      "transactions": 4191,
+      "revenue": 442716.16,
+      "cost": 439670.95,
+      "transactions": 4193,
       "gp_pct": 0.7
     },
     {
@@ -1101,7 +1101,7 @@
       "price": 2.0,
       "cost": 0.875,
       "gp_pct": 56.2,
-      "qty": -78.0,
+      "qty": -81.0,
       "minimum": 0.0,
       "maximum": 0.0,
       "on_promo": false,
