@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-26T18:26:18.578729",
+    "generated_at": "2026-06-26T18:32:40.637819",
     "generated_date": "2026-06-26",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-26",
-    "revenue": 26904.33,
-    "cost": 25912.5,
-    "gp_pct": 3.7,
-    "transactions": 202,
-    "vs_yesterday": -116.17
+    "revenue": 27524.33,
+    "cost": 26452.54,
+    "gp_pct": 3.9,
+    "transactions": 206,
+    "vs_yesterday": 503.83
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 606425.68,
-    "cost": 585072.4,
+    "revenue": 607045.68,
+    "cost": 585612.44,
     "gp_pct": 3.5,
-    "transactions": 5784,
+    "transactions": 5788,
     "days_elapsed": 26
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-26",
-      "revenue": 26904.33,
-      "cost": 25912.5,
-      "transactions": 202,
-      "gp_pct": 3.7
+      "revenue": 27524.33,
+      "cost": 26452.54,
+      "transactions": 206,
+      "gp_pct": 3.9
     }
   ],
   "hourly_today": [
@@ -640,10 +640,10 @@
     {
       "hour": 18,
       "label": "18:00",
-      "revenue": 1625.0,
-      "cost": 2203.45,
-      "gp_pct": -35.6,
-      "transactions": 14
+      "revenue": 2245.0,
+      "cost": 2743.49,
+      "gp_pct": -22.2,
+      "transactions": 18
     },
     {
       "hour": 19,
@@ -740,8 +740,8 @@
       "desc": "Commando Brandy 750ml",
       "price": 200.0,
       "gp_pct": 10.5,
-      "revenue": 21979.17,
-      "qty_sold": 110.0
+      "revenue": 22179.17,
+      "qty_sold": 111.0
     },
     {
       "internal": 161,
@@ -851,9 +851,9 @@
   "cashier_summary": [
     {
       "cashier": "Thabiso",
-      "revenue": 428167.9,
-      "cost": 422223.04,
-      "transactions": 4009,
+      "revenue": 428787.9,
+      "cost": 422763.08,
+      "transactions": 4013,
       "gp_pct": 1.4
     },
     {
@@ -36119,6 +36119,15 @@
       "desc": "Sedgwicks Old Brown Sherry 750ml",
       "amount": 100.0,
       "gp_pct": 23.3,
+      "points": 2,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 517576,
+      "date": "2026-06-26",
+      "desc": "Heineken 330ml",
+      "amount": 110.0,
+      "gp_pct": 28.1,
       "points": 2,
       "cashier": "Thabiso"
     }
