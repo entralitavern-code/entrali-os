@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-26T20:55:13.163489",
+    "generated_at": "2026-06-26T21:01:40.875150",
     "generated_date": "2026-06-26",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-26",
-    "revenue": 39184.17,
-    "cost": 37733.66,
-    "gp_pct": 3.7,
-    "transactions": 315,
-    "vs_yesterday": 12163.67
+    "revenue": 40279.17,
+    "cost": 38667.6,
+    "gp_pct": 4.0,
+    "transactions": 317,
+    "vs_yesterday": 13258.67
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 618705.52,
-    "cost": 596893.55,
+    "revenue": 619800.52,
+    "cost": 597827.5,
     "gp_pct": 3.5,
-    "transactions": 5897,
+    "transactions": 5899,
     "days_elapsed": 26
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-26",
-      "revenue": 39184.17,
-      "cost": 37733.66,
-      "transactions": 315,
-      "gp_pct": 3.7
+      "revenue": 40279.17,
+      "cost": 38667.6,
+      "transactions": 317,
+      "gp_pct": 4.0
     }
   ],
   "hourly_today": [
@@ -656,10 +656,10 @@
     {
       "hour": 20,
       "label": "20:00",
-      "revenue": 4425.84,
-      "cost": 4474.07,
-      "gp_pct": -1.1,
-      "transactions": 42
+      "revenue": 5520.84,
+      "cost": 5408.01,
+      "gp_pct": 2.0,
+      "transactions": 44
     },
     {
       "hour": 21,
@@ -740,8 +740,8 @@
       "desc": "Commando Brandy 750ml",
       "price": 200.0,
       "gp_pct": 10.5,
-      "revenue": 22579.17,
-      "qty_sold": 113.0
+      "revenue": 22779.17,
+      "qty_sold": 114.0
     },
     {
       "internal": 161,
@@ -792,20 +792,20 @@
       "qty_sold": 76.0
     },
     {
+      "internal": 599,
+      "desc": "2Bernini Classic 500ml",
+      "price": 25.0,
+      "gp_pct": 38.4,
+      "revenue": 12705.0,
+      "qty_sold": 666.0
+    },
+    {
       "internal": 712,
       "desc": "Bernini Mimosa 500ml",
       "price": 25.0,
       "gp_pct": 33.4,
       "revenue": 12640.0,
       "qty_sold": 652.0
-    },
-    {
-      "internal": 599,
-      "desc": "2Bernini Classic 500ml",
-      "price": 25.0,
-      "gp_pct": 38.4,
-      "revenue": 12585.0,
-      "qty_sold": 660.0
     },
     {
       "internal": 184,
@@ -851,9 +851,9 @@
   "cashier_summary": [
     {
       "cashier": "Thabiso",
-      "revenue": 440447.74,
-      "cost": 434044.19,
-      "transactions": 4122,
+      "revenue": 441542.74,
+      "cost": 434978.13,
+      "transactions": 4124,
       "gp_pct": 1.5
     },
     {
@@ -4814,6 +4814,25 @@
       "days_since_sold": 2085,
       "lastsold": "2020-10-10",
       "lastbuy": "2020-09-27",
+      "loyalty_eligible": false,
+      "alert": "OUT OF STOCK"
+    },
+    {
+      "internal": 337,
+      "part_no": "84111",
+      "desc": "Krone Night Nec 750ml",
+      "group": "16",
+      "price": 195.0,
+      "cost": 185.0,
+      "gp_pct": 5.1,
+      "qty": 0.0,
+      "minimum": 0.0,
+      "maximum": 0.0,
+      "on_promo": false,
+      "promo_price": null,
+      "days_since_sold": 0,
+      "lastsold": "2026-06-26",
+      "lastbuy": "2025-12-30",
       "loyalty_eligible": false,
       "alert": "OUT OF STOCK"
     },
@@ -36580,13 +36599,40 @@
       "gp_pct": 24.3,
       "points": 1,
       "cashier": "Thabiso"
+    },
+    {
+      "number": 517688,
+      "date": "2026-06-26",
+      "desc": "Chiller's Punch Tequila Sunrise",
+      "amount": 140.0,
+      "gp_pct": 25.2,
+      "points": 2,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 517688,
+      "date": "2026-06-26",
+      "desc": "2Bernini Classic 500ml",
+      "amount": 120.0,
+      "gp_pct": 38.4,
+      "points": 2,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 517689,
+      "date": "2026-06-26",
+      "desc": "Chicken Wings (sauce)",
+      "amount": 200.0,
+      "gp_pct": 21.1,
+      "points": 4,
+      "cashier": "Thabiso"
     }
   ],
   "stock_summary": {
     "total_products": 743,
-    "out_of_stock": 469,
+    "out_of_stock": 470,
     "on_promo": 1,
-    "dead_stock_30d": 77,
+    "dead_stock_30d": 76,
     "loyalty_eligible": 282
   }
 }
