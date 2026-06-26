@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-26T21:27:54.031824",
+    "generated_at": "2026-06-26T21:34:28.038191",
     "generated_date": "2026-06-26",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-26",
-    "revenue": 43502.17,
-    "cost": 43855.36,
-    "gp_pct": -0.8,
-    "transactions": 339,
-    "vs_yesterday": 16481.67
+    "revenue": 43765.17,
+    "cost": 43967.86,
+    "gp_pct": -0.5,
+    "transactions": 342,
+    "vs_yesterday": 16744.67
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 623023.52,
-    "cost": 603015.26,
+    "revenue": 623286.52,
+    "cost": 603127.76,
     "gp_pct": 3.2,
-    "transactions": 5921,
+    "transactions": 5924,
     "days_elapsed": 26
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-26",
-      "revenue": 43502.17,
-      "cost": 43855.36,
-      "transactions": 339,
-      "gp_pct": -0.8
+      "revenue": 43765.17,
+      "cost": 43967.86,
+      "transactions": 342,
+      "gp_pct": -0.5
     }
   ],
   "hourly_today": [
@@ -664,10 +664,10 @@
     {
       "hour": 21,
       "label": "21:00",
-      "revenue": 3223.0,
-      "cost": 4250.29,
-      "gp_pct": -31.9,
-      "transactions": 22
+      "revenue": 3486.0,
+      "cost": 5233.6,
+      "gp_pct": -50.1,
+      "transactions": 25
     },
     {
       "hour": 22,
@@ -828,8 +828,8 @@
       "desc": "Braaiwors",
       "price": 35.0,
       "gp_pct": 28.6,
-      "revenue": 11390.0,
-      "qty_sold": 365.0
+      "revenue": 11425.0,
+      "qty_sold": 366.0
     },
     {
       "internal": 134,
@@ -851,10 +851,10 @@
   "cashier_summary": [
     {
       "cashier": "Thabiso",
-      "revenue": 444765.74,
-      "cost": 440165.9,
-      "transactions": 4146,
-      "gp_pct": 1.0
+      "revenue": 445028.74,
+      "cost": 440278.4,
+      "transactions": 4149,
+      "gp_pct": 1.1
     },
     {
       "cashier": "Nwabisa",
