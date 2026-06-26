@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-26T13:34:39.462285",
+    "generated_at": "2026-06-26T13:41:14.599955",
     "generated_date": "2026-06-26",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-26",
-    "revenue": 9675.33,
-    "cost": 8983.86,
-    "gp_pct": 7.1,
-    "transactions": 75,
-    "vs_yesterday": -17345.17
+    "revenue": 11334.33,
+    "cost": 10520.34,
+    "gp_pct": 7.2,
+    "transactions": 80,
+    "vs_yesterday": -15686.17
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 589196.68,
-    "cost": 536199.44,
+    "revenue": 590855.68,
+    "cost": 537735.92,
     "gp_pct": 9.0,
-    "transactions": 5657,
+    "transactions": 5662,
     "days_elapsed": 26
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-26",
-      "revenue": 9675.33,
-      "cost": 8983.86,
-      "transactions": 75,
-      "gp_pct": 7.1
+      "revenue": 11334.33,
+      "cost": 10520.34,
+      "transactions": 80,
+      "gp_pct": 7.2
     }
   ],
   "hourly_today": [
@@ -600,10 +600,10 @@
     {
       "hour": 13,
       "label": "13:00",
-      "revenue": 1263.0,
-      "cost": 1087.65,
-      "gp_pct": 13.9,
-      "transactions": 14
+      "revenue": 2922.0,
+      "cost": 2624.13,
+      "gp_pct": 10.2,
+      "transactions": 19
     },
     {
       "hour": 14,
@@ -692,16 +692,16 @@
       "desc": "Carling Black Label 750ml",
       "price": 25.0,
       "gp_pct": 24.3,
-      "revenue": 188849.7,
-      "qty_sold": 8714.0
+      "revenue": 189143.7,
+      "qty_sold": 8728.0
     },
     {
       "internal": 171,
       "desc": "Paarl Perle' 1L",
       "price": 45.0,
       "gp_pct": 21.9,
-      "revenue": 71375.5,
-      "qty_sold": 1787.0
+      "revenue": 72320.5,
+      "qty_sold": 1812.0
     },
     {
       "internal": 188,
@@ -728,20 +728,20 @@
       "qty_sold": 138.0
     },
     {
+      "internal": 13,
+      "desc": "Commando Brandy 750ml",
+      "price": 200.0,
+      "gp_pct": 10.5,
+      "revenue": 21979.17,
+      "qty_sold": 110.0
+    },
+    {
       "internal": 439,
       "desc": "4th Street Sweet L/H 5l",
       "price": 180.0,
       "gp_pct": 11.9,
       "revenue": 21780.0,
       "qty_sold": 121.0
-    },
-    {
-      "internal": 13,
-      "desc": "Commando Brandy 750ml",
-      "price": 200.0,
-      "gp_pct": 10.5,
-      "revenue": 21779.17,
-      "qty_sold": 109.0
     },
     {
       "internal": 161,
@@ -764,8 +764,8 @@
       "desc": "Heineken 650ml",
       "price": 25.0,
       "gp_pct": 10.3,
-      "revenue": 17125.0,
-      "qty_sold": 685.0
+      "revenue": 17325.0,
+      "qty_sold": 693.0
     },
     {
       "internal": 169,
@@ -858,9 +858,9 @@
     },
     {
       "cashier": "Nwabisa",
-      "revenue": 384223.32,
-      "cost": 338056.9,
-      "transactions": 3618,
+      "revenue": 385882.32,
+      "cost": 339593.38,
+      "transactions": 3623,
       "gp_pct": 12.0
     }
   ],
@@ -1071,6 +1071,25 @@
       "days_since_sold": 2,
       "lastsold": "2026-06-24",
       "lastbuy": "2025-08-31",
+      "loyalty_eligible": true,
+      "alert": "OUT OF STOCK"
+    },
+    {
+      "internal": 171,
+      "part_no": "232",
+      "desc": "Paarl Perle' 1L",
+      "group": "2",
+      "price": 45.0,
+      "cost": 35.1667,
+      "gp_pct": 21.9,
+      "qty": -47.0,
+      "minimum": 0.0,
+      "maximum": 60.0,
+      "on_promo": false,
+      "promo_price": null,
+      "days_since_sold": 0,
+      "lastsold": "2026-06-26",
+      "lastbuy": "2026-06-11",
       "loyalty_eligible": true,
       "alert": "OUT OF STOCK"
     },
@@ -1299,25 +1318,6 @@
       "days_since_sold": 53,
       "lastsold": "2026-05-04",
       "lastbuy": "2020-02-25",
-      "loyalty_eligible": true,
-      "alert": "OUT OF STOCK"
-    },
-    {
-      "internal": 171,
-      "part_no": "232",
-      "desc": "Paarl Perle' 1L",
-      "group": "2",
-      "price": 45.0,
-      "cost": 35.1667,
-      "gp_pct": 21.9,
-      "qty": -22.0,
-      "minimum": 0.0,
-      "maximum": 60.0,
-      "on_promo": false,
-      "promo_price": null,
-      "days_since_sold": 0,
-      "lastsold": "2026-06-26",
-      "lastbuy": "2026-06-11",
       "loyalty_eligible": true,
       "alert": "OUT OF STOCK"
     },
@@ -35580,6 +35580,33 @@
       "amount": 100.0,
       "gp_pct": 39.4,
       "points": 2,
+      "cashier": "Nwabisa"
+    },
+    {
+      "number": 517451,
+      "date": "2026-06-26",
+      "desc": "Carling Black Label 750ml",
+      "amount": 50.0,
+      "gp_pct": 24.3,
+      "points": 1,
+      "cashier": "Nwabisa"
+    },
+    {
+      "number": 517452,
+      "date": "2026-06-26",
+      "desc": "Carling Black Label 750ml",
+      "amount": 244.0,
+      "gp_pct": 24.3,
+      "points": 4,
+      "cashier": "Nwabisa"
+    },
+    {
+      "number": 517452,
+      "date": "2026-06-26",
+      "desc": "Paarl Perle' 1L",
+      "amount": 900.0,
+      "gp_pct": 21.9,
+      "points": 18,
       "cashier": "Nwabisa"
     }
   ],
