@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-26T12:36:16.961268",
+    "generated_at": "2026-06-26T12:43:03.784112",
     "generated_date": "2026-06-26",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-26",
-    "revenue": 7192.33,
-    "cost": 6736.32,
-    "gp_pct": 6.3,
-    "transactions": 57,
-    "vs_yesterday": -19828.17
+    "revenue": 7372.33,
+    "cost": 6894.82,
+    "gp_pct": 6.5,
+    "transactions": 58,
+    "vs_yesterday": -19648.17
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 586713.68,
-    "cost": 533951.9,
+    "revenue": 586893.68,
+    "cost": 534110.4,
     "gp_pct": 9.0,
-    "transactions": 5639,
+    "transactions": 5640,
     "days_elapsed": 26
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-26",
-      "revenue": 7192.33,
-      "cost": 6736.32,
-      "transactions": 57,
-      "gp_pct": 6.3
+      "revenue": 7372.33,
+      "cost": 6894.82,
+      "transactions": 58,
+      "gp_pct": 6.5
     }
   ],
   "hourly_today": [
@@ -592,10 +592,10 @@
     {
       "hour": 12,
       "label": "12:00",
-      "revenue": 1284.0,
-      "cost": 1197.38,
-      "gp_pct": 6.7,
-      "transactions": 11
+      "revenue": 1464.0,
+      "cost": 1355.88,
+      "gp_pct": 7.4,
+      "transactions": 12
     },
     {
       "hour": 13,
@@ -732,8 +732,8 @@
       "desc": "4th Street Sweet L/H 5l",
       "price": 180.0,
       "gp_pct": 11.9,
-      "revenue": 21600.0,
-      "qty_sold": 120.0
+      "revenue": 21780.0,
+      "qty_sold": 121.0
     },
     {
       "internal": 13,
@@ -858,9 +858,9 @@
     },
     {
       "cashier": "Nwabisa",
-      "revenue": 381740.32,
-      "cost": 335809.36,
-      "transactions": 3600,
+      "revenue": 381920.32,
+      "cost": 335967.86,
+      "transactions": 3601,
       "gp_pct": 12.0
     }
   ],
