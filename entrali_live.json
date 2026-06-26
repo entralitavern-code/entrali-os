@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-27T01:19:32.227028",
+    "generated_at": "2026-06-27T01:26:03.614991",
     "generated_date": "2026-06-27",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-27",
-    "revenue": 1997.0,
-    "cost": 2413.24,
-    "gp_pct": -20.8,
-    "transactions": 37,
-    "vs_yesterday": -50632.09
+    "revenue": 2084.0,
+    "cost": 2479.53,
+    "gp_pct": -19.0,
+    "transactions": 40,
+    "vs_yesterday": -50545.09
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 634147.44,
-    "cost": 616041.04,
+    "revenue": 634234.44,
+    "cost": 616107.32,
     "gp_pct": 2.9,
-    "transactions": 6067,
+    "transactions": 6070,
     "days_elapsed": 27
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-27",
-      "revenue": 1997.0,
-      "cost": 2413.24,
-      "transactions": 37,
-      "gp_pct": -20.8
+      "revenue": 2084.0,
+      "cost": 2479.53,
+      "transactions": 40,
+      "gp_pct": -19.0
     }
   ],
   "hourly_today": [
@@ -504,10 +504,10 @@
     {
       "hour": 1,
       "label": "01:00",
-      "revenue": 207.0,
-      "cost": 155.95,
-      "gp_pct": 24.7,
-      "transactions": 5
+      "revenue": 294.0,
+      "cost": 222.24,
+      "gp_pct": 24.4,
+      "transactions": 8
     },
     {
       "hour": 2,
@@ -796,8 +796,8 @@
       "desc": "2Bernini Classic 500ml",
       "price": 25.0,
       "gp_pct": 38.4,
-      "revenue": 13090.0,
-      "qty_sold": 685.0
+      "revenue": 13115.0,
+      "qty_sold": 686.0
     },
     {
       "internal": 712,
@@ -828,8 +828,8 @@
       "desc": "Braaiwors",
       "price": 35.0,
       "gp_pct": 28.6,
-      "revenue": 11685.0,
-      "qty_sold": 374.0
+      "revenue": 11745.0,
+      "qty_sold": 376.0
     },
     {
       "internal": 134,
@@ -851,9 +851,9 @@
   "cashier_summary": [
     {
       "cashier": "Thabiso",
-      "revenue": 442574.16,
-      "cost": 439564.79,
-      "transactions": 4186,
+      "revenue": 442661.16,
+      "cost": 439631.08,
+      "transactions": 4189,
       "gp_pct": 0.7
     },
     {
@@ -1101,7 +1101,7 @@
       "price": 2.0,
       "cost": 0.875,
       "gp_pct": 56.2,
-      "qty": -75.0,
+      "qty": -76.0,
       "minimum": 0.0,
       "maximum": 0.0,
       "on_promo": false,
@@ -36671,6 +36671,15 @@
       "desc": "Carling Black Label 750ml",
       "amount": 50.0,
       "gp_pct": 24.3,
+      "points": 1,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 517858,
+      "date": "2026-06-27",
+      "desc": "Braaiwors",
+      "amount": 60.0,
+      "gp_pct": 28.6,
       "points": 1,
       "cashier": "Thabiso"
     }
