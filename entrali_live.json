@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-27T00:09:05.115282",
+    "generated_at": "2026-06-27T00:15:32.383887",
     "generated_date": "2026-06-27",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-27",
-    "revenue": 378.0,
-    "cost": 1096.43,
-    "gp_pct": -190.1,
-    "transactions": 8,
-    "vs_yesterday": -52251.09
+    "revenue": 564.0,
+    "cost": 1247.06,
+    "gp_pct": -121.1,
+    "transactions": 11,
+    "vs_yesterday": -52065.09
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 632528.44,
-    "cost": 614724.22,
+    "revenue": 632714.44,
+    "cost": 614874.85,
     "gp_pct": 2.8,
-    "transactions": 6038,
+    "transactions": 6041,
     "days_elapsed": 27
   },
   "latest_cashup": {
@@ -486,20 +486,20 @@
     },
     {
       "date": "2026-06-27",
-      "revenue": 378.0,
-      "cost": 1096.43,
-      "transactions": 8,
-      "gp_pct": -190.1
+      "revenue": 564.0,
+      "cost": 1247.06,
+      "transactions": 11,
+      "gp_pct": -121.1
     }
   ],
   "hourly_today": [
     {
       "hour": 0,
       "label": "00:00",
-      "revenue": 378.0,
-      "cost": 1094.68,
-      "gp_pct": -189.6,
-      "transactions": 8
+      "revenue": 564.0,
+      "cost": 1247.06,
+      "gp_pct": -121.1,
+      "transactions": 11
     },
     {
       "hour": 1,
@@ -756,8 +756,8 @@
       "desc": "4th Street Sweet Red 5L",
       "price": 180.0,
       "gp_pct": 16.8,
-      "revenue": 20160.0,
-      "qty_sold": 112.0
+      "revenue": 20340.0,
+      "qty_sold": 113.0
     },
     {
       "internal": 231,
@@ -851,9 +851,9 @@
   "cashier_summary": [
     {
       "cashier": "Thabiso",
-      "revenue": 440955.16,
-      "cost": 438247.98,
-      "transactions": 4157,
+      "revenue": 441141.16,
+      "cost": 438398.61,
+      "transactions": 4160,
       "gp_pct": 0.6
     },
     {
@@ -1170,6 +1170,25 @@
       "alert": "OUT OF STOCK"
     },
     {
+      "internal": 126,
+      "part_no": "354",
+      "desc": "Savannah",
+      "group": "13",
+      "price": 2.0,
+      "cost": 0.875,
+      "gp_pct": 56.2,
+      "qty": -42.0,
+      "minimum": 0.0,
+      "maximum": 0.0,
+      "on_promo": false,
+      "promo_price": null,
+      "days_since_sold": 0,
+      "lastsold": "2026-06-27",
+      "lastbuy": "2026-05-02",
+      "loyalty_eligible": true,
+      "alert": "OUT OF STOCK"
+    },
+    {
       "internal": 215,
       "part_no": "151",
       "desc": "Carrier Bag Midi",
@@ -1185,25 +1204,6 @@
       "days_since_sold": 41,
       "lastsold": "2026-05-17",
       "lastbuy": "2024-12-10",
-      "loyalty_eligible": true,
-      "alert": "OUT OF STOCK"
-    },
-    {
-      "internal": 126,
-      "part_no": "354",
-      "desc": "Savannah",
-      "group": "13",
-      "price": 2.0,
-      "cost": 0.875,
-      "gp_pct": 56.2,
-      "qty": -39.0,
-      "minimum": 0.0,
-      "maximum": 0.0,
-      "on_promo": false,
-      "promo_price": null,
-      "days_since_sold": 0,
-      "lastsold": "2026-06-27",
-      "lastbuy": "2026-05-02",
       "loyalty_eligible": true,
       "alert": "OUT OF STOCK"
     },
