@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-26T21:21:06.433848",
+    "generated_at": "2026-06-26T21:27:54.031824",
     "generated_date": "2026-06-26",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-26",
-    "revenue": 43357.17,
-    "cost": 42820.14,
-    "gp_pct": 1.2,
-    "transactions": 335,
-    "vs_yesterday": 16336.67
+    "revenue": 43502.17,
+    "cost": 43855.36,
+    "gp_pct": -0.8,
+    "transactions": 339,
+    "vs_yesterday": 16481.67
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 622878.52,
-    "cost": 601980.04,
-    "gp_pct": 3.4,
-    "transactions": 5917,
+    "revenue": 623023.52,
+    "cost": 603015.26,
+    "gp_pct": 3.2,
+    "transactions": 5921,
     "days_elapsed": 26
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-26",
-      "revenue": 43357.17,
-      "cost": 42820.14,
-      "transactions": 335,
-      "gp_pct": 1.2
+      "revenue": 43502.17,
+      "cost": 43855.36,
+      "transactions": 339,
+      "gp_pct": -0.8
     }
   ],
   "hourly_today": [
@@ -664,10 +664,10 @@
     {
       "hour": 21,
       "label": "21:00",
-      "revenue": 3078.0,
-      "cost": 4129.33,
-      "gp_pct": -34.2,
-      "transactions": 18
+      "revenue": 3223.0,
+      "cost": 4250.29,
+      "gp_pct": -31.9,
+      "transactions": 22
     },
     {
       "hour": 22,
@@ -780,8 +780,8 @@
       "desc": "KWV 3yrs 750ml",
       "price": 200.0,
       "gp_pct": -359.0,
-      "revenue": 14420.0,
-      "qty_sold": 73.0
+      "revenue": 14600.0,
+      "qty_sold": 74.0
     },
     {
       "internal": 183,
@@ -851,10 +851,10 @@
   "cashier_summary": [
     {
       "cashier": "Thabiso",
-      "revenue": 444620.74,
-      "cost": 439130.67,
-      "transactions": 4142,
-      "gp_pct": 1.2
+      "revenue": 444765.74,
+      "cost": 440165.9,
+      "transactions": 4146,
+      "gp_pct": 1.0
     },
     {
       "cashier": "Nwabisa",
@@ -1044,7 +1044,7 @@
       "price": 10.0,
       "cost": 7.61,
       "gp_pct": 23.9,
-      "qty": -188.0,
+      "qty": -190.0,
       "minimum": 0.0,
       "maximum": 0.0,
       "on_promo": false,
@@ -1113,6 +1113,25 @@
       "alert": "OUT OF STOCK"
     },
     {
+      "internal": 399,
+      "part_no": "4061",
+      "desc": "Drinking Glass Zombie",
+      "group": "10",
+      "price": 10.0,
+      "cost": 7.99,
+      "gp_pct": 20.1,
+      "qty": -45.0,
+      "minimum": 0.0,
+      "maximum": 0.0,
+      "on_promo": false,
+      "promo_price": null,
+      "days_since_sold": 0,
+      "lastsold": "2026-06-26",
+      "lastbuy": "2025-12-26",
+      "loyalty_eligible": true,
+      "alert": "OUT OF STOCK"
+    },
+    {
       "internal": 512,
       "part_no": "1712",
       "desc": "Jameson 25ml",
@@ -1129,25 +1148,6 @@
       "lastsold": "2026-06-14",
       "lastbuy": null,
       "loyalty_eligible": false,
-      "alert": "OUT OF STOCK"
-    },
-    {
-      "internal": 399,
-      "part_no": "4061",
-      "desc": "Drinking Glass Zombie",
-      "group": "10",
-      "price": 10.0,
-      "cost": 7.99,
-      "gp_pct": 20.1,
-      "qty": -44.0,
-      "minimum": 0.0,
-      "maximum": 0.0,
-      "on_promo": false,
-      "promo_price": null,
-      "days_since_sold": 0,
-      "lastsold": "2026-06-26",
-      "lastbuy": "2025-12-26",
-      "loyalty_eligible": true,
       "alert": "OUT OF STOCK"
     },
     {
