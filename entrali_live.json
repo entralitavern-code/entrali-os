@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-26T15:05:33.272263",
+    "generated_at": "2026-06-26T15:12:04.316794",
     "generated_date": "2026-06-26",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-26",
-    "revenue": 13918.33,
-    "cost": 12893.84,
-    "gp_pct": 7.4,
-    "transactions": 108,
-    "vs_yesterday": -13102.17
+    "revenue": 14028.33,
+    "cost": 12963.5,
+    "gp_pct": 7.6,
+    "transactions": 111,
+    "vs_yesterday": -12992.17
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 593439.68,
-    "cost": 540104.73,
+    "revenue": 593549.68,
+    "cost": 540174.4,
     "gp_pct": 9.0,
-    "transactions": 5690,
+    "transactions": 5693,
     "days_elapsed": 26
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-26",
-      "revenue": 13918.33,
-      "cost": 12893.84,
-      "transactions": 108,
-      "gp_pct": 7.4
+      "revenue": 14028.33,
+      "cost": 12963.5,
+      "transactions": 111,
+      "gp_pct": 7.6
     }
   ],
   "hourly_today": [
@@ -616,10 +616,10 @@
     {
       "hour": 15,
       "label": "15:00",
-      "revenue": 225.0,
-      "cost": 193.67,
-      "gp_pct": 13.9,
-      "transactions": 2
+      "revenue": 335.0,
+      "cost": 282.25,
+      "gp_pct": 15.7,
+      "transactions": 5
     },
     {
       "hour": 16,
@@ -700,8 +700,8 @@
       "desc": "Paarl Perle' 1L",
       "price": 45.0,
       "gp_pct": 21.9,
-      "revenue": 72455.5,
-      "qty_sold": 1815.0
+      "revenue": 72500.5,
+      "qty_sold": 1816.0
     },
     {
       "internal": 188,
@@ -858,9 +858,9 @@
     },
     {
       "cashier": "Nwabisa",
-      "revenue": 388466.32,
-      "cost": 341963.48,
-      "transactions": 3651,
+      "revenue": 388576.32,
+      "cost": 342033.14,
+      "transactions": 3654,
       "gp_pct": 12.0
     }
   ],
@@ -1082,7 +1082,7 @@
       "price": 45.0,
       "cost": 35.1667,
       "gp_pct": 21.9,
-      "qty": -50.0,
+      "qty": -51.0,
       "minimum": 0.0,
       "maximum": 60.0,
       "on_promo": false,
