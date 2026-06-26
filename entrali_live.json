@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-26T16:17:05.045073",
+    "generated_at": "2026-06-26T16:23:29.015178",
     "generated_date": "2026-06-26",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-26",
-    "revenue": 17669.33,
-    "cost": 16247.47,
-    "gp_pct": 8.0,
-    "transactions": 142,
-    "vs_yesterday": -9351.17
+    "revenue": 17776.33,
+    "cost": 16336.75,
+    "gp_pct": 8.1,
+    "transactions": 145,
+    "vs_yesterday": -9244.17
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 597190.68,
-    "cost": 543458.37,
+    "revenue": 597297.68,
+    "cost": 543547.65,
     "gp_pct": 9.0,
-    "transactions": 5724,
+    "transactions": 5727,
     "days_elapsed": 26
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-26",
-      "revenue": 17669.33,
-      "cost": 16247.47,
-      "transactions": 142,
-      "gp_pct": 8.0
+      "revenue": 17776.33,
+      "cost": 16336.75,
+      "transactions": 145,
+      "gp_pct": 8.1
     }
   ],
   "hourly_today": [
@@ -624,10 +624,10 @@
     {
       "hour": 16,
       "label": "16:00",
-      "revenue": 1525.0,
-      "cost": 1458.39,
-      "gp_pct": 4.4,
-      "transactions": 12
+      "revenue": 1632.0,
+      "cost": 1547.67,
+      "gp_pct": 5.2,
+      "transactions": 15
     },
     {
       "hour": 17,
@@ -772,8 +772,8 @@
       "desc": "Redd's Original 660ml",
       "price": 25.0,
       "gp_pct": 17.0,
-      "revenue": 14923.0,
-      "qty_sold": 625.0
+      "revenue": 14973.0,
+      "qty_sold": 627.0
     },
     {
       "internal": 200,
@@ -851,9 +851,9 @@
   "cashier_summary": [
     {
       "cashier": "Thabiso",
-      "revenue": 418932.9,
-      "cost": 386553.01,
-      "transactions": 3949,
+      "revenue": 419039.9,
+      "cost": 386642.29,
+      "transactions": 3952,
       "gp_pct": 7.7
     },
     {
@@ -1044,7 +1044,7 @@
       "price": 10.0,
       "cost": 7.61,
       "gp_pct": 23.9,
-      "qty": -185.0,
+      "qty": -186.0,
       "minimum": 0.0,
       "maximum": 0.0,
       "on_promo": false,
