@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-26T13:15:18.076951",
+    "generated_at": "2026-06-26T13:21:44.650816",
     "generated_date": "2026-06-26",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-26",
-    "revenue": 8890.33,
-    "cost": 8572.16,
-    "gp_pct": 3.6,
-    "transactions": 69,
-    "vs_yesterday": -18130.17
+    "revenue": 9475.33,
+    "cost": 8807.4,
+    "gp_pct": 7.0,
+    "transactions": 72,
+    "vs_yesterday": -17545.17
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 588411.68,
-    "cost": 535787.74,
-    "gp_pct": 8.9,
-    "transactions": 5651,
+    "revenue": 588996.68,
+    "cost": 536022.98,
+    "gp_pct": 9.0,
+    "transactions": 5654,
     "days_elapsed": 26
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-26",
-      "revenue": 8890.33,
-      "cost": 8572.16,
-      "transactions": 69,
-      "gp_pct": 3.6
+      "revenue": 9475.33,
+      "cost": 8807.4,
+      "transactions": 72,
+      "gp_pct": 7.0
     }
   ],
   "hourly_today": [
@@ -600,10 +600,10 @@
     {
       "hour": 13,
       "label": "13:00",
-      "revenue": 478.0,
-      "cost": 409.79,
+      "revenue": 1063.0,
+      "cost": 911.2,
       "gp_pct": 14.3,
-      "transactions": 8
+      "transactions": 11
     },
     {
       "hour": 14,
@@ -748,8 +748,8 @@
       "desc": "Savanna Dry 500ml",
       "price": 25.0,
       "gp_pct": 13.3,
-      "revenue": 19300.0,
-      "qty_sold": 772.0
+      "revenue": 19450.0,
+      "qty_sold": 778.0
     },
     {
       "internal": 238,
@@ -858,10 +858,10 @@
     },
     {
       "cashier": "Nwabisa",
-      "revenue": 383438.32,
-      "cost": 337645.2,
-      "transactions": 3612,
-      "gp_pct": 11.9
+      "revenue": 384023.32,
+      "cost": 337880.45,
+      "transactions": 3615,
+      "gp_pct": 12.0
     }
   ],
   "low_stock_alerts": [
