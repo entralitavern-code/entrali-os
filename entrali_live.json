@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-27T00:28:16.295535",
+    "generated_at": "2026-06-27T00:34:40.171458",
     "generated_date": "2026-06-27",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-27",
-    "revenue": 922.0,
-    "cost": 1555.05,
-    "gp_pct": -68.7,
-    "transactions": 17,
-    "vs_yesterday": -51707.09
+    "revenue": 1164.0,
+    "cost": 1761.13,
+    "gp_pct": -51.3,
+    "transactions": 20,
+    "vs_yesterday": -51465.09
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 633072.44,
-    "cost": 615182.84,
+    "revenue": 633314.44,
+    "cost": 615388.92,
     "gp_pct": 2.8,
-    "transactions": 6047,
+    "transactions": 6050,
     "days_elapsed": 27
   },
   "latest_cashup": {
@@ -486,20 +486,20 @@
     },
     {
       "date": "2026-06-27",
-      "revenue": 922.0,
-      "cost": 1555.05,
-      "transactions": 17,
-      "gp_pct": -68.7
+      "revenue": 1164.0,
+      "cost": 1761.13,
+      "transactions": 20,
+      "gp_pct": -51.3
     }
   ],
   "hourly_today": [
     {
       "hour": 0,
       "label": "00:00",
-      "revenue": 922.0,
-      "cost": 1555.05,
-      "gp_pct": -68.7,
-      "transactions": 17
+      "revenue": 1164.0,
+      "cost": 1761.13,
+      "gp_pct": -51.3,
+      "transactions": 20
     },
     {
       "hour": 1,
@@ -764,8 +764,8 @@
       "desc": "Heineken 650ml",
       "price": 25.0,
       "gp_pct": 10.3,
-      "revenue": 18300.0,
-      "qty_sold": 732.0
+      "revenue": 18350.0,
+      "qty_sold": 734.0
     },
     {
       "internal": 200,
@@ -851,9 +851,9 @@
   "cashier_summary": [
     {
       "cashier": "Thabiso",
-      "revenue": 441499.16,
-      "cost": 438706.6,
-      "transactions": 4166,
+      "revenue": 441741.16,
+      "cost": 438912.68,
+      "transactions": 4169,
       "gp_pct": 0.6
     },
     {
@@ -1094,6 +1094,25 @@
       "alert": "OUT OF STOCK"
     },
     {
+      "internal": 126,
+      "part_no": "354",
+      "desc": "Savannah",
+      "group": "13",
+      "price": 2.0,
+      "cost": 0.875,
+      "gp_pct": 56.2,
+      "qty": -52.0,
+      "minimum": 0.0,
+      "maximum": 0.0,
+      "on_promo": false,
+      "promo_price": null,
+      "days_since_sold": 0,
+      "lastsold": "2026-06-27",
+      "lastbuy": "2026-05-02",
+      "loyalty_eligible": true,
+      "alert": "OUT OF STOCK"
+    },
+    {
       "internal": 399,
       "part_no": "4061",
       "desc": "Drinking Glass Zombie",
@@ -1109,25 +1128,6 @@
       "days_since_sold": 1,
       "lastsold": "2026-06-26",
       "lastbuy": "2025-12-26",
-      "loyalty_eligible": true,
-      "alert": "OUT OF STOCK"
-    },
-    {
-      "internal": 126,
-      "part_no": "354",
-      "desc": "Savannah",
-      "group": "13",
-      "price": 2.0,
-      "cost": 0.875,
-      "gp_pct": 56.2,
-      "qty": -46.0,
-      "minimum": 0.0,
-      "maximum": 0.0,
-      "on_promo": false,
-      "promo_price": null,
-      "days_since_sold": 0,
-      "lastsold": "2026-06-27",
-      "lastbuy": "2026-05-02",
       "loyalty_eligible": true,
       "alert": "OUT OF STOCK"
     },
