@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-26T14:59:01.241205",
+    "generated_at": "2026-06-26T15:05:33.272263",
     "generated_date": "2026-06-26",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-26",
-    "revenue": 13693.33,
-    "cost": 12681.25,
+    "revenue": 13918.33,
+    "cost": 12893.84,
     "gp_pct": 7.4,
-    "transactions": 106,
-    "vs_yesterday": -13327.17
+    "transactions": 108,
+    "vs_yesterday": -13102.17
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 593214.68,
-    "cost": 539892.15,
+    "revenue": 593439.68,
+    "cost": 540104.73,
     "gp_pct": 9.0,
-    "transactions": 5688,
+    "transactions": 5690,
     "days_elapsed": 26
   },
   "latest_cashup": {
@@ -486,9 +486,9 @@
     },
     {
       "date": "2026-06-26",
-      "revenue": 13693.33,
-      "cost": 12681.25,
-      "transactions": 106,
+      "revenue": 13918.33,
+      "cost": 12893.84,
+      "transactions": 108,
       "gp_pct": 7.4
     }
   ],
@@ -616,10 +616,10 @@
     {
       "hour": 15,
       "label": "15:00",
-      "revenue": 0.0,
-      "cost": 0.0,
-      "gp_pct": 0.0,
-      "transactions": 0
+      "revenue": 225.0,
+      "cost": 193.67,
+      "gp_pct": 13.9,
+      "transactions": 2
     },
     {
       "hour": 16,
@@ -692,16 +692,16 @@
       "desc": "Carling Black Label 750ml",
       "price": 25.0,
       "gp_pct": 24.3,
-      "revenue": 189468.7,
-      "qty_sold": 8741.0
+      "revenue": 189493.7,
+      "qty_sold": 8742.0
     },
     {
       "internal": 171,
       "desc": "Paarl Perle' 1L",
       "price": 45.0,
       "gp_pct": 21.9,
-      "revenue": 72410.5,
-      "qty_sold": 1814.0
+      "revenue": 72455.5,
+      "qty_sold": 1815.0
     },
     {
       "internal": 188,
@@ -858,9 +858,9 @@
     },
     {
       "cashier": "Nwabisa",
-      "revenue": 388241.32,
-      "cost": 341750.89,
-      "transactions": 3649,
+      "revenue": 388466.32,
+      "cost": 341963.48,
+      "transactions": 3651,
       "gp_pct": 12.0
     }
   ],
@@ -1082,7 +1082,7 @@
       "price": 45.0,
       "cost": 35.1667,
       "gp_pct": 21.9,
-      "qty": -49.0,
+      "qty": -50.0,
       "minimum": 0.0,
       "maximum": 60.0,
       "on_promo": false,
