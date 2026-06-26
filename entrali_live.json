@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-26T16:55:51.956779",
+    "generated_at": "2026-06-26T17:02:20.765641",
     "generated_date": "2026-06-26",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-26",
-    "revenue": 19721.33,
-    "cost": 18414.38,
+    "revenue": 19831.33,
+    "cost": 18523.92,
     "gp_pct": 6.6,
-    "transactions": 157,
-    "vs_yesterday": -7299.17
+    "transactions": 159,
+    "vs_yesterday": -7189.17
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 599242.68,
-    "cost": 545625.28,
+    "revenue": 599352.68,
+    "cost": 545734.82,
     "gp_pct": 8.9,
-    "transactions": 5739,
+    "transactions": 5741,
     "days_elapsed": 26
   },
   "latest_cashup": {
@@ -486,9 +486,9 @@
     },
     {
       "date": "2026-06-26",
-      "revenue": 19721.33,
-      "cost": 18414.38,
-      "transactions": 157,
+      "revenue": 19831.33,
+      "cost": 18523.92,
+      "transactions": 159,
       "gp_pct": 6.6
     }
   ],
@@ -624,18 +624,18 @@
     {
       "hour": 16,
       "label": "16:00",
-      "revenue": 3577.0,
-      "cost": 3625.29,
+      "revenue": 3667.0,
+      "cost": 3717.75,
       "gp_pct": -1.4,
-      "transactions": 27
+      "transactions": 28
     },
     {
       "hour": 17,
       "label": "17:00",
-      "revenue": 0.0,
-      "cost": 0.0,
-      "gp_pct": 0.0,
-      "transactions": 0
+      "revenue": 20.0,
+      "cost": 17.08,
+      "gp_pct": 14.6,
+      "transactions": 1
     },
     {
       "hour": 18,
@@ -820,8 +820,8 @@
       "desc": "2Bernini Classic 500ml",
       "price": 25.0,
       "gp_pct": 38.4,
-      "revenue": 11220.0,
-      "qty_sold": 579.0
+      "revenue": 11310.0,
+      "qty_sold": 585.0
     },
     {
       "internal": 271,
@@ -851,9 +851,9 @@
   "cashier_summary": [
     {
       "cashier": "Thabiso",
-      "revenue": 420984.9,
-      "cost": 388719.91,
-      "transactions": 3964,
+      "revenue": 421094.9,
+      "cost": 388829.46,
+      "transactions": 3966,
       "gp_pct": 7.7
     },
     {
