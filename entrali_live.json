@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-26T14:07:04.407342",
+    "generated_at": "2026-06-26T14:13:37.398324",
     "generated_date": "2026-06-26",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-26",
-    "revenue": 12129.33,
-    "cost": 11265.48,
-    "gp_pct": 7.1,
-    "transactions": 84,
-    "vs_yesterday": -14891.17
+    "revenue": 12239.33,
+    "cost": 11386.72,
+    "gp_pct": 7.0,
+    "transactions": 85,
+    "vs_yesterday": -14781.17
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 591650.68,
-    "cost": 538481.06,
+    "revenue": 591760.68,
+    "cost": 538602.3,
     "gp_pct": 9.0,
-    "transactions": 5666,
+    "transactions": 5667,
     "days_elapsed": 26
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-26",
-      "revenue": 12129.33,
-      "cost": 11265.48,
-      "transactions": 84,
-      "gp_pct": 7.1
+      "revenue": 12239.33,
+      "cost": 11386.72,
+      "transactions": 85,
+      "gp_pct": 7.0
     }
   ],
   "hourly_today": [
@@ -608,10 +608,10 @@
     {
       "hour": 14,
       "label": "14:00",
-      "revenue": 25.0,
-      "cost": 21.92,
-      "gp_pct": 12.3,
-      "transactions": 1
+      "revenue": 135.0,
+      "cost": 118.91,
+      "gp_pct": 11.9,
+      "transactions": 2
     },
     {
       "hour": 15,
@@ -812,8 +812,8 @@
       "desc": "Pork Chops",
       "price": 40.0,
       "gp_pct": 39.4,
-      "revenue": 11595.0,
-      "qty_sold": 342.0
+      "revenue": 11635.0,
+      "qty_sold": 343.0
     },
     {
       "internal": 271,
@@ -858,9 +858,9 @@
     },
     {
       "cashier": "Nwabisa",
-      "revenue": 386677.32,
-      "cost": 340338.52,
-      "transactions": 3627,
+      "revenue": 386787.32,
+      "cost": 340459.76,
+      "transactions": 3628,
       "gp_pct": 12.0
     }
   ],
@@ -35608,13 +35608,22 @@
       "gp_pct": 21.9,
       "points": 18,
       "cashier": "Nwabisa"
+    },
+    {
+      "number": 517457,
+      "date": "2026-06-26",
+      "desc": "Hunter's Dry 440ml",
+      "amount": 110.0,
+      "gp_pct": 19.2,
+      "points": 2,
+      "cashier": "Nwabisa"
     }
   ],
   "stock_summary": {
     "total_products": 743,
     "out_of_stock": 469,
     "on_promo": 0,
-    "dead_stock_30d": 79,
+    "dead_stock_30d": 78,
     "loyalty_eligible": 282
   }
 }
