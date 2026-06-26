@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-26T12:49:35.299754",
+    "generated_at": "2026-06-26T12:56:01.463742",
     "generated_date": "2026-06-26",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-26",
-    "revenue": 8262.33,
-    "cost": 7770.8,
-    "gp_pct": 5.9,
-    "transactions": 59,
-    "vs_yesterday": -18758.17
+    "revenue": 8412.33,
+    "cost": 7896.21,
+    "gp_pct": 6.1,
+    "transactions": 61,
+    "vs_yesterday": -18608.17
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 587783.68,
-    "cost": 534986.37,
+    "revenue": 587933.68,
+    "cost": 535111.79,
     "gp_pct": 9.0,
-    "transactions": 5641,
+    "transactions": 5643,
     "days_elapsed": 26
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-26",
-      "revenue": 8262.33,
-      "cost": 7770.8,
-      "transactions": 59,
-      "gp_pct": 5.9
+      "revenue": 8412.33,
+      "cost": 7896.21,
+      "transactions": 61,
+      "gp_pct": 6.1
     }
   ],
   "hourly_today": [
@@ -592,10 +592,10 @@
     {
       "hour": 12,
       "label": "12:00",
-      "revenue": 2354.0,
-      "cost": 2231.86,
-      "gp_pct": 5.2,
-      "transactions": 13
+      "revenue": 2504.0,
+      "cost": 2357.27,
+      "gp_pct": 5.9,
+      "transactions": 15
     },
     {
       "hour": 13,
@@ -858,9 +858,9 @@
     },
     {
       "cashier": "Nwabisa",
-      "revenue": 382810.32,
-      "cost": 336843.84,
-      "transactions": 3602,
+      "revenue": 382960.32,
+      "cost": 336969.25,
+      "transactions": 3604,
       "gp_pct": 12.0
     }
   ],
@@ -35535,6 +35535,15 @@
       "amount": 450.0,
       "gp_pct": 21.9,
       "points": 9,
+      "cashier": "Nwabisa"
+    },
+    {
+      "number": 517433,
+      "date": "2026-06-26",
+      "desc": "Chiller's Chaos 440ml",
+      "amount": 50.0,
+      "gp_pct": 21.7,
+      "points": 1,
       "cashier": "Nwabisa"
     }
   ],
