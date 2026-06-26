@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-26T16:04:19.637321",
+    "generated_at": "2026-06-26T16:10:43.682089",
     "generated_date": "2026-06-26",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-26",
-    "revenue": 16983.33,
-    "cost": 15652.66,
-    "gp_pct": 7.8,
-    "transactions": 137,
-    "vs_yesterday": -10037.17
+    "revenue": 17609.33,
+    "cost": 16197.47,
+    "gp_pct": 8.0,
+    "transactions": 141,
+    "vs_yesterday": -9411.17
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 596504.68,
-    "cost": 542863.56,
+    "revenue": 597130.68,
+    "cost": 543408.37,
     "gp_pct": 9.0,
-    "transactions": 5719,
+    "transactions": 5723,
     "days_elapsed": 26
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-26",
-      "revenue": 16983.33,
-      "cost": 15652.66,
-      "transactions": 137,
-      "gp_pct": 7.8
+      "revenue": 17609.33,
+      "cost": 16197.47,
+      "transactions": 141,
+      "gp_pct": 8.0
     }
   ],
   "hourly_today": [
@@ -624,10 +624,10 @@
     {
       "hour": 16,
       "label": "16:00",
-      "revenue": 839.0,
-      "cost": 763.62,
-      "gp_pct": 9.0,
-      "transactions": 7
+      "revenue": 1465.0,
+      "cost": 1408.39,
+      "gp_pct": 3.9,
+      "transactions": 11
     },
     {
       "hour": 17,
@@ -692,8 +692,8 @@
       "desc": "Carling Black Label 750ml",
       "price": 25.0,
       "gp_pct": 24.3,
-      "revenue": 189843.7,
-      "qty_sold": 8756.0
+      "revenue": 190137.7,
+      "qty_sold": 8770.0
     },
     {
       "internal": 171,
@@ -851,9 +851,9 @@
   "cashier_summary": [
     {
       "cashier": "Thabiso",
-      "revenue": 418246.9,
-      "cost": 385958.2,
-      "transactions": 3944,
+      "revenue": 418872.9,
+      "cost": 386503.01,
+      "transactions": 3948,
       "gp_pct": 7.7
     },
     {
@@ -33159,6 +33159,24 @@
       "amount": 50.0,
       "gp_pct": 24.3,
       "points": 1,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 517511,
+      "date": "2026-06-26",
+      "desc": "Carling Black Label 750ml",
+      "amount": 50.0,
+      "gp_pct": 24.3,
+      "points": 1,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 517513,
+      "date": "2026-06-26",
+      "desc": "Carling Black Label 750ml",
+      "amount": 244.0,
+      "gp_pct": 24.3,
+      "points": 4,
       "cashier": "Thabiso"
     }
   ],
