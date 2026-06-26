@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-26T20:35:56.812792",
+    "generated_at": "2026-06-26T20:42:25.979264",
     "generated_date": "2026-06-26",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-26",
-    "revenue": 37779.17,
-    "cost": 36582.2,
-    "gp_pct": 3.2,
-    "transactions": 298,
-    "vs_yesterday": 10758.67
+    "revenue": 38279.17,
+    "cost": 37008.58,
+    "gp_pct": 3.3,
+    "transactions": 304,
+    "vs_yesterday": 11258.67
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 617300.52,
-    "cost": 595742.1,
+    "revenue": 617800.52,
+    "cost": 596168.48,
     "gp_pct": 3.5,
-    "transactions": 5880,
+    "transactions": 5886,
     "days_elapsed": 26
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-26",
-      "revenue": 37779.17,
-      "cost": 36582.2,
-      "transactions": 298,
-      "gp_pct": 3.2
+      "revenue": 38279.17,
+      "cost": 37008.58,
+      "transactions": 304,
+      "gp_pct": 3.3
     }
   ],
   "hourly_today": [
@@ -656,10 +656,10 @@
     {
       "hour": 20,
       "label": "20:00",
-      "revenue": 3020.84,
-      "cost": 3322.61,
-      "gp_pct": -10.0,
-      "transactions": 25
+      "revenue": 3520.84,
+      "cost": 3732.33,
+      "gp_pct": -6.0,
+      "transactions": 31
     },
     {
       "hour": 21,
@@ -800,6 +800,14 @@
       "qty_sold": 660.0
     },
     {
+      "internal": 712,
+      "desc": "Bernini Mimosa 500ml",
+      "price": 25.0,
+      "gp_pct": 33.4,
+      "revenue": 12520.0,
+      "qty_sold": 646.0
+    },
+    {
       "internal": 184,
       "desc": "Sedgwicks Old Brown Sherry 1L",
       "price": 75.0,
@@ -808,20 +816,12 @@
       "qty_sold": 169.0
     },
     {
-      "internal": 712,
-      "desc": "Bernini Mimosa 500ml",
-      "price": 25.0,
-      "gp_pct": 33.4,
-      "revenue": 12445.0,
-      "qty_sold": 643.0
-    },
-    {
       "internal": 266,
       "desc": "Pork Chops",
       "price": 40.0,
       "gp_pct": 39.4,
-      "revenue": 11875.0,
-      "qty_sold": 351.0
+      "revenue": 11945.0,
+      "qty_sold": 353.0
     },
     {
       "internal": 271,
@@ -844,16 +844,16 @@
       "desc": "Bernini Blush 500ml",
       "price": 25.0,
       "gp_pct": 38.4,
-      "revenue": 9920.0,
-      "qty_sold": 490.0
+      "revenue": 10040.0,
+      "qty_sold": 496.0
     }
   ],
   "cashier_summary": [
     {
       "cashier": "Thabiso",
-      "revenue": 439042.74,
-      "cost": 432892.74,
-      "transactions": 4105,
+      "revenue": 439542.74,
+      "cost": 433319.11,
+      "transactions": 4111,
       "gp_pct": 1.4
     },
     {
@@ -36517,13 +36517,49 @@
       "gp_pct": 23.3,
       "points": 1,
       "cashier": "Thabiso"
+    },
+    {
+      "number": 517671,
+      "date": "2026-06-26",
+      "desc": "Bernini Blush 500ml",
+      "amount": 120.0,
+      "gp_pct": 38.4,
+      "points": 2,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 517673,
+      "date": "2026-06-26",
+      "desc": "Pork Chops",
+      "amount": 70.0,
+      "gp_pct": 39.4,
+      "points": 1,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 517675,
+      "date": "2026-06-26",
+      "desc": "St Celine 750ml",
+      "amount": 60.0,
+      "gp_pct": 18.2,
+      "points": 1,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 517675,
+      "date": "2026-06-26",
+      "desc": "Bernini Mimosa 500ml",
+      "amount": 50.0,
+      "gp_pct": 33.4,
+      "points": 1,
+      "cashier": "Thabiso"
     }
   ],
   "stock_summary": {
     "total_products": 743,
     "out_of_stock": 469,
     "on_promo": 1,
-    "dead_stock_30d": 78,
+    "dead_stock_30d": 77,
     "loyalty_eligible": 282
   }
 }
