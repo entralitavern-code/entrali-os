@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-27T00:21:57.357183",
+    "generated_at": "2026-06-27T00:28:16.295535",
     "generated_date": "2026-06-27",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-27",
-    "revenue": 657.0,
-    "cost": 1315.14,
-    "gp_pct": -100.2,
-    "transactions": 14,
-    "vs_yesterday": -51972.09
+    "revenue": 922.0,
+    "cost": 1555.05,
+    "gp_pct": -68.7,
+    "transactions": 17,
+    "vs_yesterday": -51707.09
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 632807.44,
-    "cost": 614942.93,
+    "revenue": 633072.44,
+    "cost": 615182.84,
     "gp_pct": 2.8,
-    "transactions": 6044,
+    "transactions": 6047,
     "days_elapsed": 27
   },
   "latest_cashup": {
@@ -486,20 +486,20 @@
     },
     {
       "date": "2026-06-27",
-      "revenue": 657.0,
-      "cost": 1315.14,
-      "transactions": 14,
-      "gp_pct": -100.2
+      "revenue": 922.0,
+      "cost": 1555.05,
+      "transactions": 17,
+      "gp_pct": -68.7
     }
   ],
   "hourly_today": [
     {
       "hour": 0,
       "label": "00:00",
-      "revenue": 657.0,
-      "cost": 1315.14,
-      "gp_pct": -100.2,
-      "transactions": 14
+      "revenue": 922.0,
+      "cost": 1555.05,
+      "gp_pct": -68.7,
+      "transactions": 17
     },
     {
       "hour": 1,
@@ -692,8 +692,8 @@
       "desc": "Carling Black Label 750ml",
       "price": 25.0,
       "gp_pct": 24.3,
-      "revenue": 191868.7,
-      "qty_sold": 8837.0
+      "revenue": 191918.7,
+      "qty_sold": 8839.0
     },
     {
       "internal": 171,
@@ -851,9 +851,9 @@
   "cashier_summary": [
     {
       "cashier": "Thabiso",
-      "revenue": 441234.16,
-      "cost": 438466.69,
-      "transactions": 4163,
+      "revenue": 441499.16,
+      "cost": 438706.6,
+      "transactions": 4166,
       "gp_pct": 0.6
     },
     {
@@ -2895,6 +2895,25 @@
       "days_since_sold": 1347,
       "lastsold": "2022-10-19",
       "lastbuy": "2022-09-09",
+      "loyalty_eligible": false,
+      "alert": "OUT OF STOCK"
+    },
+    {
+      "internal": 110,
+      "part_no": "38",
+      "desc": "Krone Night Nec Rose 750ml",
+      "group": "16",
+      "price": 195.0,
+      "cost": 185.0,
+      "gp_pct": 5.1,
+      "qty": 0.0,
+      "minimum": 0.0,
+      "maximum": 0.0,
+      "on_promo": false,
+      "promo_price": null,
+      "days_since_sold": 0,
+      "lastsold": "2026-06-27",
+      "lastbuy": "2025-12-30",
       "loyalty_eligible": false,
       "alert": "OUT OF STOCK"
     },
@@ -36600,13 +36619,22 @@
       "gp_pct": 24.8,
       "points": 1,
       "cashier": "Thabiso"
+    },
+    {
+      "number": 517837,
+      "date": "2026-06-27",
+      "desc": "Carling Black Label 750ml",
+      "amount": 50.0,
+      "gp_pct": 24.3,
+      "points": 1,
+      "cashier": "Thabiso"
     }
   ],
   "stock_summary": {
     "total_products": 743,
-    "out_of_stock": 471,
+    "out_of_stock": 472,
     "on_promo": 1,
-    "dead_stock_30d": 75,
+    "dead_stock_30d": 74,
     "loyalty_eligible": 282
   }
 }
