@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-26T12:03:29.461750",
+    "generated_at": "2026-06-26T12:10:03.068117",
     "generated_date": "2026-06-26",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-26",
-    "revenue": 5908.33,
-    "cost": 5538.94,
-    "gp_pct": 6.3,
-    "transactions": 46,
-    "vs_yesterday": -21112.17
+    "revenue": 6373.33,
+    "cost": 5954.48,
+    "gp_pct": 6.6,
+    "transactions": 48,
+    "vs_yesterday": -20647.17
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 585429.68,
-    "cost": 532754.51,
+    "revenue": 585894.68,
+    "cost": 533170.06,
     "gp_pct": 9.0,
-    "transactions": 5628,
+    "transactions": 5630,
     "days_elapsed": 26
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-26",
-      "revenue": 5908.33,
-      "cost": 5538.94,
-      "transactions": 46,
-      "gp_pct": 6.3
+      "revenue": 6373.33,
+      "cost": 5954.48,
+      "transactions": 48,
+      "gp_pct": 6.6
     }
   ],
   "hourly_today": [
@@ -592,10 +592,10 @@
     {
       "hour": 12,
       "label": "12:00",
-      "revenue": 0.0,
-      "cost": 0.0,
-      "gp_pct": 0.0,
-      "transactions": 0
+      "revenue": 465.0,
+      "cost": 415.54,
+      "gp_pct": 10.6,
+      "transactions": 2
     },
     {
       "hour": 13,
@@ -700,8 +700,8 @@
       "desc": "Paarl Perle' 1L",
       "price": 45.0,
       "gp_pct": 21.9,
-      "revenue": 70835.5,
-      "qty_sold": 1773.0
+      "revenue": 70880.5,
+      "qty_sold": 1774.0
     },
     {
       "internal": 188,
@@ -812,8 +812,8 @@
       "desc": "Pork Chops",
       "price": 40.0,
       "gp_pct": 39.4,
-      "revenue": 11395.0,
-      "qty_sold": 334.0
+      "revenue": 11495.0,
+      "qty_sold": 338.0
     },
     {
       "internal": 271,
@@ -858,9 +858,9 @@
     },
     {
       "cashier": "Nwabisa",
-      "revenue": 380456.32,
-      "cost": 334611.98,
-      "transactions": 3589,
+      "revenue": 380921.32,
+      "cost": 335027.52,
+      "transactions": 3591,
       "gp_pct": 12.0
     }
   ],
@@ -1170,6 +1170,25 @@
       "alert": "OUT OF STOCK"
     },
     {
+      "internal": 422,
+      "part_no": "6248",
+      "desc": "Klipdr & Coke 2L",
+      "group": "8",
+      "price": 220.0,
+      "cost": 200.92,
+      "gp_pct": 8.7,
+      "qty": -39.0,
+      "minimum": 0.0,
+      "maximum": 0.0,
+      "on_promo": false,
+      "promo_price": null,
+      "days_since_sold": 0,
+      "lastsold": "2026-06-26",
+      "lastbuy": "2021-09-08",
+      "loyalty_eligible": false,
+      "alert": "OUT OF STOCK"
+    },
+    {
       "internal": 496,
       "part_no": "40061",
       "desc": "Drinking Glass Fancy",
@@ -1185,25 +1204,6 @@
       "days_since_sold": 8,
       "lastsold": "2026-06-18",
       "lastbuy": "2025-08-31",
-      "loyalty_eligible": false,
-      "alert": "OUT OF STOCK"
-    },
-    {
-      "internal": 422,
-      "part_no": "6248",
-      "desc": "Klipdr & Coke 2L",
-      "group": "8",
-      "price": 220.0,
-      "cost": 200.92,
-      "gp_pct": 8.7,
-      "qty": -38.0,
-      "minimum": 0.0,
-      "maximum": 0.0,
-      "on_promo": false,
-      "promo_price": null,
-      "days_since_sold": 1,
-      "lastsold": "2026-06-25",
-      "lastbuy": "2021-09-08",
       "loyalty_eligible": false,
       "alert": "OUT OF STOCK"
     },
@@ -1322,6 +1322,25 @@
       "alert": "OUT OF STOCK"
     },
     {
+      "internal": 171,
+      "part_no": "232",
+      "desc": "Paarl Perle' 1L",
+      "group": "2",
+      "price": 45.0,
+      "cost": 35.1667,
+      "gp_pct": 21.9,
+      "qty": -9.0,
+      "minimum": 0.0,
+      "maximum": 60.0,
+      "on_promo": false,
+      "promo_price": null,
+      "days_since_sold": 0,
+      "lastsold": "2026-06-26",
+      "lastbuy": "2026-06-11",
+      "loyalty_eligible": true,
+      "alert": "OUT OF STOCK"
+    },
+    {
       "internal": 197,
       "part_no": "187",
       "desc": "4 BL + 1317",
@@ -1356,25 +1375,6 @@
       "days_since_sold": 61,
       "lastsold": "2026-04-26",
       "lastbuy": "2023-01-13",
-      "loyalty_eligible": true,
-      "alert": "OUT OF STOCK"
-    },
-    {
-      "internal": 171,
-      "part_no": "232",
-      "desc": "Paarl Perle' 1L",
-      "group": "2",
-      "price": 45.0,
-      "cost": 35.1667,
-      "gp_pct": 21.9,
-      "qty": -8.0,
-      "minimum": 0.0,
-      "maximum": 60.0,
-      "on_promo": false,
-      "promo_price": null,
-      "days_since_sold": 0,
-      "lastsold": "2026-06-26",
-      "lastbuy": "2026-06-11",
       "loyalty_eligible": true,
       "alert": "OUT OF STOCK"
     },
@@ -35467,6 +35467,15 @@
     },
     {
       "number": 517414,
+      "date": "2026-06-26",
+      "desc": "Pork Chops",
+      "amount": 100.0,
+      "gp_pct": 39.4,
+      "points": 2,
+      "cashier": "Nwabisa"
+    },
+    {
+      "number": 517419,
       "date": "2026-06-26",
       "desc": "Pork Chops",
       "amount": 100.0,
