@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-26T15:31:49.962502",
+    "generated_at": "2026-06-26T15:38:29.373372",
     "generated_date": "2026-06-26",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-26",
-    "revenue": 14928.33,
-    "cost": 13761.77,
-    "gp_pct": 7.8,
-    "transactions": 116,
-    "vs_yesterday": -12092.17
+    "revenue": 15349.33,
+    "cost": 14123.02,
+    "gp_pct": 8.0,
+    "transactions": 121,
+    "vs_yesterday": -11671.17
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 594449.68,
-    "cost": 540972.67,
+    "revenue": 594870.68,
+    "cost": 541333.92,
     "gp_pct": 9.0,
-    "transactions": 5698,
+    "transactions": 5703,
     "days_elapsed": 26
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-26",
-      "revenue": 14928.33,
-      "cost": 13761.77,
-      "transactions": 116,
-      "gp_pct": 7.8
+      "revenue": 15349.33,
+      "cost": 14123.02,
+      "transactions": 121,
+      "gp_pct": 8.0
     }
   ],
   "hourly_today": [
@@ -616,10 +616,10 @@
     {
       "hour": 15,
       "label": "15:00",
-      "revenue": 1235.0,
-      "cost": 1080.52,
-      "gp_pct": 12.5,
-      "transactions": 10
+      "revenue": 1656.0,
+      "cost": 1441.77,
+      "gp_pct": 12.9,
+      "transactions": 15
     },
     {
       "hour": 16,
@@ -708,8 +708,8 @@
       "desc": "Sedgwicks Old Brown Sherry 750ml",
       "price": 60.0,
       "gp_pct": 23.3,
-      "revenue": 40089.97,
-      "qty_sold": 762.0
+      "revenue": 40189.97,
+      "qty_sold": 764.0
     },
     {
       "internal": 172,
@@ -732,8 +732,8 @@
       "desc": "4th Street Sweet L/H 5l",
       "price": 180.0,
       "gp_pct": 11.9,
-      "revenue": 22320.0,
-      "qty_sold": 124.0
+      "revenue": 22500.0,
+      "qty_sold": 125.0
     },
     {
       "internal": 13,
@@ -851,9 +851,9 @@
   "cashier_summary": [
     {
       "cashier": "Thabiso",
-      "revenue": 416191.9,
-      "cost": 384067.31,
-      "transactions": 3923,
+      "revenue": 416612.9,
+      "cost": 384428.56,
+      "transactions": 3928,
       "gp_pct": 7.7
     },
     {
@@ -968,7 +968,7 @@
       "price": -1.0,
       "cost": -2.0,
       "gp_pct": 0.0,
-      "qty": -662.0,
+      "qty": -666.0,
       "minimum": 0.0,
       "maximum": 0.0,
       "on_promo": false,
@@ -33078,6 +33078,33 @@
       "amount": 100.0,
       "gp_pct": 33.3,
       "points": 2,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 517490,
+      "date": "2026-06-26",
+      "desc": "Sedgwicks Old Brown Sherry 750ml",
+      "amount": 100.0,
+      "gp_pct": 23.3,
+      "points": 2,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 517491,
+      "date": "2026-06-26",
+      "desc": "Commando Brandy 200ml",
+      "amount": 70.0,
+      "gp_pct": 19.8,
+      "points": 1,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 517492,
+      "date": "2026-06-26",
+      "desc": "Bernini Amber 500ml",
+      "amount": 50.0,
+      "gp_pct": 34.7,
+      "points": 1,
       "cashier": "Thabiso"
     }
   ],
