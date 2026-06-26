@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-26T16:10:43.682089",
+    "generated_at": "2026-06-26T16:17:05.045073",
     "generated_date": "2026-06-26",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-26",
-    "revenue": 17609.33,
-    "cost": 16197.47,
+    "revenue": 17669.33,
+    "cost": 16247.47,
     "gp_pct": 8.0,
-    "transactions": 141,
-    "vs_yesterday": -9411.17
+    "transactions": 142,
+    "vs_yesterday": -9351.17
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 597130.68,
-    "cost": 543408.37,
+    "revenue": 597190.68,
+    "cost": 543458.37,
     "gp_pct": 9.0,
-    "transactions": 5723,
+    "transactions": 5724,
     "days_elapsed": 26
   },
   "latest_cashup": {
@@ -486,9 +486,9 @@
     },
     {
       "date": "2026-06-26",
-      "revenue": 17609.33,
-      "cost": 16197.47,
-      "transactions": 141,
+      "revenue": 17669.33,
+      "cost": 16247.47,
+      "transactions": 142,
       "gp_pct": 8.0
     }
   ],
@@ -624,10 +624,10 @@
     {
       "hour": 16,
       "label": "16:00",
-      "revenue": 1465.0,
-      "cost": 1408.39,
-      "gp_pct": 3.9,
-      "transactions": 11
+      "revenue": 1525.0,
+      "cost": 1458.39,
+      "gp_pct": 4.4,
+      "transactions": 12
     },
     {
       "hour": 17,
@@ -828,8 +828,8 @@
       "desc": "Braaiwors",
       "price": 35.0,
       "gp_pct": 28.6,
-      "revenue": 11010.0,
-      "qty_sold": 353.0
+      "revenue": 11070.0,
+      "qty_sold": 355.0
     },
     {
       "internal": 134,
@@ -851,9 +851,9 @@
   "cashier_summary": [
     {
       "cashier": "Thabiso",
-      "revenue": 418872.9,
-      "cost": 386503.01,
-      "transactions": 3948,
+      "revenue": 418932.9,
+      "cost": 386553.01,
+      "transactions": 3949,
       "gp_pct": 7.7
     },
     {
@@ -33177,6 +33177,15 @@
       "amount": 244.0,
       "gp_pct": 24.3,
       "points": 4,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 517514,
+      "date": "2026-06-26",
+      "desc": "Braaiwors",
+      "amount": 60.0,
+      "gp_pct": 28.6,
+      "points": 1,
       "cashier": "Thabiso"
     }
   ],
