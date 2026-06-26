@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-26T14:26:42.084636",
+    "generated_at": "2026-06-26T14:33:08.913922",
     "generated_date": "2026-06-26",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-26",
-    "revenue": 12534.33,
-    "cost": 11709.18,
-    "gp_pct": 6.6,
-    "transactions": 92,
-    "vs_yesterday": -14486.17
+    "revenue": 12508.33,
+    "cost": 11710.93,
+    "gp_pct": 6.4,
+    "transactions": 94,
+    "vs_yesterday": -14512.17
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 592055.68,
-    "cost": 538920.08,
+    "revenue": 592029.68,
+    "cost": 538921.83,
     "gp_pct": 9.0,
-    "transactions": 5674,
+    "transactions": 5676,
     "days_elapsed": 26
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-26",
-      "revenue": 12534.33,
-      "cost": 11709.18,
-      "transactions": 92,
-      "gp_pct": 6.6
+      "revenue": 12508.33,
+      "cost": 11710.93,
+      "transactions": 94,
+      "gp_pct": 6.4
     }
   ],
   "hourly_today": [
@@ -608,10 +608,10 @@
     {
       "hour": 14,
       "label": "14:00",
-      "revenue": 430.0,
-      "cost": 465.62,
-      "gp_pct": -8.3,
-      "transactions": 9
+      "revenue": 404.0,
+      "cost": 467.37,
+      "gp_pct": -15.7,
+      "transactions": 11
     },
     {
       "hour": 15,
@@ -858,9 +858,9 @@
     },
     {
       "cashier": "Nwabisa",
-      "revenue": 387082.32,
-      "cost": 340778.82,
-      "transactions": 3635,
+      "revenue": 387056.32,
+      "cost": 340780.57,
+      "transactions": 3637,
       "gp_pct": 12.0
     }
   ],
@@ -892,13 +892,13 @@
       "price": -1.0,
       "cost": -2.0,
       "gp_pct": 0.0,
-      "qty": -923.0,
+      "qty": -925.0,
       "minimum": 0.0,
       "maximum": 0.0,
       "on_promo": false,
       "promo_price": null,
-      "days_since_sold": 2,
-      "lastsold": "2026-06-24",
+      "days_since_sold": 0,
+      "lastsold": "2026-06-26",
       "lastbuy": null,
       "loyalty_eligible": false,
       "alert": "OUT OF STOCK"
@@ -968,7 +968,7 @@
       "price": -1.0,
       "cost": -2.0,
       "gp_pct": 0.0,
-      "qty": -659.0,
+      "qty": -662.0,
       "minimum": 0.0,
       "maximum": 0.0,
       "on_promo": false,
@@ -987,13 +987,13 @@
       "price": -1.0,
       "cost": -2.0,
       "gp_pct": 0.0,
-      "qty": -391.0,
+      "qty": -393.0,
       "minimum": 0.0,
       "maximum": 0.0,
       "on_promo": false,
       "promo_price": null,
-      "days_since_sold": 1,
-      "lastsold": "2026-06-25",
+      "days_since_sold": 0,
+      "lastsold": "2026-06-26",
       "lastbuy": null,
       "loyalty_eligible": false,
       "alert": "OUT OF STOCK"
@@ -1006,13 +1006,13 @@
       "price": -1.0,
       "cost": -2.0,
       "gp_pct": 0.0,
-      "qty": -389.0,
+      "qty": -392.0,
       "minimum": 0.0,
       "maximum": 0.0,
       "on_promo": false,
       "promo_price": null,
-      "days_since_sold": 2,
-      "lastsold": "2026-06-24",
+      "days_since_sold": 0,
+      "lastsold": "2026-06-26",
       "lastbuy": null,
       "loyalty_eligible": false,
       "alert": "OUT OF STOCK"
