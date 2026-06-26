@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-27T00:15:32.383887",
+    "generated_at": "2026-06-27T00:21:57.357183",
     "generated_date": "2026-06-27",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-27",
-    "revenue": 564.0,
-    "cost": 1247.06,
-    "gp_pct": -121.1,
-    "transactions": 11,
-    "vs_yesterday": -52065.09
+    "revenue": 657.0,
+    "cost": 1315.14,
+    "gp_pct": -100.2,
+    "transactions": 14,
+    "vs_yesterday": -51972.09
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 632714.44,
-    "cost": 614874.85,
+    "revenue": 632807.44,
+    "cost": 614942.93,
     "gp_pct": 2.8,
-    "transactions": 6041,
+    "transactions": 6044,
     "days_elapsed": 27
   },
   "latest_cashup": {
@@ -486,20 +486,20 @@
     },
     {
       "date": "2026-06-27",
-      "revenue": 564.0,
-      "cost": 1247.06,
-      "transactions": 11,
-      "gp_pct": -121.1
+      "revenue": 657.0,
+      "cost": 1315.14,
+      "transactions": 14,
+      "gp_pct": -100.2
     }
   ],
   "hourly_today": [
     {
       "hour": 0,
       "label": "00:00",
-      "revenue": 564.0,
-      "cost": 1247.06,
-      "gp_pct": -121.1,
-      "transactions": 11
+      "revenue": 657.0,
+      "cost": 1315.14,
+      "gp_pct": -100.2,
+      "transactions": 14
     },
     {
       "hour": 1,
@@ -692,8 +692,8 @@
       "desc": "Carling Black Label 750ml",
       "price": 25.0,
       "gp_pct": 24.3,
-      "revenue": 191818.7,
-      "qty_sold": 8835.0
+      "revenue": 191868.7,
+      "qty_sold": 8837.0
     },
     {
       "internal": 171,
@@ -780,8 +780,8 @@
       "desc": "Redd's Original 660ml",
       "price": 25.0,
       "gp_pct": 17.0,
-      "revenue": 14724.0,
-      "qty_sold": 616.0
+      "revenue": 14749.0,
+      "qty_sold": 617.0
     },
     {
       "internal": 183,
@@ -851,9 +851,9 @@
   "cashier_summary": [
     {
       "cashier": "Thabiso",
-      "revenue": 441141.16,
-      "cost": 438398.61,
-      "transactions": 4160,
+      "revenue": 441234.16,
+      "cost": 438466.69,
+      "transactions": 4163,
       "gp_pct": 0.6
     },
     {
@@ -1113,6 +1113,25 @@
       "alert": "OUT OF STOCK"
     },
     {
+      "internal": 126,
+      "part_no": "354",
+      "desc": "Savannah",
+      "group": "13",
+      "price": 2.0,
+      "cost": 0.875,
+      "gp_pct": 56.2,
+      "qty": -46.0,
+      "minimum": 0.0,
+      "maximum": 0.0,
+      "on_promo": false,
+      "promo_price": null,
+      "days_since_sold": 0,
+      "lastsold": "2026-06-27",
+      "lastbuy": "2026-05-02",
+      "loyalty_eligible": true,
+      "alert": "OUT OF STOCK"
+    },
+    {
       "internal": 605,
       "part_no": "20008",
       "desc": "Pork & Beef",
@@ -1167,25 +1186,6 @@
       "lastsold": "2026-06-25",
       "lastbuy": "2021-05-17",
       "loyalty_eligible": false,
-      "alert": "OUT OF STOCK"
-    },
-    {
-      "internal": 126,
-      "part_no": "354",
-      "desc": "Savannah",
-      "group": "13",
-      "price": 2.0,
-      "cost": 0.875,
-      "gp_pct": 56.2,
-      "qty": -42.0,
-      "minimum": 0.0,
-      "maximum": 0.0,
-      "on_promo": false,
-      "promo_price": null,
-      "days_since_sold": 0,
-      "lastsold": "2026-06-27",
-      "lastbuy": "2026-05-02",
-      "loyalty_eligible": true,
       "alert": "OUT OF STOCK"
     },
     {
@@ -1607,6 +1607,25 @@
       "alert": "OUT OF STOCK"
     },
     {
+      "internal": 629,
+      "part_no": "2181",
+      "desc": "Old Buck 25ml",
+      "group": "4",
+      "price": 10.0,
+      "cost": 6.0,
+      "gp_pct": 40.0,
+      "qty": -2.0,
+      "minimum": 0.0,
+      "maximum": 0.0,
+      "on_promo": false,
+      "promo_price": null,
+      "days_since_sold": 0,
+      "lastsold": "2026-06-27",
+      "lastbuy": null,
+      "loyalty_eligible": true,
+      "alert": "OUT OF STOCK"
+    },
+    {
       "internal": 708,
       "part_no": "84322",
       "desc": "Black Crown Gin 440ml",
@@ -1697,25 +1716,6 @@
       "promo_price": null,
       "days_since_sold": 59,
       "lastsold": "2026-04-29",
-      "lastbuy": null,
-      "loyalty_eligible": true,
-      "alert": "OUT OF STOCK"
-    },
-    {
-      "internal": 629,
-      "part_no": "2181",
-      "desc": "Old Buck 25ml",
-      "group": "4",
-      "price": 10.0,
-      "cost": 6.0,
-      "gp_pct": 40.0,
-      "qty": -1.0,
-      "minimum": 0.0,
-      "maximum": 0.0,
-      "on_promo": false,
-      "promo_price": null,
-      "days_since_sold": 3,
-      "lastsold": "2026-06-24",
       "lastbuy": null,
       "loyalty_eligible": true,
       "alert": "OUT OF STOCK"
