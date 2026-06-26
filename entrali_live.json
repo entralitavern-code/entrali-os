@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-26T11:50:27.698108",
+    "generated_at": "2026-06-26T11:56:53.143070",
     "generated_date": "2026-06-26",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-26",
-    "revenue": 5733.33,
-    "cost": 5390.44,
-    "gp_pct": 6.0,
-    "transactions": 43,
-    "vs_yesterday": -21287.17
+    "revenue": 5808.33,
+    "cost": 5452.69,
+    "gp_pct": 6.1,
+    "transactions": 45,
+    "vs_yesterday": -21212.17
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 585254.68,
-    "cost": 532606.02,
+    "revenue": 585329.68,
+    "cost": 532668.27,
     "gp_pct": 9.0,
-    "transactions": 5625,
+    "transactions": 5627,
     "days_elapsed": 26
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-26",
-      "revenue": 5733.33,
-      "cost": 5390.44,
-      "transactions": 43,
-      "gp_pct": 6.0
+      "revenue": 5808.33,
+      "cost": 5452.69,
+      "transactions": 45,
+      "gp_pct": 6.1
     }
   ],
   "hourly_today": [
@@ -584,10 +584,10 @@
     {
       "hour": 11,
       "label": "11:00",
-      "revenue": 2150.0,
-      "cost": 2021.12,
-      "gp_pct": 6.0,
-      "transactions": 18
+      "revenue": 2225.0,
+      "cost": 2083.37,
+      "gp_pct": 6.4,
+      "transactions": 20
     },
     {
       "hour": 12,
@@ -692,8 +692,8 @@
       "desc": "Carling Black Label 750ml",
       "price": 25.0,
       "gp_pct": 24.3,
-      "revenue": 187723.7,
-      "qty_sold": 8660.0
+      "revenue": 187748.7,
+      "qty_sold": 8661.0
     },
     {
       "internal": 171,
@@ -748,8 +748,8 @@
       "desc": "Savanna Dry 500ml",
       "price": 25.0,
       "gp_pct": 13.3,
-      "revenue": 19200.0,
-      "qty_sold": 768.0
+      "revenue": 19250.0,
+      "qty_sold": 770.0
     },
     {
       "internal": 238,
@@ -858,9 +858,9 @@
     },
     {
       "cashier": "Nwabisa",
-      "revenue": 380281.32,
-      "cost": 334463.48,
-      "transactions": 3586,
+      "revenue": 380356.32,
+      "cost": 334525.73,
+      "transactions": 3588,
       "gp_pct": 12.0
     }
   ],
