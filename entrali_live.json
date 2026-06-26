@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-26T21:01:40.875150",
+    "generated_at": "2026-06-26T21:08:08.594401",
     "generated_date": "2026-06-26",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-26",
-    "revenue": 40279.17,
-    "cost": 38667.6,
-    "gp_pct": 4.0,
-    "transactions": 317,
-    "vs_yesterday": 13258.67
+    "revenue": 42287.17,
+    "cost": 41907.24,
+    "gp_pct": 0.9,
+    "transactions": 325,
+    "vs_yesterday": 15266.67
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 619800.52,
-    "cost": 597827.5,
-    "gp_pct": 3.5,
-    "transactions": 5899,
+    "revenue": 621808.52,
+    "cost": 601067.14,
+    "gp_pct": 3.3,
+    "transactions": 5907,
     "days_elapsed": 26
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-26",
-      "revenue": 40279.17,
-      "cost": 38667.6,
-      "transactions": 317,
-      "gp_pct": 4.0
+      "revenue": 42287.17,
+      "cost": 41907.24,
+      "transactions": 325,
+      "gp_pct": 0.9
     }
   ],
   "hourly_today": [
@@ -664,10 +664,10 @@
     {
       "hour": 21,
       "label": "21:00",
-      "revenue": 0.0,
-      "cost": 0.0,
-      "gp_pct": 0.0,
-      "transactions": 0
+      "revenue": 2008.0,
+      "cost": 3239.64,
+      "gp_pct": -61.3,
+      "transactions": 8
     },
     {
       "hour": 22,
@@ -692,8 +692,8 @@
       "desc": "Carling Black Label 750ml",
       "price": 25.0,
       "gp_pct": 24.3,
-      "revenue": 193864.7,
-      "qty_sold": 8937.0
+      "revenue": 193889.7,
+      "qty_sold": 8938.0
     },
     {
       "internal": 171,
@@ -716,32 +716,32 @@
       "desc": "Paarl Perle' 2L",
       "price": 75.0,
       "gp_pct": 13.0,
-      "revenue": 36650.86,
-      "qty_sold": 494.0
+      "revenue": 36725.86,
+      "qty_sold": 495.0
     },
     {
       "internal": 204,
       "desc": "Klipdrift Export Brandy 750ml",
       "price": 200.0,
       "gp_pct": 12.5,
-      "revenue": 27600.0,
-      "qty_sold": 138.0
+      "revenue": 27800.0,
+      "qty_sold": 139.0
     },
     {
       "internal": 439,
       "desc": "4th Street Sweet L/H 5l",
       "price": 180.0,
       "gp_pct": 11.9,
-      "revenue": 23220.0,
-      "qty_sold": 129.0
+      "revenue": 23400.0,
+      "qty_sold": 130.0
     },
     {
       "internal": 13,
       "desc": "Commando Brandy 750ml",
       "price": 200.0,
       "gp_pct": 10.5,
-      "revenue": 22779.17,
-      "qty_sold": 114.0
+      "revenue": 22979.17,
+      "qty_sold": 115.0
     },
     {
       "internal": 161,
@@ -756,16 +756,16 @@
       "desc": "4th Street Sweet Red 5L",
       "price": 180.0,
       "gp_pct": 16.8,
-      "revenue": 19440.0,
-      "qty_sold": 108.0
+      "revenue": 19980.0,
+      "qty_sold": 111.0
     },
     {
       "internal": 231,
       "desc": "Heineken 650ml",
       "price": 25.0,
       "gp_pct": 10.3,
-      "revenue": 18050.0,
-      "qty_sold": 722.0
+      "revenue": 18075.0,
+      "qty_sold": 723.0
     },
     {
       "internal": 169,
@@ -780,8 +780,8 @@
       "desc": "KWV 3yrs 750ml",
       "price": 200.0,
       "gp_pct": -359.0,
-      "revenue": 14060.0,
-      "qty_sold": 71.0
+      "revenue": 14420.0,
+      "qty_sold": 73.0
     },
     {
       "internal": 183,
@@ -836,8 +836,8 @@
       "desc": "Castle Lager 750ml",
       "price": 20.0,
       "gp_pct": 17.1,
-      "revenue": 10551.57,
-      "qty_sold": 528.0
+      "revenue": 10571.57,
+      "qty_sold": 529.0
     },
     {
       "internal": 55,
@@ -851,10 +851,10 @@
   "cashier_summary": [
     {
       "cashier": "Thabiso",
-      "revenue": 441542.74,
-      "cost": 434978.13,
-      "transactions": 4124,
-      "gp_pct": 1.5
+      "revenue": 443550.74,
+      "cost": 438217.78,
+      "transactions": 4132,
+      "gp_pct": 1.2
     },
     {
       "cashier": "Nwabisa",
@@ -36625,6 +36625,24 @@
       "amount": 200.0,
       "gp_pct": 21.1,
       "points": 4,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 517691,
+      "date": "2026-06-26",
+      "desc": "Chiller's Punch Tequila Sunrise",
+      "amount": 140.0,
+      "gp_pct": 25.2,
+      "points": 2,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 517697,
+      "date": "2026-06-26",
+      "desc": "Windhoek Draught Dumpy 440ml",
+      "amount": 120.0,
+      "gp_pct": 19.8,
+      "points": 2,
       "cashier": "Thabiso"
     }
   ],
