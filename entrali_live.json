@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-26T11:04:43.377271",
+    "generated_at": "2026-06-26T11:11:16.008614",
     "generated_date": "2026-06-26",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-26",
-    "revenue": 3823.33,
-    "cost": 3566.91,
-    "gp_pct": 6.7,
-    "transactions": 26,
-    "vs_yesterday": -23197.17
+    "revenue": 4308.33,
+    "cost": 3976.31,
+    "gp_pct": 7.7,
+    "transactions": 29,
+    "vs_yesterday": -22712.17
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 583344.68,
-    "cost": 530782.48,
+    "revenue": 583829.68,
+    "cost": 531191.89,
     "gp_pct": 9.0,
-    "transactions": 5608,
+    "transactions": 5611,
     "days_elapsed": 26
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-26",
-      "revenue": 3823.33,
-      "cost": 3566.91,
-      "transactions": 26,
-      "gp_pct": 6.7
+      "revenue": 4308.33,
+      "cost": 3976.31,
+      "transactions": 29,
+      "gp_pct": 7.7
     }
   ],
   "hourly_today": [
@@ -584,10 +584,10 @@
     {
       "hour": 11,
       "label": "11:00",
-      "revenue": 240.0,
-      "cost": 197.58,
-      "gp_pct": 17.7,
-      "transactions": 1
+      "revenue": 725.0,
+      "cost": 606.99,
+      "gp_pct": 16.3,
+      "transactions": 4
     },
     {
       "hour": 12,
@@ -692,8 +692,8 @@
       "desc": "Carling Black Label 750ml",
       "price": 25.0,
       "gp_pct": 24.3,
-      "revenue": 186766.7,
-      "qty_sold": 8615.0
+      "revenue": 186791.7,
+      "qty_sold": 8616.0
     },
     {
       "internal": 171,
@@ -858,9 +858,9 @@
     },
     {
       "cashier": "Nwabisa",
-      "revenue": 378371.32,
-      "cost": 332639.95,
-      "transactions": 3569,
+      "revenue": 378856.32,
+      "cost": 333049.36,
+      "transactions": 3572,
       "gp_pct": 12.1
     }
   ],
@@ -35400,6 +35400,24 @@
       "amount": 60.0,
       "gp_pct": 20.3,
       "points": 1,
+      "cashier": "Nwabisa"
+    },
+    {
+      "number": 517399,
+      "date": "2026-06-26",
+      "desc": "Brutal Fruit Ruby Apple 330ml",
+      "amount": 200.0,
+      "gp_pct": 21.1,
+      "points": 4,
+      "cashier": "Nwabisa"
+    },
+    {
+      "number": 517400,
+      "date": "2026-06-26",
+      "desc": "Brutal Fruit Ruby Apple 330ml",
+      "amount": 100.0,
+      "gp_pct": 21.1,
+      "points": 2,
       "cashier": "Nwabisa"
     }
   ],
