@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-27T01:51:39.462678",
+    "generated_at": "2026-06-27T01:58:00.777294",
     "generated_date": "2026-06-27",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-27",
-    "revenue": 2269.0,
-    "cost": 2624.22,
-    "gp_pct": -15.7,
-    "transactions": 48,
-    "vs_yesterday": -50360.09
+    "revenue": 2349.0,
+    "cost": 2693.39,
+    "gp_pct": -14.7,
+    "transactions": 49,
+    "vs_yesterday": -50280.09
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 634419.44,
-    "cost": 616252.01,
+    "revenue": 634499.44,
+    "cost": 616321.18,
     "gp_pct": 2.9,
-    "transactions": 6078,
+    "transactions": 6079,
     "days_elapsed": 27
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-27",
-      "revenue": 2269.0,
-      "cost": 2624.22,
-      "transactions": 48,
-      "gp_pct": -15.7
+      "revenue": 2349.0,
+      "cost": 2693.39,
+      "transactions": 49,
+      "gp_pct": -14.7
     }
   ],
   "hourly_today": [
@@ -504,10 +504,10 @@
     {
       "hour": 1,
       "label": "01:00",
-      "revenue": 479.0,
-      "cost": 366.93,
-      "gp_pct": 23.4,
-      "transactions": 16
+      "revenue": 559.0,
+      "cost": 436.1,
+      "gp_pct": 22.0,
+      "transactions": 17
     },
     {
       "hour": 2,
@@ -748,8 +748,8 @@
       "desc": "Savanna Dry 500ml",
       "price": 25.0,
       "gp_pct": 13.3,
-      "revenue": 20600.0,
-      "qty_sold": 824.0
+      "revenue": 20625.0,
+      "qty_sold": 825.0
     },
     {
       "internal": 238,
@@ -836,8 +836,8 @@
       "desc": "Castle Lager 750ml",
       "price": 20.0,
       "gp_pct": 17.1,
-      "revenue": 10471.57,
-      "qty_sold": 524.0
+      "revenue": 10491.57,
+      "qty_sold": 525.0
     },
     {
       "internal": 224,
@@ -851,9 +851,9 @@
   "cashier_summary": [
     {
       "cashier": "Thabiso",
-      "revenue": 442846.16,
-      "cost": 439775.77,
-      "transactions": 4197,
+      "revenue": 442926.16,
+      "cost": 439844.94,
+      "transactions": 4198,
       "gp_pct": 0.7
     },
     {
