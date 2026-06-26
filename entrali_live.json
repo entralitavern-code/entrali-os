@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-26T17:08:44.503636",
+    "generated_at": "2026-06-26T17:15:14.898712",
     "generated_date": "2026-06-26",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-26",
-    "revenue": 19921.33,
-    "cost": 18616.38,
-    "gp_pct": 6.6,
-    "transactions": 160,
-    "vs_yesterday": -7099.17
+    "revenue": 20736.33,
+    "cost": 19342.46,
+    "gp_pct": 6.7,
+    "transactions": 164,
+    "vs_yesterday": -6284.17
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 599442.68,
-    "cost": 545827.28,
+    "revenue": 600257.68,
+    "cost": 546553.36,
     "gp_pct": 8.9,
-    "transactions": 5742,
+    "transactions": 5746,
     "days_elapsed": 26
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-26",
-      "revenue": 19921.33,
-      "cost": 18616.38,
-      "transactions": 160,
-      "gp_pct": 6.6
+      "revenue": 20736.33,
+      "cost": 19342.46,
+      "transactions": 164,
+      "gp_pct": 6.7
     }
   ],
   "hourly_today": [
@@ -632,10 +632,10 @@
     {
       "hour": 17,
       "label": "17:00",
-      "revenue": 110.0,
-      "cost": 109.54,
-      "gp_pct": 0.4,
-      "transactions": 2
+      "revenue": 925.0,
+      "cost": 835.62,
+      "gp_pct": 9.7,
+      "transactions": 6
     },
     {
       "hour": 18,
@@ -700,8 +700,8 @@
       "desc": "Paarl Perle' 1L",
       "price": 45.0,
       "gp_pct": 21.9,
-      "revenue": 72545.5,
-      "qty_sold": 1817.0
+      "revenue": 72995.5,
+      "qty_sold": 1829.0
     },
     {
       "internal": 188,
@@ -748,8 +748,8 @@
       "desc": "Savanna Dry 500ml",
       "price": 25.0,
       "gp_pct": 13.3,
-      "revenue": 19725.0,
-      "qty_sold": 789.0
+      "revenue": 19875.0,
+      "qty_sold": 795.0
     },
     {
       "internal": 238,
@@ -788,8 +788,8 @@
       "desc": "Old Buck Gin 750ml",
       "price": 180.0,
       "gp_pct": 17.2,
-      "revenue": 13320.0,
-      "qty_sold": 74.0
+      "revenue": 13500.0,
+      "qty_sold": 75.0
     },
     {
       "internal": 184,
@@ -828,8 +828,8 @@
       "desc": "Braaiwors",
       "price": 35.0,
       "gp_pct": 28.6,
-      "revenue": 11070.0,
-      "qty_sold": 355.0
+      "revenue": 11105.0,
+      "qty_sold": 356.0
     },
     {
       "internal": 134,
@@ -851,9 +851,9 @@
   "cashier_summary": [
     {
       "cashier": "Thabiso",
-      "revenue": 421184.9,
-      "cost": 388921.92,
-      "transactions": 3967,
+      "revenue": 421999.9,
+      "cost": 389647.99,
+      "transactions": 3971,
       "gp_pct": 7.7
     },
     {
@@ -1082,7 +1082,7 @@
       "price": 45.0,
       "cost": 35.1667,
       "gp_pct": 21.9,
-      "qty": -52.0,
+      "qty": -64.0,
       "minimum": 0.0,
       "maximum": 60.0,
       "on_promo": false,
@@ -33231,6 +33231,15 @@
       "amount": 60.0,
       "gp_pct": 20.3,
       "points": 1,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 517533,
+      "date": "2026-06-26",
+      "desc": "Paarl Perle' 1L",
+      "amount": 450.0,
+      "gp_pct": 21.9,
+      "points": 9,
       "cashier": "Thabiso"
     }
   ],
