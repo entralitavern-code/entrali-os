@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-27T00:41:17.234162",
+    "generated_at": "2026-06-27T00:47:41.470193",
     "generated_date": "2026-06-27",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-27",
-    "revenue": 1259.0,
-    "cost": 1830.38,
-    "gp_pct": -45.4,
-    "transactions": 22,
-    "vs_yesterday": -51370.09
+    "revenue": 1288.0,
+    "cost": 1853.79,
+    "gp_pct": -43.9,
+    "transactions": 24,
+    "vs_yesterday": -51341.09
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 633409.44,
-    "cost": 615458.17,
+    "revenue": 633438.44,
+    "cost": 615481.59,
     "gp_pct": 2.8,
-    "transactions": 6052,
+    "transactions": 6054,
     "days_elapsed": 27
   },
   "latest_cashup": {
@@ -486,20 +486,20 @@
     },
     {
       "date": "2026-06-27",
-      "revenue": 1259.0,
-      "cost": 1830.38,
-      "transactions": 22,
-      "gp_pct": -45.4
+      "revenue": 1288.0,
+      "cost": 1853.79,
+      "transactions": 24,
+      "gp_pct": -43.9
     }
   ],
   "hourly_today": [
     {
       "hour": 0,
       "label": "00:00",
-      "revenue": 1259.0,
-      "cost": 1830.38,
-      "gp_pct": -45.4,
-      "transactions": 22
+      "revenue": 1288.0,
+      "cost": 1853.79,
+      "gp_pct": -43.9,
+      "transactions": 24
     },
     {
       "hour": 1,
@@ -748,8 +748,8 @@
       "desc": "Savanna Dry 500ml",
       "price": 25.0,
       "gp_pct": 13.3,
-      "revenue": 20575.0,
-      "qty_sold": 823.0
+      "revenue": 20600.0,
+      "qty_sold": 824.0
     },
     {
       "internal": 238,
@@ -851,9 +851,9 @@
   "cashier_summary": [
     {
       "cashier": "Thabiso",
-      "revenue": 441836.16,
-      "cost": 438981.93,
-      "transactions": 4171,
+      "revenue": 441865.16,
+      "cost": 439005.35,
+      "transactions": 4173,
       "gp_pct": 0.6
     },
     {
@@ -1101,7 +1101,7 @@
       "price": 2.0,
       "cost": 0.875,
       "gp_pct": 56.2,
-      "qty": -52.0,
+      "qty": -54.0,
       "minimum": 0.0,
       "maximum": 0.0,
       "on_promo": false,
