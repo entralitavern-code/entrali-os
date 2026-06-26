@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-26T22:25:47.530021",
+    "generated_at": "2026-06-26T22:32:13.074560",
     "generated_date": "2026-06-26",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-26",
-    "revenue": 47117.17,
-    "cost": 48257.57,
-    "gp_pct": -2.4,
-    "transactions": 376,
-    "vs_yesterday": 20096.67
+    "revenue": 47907.17,
+    "cost": 49595.54,
+    "gp_pct": -3.5,
+    "transactions": 385,
+    "vs_yesterday": 20886.67
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 626638.52,
-    "cost": 607417.47,
-    "gp_pct": 3.1,
-    "transactions": 5958,
+    "revenue": 627428.52,
+    "cost": 608755.44,
+    "gp_pct": 3.0,
+    "transactions": 5967,
     "days_elapsed": 26
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-26",
-      "revenue": 47117.17,
-      "cost": 48257.57,
-      "transactions": 376,
-      "gp_pct": -2.4
+      "revenue": 47907.17,
+      "cost": 49595.54,
+      "transactions": 385,
+      "gp_pct": -3.5
     }
   ],
   "hourly_today": [
@@ -672,10 +672,10 @@
     {
       "hour": 22,
       "label": "22:00",
-      "revenue": 1470.0,
-      "cost": 1990.95,
-      "gp_pct": -35.4,
-      "transactions": 13
+      "revenue": 2260.0,
+      "cost": 3388.42,
+      "gp_pct": -49.9,
+      "transactions": 22
     },
     {
       "hour": 23,
@@ -692,8 +692,8 @@
       "desc": "Carling Black Label 750ml",
       "price": 25.0,
       "gp_pct": 24.3,
-      "revenue": 194414.7,
-      "qty_sold": 8959.0
+      "revenue": 194614.7,
+      "qty_sold": 8967.0
     },
     {
       "internal": 171,
@@ -708,8 +708,8 @@
       "desc": "Sedgwicks Old Brown Sherry 750ml",
       "price": 60.0,
       "gp_pct": 23.3,
-      "revenue": 40989.97,
-      "qty_sold": 779.0
+      "revenue": 41049.97,
+      "qty_sold": 780.0
     },
     {
       "internal": 172,
@@ -780,8 +780,8 @@
       "desc": "KWV 3yrs 750ml",
       "price": 200.0,
       "gp_pct": -359.0,
-      "revenue": 14960.0,
-      "qty_sold": 76.0
+      "revenue": 15140.0,
+      "qty_sold": 77.0
     },
     {
       "internal": 183,
@@ -796,8 +796,8 @@
       "desc": "2Bernini Classic 500ml",
       "price": 25.0,
       "gp_pct": 38.4,
-      "revenue": 12850.0,
-      "qty_sold": 673.0
+      "revenue": 12970.0,
+      "qty_sold": 679.0
     },
     {
       "internal": 712,
@@ -851,10 +851,10 @@
   "cashier_summary": [
     {
       "cashier": "Thabiso",
-      "revenue": 448380.74,
-      "cost": 444568.11,
-      "transactions": 4183,
-      "gp_pct": 0.9
+      "revenue": 449170.74,
+      "cost": 445906.07,
+      "transactions": 4192,
+      "gp_pct": 0.7
     },
     {
       "cashier": "Nwabisa",
@@ -36807,13 +36807,58 @@
       "gp_pct": 28.7,
       "points": 2,
       "cashier": "Thabiso"
+    },
+    {
+      "number": 517750,
+      "date": "2026-06-26",
+      "desc": "Carling Black Label 750ml",
+      "amount": 100.0,
+      "gp_pct": 24.3,
+      "points": 2,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 517751,
+      "date": "2026-06-26",
+      "desc": "2Bernini Classic 500ml",
+      "amount": 120.0,
+      "gp_pct": 38.4,
+      "points": 2,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 517751,
+      "date": "2026-06-26",
+      "desc": "Castle Lite Dbl Malt 340ml",
+      "amount": 95.0,
+      "gp_pct": 26.0,
+      "points": 1,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 517753,
+      "date": "2026-06-26",
+      "desc": "Sedgwicks Old Brown Sherry 750ml",
+      "amount": 60.0,
+      "gp_pct": 23.3,
+      "points": 1,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 517757,
+      "date": "2026-06-26",
+      "desc": "Carling Black Label 750ml",
+      "amount": 50.0,
+      "gp_pct": 24.3,
+      "points": 1,
+      "cashier": "Thabiso"
     }
   ],
   "stock_summary": {
     "total_products": 743,
     "out_of_stock": 471,
     "on_promo": 1,
-    "dead_stock_30d": 76,
+    "dead_stock_30d": 75,
     "loyalty_eligible": 282
   }
 }
