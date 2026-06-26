@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-26T13:41:14.599955",
+    "generated_at": "2026-06-26T13:47:44.662954",
     "generated_date": "2026-06-26",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-26",
-    "revenue": 11334.33,
-    "cost": 10520.34,
-    "gp_pct": 7.2,
-    "transactions": 80,
-    "vs_yesterday": -15686.17
+    "revenue": 12104.33,
+    "cost": 11243.57,
+    "gp_pct": 7.1,
+    "transactions": 83,
+    "vs_yesterday": -14916.17
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 590855.68,
-    "cost": 537735.92,
+    "revenue": 591625.68,
+    "cost": 538459.15,
     "gp_pct": 9.0,
-    "transactions": 5662,
+    "transactions": 5665,
     "days_elapsed": 26
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-26",
-      "revenue": 11334.33,
-      "cost": 10520.34,
-      "transactions": 80,
-      "gp_pct": 7.2
+      "revenue": 12104.33,
+      "cost": 11243.57,
+      "transactions": 83,
+      "gp_pct": 7.1
     }
   ],
   "hourly_today": [
@@ -600,10 +600,10 @@
     {
       "hour": 13,
       "label": "13:00",
-      "revenue": 2922.0,
-      "cost": 2624.13,
-      "gp_pct": 10.2,
-      "transactions": 19
+      "revenue": 3692.0,
+      "cost": 3347.36,
+      "gp_pct": 9.3,
+      "transactions": 22
     },
     {
       "hour": 14,
@@ -700,8 +700,8 @@
       "desc": "Paarl Perle' 1L",
       "price": 45.0,
       "gp_pct": 21.9,
-      "revenue": 72320.5,
-      "qty_sold": 1812.0
+      "revenue": 72365.5,
+      "qty_sold": 1813.0
     },
     {
       "internal": 188,
@@ -748,8 +748,8 @@
       "desc": "Savanna Dry 500ml",
       "price": 25.0,
       "gp_pct": 13.3,
-      "revenue": 19450.0,
-      "qty_sold": 778.0
+      "revenue": 19525.0,
+      "qty_sold": 781.0
     },
     {
       "internal": 238,
@@ -788,8 +788,8 @@
       "desc": "Old Buck Gin 750ml",
       "price": 180.0,
       "gp_pct": 17.2,
-      "revenue": 13140.0,
-      "qty_sold": 73.0
+      "revenue": 13320.0,
+      "qty_sold": 74.0
     },
     {
       "internal": 184,
@@ -858,9 +858,9 @@
     },
     {
       "cashier": "Nwabisa",
-      "revenue": 385882.32,
-      "cost": 339593.38,
-      "transactions": 3623,
+      "revenue": 386652.32,
+      "cost": 340316.61,
+      "transactions": 3626,
       "gp_pct": 12.0
     }
   ],
@@ -1082,7 +1082,7 @@
       "price": 45.0,
       "cost": 35.1667,
       "gp_pct": 21.9,
-      "qty": -47.0,
+      "qty": -48.0,
       "minimum": 0.0,
       "maximum": 60.0,
       "on_promo": false,
