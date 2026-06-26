@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-26T10:25:57.562277",
+    "generated_at": "2026-06-26T10:32:22.218169",
     "generated_date": "2026-06-26",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-26",
-    "revenue": 2529.0,
-    "cost": 2388.33,
-    "gp_pct": 5.6,
-    "transactions": 16,
-    "vs_yesterday": -24491.5
+    "revenue": 2661.0,
+    "cost": 2500.46,
+    "gp_pct": 6.0,
+    "transactions": 19,
+    "vs_yesterday": -24359.5
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 582050.35,
-    "cost": 529603.91,
+    "revenue": 582182.35,
+    "cost": 529716.03,
     "gp_pct": 9.0,
-    "transactions": 5598,
+    "transactions": 5601,
     "days_elapsed": 26
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-26",
-      "revenue": 2529.0,
-      "cost": 2388.33,
-      "transactions": 16,
-      "gp_pct": 5.6
+      "revenue": 2661.0,
+      "cost": 2500.46,
+      "transactions": 19,
+      "gp_pct": 6.0
     }
   ],
   "hourly_today": [
@@ -576,10 +576,10 @@
     {
       "hour": 10,
       "label": "10:00",
-      "revenue": 593.0,
-      "cost": 586.9,
-      "gp_pct": 1.0,
-      "transactions": 5
+      "revenue": 725.0,
+      "cost": 699.02,
+      "gp_pct": 3.6,
+      "transactions": 8
     },
     {
       "hour": 11,
@@ -858,9 +858,9 @@
     },
     {
       "cashier": "Nwabisa",
-      "revenue": 377076.99,
-      "cost": 331461.37,
-      "transactions": 3559,
+      "revenue": 377208.99,
+      "cost": 331573.5,
+      "transactions": 3562,
       "gp_pct": 12.1
     }
   ],
@@ -1044,13 +1044,13 @@
       "price": 10.0,
       "cost": 7.61,
       "gp_pct": 23.9,
-      "qty": -180.0,
+      "qty": -182.0,
       "minimum": 0.0,
       "maximum": 0.0,
       "on_promo": false,
       "promo_price": null,
-      "days_since_sold": 1,
-      "lastsold": "2026-06-25",
+      "days_since_sold": 0,
+      "lastsold": "2026-06-26",
       "lastbuy": null,
       "loyalty_eligible": true,
       "alert": "OUT OF STOCK"
@@ -35345,6 +35345,15 @@
       "amount": 100.0,
       "gp_pct": 23.3,
       "points": 2,
+      "cashier": "Nwabisa"
+    },
+    {
+      "number": 517389,
+      "date": "2026-06-26",
+      "desc": "Redd's Dry 660ml",
+      "amount": 50.0,
+      "gp_pct": 25.3,
+      "points": 1,
       "cashier": "Nwabisa"
     }
   ],
