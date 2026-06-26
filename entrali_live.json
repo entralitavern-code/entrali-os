@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-26T20:42:25.979264",
+    "generated_at": "2026-06-26T20:48:47.205428",
     "generated_date": "2026-06-26",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-26",
-    "revenue": 38279.17,
-    "cost": 37008.58,
-    "gp_pct": 3.3,
-    "transactions": 304,
-    "vs_yesterday": 11258.67
+    "revenue": 38774.17,
+    "cost": 37415.83,
+    "gp_pct": 3.5,
+    "transactions": 311,
+    "vs_yesterday": 11753.67
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 617800.52,
-    "cost": 596168.48,
+    "revenue": 618295.52,
+    "cost": 596575.73,
     "gp_pct": 3.5,
-    "transactions": 5886,
+    "transactions": 5893,
     "days_elapsed": 26
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-26",
-      "revenue": 38279.17,
-      "cost": 37008.58,
-      "transactions": 304,
-      "gp_pct": 3.3
+      "revenue": 38774.17,
+      "cost": 37415.83,
+      "transactions": 311,
+      "gp_pct": 3.5
     }
   ],
   "hourly_today": [
@@ -656,10 +656,10 @@
     {
       "hour": 20,
       "label": "20:00",
-      "revenue": 3520.84,
-      "cost": 3732.33,
-      "gp_pct": -6.0,
-      "transactions": 31
+      "revenue": 4015.84,
+      "cost": 4134.33,
+      "gp_pct": -3.0,
+      "transactions": 38
     },
     {
       "hour": 21,
@@ -692,8 +692,8 @@
       "desc": "Carling Black Label 750ml",
       "price": 25.0,
       "gp_pct": 24.3,
-      "revenue": 193789.7,
-      "qty_sold": 8934.0
+      "revenue": 193814.7,
+      "qty_sold": 8935.0
     },
     {
       "internal": 171,
@@ -716,8 +716,8 @@
       "desc": "Paarl Perle' 2L",
       "price": 75.0,
       "gp_pct": 13.0,
-      "revenue": 36575.86,
-      "qty_sold": 493.0
+      "revenue": 36650.86,
+      "qty_sold": 494.0
     },
     {
       "internal": 204,
@@ -748,8 +748,8 @@
       "desc": "Savanna Dry 500ml",
       "price": 25.0,
       "gp_pct": 13.3,
-      "revenue": 20375.0,
-      "qty_sold": 815.0
+      "revenue": 20475.0,
+      "qty_sold": 819.0
     },
     {
       "internal": 238,
@@ -792,20 +792,20 @@
       "qty_sold": 76.0
     },
     {
+      "internal": 712,
+      "desc": "Bernini Mimosa 500ml",
+      "price": 25.0,
+      "gp_pct": 33.4,
+      "revenue": 12640.0,
+      "qty_sold": 652.0
+    },
+    {
       "internal": 599,
       "desc": "2Bernini Classic 500ml",
       "price": 25.0,
       "gp_pct": 38.4,
       "revenue": 12585.0,
       "qty_sold": 660.0
-    },
-    {
-      "internal": 712,
-      "desc": "Bernini Mimosa 500ml",
-      "price": 25.0,
-      "gp_pct": 33.4,
-      "revenue": 12520.0,
-      "qty_sold": 646.0
     },
     {
       "internal": 184,
@@ -851,9 +851,9 @@
   "cashier_summary": [
     {
       "cashier": "Thabiso",
-      "revenue": 439542.74,
-      "cost": 433319.11,
-      "transactions": 4111,
+      "revenue": 440037.74,
+      "cost": 433726.37,
+      "transactions": 4118,
       "gp_pct": 1.4
     },
     {
@@ -36552,6 +36552,24 @@
       "amount": 50.0,
       "gp_pct": 33.4,
       "points": 1,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 517679,
+      "date": "2026-06-26",
+      "desc": "Heineken 330ml",
+      "amount": 110.0,
+      "gp_pct": 28.1,
+      "points": 2,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 517683,
+      "date": "2026-06-26",
+      "desc": "Bernini Mimosa 500ml",
+      "amount": 120.0,
+      "gp_pct": 33.4,
+      "points": 2,
       "cashier": "Thabiso"
     }
   ],
