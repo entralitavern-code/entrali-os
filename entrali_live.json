@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-27T00:02:41.884231",
+    "generated_at": "2026-06-27T00:09:05.115282",
     "generated_date": "2026-06-27",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-27",
-    "revenue": 28.0,
-    "cost": 39.0,
-    "gp_pct": -39.3,
-    "transactions": 3,
-    "vs_yesterday": -52601.09
+    "revenue": 378.0,
+    "cost": 1096.43,
+    "gp_pct": -190.1,
+    "transactions": 8,
+    "vs_yesterday": -52251.09
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 632178.44,
-    "cost": 613666.79,
-    "gp_pct": 2.9,
-    "transactions": 6033,
+    "revenue": 632528.44,
+    "cost": 614724.22,
+    "gp_pct": 2.8,
+    "transactions": 6038,
     "days_elapsed": 27
   },
   "latest_cashup": {
@@ -486,20 +486,20 @@
     },
     {
       "date": "2026-06-27",
-      "revenue": 28.0,
-      "cost": 39.0,
-      "transactions": 3,
-      "gp_pct": -39.3
+      "revenue": 378.0,
+      "cost": 1096.43,
+      "transactions": 8,
+      "gp_pct": -190.1
     }
   ],
   "hourly_today": [
     {
       "hour": 0,
       "label": "00:00",
-      "revenue": 28.0,
-      "cost": 39.0,
-      "gp_pct": -39.3,
-      "transactions": 3
+      "revenue": 378.0,
+      "cost": 1094.68,
+      "gp_pct": -189.6,
+      "transactions": 8
     },
     {
       "hour": 1,
@@ -772,8 +772,8 @@
       "desc": "KWV 3yrs 750ml",
       "price": 200.0,
       "gp_pct": -359.0,
-      "revenue": 14920.0,
-      "qty_sold": 76.0
+      "revenue": 15100.0,
+      "qty_sold": 77.0
     },
     {
       "internal": 169,
@@ -836,8 +836,8 @@
       "desc": "Castle Lager 750ml",
       "price": 20.0,
       "gp_pct": 17.1,
-      "revenue": 10391.57,
-      "qty_sold": 520.0
+      "revenue": 10431.57,
+      "qty_sold": 522.0
     },
     {
       "internal": 224,
@@ -851,10 +851,10 @@
   "cashier_summary": [
     {
       "cashier": "Thabiso",
-      "revenue": 440605.16,
-      "cost": 437190.55,
-      "transactions": 4152,
-      "gp_pct": 0.8
+      "revenue": 440955.16,
+      "cost": 438247.98,
+      "transactions": 4157,
+      "gp_pct": 0.6
     },
     {
       "cashier": "Nwabisa",
@@ -1025,13 +1025,13 @@
       "price": 10.0,
       "cost": 7.61,
       "gp_pct": 23.9,
-      "qty": -192.0,
+      "qty": -193.0,
       "minimum": 0.0,
       "maximum": 0.0,
       "on_promo": false,
       "promo_price": null,
-      "days_since_sold": 1,
-      "lastsold": "2026-06-26",
+      "days_since_sold": 0,
+      "lastsold": "2026-06-27",
       "lastbuy": null,
       "loyalty_eligible": true,
       "alert": "OUT OF STOCK"
@@ -36589,6 +36589,15 @@
       "desc": "Heineken 330ml",
       "amount": 60.0,
       "gp_pct": 28.1,
+      "points": 1,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 517825,
+      "date": "2026-06-27",
+      "desc": "Smirnoff Storm Berry Twist 440ml",
+      "amount": 50.0,
+      "gp_pct": 24.8,
       "points": 1,
       "cashier": "Thabiso"
     }
