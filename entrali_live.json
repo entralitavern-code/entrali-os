@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-26T17:47:49.878422",
+    "generated_at": "2026-06-26T17:54:16.839472",
     "generated_date": "2026-06-26",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-26",
-    "revenue": 24164.33,
-    "cost": 22651.62,
-    "gp_pct": 6.3,
-    "transactions": 180,
-    "vs_yesterday": -2856.17
+    "revenue": 24649.33,
+    "cost": 23046.83,
+    "gp_pct": 6.5,
+    "transactions": 184,
+    "vs_yesterday": -2371.17
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 603685.68,
-    "cost": 549862.52,
+    "revenue": 604170.68,
+    "cost": 550257.73,
     "gp_pct": 8.9,
-    "transactions": 5762,
+    "transactions": 5766,
     "days_elapsed": 26
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-26",
-      "revenue": 24164.33,
-      "cost": 22651.62,
-      "transactions": 180,
-      "gp_pct": 6.3
+      "revenue": 24649.33,
+      "cost": 23046.83,
+      "transactions": 184,
+      "gp_pct": 6.5
     }
   ],
   "hourly_today": [
@@ -632,10 +632,10 @@
     {
       "hour": 17,
       "label": "17:00",
-      "revenue": 4353.0,
-      "cost": 4144.79,
-      "gp_pct": 4.8,
-      "transactions": 22
+      "revenue": 4838.0,
+      "cost": 4540.0,
+      "gp_pct": 6.2,
+      "transactions": 26
     },
     {
       "hour": 18,
@@ -692,16 +692,16 @@
       "desc": "Carling Black Label 750ml",
       "price": 25.0,
       "gp_pct": 24.3,
-      "revenue": 192414.7,
-      "qty_sold": 8879.0
+      "revenue": 192489.7,
+      "qty_sold": 8882.0
     },
     {
       "internal": 171,
       "desc": "Paarl Perle' 1L",
       "price": 45.0,
       "gp_pct": 21.9,
-      "revenue": 73895.5,
-      "qty_sold": 1853.0
+      "revenue": 73940.5,
+      "qty_sold": 1854.0
     },
     {
       "internal": 188,
@@ -716,8 +716,8 @@
       "desc": "Paarl Perle' 2L",
       "price": 75.0,
       "gp_pct": 13.0,
-      "revenue": 36125.86,
-      "qty_sold": 487.0
+      "revenue": 36200.86,
+      "qty_sold": 488.0
     },
     {
       "internal": 204,
@@ -851,9 +851,9 @@
   "cashier_summary": [
     {
       "cashier": "Thabiso",
-      "revenue": 425427.9,
-      "cost": 392957.16,
-      "transactions": 3987,
+      "revenue": 425912.9,
+      "cost": 393352.37,
+      "transactions": 3991,
       "gp_pct": 7.6
     },
     {
@@ -1082,7 +1082,7 @@
       "price": 45.0,
       "cost": 35.1667,
       "gp_pct": 21.9,
-      "qty": -88.0,
+      "qty": -89.0,
       "minimum": 0.0,
       "maximum": 60.0,
       "on_promo": false,
@@ -33348,6 +33348,24 @@
       "amount": 100.0,
       "gp_pct": 23.3,
       "points": 2,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 517554,
+      "date": "2026-06-26",
+      "desc": "Corona 355ml",
+      "amount": 120.0,
+      "gp_pct": 19.4,
+      "points": 2,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 517554,
+      "date": "2026-06-26",
+      "desc": "Carling Black Label 750ml",
+      "amount": 75.0,
+      "gp_pct": 24.3,
+      "points": 1,
       "cashier": "Thabiso"
     }
   ],
