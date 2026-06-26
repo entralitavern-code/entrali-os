@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-26T22:58:08.112872",
+    "generated_at": "2026-06-26T23:04:43.108186",
     "generated_date": "2026-06-26",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-26",
-    "revenue": 48861.17,
-    "cost": 51661.07,
-    "gp_pct": -5.7,
-    "transactions": 401,
-    "vs_yesterday": 21840.67
+    "revenue": 49401.17,
+    "cost": 51836.62,
+    "gp_pct": -4.9,
+    "transactions": 408,
+    "vs_yesterday": 22380.67
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 628382.52,
-    "cost": 610820.97,
-    "gp_pct": 2.8,
-    "transactions": 5983,
+    "revenue": 628922.52,
+    "cost": 610996.52,
+    "gp_pct": 2.9,
+    "transactions": 5990,
     "days_elapsed": 26
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-26",
-      "revenue": 48861.17,
-      "cost": 51661.07,
-      "transactions": 401,
-      "gp_pct": -5.7
+      "revenue": 49401.17,
+      "cost": 51836.62,
+      "transactions": 408,
+      "gp_pct": -4.9
     }
   ],
   "hourly_today": [
@@ -672,18 +672,18 @@
     {
       "hour": 22,
       "label": "22:00",
-      "revenue": 3214.0,
-      "cost": 5204.76,
-      "gp_pct": -61.9,
-      "transactions": 38
+      "revenue": 3540.0,
+      "cost": 5466.45,
+      "gp_pct": -54.4,
+      "transactions": 40
     },
     {
       "hour": 23,
       "label": "23:00",
-      "revenue": 0.0,
-      "cost": 0.0,
-      "gp_pct": 0.0,
-      "transactions": 0
+      "revenue": 214.0,
+      "cost": 163.05,
+      "gp_pct": 23.8,
+      "transactions": 5
     }
   ],
   "top_products": [
@@ -692,8 +692,8 @@
       "desc": "Carling Black Label 750ml",
       "price": 25.0,
       "gp_pct": 24.3,
-      "revenue": 194689.7,
-      "qty_sold": 8970.0
+      "revenue": 194739.7,
+      "qty_sold": 8972.0
     },
     {
       "internal": 171,
@@ -820,8 +820,8 @@
       "desc": "Pork Chops",
       "price": 40.0,
       "gp_pct": 39.4,
-      "revenue": 12285.0,
-      "qty_sold": 362.0
+      "revenue": 12325.0,
+      "qty_sold": 363.0
     },
     {
       "internal": 271,
@@ -836,8 +836,8 @@
       "desc": "Castle Lager 750ml",
       "price": 20.0,
       "gp_pct": 17.1,
-      "revenue": 10611.57,
-      "qty_sold": 531.0
+      "revenue": 10631.57,
+      "qty_sold": 532.0
     },
     {
       "internal": 55,
@@ -851,10 +851,10 @@
   "cashier_summary": [
     {
       "cashier": "Thabiso",
-      "revenue": 450124.74,
-      "cost": 447971.61,
-      "transactions": 4208,
-      "gp_pct": 0.5
+      "revenue": 450664.74,
+      "cost": 448147.16,
+      "transactions": 4215,
+      "gp_pct": 0.6
     },
     {
       "cashier": "Nwabisa",
@@ -1094,6 +1094,25 @@
       "alert": "OUT OF STOCK"
     },
     {
+      "internal": 399,
+      "part_no": "4061",
+      "desc": "Drinking Glass Zombie",
+      "group": "10",
+      "price": 10.0,
+      "cost": 7.99,
+      "gp_pct": 20.1,
+      "qty": -47.0,
+      "minimum": 0.0,
+      "maximum": 0.0,
+      "on_promo": false,
+      "promo_price": null,
+      "days_since_sold": 0,
+      "lastsold": "2026-06-26",
+      "lastbuy": "2025-12-26",
+      "loyalty_eligible": true,
+      "alert": "OUT OF STOCK"
+    },
+    {
       "internal": 605,
       "part_no": "20008",
       "desc": "Pork & Beef",
@@ -1110,25 +1129,6 @@
       "lastsold": "2026-05-31",
       "lastbuy": null,
       "loyalty_eligible": false,
-      "alert": "OUT OF STOCK"
-    },
-    {
-      "internal": 399,
-      "part_no": "4061",
-      "desc": "Drinking Glass Zombie",
-      "group": "10",
-      "price": 10.0,
-      "cost": 7.99,
-      "gp_pct": 20.1,
-      "qty": -45.0,
-      "minimum": 0.0,
-      "maximum": 0.0,
-      "on_promo": false,
-      "promo_price": null,
-      "days_since_sold": 0,
-      "lastsold": "2026-06-26",
-      "lastbuy": "2025-12-26",
-      "loyalty_eligible": true,
       "alert": "OUT OF STOCK"
     },
     {
@@ -1284,6 +1284,25 @@
       "alert": "OUT OF STOCK"
     },
     {
+      "internal": 126,
+      "part_no": "354",
+      "desc": "Savannah",
+      "group": "13",
+      "price": 2.0,
+      "cost": 0.875,
+      "gp_pct": 56.2,
+      "qty": -27.0,
+      "minimum": 0.0,
+      "maximum": 0.0,
+      "on_promo": false,
+      "promo_price": null,
+      "days_since_sold": 0,
+      "lastsold": "2026-06-26",
+      "lastbuy": "2026-05-02",
+      "loyalty_eligible": true,
+      "alert": "OUT OF STOCK"
+    },
+    {
       "internal": 606,
       "part_no": "20009",
       "desc": "Beef & Wors",
@@ -1318,25 +1337,6 @@
       "days_since_sold": 53,
       "lastsold": "2026-05-04",
       "lastbuy": "2020-02-25",
-      "loyalty_eligible": true,
-      "alert": "OUT OF STOCK"
-    },
-    {
-      "internal": 126,
-      "part_no": "354",
-      "desc": "Savannah",
-      "group": "13",
-      "price": 2.0,
-      "cost": 0.875,
-      "gp_pct": 56.2,
-      "qty": -25.0,
-      "minimum": 0.0,
-      "maximum": 0.0,
-      "on_promo": false,
-      "promo_price": null,
-      "days_since_sold": 0,
-      "lastsold": "2026-06-26",
-      "lastbuy": "2026-05-02",
       "loyalty_eligible": true,
       "alert": "OUT OF STOCK"
     },
@@ -36869,6 +36869,15 @@
       "amount": 120.0,
       "gp_pct": 33.4,
       "points": 2,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 517776,
+      "date": "2026-06-26",
+      "desc": "Carling Black Label 750ml",
+      "amount": 50.0,
+      "gp_pct": 24.3,
+      "points": 1,
       "cashier": "Thabiso"
     }
   ],
