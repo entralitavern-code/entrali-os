@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-27T01:45:16.530137",
+    "generated_at": "2026-06-27T01:51:39.462678",
     "generated_date": "2026-06-27",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-27",
-    "revenue": 2139.0,
-    "cost": 2519.4,
-    "gp_pct": -17.8,
-    "transactions": 44,
-    "vs_yesterday": -50490.09
+    "revenue": 2269.0,
+    "cost": 2624.22,
+    "gp_pct": -15.7,
+    "transactions": 48,
+    "vs_yesterday": -50360.09
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 634289.44,
-    "cost": 616147.19,
+    "revenue": 634419.44,
+    "cost": 616252.01,
     "gp_pct": 2.9,
-    "transactions": 6074,
+    "transactions": 6078,
     "days_elapsed": 27
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-27",
-      "revenue": 2139.0,
-      "cost": 2519.4,
-      "transactions": 44,
-      "gp_pct": -17.8
+      "revenue": 2269.0,
+      "cost": 2624.22,
+      "transactions": 48,
+      "gp_pct": -15.7
     }
   ],
   "hourly_today": [
@@ -504,10 +504,10 @@
     {
       "hour": 1,
       "label": "01:00",
-      "revenue": 349.0,
-      "cost": 262.11,
-      "gp_pct": 24.9,
-      "transactions": 12
+      "revenue": 479.0,
+      "cost": 366.93,
+      "gp_pct": 23.4,
+      "transactions": 16
     },
     {
       "hour": 2,
@@ -692,8 +692,8 @@
       "desc": "Carling Black Label 750ml",
       "price": 25.0,
       "gp_pct": 24.3,
-      "revenue": 192218.7,
-      "qty_sold": 8851.0
+      "revenue": 192268.7,
+      "qty_sold": 8853.0
     },
     {
       "internal": 171,
@@ -764,8 +764,8 @@
       "desc": "Heineken 650ml",
       "price": 25.0,
       "gp_pct": 10.3,
-      "revenue": 18375.0,
-      "qty_sold": 735.0
+      "revenue": 18400.0,
+      "qty_sold": 736.0
     },
     {
       "internal": 200,
@@ -836,8 +836,8 @@
       "desc": "Castle Lager 750ml",
       "price": 20.0,
       "gp_pct": 17.1,
-      "revenue": 10451.57,
-      "qty_sold": 523.0
+      "revenue": 10471.57,
+      "qty_sold": 524.0
     },
     {
       "internal": 224,
@@ -851,9 +851,9 @@
   "cashier_summary": [
     {
       "cashier": "Thabiso",
-      "revenue": 442716.16,
-      "cost": 439670.95,
-      "transactions": 4193,
+      "revenue": 442846.16,
+      "cost": 439775.77,
+      "transactions": 4197,
       "gp_pct": 0.7
     },
     {
@@ -1120,13 +1120,13 @@
       "price": 10.0,
       "cost": 7.99,
       "gp_pct": 20.1,
-      "qty": -47.0,
+      "qty": -48.0,
       "minimum": 0.0,
       "maximum": 0.0,
       "on_promo": false,
       "promo_price": null,
-      "days_since_sold": 1,
-      "lastsold": "2026-06-26",
+      "days_since_sold": 0,
+      "lastsold": "2026-06-27",
       "lastbuy": "2025-12-26",
       "loyalty_eligible": true,
       "alert": "OUT OF STOCK"
@@ -36680,6 +36680,15 @@
       "desc": "Braaiwors",
       "amount": 60.0,
       "gp_pct": 28.6,
+      "points": 1,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 517867,
+      "date": "2026-06-27",
+      "desc": "Carling Black Label 750ml",
+      "amount": 50.0,
+      "gp_pct": 24.3,
       "points": 1,
       "cashier": "Thabiso"
     }
