@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-26T17:02:20.765641",
+    "generated_at": "2026-06-26T17:08:44.503636",
     "generated_date": "2026-06-26",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-26",
-    "revenue": 19831.33,
-    "cost": 18523.92,
+    "revenue": 19921.33,
+    "cost": 18616.38,
     "gp_pct": 6.6,
-    "transactions": 159,
-    "vs_yesterday": -7189.17
+    "transactions": 160,
+    "vs_yesterday": -7099.17
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 599352.68,
-    "cost": 545734.82,
+    "revenue": 599442.68,
+    "cost": 545827.28,
     "gp_pct": 8.9,
-    "transactions": 5741,
+    "transactions": 5742,
     "days_elapsed": 26
   },
   "latest_cashup": {
@@ -486,9 +486,9 @@
     },
     {
       "date": "2026-06-26",
-      "revenue": 19831.33,
-      "cost": 18523.92,
-      "transactions": 159,
+      "revenue": 19921.33,
+      "cost": 18616.38,
+      "transactions": 160,
       "gp_pct": 6.6
     }
   ],
@@ -632,10 +632,10 @@
     {
       "hour": 17,
       "label": "17:00",
-      "revenue": 20.0,
-      "cost": 17.08,
-      "gp_pct": 14.6,
-      "transactions": 1
+      "revenue": 110.0,
+      "cost": 109.54,
+      "gp_pct": 0.4,
+      "transactions": 2
     },
     {
       "hour": 18,
@@ -820,8 +820,8 @@
       "desc": "2Bernini Classic 500ml",
       "price": 25.0,
       "gp_pct": 38.4,
-      "revenue": 11310.0,
-      "qty_sold": 585.0
+      "revenue": 11400.0,
+      "qty_sold": 591.0
     },
     {
       "internal": 271,
@@ -851,9 +851,9 @@
   "cashier_summary": [
     {
       "cashier": "Thabiso",
-      "revenue": 421094.9,
-      "cost": 388829.46,
-      "transactions": 3966,
+      "revenue": 421184.9,
+      "cost": 388921.92,
+      "transactions": 3967,
       "gp_pct": 7.7
     },
     {
