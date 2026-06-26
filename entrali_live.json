@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-26T13:08:55.893738",
+    "generated_at": "2026-06-26T13:15:18.076951",
     "generated_date": "2026-06-26",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-26",
-    "revenue": 8715.33,
-    "cost": 8214.0,
-    "gp_pct": 5.8,
-    "transactions": 67,
-    "vs_yesterday": -18305.17
+    "revenue": 8890.33,
+    "cost": 8572.16,
+    "gp_pct": 3.6,
+    "transactions": 69,
+    "vs_yesterday": -18130.17
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 588236.68,
-    "cost": 535429.58,
-    "gp_pct": 9.0,
-    "transactions": 5649,
+    "revenue": 588411.68,
+    "cost": 535787.74,
+    "gp_pct": 8.9,
+    "transactions": 5651,
     "days_elapsed": 26
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-26",
-      "revenue": 8715.33,
-      "cost": 8214.0,
-      "transactions": 67,
-      "gp_pct": 5.8
+      "revenue": 8890.33,
+      "cost": 8572.16,
+      "transactions": 69,
+      "gp_pct": 3.6
     }
   ],
   "hourly_today": [
@@ -600,10 +600,10 @@
     {
       "hour": 13,
       "label": "13:00",
-      "revenue": 303.0,
-      "cost": 258.38,
-      "gp_pct": 14.7,
-      "transactions": 6
+      "revenue": 478.0,
+      "cost": 409.79,
+      "gp_pct": 14.3,
+      "transactions": 8
     },
     {
       "hour": 14,
@@ -708,8 +708,8 @@
       "desc": "Sedgwicks Old Brown Sherry 750ml",
       "price": 60.0,
       "gp_pct": 23.3,
-      "revenue": 39989.97,
-      "qty_sold": 760.0
+      "revenue": 40089.97,
+      "qty_sold": 762.0
     },
     {
       "internal": 172,
@@ -740,8 +740,8 @@
       "desc": "Commando Brandy 750ml",
       "price": 200.0,
       "gp_pct": 10.5,
-      "revenue": 21579.17,
-      "qty_sold": 108.0
+      "revenue": 21779.17,
+      "qty_sold": 109.0
     },
     {
       "internal": 161,
@@ -836,8 +836,8 @@
       "desc": "Castle Lager 750ml",
       "price": 20.0,
       "gp_pct": 17.1,
-      "revenue": 10271.57,
-      "qty_sold": 514.0
+      "revenue": 10331.57,
+      "qty_sold": 517.0
     },
     {
       "internal": 55,
@@ -858,10 +858,10 @@
     },
     {
       "cashier": "Nwabisa",
-      "revenue": 383263.32,
-      "cost": 337287.04,
-      "transactions": 3610,
-      "gp_pct": 12.0
+      "revenue": 383438.32,
+      "cost": 337645.2,
+      "transactions": 3612,
+      "gp_pct": 11.9
     }
   ],
   "low_stock_alerts": [
@@ -35552,6 +35552,24 @@
       "desc": "Castle Lite 660ml",
       "amount": 50.0,
       "gp_pct": 19.0,
+      "points": 1,
+      "cashier": "Nwabisa"
+    },
+    {
+      "number": 517441,
+      "date": "2026-06-26",
+      "desc": "Sedgwicks Old Brown Sherry 750ml",
+      "amount": 100.0,
+      "gp_pct": 23.3,
+      "points": 2,
+      "cashier": "Nwabisa"
+    },
+    {
+      "number": 517442,
+      "date": "2026-06-26",
+      "desc": "Redd's Dry 660ml",
+      "amount": 50.0,
+      "gp_pct": 25.3,
       "points": 1,
       "cashier": "Nwabisa"
     }
