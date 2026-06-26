@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-26T22:32:13.074560",
+    "generated_at": "2026-06-26T22:38:40.935001",
     "generated_date": "2026-06-26",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-26",
-    "revenue": 47907.17,
-    "cost": 49595.54,
-    "gp_pct": -3.5,
-    "transactions": 385,
-    "vs_yesterday": 20886.67
+    "revenue": 48365.17,
+    "cost": 49983.94,
+    "gp_pct": -3.3,
+    "transactions": 392,
+    "vs_yesterday": 21344.67
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 627428.52,
-    "cost": 608755.44,
+    "revenue": 627886.52,
+    "cost": 609143.84,
     "gp_pct": 3.0,
-    "transactions": 5967,
+    "transactions": 5974,
     "days_elapsed": 26
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-26",
-      "revenue": 47907.17,
-      "cost": 49595.54,
-      "transactions": 385,
-      "gp_pct": -3.5
+      "revenue": 48365.17,
+      "cost": 49983.94,
+      "transactions": 392,
+      "gp_pct": -3.3
     }
   ],
   "hourly_today": [
@@ -672,10 +672,10 @@
     {
       "hour": 22,
       "label": "22:00",
-      "revenue": 2260.0,
-      "cost": 3388.42,
-      "gp_pct": -49.9,
-      "transactions": 22
+      "revenue": 2718.0,
+      "cost": 3776.82,
+      "gp_pct": -39.0,
+      "transactions": 29
     },
     {
       "hour": 23,
@@ -692,8 +692,8 @@
       "desc": "Carling Black Label 750ml",
       "price": 25.0,
       "gp_pct": 24.3,
-      "revenue": 194614.7,
-      "qty_sold": 8967.0
+      "revenue": 194664.7,
+      "qty_sold": 8969.0
     },
     {
       "internal": 171,
@@ -716,8 +716,8 @@
       "desc": "Paarl Perle' 2L",
       "price": 75.0,
       "gp_pct": 13.0,
-      "revenue": 36875.86,
-      "qty_sold": 497.0
+      "revenue": 36950.86,
+      "qty_sold": 498.0
     },
     {
       "internal": 204,
@@ -851,9 +851,9 @@
   "cashier_summary": [
     {
       "cashier": "Thabiso",
-      "revenue": 449170.74,
-      "cost": 445906.07,
-      "transactions": 4192,
+      "revenue": 449628.74,
+      "cost": 446294.48,
+      "transactions": 4199,
       "gp_pct": 0.7
     },
     {
@@ -1322,6 +1322,25 @@
       "alert": "OUT OF STOCK"
     },
     {
+      "internal": 126,
+      "part_no": "354",
+      "desc": "Savannah",
+      "group": "13",
+      "price": 2.0,
+      "cost": 0.875,
+      "gp_pct": 56.2,
+      "qty": -25.0,
+      "minimum": 0.0,
+      "maximum": 0.0,
+      "on_promo": false,
+      "promo_price": null,
+      "days_since_sold": 0,
+      "lastsold": "2026-06-26",
+      "lastbuy": "2026-05-02",
+      "loyalty_eligible": true,
+      "alert": "OUT OF STOCK"
+    },
+    {
       "internal": 74,
       "part_no": "50844",
       "desc": "660ml Hunter's Returns",
@@ -1433,25 +1452,6 @@
       "lastsold": "2026-06-26",
       "lastbuy": "2026-05-05",
       "loyalty_eligible": false,
-      "alert": "OUT OF STOCK"
-    },
-    {
-      "internal": 126,
-      "part_no": "354",
-      "desc": "Savannah",
-      "group": "13",
-      "price": 2.0,
-      "cost": 0.875,
-      "gp_pct": 56.2,
-      "qty": -5.0,
-      "minimum": 0.0,
-      "maximum": 0.0,
-      "on_promo": false,
-      "promo_price": null,
-      "days_since_sold": 0,
-      "lastsold": "2026-06-26",
-      "lastbuy": "2026-05-02",
-      "loyalty_eligible": true,
       "alert": "OUT OF STOCK"
     },
     {
