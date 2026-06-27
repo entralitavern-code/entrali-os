@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-27T20:58:50.300259",
+    "generated_at": "2026-06-27T21:05:20.869843",
     "generated_date": "2026-06-27",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-27",
-    "revenue": 56367.09,
-    "cost": 51837.99,
-    "gp_pct": 8.0,
-    "transactions": 495,
-    "vs_yesterday": 3738.0
+    "revenue": 56646.09,
+    "cost": 52062.69,
+    "gp_pct": 8.1,
+    "transactions": 500,
+    "vs_yesterday": 4017.0
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 688517.53,
-    "cost": 626384.2,
+    "revenue": 688796.53,
+    "cost": 626608.9,
     "gp_pct": 9.0,
-    "transactions": 6525,
+    "transactions": 6530,
     "days_elapsed": 27
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-27",
-      "revenue": 56367.09,
-      "cost": 51837.99,
-      "transactions": 495,
-      "gp_pct": 8.0
+      "revenue": 56646.09,
+      "cost": 52062.69,
+      "transactions": 500,
+      "gp_pct": 8.1
     }
   ],
   "hourly_today": [
@@ -656,18 +656,18 @@
     {
       "hour": 20,
       "label": "20:00",
-      "revenue": 3688.34,
-      "cost": 3094.23,
+      "revenue": 3708.34,
+      "cost": 3110.82,
       "gp_pct": 16.1,
-      "transactions": 33
+      "transactions": 34
     },
     {
       "hour": 21,
       "label": "21:00",
-      "revenue": 0.0,
-      "cost": 0.0,
-      "gp_pct": 0.0,
-      "transactions": 0
+      "revenue": 259.0,
+      "cost": 208.12,
+      "gp_pct": 19.6,
+      "transactions": 4
     },
     {
       "hour": 22,
@@ -820,8 +820,8 @@
       "desc": "Bernini Blush 500ml",
       "price": 25.0,
       "gp_pct": 38.4,
-      "revenue": 12925.0,
-      "qty_sold": 679.0
+      "revenue": 13045.0,
+      "qty_sold": 685.0
     },
     {
       "internal": 184,
@@ -844,16 +844,16 @@
       "desc": "Castle Lager 750ml",
       "price": 20.0,
       "gp_pct": 17.1,
-      "revenue": 11231.57,
-      "qty_sold": 562.0
+      "revenue": 11251.57,
+      "qty_sold": 563.0
     }
   ],
   "cashier_summary": [
     {
       "cashier": "Thabiso",
-      "revenue": 450433.5,
-      "cost": 414033.13,
-      "transactions": 4264,
+      "revenue": 450712.5,
+      "cost": 414257.83,
+      "transactions": 4269,
       "gp_pct": 8.1
     },
     {
@@ -1018,6 +1018,25 @@
       "alert": "OUT OF STOCK"
     },
     {
+      "internal": 232,
+      "part_no": "101",
+      "desc": "Kingdom - RG",
+      "group": "13",
+      "price": 1.5,
+      "cost": 0.485,
+      "gp_pct": 67.7,
+      "qty": -200.0,
+      "minimum": 0.0,
+      "maximum": 7.0,
+      "on_promo": false,
+      "promo_price": null,
+      "days_since_sold": 0,
+      "lastsold": "2026-06-27",
+      "lastbuy": "2025-10-29",
+      "loyalty_eligible": true,
+      "alert": "OUT OF STOCK"
+    },
+    {
       "internal": 709,
       "part_no": "1761",
       "desc": "Klipdrift Export 25ml",
@@ -1033,25 +1052,6 @@
       "days_since_sold": 0,
       "lastsold": "2026-06-27",
       "lastbuy": null,
-      "loyalty_eligible": true,
-      "alert": "OUT OF STOCK"
-    },
-    {
-      "internal": 232,
-      "part_no": "101",
-      "desc": "Kingdom - RG",
-      "group": "13",
-      "price": 1.5,
-      "cost": 0.485,
-      "gp_pct": 67.7,
-      "qty": -194.0,
-      "minimum": 0.0,
-      "maximum": 7.0,
-      "on_promo": false,
-      "promo_price": null,
-      "days_since_sold": 0,
-      "lastsold": "2026-06-27",
-      "lastbuy": "2025-10-29",
       "loyalty_eligible": true,
       "alert": "OUT OF STOCK"
     },
@@ -38713,6 +38713,24 @@
     },
     {
       "number": 518314,
+      "date": "2026-06-27",
+      "desc": "Bernini Blush 500ml",
+      "amount": 120.0,
+      "gp_pct": 38.4,
+      "points": 2,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 518317,
+      "date": "2026-06-27",
+      "desc": "Smirnoff Storm Berry Twist 440ml",
+      "amount": 130.0,
+      "gp_pct": 24.8,
+      "points": 2,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 518320,
       "date": "2026-06-27",
       "desc": "Bernini Blush 500ml",
       "amount": 120.0,
