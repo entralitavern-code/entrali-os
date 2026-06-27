@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-27T16:48:47.075089",
+    "generated_at": "2026-06-27T16:55:10.054741",
     "generated_date": "2026-06-27",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-27",
-    "revenue": 29917.5,
-    "cost": 30716.64,
-    "gp_pct": -2.7,
-    "transactions": 283,
-    "vs_yesterday": -22711.59
+    "revenue": 30757.5,
+    "cost": 31520.35,
+    "gp_pct": -2.5,
+    "transactions": 290,
+    "vs_yesterday": -21871.59
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 662067.94,
-    "cost": 644641.85,
+    "revenue": 662907.94,
+    "cost": 645445.56,
     "gp_pct": 2.6,
-    "transactions": 6313,
+    "transactions": 6320,
     "days_elapsed": 27
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-27",
-      "revenue": 29917.5,
-      "cost": 30716.64,
-      "transactions": 283,
-      "gp_pct": -2.7
+      "revenue": 30757.5,
+      "cost": 31520.35,
+      "transactions": 290,
+      "gp_pct": -2.5
     }
   ],
   "hourly_today": [
@@ -624,10 +624,10 @@
     {
       "hour": 16,
       "label": "16:00",
-      "revenue": 4715.0,
-      "cost": 5158.25,
-      "gp_pct": -9.4,
-      "transactions": 48
+      "revenue": 5555.0,
+      "cost": 5961.95,
+      "gp_pct": -7.3,
+      "transactions": 55
     },
     {
       "hour": 17,
@@ -700,8 +700,8 @@
       "desc": "Paarl Perle' 1L",
       "price": 45.0,
       "gp_pct": 21.3,
-      "revenue": 74260.0,
-      "qty_sold": 1861.0
+      "revenue": 74305.0,
+      "qty_sold": 1862.0
     },
     {
       "internal": 188,
@@ -748,8 +748,8 @@
       "desc": "Savanna Dry 500ml",
       "price": 25.0,
       "gp_pct": 13.3,
-      "revenue": 21250.0,
-      "qty_sold": 850.0
+      "revenue": 21400.0,
+      "qty_sold": 856.0
     },
     {
       "internal": 238,
@@ -788,8 +788,8 @@
       "desc": "Bernini Mimosa 500ml",
       "price": 25.0,
       "gp_pct": 33.4,
-      "revenue": 14175.0,
-      "qty_sold": 753.0
+      "revenue": 14625.0,
+      "qty_sold": 783.0
     },
     {
       "internal": 183,
@@ -858,9 +858,9 @@
     },
     {
       "cashier": "Nwabisa",
-      "revenue": 415186.57,
-      "cost": 393580.48,
-      "transactions": 3859,
+      "revenue": 416026.57,
+      "cost": 394384.18,
+      "transactions": 3866,
       "gp_pct": 5.2
     }
   ],
@@ -34583,6 +34583,15 @@
       "amount": 50.0,
       "gp_pct": 24.3,
       "points": 1,
+      "cashier": "Nwabisa"
+    },
+    {
+      "number": 518108,
+      "date": "2026-06-27",
+      "desc": "Barcadi Breezer Blackberry 440ml",
+      "amount": 150.0,
+      "gp_pct": 33.3,
+      "points": 3,
       "cashier": "Nwabisa"
     }
   ],
