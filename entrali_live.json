@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-27T18:57:44.190571",
+    "generated_at": "2026-06-27T19:04:29.120830",
     "generated_date": "2026-06-27",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-27",
-    "revenue": 47305.75,
-    "cost": 51549.06,
-    "gp_pct": -9.0,
-    "transactions": 414,
-    "vs_yesterday": -5323.34
+    "revenue": 47760.75,
+    "cost": 51682.88,
+    "gp_pct": -8.2,
+    "transactions": 419,
+    "vs_yesterday": -4868.34
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 679456.19,
-    "cost": 665474.27,
+    "revenue": 679911.19,
+    "cost": 665608.1,
     "gp_pct": 2.1,
-    "transactions": 6444,
+    "transactions": 6449,
     "days_elapsed": 27
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-27",
-      "revenue": 47305.75,
-      "cost": 51549.06,
-      "transactions": 414,
-      "gp_pct": -9.0
+      "revenue": 47760.75,
+      "cost": 51682.88,
+      "transactions": 419,
+      "gp_pct": -8.2
     }
   ],
   "hourly_today": [
@@ -640,18 +640,18 @@
     {
       "hour": 18,
       "label": "18:00",
-      "revenue": 6812.0,
-      "cost": 8794.26,
-      "gp_pct": -29.1,
-      "transactions": 53
+      "revenue": 7262.0,
+      "cost": 9165.73,
+      "gp_pct": -26.2,
+      "transactions": 57
     },
     {
       "hour": 19,
       "label": "19:00",
-      "revenue": 0.0,
-      "cost": 0.0,
-      "gp_pct": 0.0,
-      "transactions": 0
+      "revenue": 5.0,
+      "cost": 3.83,
+      "gp_pct": 23.4,
+      "transactions": 1
     },
     {
       "hour": 20,
@@ -748,8 +748,8 @@
       "desc": "Savanna Dry 500ml",
       "price": 25.0,
       "gp_pct": 13.3,
-      "revenue": 21775.0,
-      "qty_sold": 871.0
+      "revenue": 21925.0,
+      "qty_sold": 877.0
     },
     {
       "internal": 238,
@@ -858,10 +858,10 @@
     },
     {
       "cashier": "Nwabisa",
-      "revenue": 432574.82,
-      "cost": 414412.9,
-      "transactions": 3990,
-      "gp_pct": 4.2
+      "revenue": 433029.82,
+      "cost": 414546.72,
+      "transactions": 3995,
+      "gp_pct": 4.3
     }
   ],
   "low_stock_alerts": [
