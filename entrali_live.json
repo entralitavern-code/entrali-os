@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-27T11:54:01.947598",
+    "generated_at": "2026-06-27T12:00:29.252839",
     "generated_date": "2026-06-27",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-27",
-    "revenue": 10397.0,
-    "cost": 11289.75,
-    "gp_pct": -8.6,
-    "transactions": 102,
-    "vs_yesterday": -42232.09
+    "revenue": 10717.0,
+    "cost": 11804.04,
+    "gp_pct": -10.1,
+    "transactions": 105,
+    "vs_yesterday": -41912.09
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 642547.44,
-    "cost": 625214.96,
+    "revenue": 642867.44,
+    "cost": 625729.25,
     "gp_pct": 2.7,
-    "transactions": 6132,
+    "transactions": 6135,
     "days_elapsed": 27
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-27",
-      "revenue": 10397.0,
-      "cost": 11289.75,
-      "transactions": 102,
-      "gp_pct": -8.6
+      "revenue": 10717.0,
+      "cost": 11804.04,
+      "transactions": 105,
+      "gp_pct": -10.1
     }
   ],
   "hourly_today": [
@@ -584,10 +584,10 @@
     {
       "hour": 11,
       "label": "11:00",
-      "revenue": 1074.0,
-      "cost": 1199.54,
-      "gp_pct": -11.7,
-      "transactions": 17
+      "revenue": 1394.0,
+      "cost": 1545.83,
+      "gp_pct": -10.9,
+      "transactions": 20
     },
     {
       "hour": 12,
@@ -692,16 +692,16 @@
       "desc": "Carling Black Label 750ml",
       "price": 25.0,
       "gp_pct": 24.3,
-      "revenue": 196015.7,
-      "qty_sold": 9032.0
+      "revenue": 196284.7,
+      "qty_sold": 9045.0
     },
     {
       "internal": 171,
       "desc": "Paarl Perle' 1L",
       "price": 45.0,
       "gp_pct": 21.3,
-      "revenue": 72235.0,
-      "qty_sold": 1808.0
+      "revenue": 72280.0,
+      "qty_sold": 1809.0
     },
     {
       "internal": 188,
@@ -716,8 +716,8 @@
       "desc": "Paarl Perle' 2L",
       "price": 75.0,
       "gp_pct": 13.0,
-      "revenue": 36293.11,
-      "qty_sold": 489.0
+      "revenue": 36368.11,
+      "qty_sold": 490.0
     },
     {
       "internal": 204,
@@ -788,8 +788,8 @@
       "desc": "Old Buck Gin 750ml",
       "price": 180.0,
       "gp_pct": 17.2,
-      "revenue": 13680.0,
-      "qty_sold": 76.0
+      "revenue": 13860.0,
+      "qty_sold": 77.0
     },
     {
       "internal": 599,
@@ -858,9 +858,9 @@
     },
     {
       "cashier": "Nwabisa",
-      "revenue": 395666.07,
-      "cost": 374153.59,
-      "transactions": 3678,
+      "revenue": 395986.07,
+      "cost": 374667.88,
+      "transactions": 3681,
       "gp_pct": 5.4
     }
   ],
@@ -36045,6 +36045,15 @@
     },
     {
       "number": 517918,
+      "date": "2026-06-27",
+      "desc": "Carling Black Label 750ml",
+      "amount": 244.0,
+      "gp_pct": 24.3,
+      "points": 4,
+      "cashier": "Nwabisa"
+    },
+    {
+      "number": 517923,
       "date": "2026-06-27",
       "desc": "Carling Black Label 750ml",
       "amount": 244.0,
