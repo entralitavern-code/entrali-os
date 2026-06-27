@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-27T18:31:47.905398",
+    "generated_at": "2026-06-27T18:38:14.699898",
     "generated_date": "2026-06-27",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-27",
-    "revenue": 44268.75,
-    "cost": 48030.38,
-    "gp_pct": -8.5,
-    "transactions": 387,
-    "vs_yesterday": -8360.34
+    "revenue": 45023.75,
+    "cost": 48641.16,
+    "gp_pct": -8.0,
+    "transactions": 394,
+    "vs_yesterday": -7605.34
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 676419.19,
-    "cost": 661955.59,
-    "gp_pct": 2.1,
-    "transactions": 6417,
+    "revenue": 677174.19,
+    "cost": 662566.37,
+    "gp_pct": 2.2,
+    "transactions": 6424,
     "days_elapsed": 27
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-27",
-      "revenue": 44268.75,
-      "cost": 48030.38,
-      "transactions": 387,
-      "gp_pct": -8.5
+      "revenue": 45023.75,
+      "cost": 48641.16,
+      "transactions": 394,
+      "gp_pct": -8.0
     }
   ],
   "hourly_today": [
@@ -640,10 +640,10 @@
     {
       "hour": 18,
       "label": "18:00",
-      "revenue": 3775.0,
-      "cost": 5517.05,
-      "gp_pct": -46.1,
-      "transactions": 26
+      "revenue": 4530.0,
+      "cost": 6127.83,
+      "gp_pct": -35.3,
+      "transactions": 33
     },
     {
       "hour": 19,
@@ -692,8 +692,8 @@
       "desc": "Carling Black Label 750ml",
       "price": 25.0,
       "gp_pct": 24.3,
-      "revenue": 201414.03,
-      "qty_sold": 9275.0
+      "revenue": 201639.03,
+      "qty_sold": 9284.0
     },
     {
       "internal": 171,
@@ -740,24 +740,24 @@
       "desc": "4th Street Sweet L/H 5l",
       "price": 180.0,
       "gp_pct": 11.9,
-      "revenue": 24120.0,
-      "qty_sold": 134.0
+      "revenue": 24300.0,
+      "qty_sold": 135.0
     },
     {
       "internal": 161,
       "desc": "Savanna Dry 500ml",
       "price": 25.0,
       "gp_pct": 13.3,
-      "revenue": 21600.0,
-      "qty_sold": 864.0
+      "revenue": 21625.0,
+      "qty_sold": 865.0
     },
     {
       "internal": 238,
       "desc": "4th Street Sweet Red 5L",
       "price": 180.0,
       "gp_pct": 16.8,
-      "revenue": 21240.0,
-      "qty_sold": 118.0
+      "revenue": 21420.0,
+      "qty_sold": 119.0
     },
     {
       "internal": 231,
@@ -836,8 +836,8 @@
       "desc": "Braaiwors",
       "price": 35.0,
       "gp_pct": 28.6,
-      "revenue": 12230.0,
-      "qty_sold": 393.0
+      "revenue": 12300.0,
+      "qty_sold": 395.0
     },
     {
       "internal": 224,
@@ -858,10 +858,10 @@
     },
     {
       "cashier": "Nwabisa",
-      "revenue": 429537.82,
-      "cost": 410894.22,
-      "transactions": 3963,
-      "gp_pct": 4.3
+      "revenue": 430292.82,
+      "cost": 411505.0,
+      "transactions": 3970,
+      "gp_pct": 4.4
     }
   ],
   "low_stock_alerts": [
@@ -38306,6 +38306,24 @@
     },
     {
       "number": 518205,
+      "date": "2026-06-27",
+      "desc": "Carling Black Label 750ml",
+      "amount": 100.0,
+      "gp_pct": 24.3,
+      "points": 2,
+      "cashier": "Nwabisa"
+    },
+    {
+      "number": 518208,
+      "date": "2026-06-27",
+      "desc": "Carling Black Label 750ml",
+      "amount": 100.0,
+      "gp_pct": 24.3,
+      "points": 2,
+      "cashier": "Nwabisa"
+    },
+    {
+      "number": 518212,
       "date": "2026-06-27",
       "desc": "Carling Black Label 750ml",
       "amount": 100.0,
