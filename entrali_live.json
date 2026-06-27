@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-27T21:59:37.429048",
+    "generated_at": "2026-06-27T22:06:12.458916",
     "generated_date": "2026-06-27",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-27",
-    "revenue": 61671.85,
-    "cost": 56264.64,
+    "revenue": 62186.85,
+    "cost": 56695.77,
     "gp_pct": 8.8,
-    "transactions": 539,
-    "vs_yesterday": 9042.76
+    "transactions": 543,
+    "vs_yesterday": 9557.76
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 693822.29,
-    "cost": 630810.85,
+    "revenue": 694337.29,
+    "cost": 631241.98,
     "gp_pct": 9.1,
-    "transactions": 6569,
+    "transactions": 6573,
     "days_elapsed": 27
   },
   "latest_cashup": {
@@ -486,9 +486,9 @@
     },
     {
       "date": "2026-06-27",
-      "revenue": 61671.85,
-      "cost": 56264.64,
-      "transactions": 539,
+      "revenue": 62186.85,
+      "cost": 56695.77,
+      "transactions": 543,
       "gp_pct": 8.8
     }
   ],
@@ -672,10 +672,10 @@
     {
       "hour": 22,
       "label": "22:00",
-      "revenue": 0.0,
-      "cost": 0.0,
-      "gp_pct": 0.0,
-      "transactions": 0
+      "revenue": 515.0,
+      "cost": 431.13,
+      "gp_pct": 16.3,
+      "transactions": 4
     },
     {
       "hour": 23,
@@ -692,16 +692,16 @@
       "desc": "Carling Black Label 750ml",
       "price": 25.0,
       "gp_pct": 24.3,
-      "revenue": 202689.03,
-      "qty_sold": 9326.0
+      "revenue": 202714.03,
+      "qty_sold": 9327.0
     },
     {
       "internal": 171,
       "desc": "Paarl Perle' 1L",
       "price": 45.0,
       "gp_pct": 21.3,
-      "revenue": 74530.0,
-      "qty_sold": 1867.0
+      "revenue": 74575.0,
+      "qty_sold": 1868.0
     },
     {
       "internal": 188,
@@ -812,8 +812,8 @@
       "desc": "Pork Chops",
       "price": 40.0,
       "gp_pct": 39.4,
-      "revenue": 13365.0,
-      "qty_sold": 389.0
+      "revenue": 13405.0,
+      "qty_sold": 390.0
     },
     {
       "internal": 55,
@@ -836,8 +836,8 @@
       "desc": "Braaiwors",
       "price": 35.0,
       "gp_pct": 28.6,
-      "revenue": 12685.0,
-      "qty_sold": 408.0
+      "revenue": 12720.0,
+      "qty_sold": 409.0
     },
     {
       "internal": 224,
@@ -851,9 +851,9 @@
   "cashier_summary": [
     {
       "cashier": "Thabiso",
-      "revenue": 455738.26,
-      "cost": 418459.78,
-      "transactions": 4308,
+      "revenue": 456253.26,
+      "cost": 418890.91,
+      "transactions": 4312,
       "gp_pct": 8.2
     },
     {
@@ -1132,6 +1132,25 @@
       "alert": "OUT OF STOCK"
     },
     {
+      "internal": 422,
+      "part_no": "6248",
+      "desc": "Klipdr & Coke 2L",
+      "group": "8",
+      "price": 220.0,
+      "cost": 200.92,
+      "gp_pct": 8.7,
+      "qty": -44.0,
+      "minimum": 0.0,
+      "maximum": 0.0,
+      "on_promo": false,
+      "promo_price": null,
+      "days_since_sold": 0,
+      "lastsold": "2026-06-27",
+      "lastbuy": "2021-09-08",
+      "loyalty_eligible": false,
+      "alert": "OUT OF STOCK"
+    },
+    {
       "internal": 662,
       "part_no": "515",
       "desc": "4 BL + 1761",
@@ -1147,25 +1166,6 @@
       "days_since_sold": 2,
       "lastsold": "2026-06-25",
       "lastbuy": "2021-05-17",
-      "loyalty_eligible": false,
-      "alert": "OUT OF STOCK"
-    },
-    {
-      "internal": 422,
-      "part_no": "6248",
-      "desc": "Klipdr & Coke 2L",
-      "group": "8",
-      "price": 220.0,
-      "cost": 200.92,
-      "gp_pct": 8.7,
-      "qty": -43.0,
-      "minimum": 0.0,
-      "maximum": 0.0,
-      "on_promo": false,
-      "promo_price": null,
-      "days_since_sold": 0,
-      "lastsold": "2026-06-27",
-      "lastbuy": "2021-09-08",
       "loyalty_eligible": false,
       "alert": "OUT OF STOCK"
     },
@@ -38971,6 +38971,15 @@
       "amount": 50.0,
       "gp_pct": 19.0,
       "points": 1,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 518363,
+      "date": "2026-06-27",
+      "desc": "Redd's MXD V Pine 440ml",
+      "amount": 110.0,
+      "gp_pct": 20.8,
+      "points": 2,
       "cashier": "Thabiso"
     }
   ],
