@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-27T14:11:22.703259",
+    "generated_at": "2026-06-27T14:17:55.286428",
     "generated_date": "2026-06-27",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-27",
-    "revenue": 17609.5,
-    "cost": 18545.94,
-    "gp_pct": -5.3,
-    "transactions": 169,
-    "vs_yesterday": -35019.59
+    "revenue": 17709.5,
+    "cost": 18664.07,
+    "gp_pct": -5.4,
+    "transactions": 171,
+    "vs_yesterday": -34919.59
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 649759.94,
-    "cost": 632471.15,
+    "revenue": 649859.94,
+    "cost": 632589.29,
     "gp_pct": 2.7,
-    "transactions": 6199,
+    "transactions": 6201,
     "days_elapsed": 27
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-27",
-      "revenue": 17609.5,
-      "cost": 18545.94,
-      "transactions": 169,
-      "gp_pct": -5.3
+      "revenue": 17709.5,
+      "cost": 18664.07,
+      "transactions": 171,
+      "gp_pct": -5.4
     }
   ],
   "hourly_today": [
@@ -608,10 +608,10 @@
     {
       "hour": 14,
       "label": "14:00",
-      "revenue": 1170.0,
-      "cost": 1042.7,
-      "gp_pct": 10.9,
-      "transactions": 10
+      "revenue": 1270.0,
+      "cost": 1127.5,
+      "gp_pct": 11.2,
+      "transactions": 12
     },
     {
       "hour": 15,
@@ -716,8 +716,8 @@
       "desc": "Paarl Perle' 2L",
       "price": 75.0,
       "gp_pct": 13.0,
-      "revenue": 36878.11,
-      "qty_sold": 497.0
+      "revenue": 36953.11,
+      "qty_sold": 498.0
     },
     {
       "internal": 204,
@@ -858,9 +858,9 @@
     },
     {
       "cashier": "Nwabisa",
-      "revenue": 402878.57,
-      "cost": 381409.78,
-      "transactions": 3745,
+      "revenue": 402978.57,
+      "cost": 381527.91,
+      "transactions": 3747,
       "gp_pct": 5.3
     }
   ],
