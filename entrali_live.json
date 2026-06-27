@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-27T13:06:06.555396",
+    "generated_at": "2026-06-27T13:12:27.353334",
     "generated_date": "2026-06-27",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-27",
-    "revenue": 13053.0,
-    "cost": 13677.27,
-    "gp_pct": -4.8,
-    "transactions": 134,
-    "vs_yesterday": -39576.09
+    "revenue": 13193.0,
+    "cost": 13878.14,
+    "gp_pct": -5.2,
+    "transactions": 137,
+    "vs_yesterday": -39436.09
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 645203.44,
-    "cost": 627602.48,
+    "revenue": 645343.44,
+    "cost": 627803.35,
     "gp_pct": 2.7,
-    "transactions": 6164,
+    "transactions": 6167,
     "days_elapsed": 27
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-27",
-      "revenue": 13053.0,
-      "cost": 13677.27,
-      "transactions": 134,
-      "gp_pct": -4.8
+      "revenue": 13193.0,
+      "cost": 13878.14,
+      "transactions": 137,
+      "gp_pct": -5.2
     }
   ],
   "hourly_today": [
@@ -600,10 +600,10 @@
     {
       "hour": 13,
       "label": "13:00",
-      "revenue": 385.0,
-      "cost": 332.99,
-      "gp_pct": 13.5,
-      "transactions": 4
+      "revenue": 525.0,
+      "cost": 441.86,
+      "gp_pct": 15.8,
+      "transactions": 7
     },
     {
       "hour": 14,
@@ -692,8 +692,8 @@
       "desc": "Carling Black Label 750ml",
       "price": 25.0,
       "gp_pct": 24.3,
-      "revenue": 196409.7,
-      "qty_sold": 9050.0
+      "revenue": 196459.7,
+      "qty_sold": 9052.0
     },
     {
       "internal": 171,
@@ -708,8 +708,8 @@
       "desc": "Sedgwicks Old Brown Sherry 750ml",
       "price": 60.0,
       "gp_pct": 23.3,
-      "revenue": 40199.97,
-      "qty_sold": 763.0
+      "revenue": 40299.97,
+      "qty_sold": 765.0
     },
     {
       "internal": 172,
@@ -836,8 +836,8 @@
       "desc": "Castle Lager 750ml",
       "price": 20.0,
       "gp_pct": 17.1,
-      "revenue": 10591.57,
-      "qty_sold": 530.0
+      "revenue": 10611.57,
+      "qty_sold": 531.0
     },
     {
       "internal": 224,
@@ -858,9 +858,9 @@
     },
     {
       "cashier": "Nwabisa",
-      "revenue": 398322.07,
-      "cost": 376541.1,
-      "transactions": 3710,
+      "revenue": 398462.07,
+      "cost": 376741.97,
+      "transactions": 3713,
       "gp_pct": 5.5
     }
   ],
@@ -36140,6 +36140,33 @@
       "amount": 60.0,
       "gp_pct": 28.6,
       "points": 1,
+      "cashier": "Nwabisa"
+    },
+    {
+      "number": 517955,
+      "date": "2026-06-27",
+      "desc": "Chiller's Chaos 440ml",
+      "amount": 50.0,
+      "gp_pct": 21.7,
+      "points": 1,
+      "cashier": "Nwabisa"
+    },
+    {
+      "number": 517957,
+      "date": "2026-06-27",
+      "desc": "Carling Black Label 750ml",
+      "amount": 50.0,
+      "gp_pct": 24.3,
+      "points": 1,
+      "cashier": "Nwabisa"
+    },
+    {
+      "number": 517958,
+      "date": "2026-06-27",
+      "desc": "Sedgwicks Old Brown Sherry 750ml",
+      "amount": 100.0,
+      "gp_pct": 23.3,
+      "points": 2,
       "cashier": "Nwabisa"
     }
   ],
