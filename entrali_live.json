@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-27T16:29:17.293007",
+    "generated_at": "2026-06-27T16:35:48.418325",
     "generated_date": "2026-06-27",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-27",
-    "revenue": 28115.5,
-    "cost": 28225.73,
-    "gp_pct": -0.4,
-    "transactions": 263,
-    "vs_yesterday": -24513.59
+    "revenue": 28462.5,
+    "cost": 28776.02,
+    "gp_pct": -1.1,
+    "transactions": 271,
+    "vs_yesterday": -24166.59
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 660265.94,
-    "cost": 642150.94,
+    "revenue": 660612.94,
+    "cost": 642701.23,
     "gp_pct": 2.7,
-    "transactions": 6293,
+    "transactions": 6301,
     "days_elapsed": 27
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-27",
-      "revenue": 28115.5,
-      "cost": 28225.73,
-      "transactions": 263,
-      "gp_pct": -0.4
+      "revenue": 28462.5,
+      "cost": 28776.02,
+      "transactions": 271,
+      "gp_pct": -1.1
     }
   ],
   "hourly_today": [
@@ -624,10 +624,10 @@
     {
       "hour": 16,
       "label": "16:00",
-      "revenue": 2913.0,
-      "cost": 2667.34,
-      "gp_pct": 8.4,
-      "transactions": 28
+      "revenue": 3260.0,
+      "cost": 3125.17,
+      "gp_pct": 4.1,
+      "transactions": 36
     },
     {
       "hour": 17,
@@ -692,8 +692,8 @@
       "desc": "Carling Black Label 750ml",
       "price": 25.0,
       "gp_pct": 24.3,
-      "revenue": 199448.7,
-      "qty_sold": 9185.0
+      "revenue": 199523.7,
+      "qty_sold": 9188.0
     },
     {
       "internal": 171,
@@ -708,8 +708,8 @@
       "desc": "Sedgwicks Old Brown Sherry 750ml",
       "price": 60.0,
       "gp_pct": 23.3,
-      "revenue": 40299.97,
-      "qty_sold": 765.0
+      "revenue": 40359.97,
+      "qty_sold": 766.0
     },
     {
       "internal": 172,
@@ -836,8 +836,8 @@
       "desc": "Bernini Blush 500ml",
       "price": 25.0,
       "gp_pct": 38.4,
-      "revenue": 11490.0,
-      "qty_sold": 594.0
+      "revenue": 11580.0,
+      "qty_sold": 600.0
     },
     {
       "internal": 224,
@@ -858,10 +858,10 @@
     },
     {
       "cashier": "Nwabisa",
-      "revenue": 413384.57,
-      "cost": 391089.57,
-      "transactions": 3839,
-      "gp_pct": 5.4
+      "revenue": 413731.57,
+      "cost": 391639.86,
+      "transactions": 3847,
+      "gp_pct": 5.3
     }
   ],
   "low_stock_alerts": [
@@ -1151,6 +1151,25 @@
       "alert": "OUT OF STOCK"
     },
     {
+      "internal": 422,
+      "part_no": "6248",
+      "desc": "Klipdr & Coke 2L",
+      "group": "8",
+      "price": 220.0,
+      "cost": 200.92,
+      "gp_pct": 8.7,
+      "qty": -41.0,
+      "minimum": 0.0,
+      "maximum": 0.0,
+      "on_promo": false,
+      "promo_price": null,
+      "days_since_sold": 0,
+      "lastsold": "2026-06-27",
+      "lastbuy": "2021-09-08",
+      "loyalty_eligible": false,
+      "alert": "OUT OF STOCK"
+    },
+    {
       "internal": 215,
       "part_no": "151",
       "desc": "Carrier Bag Midi",
@@ -1167,25 +1186,6 @@
       "lastsold": "2026-05-17",
       "lastbuy": "2024-12-10",
       "loyalty_eligible": true,
-      "alert": "OUT OF STOCK"
-    },
-    {
-      "internal": 422,
-      "part_no": "6248",
-      "desc": "Klipdr & Coke 2L",
-      "group": "8",
-      "price": 220.0,
-      "cost": 200.92,
-      "gp_pct": 8.7,
-      "qty": -40.0,
-      "minimum": 0.0,
-      "maximum": 0.0,
-      "on_promo": false,
-      "promo_price": null,
-      "days_since_sold": 0,
-      "lastsold": "2026-06-27",
-      "lastbuy": "2021-09-08",
-      "loyalty_eligible": false,
       "alert": "OUT OF STOCK"
     },
     {
@@ -34519,6 +34519,33 @@
       "desc": "Carling Black Label 750ml",
       "amount": 50.0,
       "gp_pct": 24.3,
+      "points": 1,
+      "cashier": "Nwabisa"
+    },
+    {
+      "number": 518087,
+      "date": "2026-06-27",
+      "desc": "Carling Black Label 750ml",
+      "amount": 50.0,
+      "gp_pct": 24.3,
+      "points": 1,
+      "cashier": "Nwabisa"
+    },
+    {
+      "number": 518089,
+      "date": "2026-06-27",
+      "desc": "Corona 355ml",
+      "amount": 120.0,
+      "gp_pct": 19.4,
+      "points": 2,
+      "cashier": "Nwabisa"
+    },
+    {
+      "number": 518091,
+      "date": "2026-06-27",
+      "desc": "Sedgwicks Old Brown Sherry 750ml",
+      "amount": 60.0,
+      "gp_pct": 23.3,
       "points": 1,
       "cashier": "Nwabisa"
     }
