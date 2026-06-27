@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-27T22:19:46.905655",
+    "generated_at": "2026-06-27T22:26:19.938854",
     "generated_date": "2026-06-27",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-27",
-    "revenue": 62696.77,
-    "cost": 57250.26,
+    "revenue": 63081.77,
+    "cost": 57575.38,
     "gp_pct": 8.7,
-    "transactions": 547,
-    "vs_yesterday": 10067.68
+    "transactions": 550,
+    "vs_yesterday": 10452.68
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 694847.21,
-    "cost": 631796.47,
+    "revenue": 695232.21,
+    "cost": 632121.59,
     "gp_pct": 9.1,
-    "transactions": 6577,
+    "transactions": 6580,
     "days_elapsed": 27
   },
   "latest_cashup": {
@@ -486,9 +486,9 @@
     },
     {
       "date": "2026-06-27",
-      "revenue": 62696.77,
-      "cost": 57250.26,
-      "transactions": 547,
+      "revenue": 63081.77,
+      "cost": 57575.38,
+      "transactions": 550,
       "gp_pct": 8.7
     }
   ],
@@ -672,10 +672,10 @@
     {
       "hour": 22,
       "label": "22:00",
-      "revenue": 1024.92,
-      "cost": 985.61,
-      "gp_pct": 3.8,
-      "transactions": 8
+      "revenue": 1409.92,
+      "cost": 1291.82,
+      "gp_pct": 8.4,
+      "transactions": 11
     },
     {
       "hour": 23,
@@ -692,8 +692,8 @@
       "desc": "Carling Black Label 750ml",
       "price": 25.0,
       "gp_pct": 24.3,
-      "revenue": 202739.03,
-      "qty_sold": 9328.0
+      "revenue": 202764.03,
+      "qty_sold": 9329.0
     },
     {
       "internal": 171,
@@ -804,8 +804,8 @@
       "desc": "Bernini Classic 500ml",
       "price": 25.0,
       "gp_pct": 38.4,
-      "revenue": 14535.0,
-      "qty_sold": 774.0
+      "revenue": 14655.0,
+      "qty_sold": 780.0
     },
     {
       "internal": 266,
@@ -836,8 +836,8 @@
       "desc": "Braaiwors",
       "price": 35.0,
       "gp_pct": 28.6,
-      "revenue": 12720.0,
-      "qty_sold": 409.0
+      "revenue": 12780.0,
+      "qty_sold": 411.0
     },
     {
       "internal": 224,
@@ -851,9 +851,9 @@
   "cashier_summary": [
     {
       "cashier": "Thabiso",
-      "revenue": 456763.18,
-      "cost": 419445.4,
-      "transactions": 4316,
+      "revenue": 457148.18,
+      "cost": 419770.52,
+      "transactions": 4319,
       "gp_pct": 8.2
     },
     {
@@ -39017,6 +39017,42 @@
       "amount": 169.92,
       "gp_pct": 21.9,
       "points": 3,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 518368,
+      "date": "2026-06-27",
+      "desc": "Bernini Classic 500ml",
+      "amount": 120.0,
+      "gp_pct": 38.4,
+      "points": 2,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 518369,
+      "date": "2026-06-27",
+      "desc": "Braaiwors",
+      "amount": 60.0,
+      "gp_pct": 28.6,
+      "points": 1,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 518370,
+      "date": "2026-06-27",
+      "desc": "Chiller's Punch Tequila Sunrise",
+      "amount": 140.0,
+      "gp_pct": 25.2,
+      "points": 2,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 518370,
+      "date": "2026-06-27",
+      "desc": "Old Buck Gin 200ml",
+      "amount": 65.0,
+      "gp_pct": 20.8,
+      "points": 1,
       "cashier": "Thabiso"
     }
   ],
