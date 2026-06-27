@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-27T21:12:00.951996",
+    "generated_at": "2026-06-27T21:18:50.437945",
     "generated_date": "2026-06-27",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-27",
-    "revenue": 57355.09,
-    "cost": 52619.91,
-    "gp_pct": 8.3,
-    "transactions": 506,
-    "vs_yesterday": 4726.0
+    "revenue": 58095.09,
+    "cost": 53229.66,
+    "gp_pct": 8.4,
+    "transactions": 513,
+    "vs_yesterday": 5466.0
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 689505.53,
-    "cost": 627166.12,
-    "gp_pct": 9.0,
-    "transactions": 6536,
+    "revenue": 690245.53,
+    "cost": 627775.87,
+    "gp_pct": 9.1,
+    "transactions": 6543,
     "days_elapsed": 27
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-27",
-      "revenue": 57355.09,
-      "cost": 52619.91,
-      "transactions": 506,
-      "gp_pct": 8.3
+      "revenue": 58095.09,
+      "cost": 53229.66,
+      "transactions": 513,
+      "gp_pct": 8.4
     }
   ],
   "hourly_today": [
@@ -664,10 +664,10 @@
     {
       "hour": 21,
       "label": "21:00",
-      "revenue": 968.0,
-      "cost": 765.34,
-      "gp_pct": 20.9,
-      "transactions": 10
+      "revenue": 1708.0,
+      "cost": 1375.09,
+      "gp_pct": 19.5,
+      "transactions": 17
     },
     {
       "hour": 22,
@@ -692,8 +692,8 @@
       "desc": "Carling Black Label 750ml",
       "price": 25.0,
       "gp_pct": 24.3,
-      "revenue": 202264.03,
-      "qty_sold": 9309.0
+      "revenue": 202364.03,
+      "qty_sold": 9313.0
     },
     {
       "internal": 171,
@@ -716,8 +716,8 @@
       "desc": "Paarl Perle' 2L",
       "price": 75.0,
       "gp_pct": 13.0,
-      "revenue": 37103.11,
-      "qty_sold": 500.0
+      "revenue": 37178.11,
+      "qty_sold": 501.0
     },
     {
       "internal": 204,
@@ -764,16 +764,16 @@
       "desc": "Heineken 650ml",
       "price": 25.0,
       "gp_pct": 10.3,
-      "revenue": 19700.0,
-      "qty_sold": 788.0
+      "revenue": 19725.0,
+      "qty_sold": 789.0
     },
     {
       "internal": 712,
       "desc": "Bernini Mimosa 500ml",
       "price": 25.0,
       "gp_pct": 33.4,
-      "revenue": 17480.0,
-      "qty_sold": 968.0
+      "revenue": 17600.0,
+      "qty_sold": 974.0
     },
     {
       "internal": 200,
@@ -788,8 +788,8 @@
       "desc": "Redd's Original 660ml",
       "price": 25.0,
       "gp_pct": 17.0,
-      "revenue": 15422.0,
-      "qty_sold": 646.0
+      "revenue": 15472.0,
+      "qty_sold": 648.0
     },
     {
       "internal": 183,
@@ -851,9 +851,9 @@
   "cashier_summary": [
     {
       "cashier": "Thabiso",
-      "revenue": 451421.5,
-      "cost": 414815.05,
-      "transactions": 4275,
+      "revenue": 452161.5,
+      "cost": 415424.8,
+      "transactions": 4282,
       "gp_pct": 8.1
     },
     {
@@ -1360,6 +1360,25 @@
       "alert": "OUT OF STOCK"
     },
     {
+      "internal": 169,
+      "part_no": "246",
+      "desc": "Redd's Original 660ml",
+      "group": "7",
+      "price": 25.0,
+      "cost": 20.7492,
+      "gp_pct": 17.0,
+      "qty": -8.0,
+      "minimum": 0.0,
+      "maximum": 13.0,
+      "on_promo": false,
+      "promo_price": null,
+      "days_since_sold": 0,
+      "lastsold": "2026-06-27",
+      "lastbuy": "2026-06-17",
+      "loyalty_eligible": false,
+      "alert": "OUT OF STOCK"
+    },
+    {
       "internal": 198,
       "part_no": "186",
       "desc": "4 BL + 2181",
@@ -1394,25 +1413,6 @@
       "days_since_sold": 22,
       "lastsold": "2026-06-05",
       "lastbuy": "2020-06-01",
-      "loyalty_eligible": false,
-      "alert": "OUT OF STOCK"
-    },
-    {
-      "internal": 169,
-      "part_no": "246",
-      "desc": "Redd's Original 660ml",
-      "group": "7",
-      "price": 25.0,
-      "cost": 20.7492,
-      "gp_pct": 17.0,
-      "qty": -6.0,
-      "minimum": 0.0,
-      "maximum": 13.0,
-      "on_promo": false,
-      "promo_price": null,
-      "days_since_sold": 0,
-      "lastsold": "2026-06-27",
-      "lastbuy": "2026-06-17",
       "loyalty_eligible": false,
       "alert": "OUT OF STOCK"
     },
@@ -38790,6 +38790,42 @@
       "desc": "Sedgwicks Old Brown Sherry 750ml",
       "amount": 100.0,
       "gp_pct": 23.3,
+      "points": 2,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 518327,
+      "date": "2026-06-27",
+      "desc": "Bernini Mimosa 500ml",
+      "amount": 120.0,
+      "gp_pct": 33.4,
+      "points": 2,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 518328,
+      "date": "2026-06-27",
+      "desc": "Carling Black Label 750ml",
+      "amount": 100.0,
+      "gp_pct": 24.3,
+      "points": 2,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 518329,
+      "date": "2026-06-27",
+      "desc": "Redd's MXD V Guarana 440ml",
+      "amount": 220.0,
+      "gp_pct": 20.8,
+      "points": 4,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 518333,
+      "date": "2026-06-27",
+      "desc": "Heineken 330ml",
+      "amount": 110.0,
+      "gp_pct": 28.1,
       "points": 2,
       "cashier": "Thabiso"
     }
