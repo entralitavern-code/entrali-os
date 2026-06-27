@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-27T21:46:08.889274",
+    "generated_at": "2026-06-27T21:53:00.971353",
     "generated_date": "2026-06-27",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-27",
-    "revenue": 60410.09,
-    "cost": 55113.28,
+    "revenue": 61311.85,
+    "cost": 55946.25,
     "gp_pct": 8.8,
-    "transactions": 530,
-    "vs_yesterday": 7781.0
+    "transactions": 536,
+    "vs_yesterday": 8682.76
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 692560.53,
-    "cost": 629659.49,
+    "revenue": 693462.29,
+    "cost": 630492.46,
     "gp_pct": 9.1,
-    "transactions": 6560,
+    "transactions": 6566,
     "days_elapsed": 27
   },
   "latest_cashup": {
@@ -486,9 +486,9 @@
     },
     {
       "date": "2026-06-27",
-      "revenue": 60410.09,
-      "cost": 55113.28,
-      "transactions": 530,
+      "revenue": 61311.85,
+      "cost": 55946.25,
+      "transactions": 536,
       "gp_pct": 8.8
     }
   ],
@@ -664,10 +664,10 @@
     {
       "hour": 21,
       "label": "21:00",
-      "revenue": 4023.0,
-      "cost": 3258.7,
-      "gp_pct": 19.0,
-      "transactions": 34
+      "revenue": 4924.76,
+      "cost": 4091.67,
+      "gp_pct": 16.9,
+      "transactions": 40
     },
     {
       "hour": 22,
@@ -851,9 +851,9 @@
   "cashier_summary": [
     {
       "cashier": "Thabiso",
-      "revenue": 454476.5,
-      "cost": 417308.42,
-      "transactions": 4299,
+      "revenue": 455378.26,
+      "cost": 418141.39,
+      "transactions": 4305,
       "gp_pct": 8.2
     },
     {
@@ -38926,6 +38926,33 @@
       "amount": 100.0,
       "gp_pct": 24.3,
       "points": 2,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 518354,
+      "date": "2026-06-27",
+      "desc": "Sol NRB 330ml",
+      "amount": 169.92,
+      "gp_pct": 21.9,
+      "points": 3,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 518355,
+      "date": "2026-06-27",
+      "desc": "Sol NRB 330ml",
+      "amount": 169.92,
+      "gp_pct": 21.9,
+      "points": 3,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 518356,
+      "date": "2026-06-27",
+      "desc": "Sol NRB 330ml",
+      "amount": 169.92,
+      "gp_pct": 21.9,
+      "points": 3,
       "cashier": "Thabiso"
     }
   ],
