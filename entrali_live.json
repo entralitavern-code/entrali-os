@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-27T17:33:39.145851",
+    "generated_at": "2026-06-27T17:40:17.024157",
     "generated_date": "2026-06-27",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-27",
-    "revenue": 36788.42,
-    "cost": 37701.99,
-    "gp_pct": -2.5,
-    "transactions": 334,
-    "vs_yesterday": -15840.67
+    "revenue": 38013.75,
+    "cost": 39779.54,
+    "gp_pct": -4.6,
+    "transactions": 342,
+    "vs_yesterday": -14615.34
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 668938.86,
-    "cost": 651627.2,
-    "gp_pct": 2.6,
-    "transactions": 6364,
+    "revenue": 670164.19,
+    "cost": 653704.75,
+    "gp_pct": 2.5,
+    "transactions": 6372,
     "days_elapsed": 27
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-27",
-      "revenue": 36788.42,
-      "cost": 37701.99,
-      "transactions": 334,
-      "gp_pct": -2.5
+      "revenue": 38013.75,
+      "cost": 39779.54,
+      "transactions": 342,
+      "gp_pct": -4.6
     }
   ],
   "hourly_today": [
@@ -632,10 +632,10 @@
     {
       "hour": 17,
       "label": "17:00",
-      "revenue": 5475.92,
-      "cost": 5407.65,
-      "gp_pct": 1.2,
-      "transactions": 41
+      "revenue": 6701.25,
+      "cost": 7376.04,
+      "gp_pct": -10.1,
+      "transactions": 49
     },
     {
       "hour": 18,
@@ -692,8 +692,8 @@
       "desc": "Carling Black Label 750ml",
       "price": 25.0,
       "gp_pct": 24.3,
-      "revenue": 200605.7,
-      "qty_sold": 9238.0
+      "revenue": 201139.03,
+      "qty_sold": 9264.0
     },
     {
       "internal": 171,
@@ -732,8 +732,8 @@
       "desc": "Commando Brandy 750ml",
       "price": 200.0,
       "gp_pct": 10.5,
-      "revenue": 24779.17,
-      "qty_sold": 124.0
+      "revenue": 24979.17,
+      "qty_sold": 125.0
     },
     {
       "internal": 439,
@@ -748,8 +748,8 @@
       "desc": "Savanna Dry 500ml",
       "price": 25.0,
       "gp_pct": 13.3,
-      "revenue": 21450.0,
-      "qty_sold": 858.0
+      "revenue": 21600.0,
+      "qty_sold": 864.0
     },
     {
       "internal": 238,
@@ -764,24 +764,24 @@
       "desc": "Heineken 650ml",
       "price": 25.0,
       "gp_pct": 10.3,
-      "revenue": 19275.0,
-      "qty_sold": 771.0
+      "revenue": 19375.0,
+      "qty_sold": 775.0
     },
     {
       "internal": 712,
       "desc": "Bernini Mimosa 500ml",
       "price": 25.0,
       "gp_pct": 33.4,
-      "revenue": 16875.0,
-      "qty_sold": 933.0
+      "revenue": 16965.0,
+      "qty_sold": 939.0
     },
     {
       "internal": 200,
       "desc": "KWV 3yrs 750ml",
       "price": 200.0,
       "gp_pct": -359.0,
-      "revenue": 15640.0,
-      "qty_sold": 80.0
+      "revenue": 15820.0,
+      "qty_sold": 81.0
     },
     {
       "internal": 169,
@@ -836,8 +836,8 @@
       "desc": "Bernini Blush 500ml",
       "price": 25.0,
       "gp_pct": 38.4,
-      "revenue": 12030.0,
-      "qty_sold": 630.0
+      "revenue": 12120.0,
+      "qty_sold": 636.0
     },
     {
       "internal": 224,
@@ -858,10 +858,10 @@
     },
     {
       "cashier": "Nwabisa",
-      "revenue": 422057.49,
-      "cost": 400565.83,
-      "transactions": 3910,
-      "gp_pct": 5.1
+      "revenue": 423282.82,
+      "cost": 402643.38,
+      "transactions": 3918,
+      "gp_pct": 4.9
     }
   ],
   "low_stock_alerts": [
@@ -34709,6 +34709,24 @@
       "desc": "Carling Black Label 500ml",
       "amount": 100.0,
       "gp_pct": 37.5,
+      "points": 2,
+      "cashier": "Nwabisa"
+    },
+    {
+      "number": 518159,
+      "date": "2026-06-27",
+      "desc": "Carling Black Label 750ml",
+      "amount": 488.0,
+      "gp_pct": 24.3,
+      "points": 9,
+      "cashier": "Nwabisa"
+    },
+    {
+      "number": 518161,
+      "date": "2026-06-27",
+      "desc": "Belgravia Dry Lemon 440ml",
+      "amount": 100.0,
+      "gp_pct": 23.3,
       "points": 2,
       "cashier": "Nwabisa"
     }
