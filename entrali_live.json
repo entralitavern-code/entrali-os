@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-27T10:02:54.024910",
+    "generated_at": "2026-06-27T10:09:30.049844",
     "generated_date": "2026-06-27",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-27",
-    "revenue": 7153.0,
-    "cost": 8007.19,
-    "gp_pct": -11.9,
-    "transactions": 69,
-    "vs_yesterday": -45476.09
+    "revenue": 7343.0,
+    "cost": 8182.57,
+    "gp_pct": -11.4,
+    "transactions": 73,
+    "vs_yesterday": -45286.09
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 639303.44,
-    "cost": 621634.99,
+    "revenue": 639493.44,
+    "cost": 621810.36,
     "gp_pct": 2.8,
-    "transactions": 6099,
+    "transactions": 6103,
     "days_elapsed": 27
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-27",
-      "revenue": 7153.0,
-      "cost": 8007.19,
-      "transactions": 69,
-      "gp_pct": -11.9
+      "revenue": 7343.0,
+      "cost": 8182.57,
+      "transactions": 73,
+      "gp_pct": -11.4
     }
   ],
   "hourly_today": [
@@ -576,10 +576,10 @@
     {
       "hour": 10,
       "label": "10:00",
-      "revenue": 0.0,
-      "cost": 0.0,
-      "gp_pct": 0.0,
-      "transactions": 0
+      "revenue": 190.0,
+      "cost": 175.37,
+      "gp_pct": 7.7,
+      "transactions": 4
     },
     {
       "hour": 11,
@@ -692,8 +692,8 @@
       "desc": "Carling Black Label 750ml",
       "price": 25.0,
       "gp_pct": 24.3,
-      "revenue": 194076.7,
-      "qty_sold": 8941.0
+      "revenue": 194101.7,
+      "qty_sold": 8942.0
     },
     {
       "internal": 171,
@@ -764,8 +764,8 @@
       "desc": "Heineken 650ml",
       "price": 25.0,
       "gp_pct": 10.3,
-      "revenue": 18425.0,
-      "qty_sold": 737.0
+      "revenue": 18450.0,
+      "qty_sold": 738.0
     },
     {
       "internal": 200,
@@ -858,9 +858,9 @@
     },
     {
       "cashier": "Nwabisa",
-      "revenue": 392422.07,
-      "cost": 370756.65,
-      "transactions": 3645,
+      "revenue": 392612.07,
+      "cost": 370932.02,
+      "transactions": 3649,
       "gp_pct": 5.5
     }
   ],
@@ -10053,15 +10053,6 @@
       "cashier": "Nwabisa"
     },
     {
-      "number": 510110,
-      "date": "2026-05-28",
-      "desc": "Bernini Blush 500ml",
-      "amount": 75.0,
-      "gp_pct": 38.4,
-      "points": 1,
-      "cashier": "Nwabisa"
-    },
-    {
       "number": 510117,
       "date": "2026-05-28",
       "desc": "Carling Black Label 750ml",
@@ -10148,15 +10139,6 @@
       "desc": "Carling Black Label 750ml",
       "amount": 50.0,
       "gp_pct": 24.3,
-      "points": 1,
-      "cashier": "Nwabisa"
-    },
-    {
-      "number": 510147,
-      "date": "2026-05-29",
-      "desc": "Bernini Blush 500ml",
-      "amount": 50.0,
-      "gp_pct": 38.4,
       "points": 1,
       "cashier": "Nwabisa"
     },
@@ -10395,15 +10377,6 @@
       "cashier": "Nwabisa"
     },
     {
-      "number": 510216,
-      "date": "2026-05-29",
-      "desc": "Bernini Blush 500ml",
-      "amount": 50.0,
-      "gp_pct": 38.4,
-      "points": 1,
-      "cashier": "Nwabisa"
-    },
-    {
       "number": 510220,
       "date": "2026-05-29",
       "desc": "Brutal Fruit Ruby Apple 500ml",
@@ -10446,15 +10419,6 @@
       "amount": 70.0,
       "gp_pct": 28.6,
       "points": 1,
-      "cashier": "Nwabisa"
-    },
-    {
-      "number": 510235,
-      "date": "2026-05-29",
-      "desc": "Bernini Blush 500ml",
-      "amount": 120.0,
-      "gp_pct": 38.4,
-      "points": 2,
       "cashier": "Nwabisa"
     },
     {
@@ -10599,15 +10563,6 @@
       "amount": 150.0,
       "gp_pct": 33.3,
       "points": 3,
-      "cashier": "Nwabisa"
-    },
-    {
-      "number": 510299,
-      "date": "2026-05-29",
-      "desc": "Bernini Blush 500ml",
-      "amount": 120.0,
-      "gp_pct": 38.4,
-      "points": 2,
       "cashier": "Nwabisa"
     },
     {
@@ -10832,15 +10787,6 @@
       "desc": "Commando Brandy 200ml",
       "amount": 70.0,
       "gp_pct": 19.8,
-      "points": 1,
-      "cashier": "Nwabisa"
-    },
-    {
-      "number": 510355,
-      "date": "2026-05-29",
-      "desc": "Bernini Blush 500ml",
-      "amount": 50.0,
-      "gp_pct": 38.4,
       "points": 1,
       "cashier": "Nwabisa"
     },
@@ -11340,15 +11286,6 @@
       "cashier": "Nwabisa"
     },
     {
-      "number": 510520,
-      "date": "2026-05-30",
-      "desc": "Bernini Blush 500ml",
-      "amount": 120.0,
-      "gp_pct": 38.4,
-      "points": 2,
-      "cashier": "Nwabisa"
-    },
-    {
       "number": 510522,
       "date": "2026-05-30",
       "desc": "Bernini Mimosa 500ml",
@@ -11427,15 +11364,6 @@
       "amount": 75.0,
       "gp_pct": 24.3,
       "points": 1,
-      "cashier": "Nwabisa"
-    },
-    {
-      "number": 510544,
-      "date": "2026-05-30",
-      "desc": "Bernini Blush 500ml",
-      "amount": 120.0,
-      "gp_pct": 38.4,
-      "points": 2,
       "cashier": "Nwabisa"
     },
     {
@@ -11679,15 +11607,6 @@
       "amount": 50.0,
       "gp_pct": 19.2,
       "points": 1,
-      "cashier": "Nwabisa"
-    },
-    {
-      "number": 510618,
-      "date": "2026-05-30",
-      "desc": "Bernini Blush 500ml",
-      "amount": 120.0,
-      "gp_pct": 38.4,
-      "points": 2,
       "cashier": "Nwabisa"
     },
     {
@@ -11967,15 +11886,6 @@
       "amount": 280.0,
       "gp_pct": 25.2,
       "points": 5,
-      "cashier": "Nwabisa"
-    },
-    {
-      "number": 510689,
-      "date": "2026-05-30",
-      "desc": "Bernini Blush 500ml",
-      "amount": 50.0,
-      "gp_pct": 38.4,
-      "points": 1,
       "cashier": "Nwabisa"
     },
     {
@@ -12524,15 +12434,6 @@
       "desc": "Flying Fish Lemon 500ml",
       "amount": 110.0,
       "gp_pct": 37.5,
-      "points": 2,
-      "cashier": "Nwabisa"
-    },
-    {
-      "number": 510839,
-      "date": "2026-05-30",
-      "desc": "Bernini Blush 500ml",
-      "amount": 120.0,
-      "gp_pct": 38.4,
       "points": 2,
       "cashier": "Nwabisa"
     },
@@ -13356,15 +13257,6 @@
       "cashier": "Thabiso"
     },
     {
-      "number": 511113,
-      "date": "2026-05-31",
-      "desc": "Bernini Blush 500ml",
-      "amount": 120.0,
-      "gp_pct": 38.4,
-      "points": 2,
-      "cashier": "Thabiso"
-    },
-    {
       "number": 511118,
       "date": "2026-05-31",
       "desc": "Carling Black Label 750ml",
@@ -13770,24 +13662,6 @@
       "cashier": "Thabiso"
     },
     {
-      "number": 511215,
-      "date": "2026-05-31",
-      "desc": "Bernini Blush 500ml",
-      "amount": 120.0,
-      "gp_pct": 38.4,
-      "points": 2,
-      "cashier": "Thabiso"
-    },
-    {
-      "number": 511218,
-      "date": "2026-05-31",
-      "desc": "Bernini Blush 500ml",
-      "amount": 50.0,
-      "gp_pct": 38.4,
-      "points": 1,
-      "cashier": "Thabiso"
-    },
-    {
       "number": 511218,
       "date": "2026-05-31",
       "desc": "Castle Lite 660ml",
@@ -13847,15 +13721,6 @@
       "desc": "Kix Raspberry & Peach 440ml",
       "amount": 120.0,
       "gp_pct": 19.8,
-      "points": 2,
-      "cashier": "Thabiso"
-    },
-    {
-      "number": 511235,
-      "date": "2026-05-31",
-      "desc": "Bernini Blush 500ml",
-      "amount": 120.0,
-      "gp_pct": 38.4,
       "points": 2,
       "cashier": "Thabiso"
     },
@@ -14235,24 +14100,6 @@
       "amount": 150.0,
       "gp_pct": 24.3,
       "points": 3,
-      "cashier": "Thabiso"
-    },
-    {
-      "number": 511324,
-      "date": "2026-05-31",
-      "desc": "Bernini Blush 500ml",
-      "amount": 120.0,
-      "gp_pct": 38.4,
-      "points": 2,
-      "cashier": "Thabiso"
-    },
-    {
-      "number": 511328,
-      "date": "2026-05-31",
-      "desc": "Bernini Blush 500ml",
-      "amount": 120.0,
-      "gp_pct": 38.4,
-      "points": 2,
       "cashier": "Thabiso"
     },
     {
@@ -14787,15 +14634,6 @@
       "cashier": "Thabiso"
     },
     {
-      "number": 511451,
-      "date": "2026-05-31",
-      "desc": "Bernini Blush 500ml",
-      "amount": 240.0,
-      "gp_pct": 38.4,
-      "points": 4,
-      "cashier": "Thabiso"
-    },
-    {
       "number": 511452,
       "date": "2026-05-31",
       "desc": "Carling Black Label 750ml",
@@ -14874,15 +14712,6 @@
       "amount": 244.0,
       "gp_pct": 24.3,
       "points": 4,
-      "cashier": "Thabiso"
-    },
-    {
-      "number": 511467,
-      "date": "2026-05-31",
-      "desc": "Bernini Blush 500ml",
-      "amount": 120.0,
-      "gp_pct": 38.4,
-      "points": 2,
       "cashier": "Thabiso"
     },
     {
@@ -15147,15 +14976,6 @@
       "cashier": "Nwabisa"
     },
     {
-      "number": 511526,
-      "date": "2026-05-31",
-      "desc": "Bernini Blush 500ml",
-      "amount": 240.0,
-      "gp_pct": 38.4,
-      "points": 4,
-      "cashier": "Nwabisa"
-    },
-    {
       "number": 511527,
       "date": "2026-05-31",
       "desc": "Carling Black Label 750ml",
@@ -15242,15 +15062,6 @@
       "desc": "Carling Black Label 750ml",
       "amount": 50.0,
       "gp_pct": 24.3,
-      "points": 1,
-      "cashier": "Nwabisa"
-    },
-    {
-      "number": 511556,
-      "date": "2026-05-31",
-      "desc": "Bernini Blush 500ml",
-      "amount": 50.0,
-      "gp_pct": 38.4,
       "points": 1,
       "cashier": "Nwabisa"
     },
@@ -15759,15 +15570,6 @@
       "cashier": "Nwabisa"
     },
     {
-      "number": 511664,
-      "date": "2026-05-31",
-      "desc": "Bernini Blush 500ml",
-      "amount": 120.0,
-      "gp_pct": 38.4,
-      "points": 2,
-      "cashier": "Nwabisa"
-    },
-    {
       "number": 511666,
       "date": "2026-05-31",
       "desc": "Bernini Mimosa 500ml",
@@ -16125,15 +15927,6 @@
       "amount": 50.0,
       "gp_pct": 26.7,
       "points": 1,
-      "cashier": "Nwabisa"
-    },
-    {
-      "number": 511753,
-      "date": "2026-05-31",
-      "desc": "Bernini Blush 500ml",
-      "amount": 120.0,
-      "gp_pct": 38.4,
-      "points": 2,
       "cashier": "Nwabisa"
     },
     {
@@ -16839,15 +16632,6 @@
       "cashier": "Nwabisa"
     },
     {
-      "number": 511968,
-      "date": "2026-06-01",
-      "desc": "Bernini Blush 500ml",
-      "amount": 75.0,
-      "gp_pct": 38.4,
-      "points": 1,
-      "cashier": "Nwabisa"
-    },
-    {
       "number": 511973,
       "date": "2026-06-01",
       "desc": "Sol NRB 330ml",
@@ -16962,15 +16746,6 @@
       "amount": 150.0,
       "gp_pct": 24.3,
       "points": 3,
-      "cashier": "Nwabisa"
-    },
-    {
-      "number": 512005,
-      "date": "2026-06-01",
-      "desc": "Bernini Blush 500ml",
-      "amount": 50.0,
-      "gp_pct": 38.4,
-      "points": 1,
       "cashier": "Nwabisa"
     },
     {
@@ -17105,15 +16880,6 @@
       "desc": "Carling Black Label 750ml",
       "amount": 50.0,
       "gp_pct": 24.3,
-      "points": 1,
-      "cashier": "Nwabisa"
-    },
-    {
-      "number": 512041,
-      "date": "2026-06-01",
-      "desc": "Bernini Blush 500ml",
-      "amount": 50.0,
-      "gp_pct": 38.4,
       "points": 1,
       "cashier": "Nwabisa"
     },
@@ -17610,15 +17376,6 @@
       "amount": 244.0,
       "gp_pct": 24.3,
       "points": 4,
-      "cashier": "Thabiso"
-    },
-    {
-      "number": 512186,
-      "date": "2026-06-02",
-      "desc": "Bernini Blush 500ml",
-      "amount": 50.0,
-      "gp_pct": 38.4,
-      "points": 1,
       "cashier": "Thabiso"
     },
     {
@@ -19296,15 +19053,6 @@
       "cashier": "Thabiso"
     },
     {
-      "number": 512711,
-      "date": "2026-06-05",
-      "desc": "Bernini Blush 500ml",
-      "amount": 50.0,
-      "gp_pct": 38.4,
-      "points": 1,
-      "cashier": "Thabiso"
-    },
-    {
       "number": 512713,
       "date": "2026-06-05",
       "desc": "Carling Black Label 750ml",
@@ -19566,15 +19314,6 @@
       "cashier": "Nwabisa"
     },
     {
-      "number": 512813,
-      "date": "2026-06-06",
-      "desc": "Bernini Blush 500ml",
-      "amount": 120.0,
-      "gp_pct": 38.4,
-      "points": 2,
-      "cashier": "Nwabisa"
-    },
-    {
       "number": 512820,
       "date": "2026-06-06",
       "desc": "Sedgwicks Old Brown Sherry 750ml",
@@ -19643,15 +19382,6 @@
       "desc": "Carling Black Label 750ml",
       "amount": 50.0,
       "gp_pct": 24.3,
-      "points": 1,
-      "cashier": "Nwabisa"
-    },
-    {
-      "number": 512849,
-      "date": "2026-06-06",
-      "desc": "Bernini Blush 500ml",
-      "amount": 50.0,
-      "gp_pct": 38.4,
       "points": 1,
       "cashier": "Nwabisa"
     },
@@ -19998,15 +19728,6 @@
       "cashier": "Nwabisa"
     },
     {
-      "number": 512922,
-      "date": "2026-06-06",
-      "desc": "Bernini Blush 500ml",
-      "amount": 50.0,
-      "gp_pct": 38.4,
-      "points": 1,
-      "cashier": "Nwabisa"
-    },
-    {
       "number": 512926,
       "date": "2026-06-06",
       "desc": "Bahama Strawberry 440ml",
@@ -20049,15 +19770,6 @@
       "amount": 450.0,
       "gp_pct": 21.9,
       "points": 9,
-      "cashier": "Nwabisa"
-    },
-    {
-      "number": 512940,
-      "date": "2026-06-06",
-      "desc": "Bernini Blush 500ml",
-      "amount": 120.0,
-      "gp_pct": 38.4,
-      "points": 2,
       "cashier": "Nwabisa"
     },
     {
@@ -20214,15 +19926,6 @@
       "cashier": "Nwabisa"
     },
     {
-      "number": 512974,
-      "date": "2026-06-06",
-      "desc": "Bernini Blush 500ml",
-      "amount": 50.0,
-      "gp_pct": 38.4,
-      "points": 1,
-      "cashier": "Nwabisa"
-    },
-    {
       "number": 512976,
       "date": "2026-06-06",
       "desc": "Carling Black Label 750ml",
@@ -20337,15 +20040,6 @@
       "amount": 244.0,
       "gp_pct": 24.3,
       "points": 4,
-      "cashier": "Nwabisa"
-    },
-    {
-      "number": 513010,
-      "date": "2026-06-06",
-      "desc": "Bernini Blush 500ml",
-      "amount": 170.0,
-      "gp_pct": 38.4,
-      "points": 3,
       "cashier": "Nwabisa"
     },
     {
@@ -20598,15 +20292,6 @@
       "amount": 70.0,
       "gp_pct": 39.4,
       "points": 1,
-      "cashier": "Nwabisa"
-    },
-    {
-      "number": 513083,
-      "date": "2026-06-06",
-      "desc": "Bernini Blush 500ml",
-      "amount": 120.0,
-      "gp_pct": 38.4,
-      "points": 2,
       "cashier": "Nwabisa"
     },
     {
@@ -21062,15 +20747,6 @@
     {
       "number": 513237,
       "date": "2026-06-07",
-      "desc": "Bernini Blush 500ml",
-      "amount": 50.0,
-      "gp_pct": 38.4,
-      "points": 1,
-      "cashier": "Thabiso"
-    },
-    {
-      "number": 513237,
-      "date": "2026-06-07",
       "desc": "2Bernini Classic 500ml",
       "amount": 50.0,
       "gp_pct": 38.4,
@@ -21123,15 +20799,6 @@
       "cashier": "Thabiso"
     },
     {
-      "number": 513249,
-      "date": "2026-06-07",
-      "desc": "Bernini Blush 500ml",
-      "amount": 50.0,
-      "gp_pct": 38.4,
-      "points": 1,
-      "cashier": "Thabiso"
-    },
-    {
       "number": 513250,
       "date": "2026-06-07",
       "desc": "Paarl Perle' 1L",
@@ -21147,15 +20814,6 @@
       "amount": 120.0,
       "gp_pct": 21.0,
       "points": 2,
-      "cashier": "Thabiso"
-    },
-    {
-      "number": 513256,
-      "date": "2026-06-07",
-      "desc": "Bernini Blush 500ml",
-      "amount": 50.0,
-      "gp_pct": 38.4,
-      "points": 1,
       "cashier": "Thabiso"
     },
     {
@@ -21282,15 +20940,6 @@
       "amount": 100.0,
       "gp_pct": 23.3,
       "points": 2,
-      "cashier": "Thabiso"
-    },
-    {
-      "number": 513303,
-      "date": "2026-06-07",
-      "desc": "Bernini Blush 500ml",
-      "amount": 50.0,
-      "gp_pct": 38.4,
-      "points": 1,
       "cashier": "Thabiso"
     },
     {
@@ -21566,15 +21215,6 @@
     {
       "number": 513358,
       "date": "2026-06-07",
-      "desc": "Bernini Blush 500ml",
-      "amount": 120.0,
-      "gp_pct": 38.4,
-      "points": 2,
-      "cashier": "Thabiso"
-    },
-    {
-      "number": 513358,
-      "date": "2026-06-07",
       "desc": "Corona 355ml",
       "amount": 120.0,
       "gp_pct": 19.4,
@@ -21647,15 +21287,6 @@
     {
       "number": 513384,
       "date": "2026-06-07",
-      "desc": "Bernini Blush 500ml",
-      "amount": 50.0,
-      "gp_pct": 38.4,
-      "points": 1,
-      "cashier": "Thabiso"
-    },
-    {
-      "number": 513384,
-      "date": "2026-06-07",
       "desc": "Carling Black Label 500ml",
       "amount": 100.0,
       "gp_pct": 37.5,
@@ -21669,15 +21300,6 @@
       "amount": 50.0,
       "gp_pct": 24.3,
       "points": 1,
-      "cashier": "Thabiso"
-    },
-    {
-      "number": 513393,
-      "date": "2026-06-07",
-      "desc": "Bernini Blush 500ml",
-      "amount": 120.0,
-      "gp_pct": 38.4,
-      "points": 2,
       "cashier": "Thabiso"
     },
     {
@@ -21942,15 +21564,6 @@
       "cashier": "Nwabisa"
     },
     {
-      "number": 513456,
-      "date": "2026-06-07",
-      "desc": "Bernini Blush 500ml",
-      "amount": 50.0,
-      "gp_pct": 38.4,
-      "points": 1,
-      "cashier": "Nwabisa"
-    },
-    {
       "number": 513464,
       "date": "2026-06-07",
       "desc": "Savanna Angry Lemon 330ml",
@@ -22029,15 +21642,6 @@
       "amount": 240.0,
       "gp_pct": 33.4,
       "points": 4,
-      "cashier": "Nwabisa"
-    },
-    {
-      "number": 513496,
-      "date": "2026-06-07",
-      "desc": "Bernini Blush 500ml",
-      "amount": 120.0,
-      "gp_pct": 38.4,
-      "points": 2,
       "cashier": "Nwabisa"
     },
     {
@@ -22124,15 +21728,6 @@
     {
       "number": 513524,
       "date": "2026-06-07",
-      "desc": "Bernini Blush 500ml",
-      "amount": 120.0,
-      "gp_pct": 38.4,
-      "points": 2,
-      "cashier": "Nwabisa"
-    },
-    {
-      "number": 513524,
-      "date": "2026-06-07",
       "desc": "Pork Chops",
       "amount": 70.0,
       "gp_pct": 39.4,
@@ -22182,15 +21777,6 @@
       "amount": 50.0,
       "gp_pct": 24.3,
       "points": 1,
-      "cashier": "Nwabisa"
-    },
-    {
-      "number": 513537,
-      "date": "2026-06-07",
-      "desc": "Bernini Blush 500ml",
-      "amount": 120.0,
-      "gp_pct": 38.4,
-      "points": 2,
       "cashier": "Nwabisa"
     },
     {
@@ -22275,15 +21861,6 @@
       "cashier": "Nwabisa"
     },
     {
-      "number": 513563,
-      "date": "2026-06-07",
-      "desc": "Bernini Blush 500ml",
-      "amount": 120.0,
-      "gp_pct": 38.4,
-      "points": 2,
-      "cashier": "Nwabisa"
-    },
-    {
       "number": 513565,
       "date": "2026-06-07",
       "desc": "Castle Dbl Malt 750ml",
@@ -22299,24 +21876,6 @@
       "amount": 345.0,
       "gp_pct": 21.9,
       "points": 6,
-      "cashier": "Nwabisa"
-    },
-    {
-      "number": 513568,
-      "date": "2026-06-07",
-      "desc": "Bernini Blush 500ml",
-      "amount": 50.0,
-      "gp_pct": 38.4,
-      "points": 1,
-      "cashier": "Nwabisa"
-    },
-    {
-      "number": 513569,
-      "date": "2026-06-07",
-      "desc": "Bernini Blush 500ml",
-      "amount": 120.0,
-      "gp_pct": 38.4,
-      "points": 2,
       "cashier": "Nwabisa"
     },
     {
@@ -22443,15 +22002,6 @@
       "amount": 50.0,
       "gp_pct": 24.3,
       "points": 1,
-      "cashier": "Nwabisa"
-    },
-    {
-      "number": 513598,
-      "date": "2026-06-07",
-      "desc": "Bernini Blush 500ml",
-      "amount": 120.0,
-      "gp_pct": 38.4,
-      "points": 2,
       "cashier": "Nwabisa"
     },
     {
@@ -22608,29 +22158,11 @@
       "cashier": "Nwabisa"
     },
     {
-      "number": 513666,
-      "date": "2026-06-07",
-      "desc": "Bernini Blush 500ml",
-      "amount": 120.0,
-      "gp_pct": 38.4,
-      "points": 2,
-      "cashier": "Nwabisa"
-    },
-    {
       "number": 513668,
       "date": "2026-06-07",
       "desc": "Sol NRB 330ml",
       "amount": 115.0,
       "gp_pct": 21.9,
-      "points": 2,
-      "cashier": "Nwabisa"
-    },
-    {
-      "number": 513670,
-      "date": "2026-06-07",
-      "desc": "Bernini Blush 500ml",
-      "amount": 120.0,
-      "gp_pct": 38.4,
       "points": 2,
       "cashier": "Nwabisa"
     },
@@ -23225,15 +22757,6 @@
       "desc": "Robertson's Chapel 1.5L",
       "amount": 110.0,
       "gp_pct": 20.6,
-      "points": 2,
-      "cashier": "Thabiso"
-    },
-    {
-      "number": 513904,
-      "date": "2026-06-08",
-      "desc": "Bernini Blush 500ml",
-      "amount": 120.0,
-      "gp_pct": 38.4,
       "points": 2,
       "cashier": "Thabiso"
     },
@@ -26649,15 +26172,6 @@
       "cashier": "Thabiso"
     },
     {
-      "number": 514935,
-      "date": "2026-06-14",
-      "desc": "Bernini Blush 500ml",
-      "amount": 120.0,
-      "gp_pct": 38.4,
-      "points": 2,
-      "cashier": "Thabiso"
-    },
-    {
       "number": 514936,
       "date": "2026-06-14",
       "desc": "Bernini Mimosa 500ml",
@@ -26973,24 +26487,6 @@
       "cashier": "Nwabisa"
     },
     {
-      "number": 515013,
-      "date": "2026-06-14",
-      "desc": "Bernini Blush 500ml",
-      "amount": 120.0,
-      "gp_pct": 38.4,
-      "points": 2,
-      "cashier": "Nwabisa"
-    },
-    {
-      "number": 515017,
-      "date": "2026-06-14",
-      "desc": "Bernini Blush 500ml",
-      "amount": 120.0,
-      "gp_pct": 38.4,
-      "points": 2,
-      "cashier": "Nwabisa"
-    },
-    {
       "number": 515019,
       "date": "2026-06-14",
       "desc": "Carling Black Label 750ml",
@@ -27288,15 +26784,6 @@
       "cashier": "Nwabisa"
     },
     {
-      "number": 515082,
-      "date": "2026-06-14",
-      "desc": "Bernini Blush 500ml",
-      "amount": 50.0,
-      "gp_pct": 38.4,
-      "points": 1,
-      "cashier": "Nwabisa"
-    },
-    {
       "number": 515084,
       "date": "2026-06-14",
       "desc": "Bernini Mimosa 500ml",
@@ -27357,15 +26844,6 @@
       "amount": 50.0,
       "gp_pct": 24.3,
       "points": 1,
-      "cashier": "Nwabisa"
-    },
-    {
-      "number": 515099,
-      "date": "2026-06-14",
-      "desc": "Bernini Blush 500ml",
-      "amount": 120.0,
-      "gp_pct": 38.4,
-      "points": 2,
       "cashier": "Nwabisa"
     },
     {
@@ -27780,15 +27258,6 @@
       "amount": 100.0,
       "gp_pct": 23.3,
       "points": 2,
-      "cashier": "Thabiso"
-    },
-    {
-      "number": 515255,
-      "date": "2026-06-15",
-      "desc": "Bernini Blush 500ml",
-      "amount": 50.0,
-      "gp_pct": 38.4,
-      "points": 1,
       "cashier": "Thabiso"
     },
     {
@@ -28674,15 +28143,6 @@
       "cashier": "Thabiso"
     },
     {
-      "number": 515539,
-      "date": "2026-06-16",
-      "desc": "Bernini Blush 500ml",
-      "amount": 120.0,
-      "gp_pct": 38.4,
-      "points": 2,
-      "cashier": "Thabiso"
-    },
-    {
       "number": 515541,
       "date": "2026-06-16",
       "desc": "2Bernini Classic 500ml",
@@ -28935,15 +28395,6 @@
       "cashier": "Thabiso"
     },
     {
-      "number": 515647,
-      "date": "2026-06-16",
-      "desc": "Bernini Blush 500ml",
-      "amount": 120.0,
-      "gp_pct": 38.4,
-      "points": 2,
-      "cashier": "Thabiso"
-    },
-    {
       "number": 515649,
       "date": "2026-06-16",
       "desc": "2Bernini Classic 500ml",
@@ -29090,15 +28541,6 @@
     {
       "number": 515696,
       "date": "2026-06-16",
-      "desc": "Bernini Blush 500ml",
-      "amount": 120.0,
-      "gp_pct": 38.4,
-      "points": 2,
-      "cashier": "Nwabisa"
-    },
-    {
-      "number": 515696,
-      "date": "2026-06-16",
       "desc": "2Bernini Classic 500ml",
       "amount": 120.0,
       "gp_pct": 38.4,
@@ -29148,24 +28590,6 @@
       "amount": 150.0,
       "gp_pct": 24.3,
       "points": 3,
-      "cashier": "Nwabisa"
-    },
-    {
-      "number": 515713,
-      "date": "2026-06-16",
-      "desc": "Bernini Blush 500ml",
-      "amount": 50.0,
-      "gp_pct": 38.4,
-      "points": 1,
-      "cashier": "Nwabisa"
-    },
-    {
-      "number": 515715,
-      "date": "2026-06-16",
-      "desc": "Bernini Blush 500ml",
-      "amount": 120.0,
-      "gp_pct": 38.4,
-      "points": 2,
       "cashier": "Nwabisa"
     },
     {
@@ -29295,15 +28719,6 @@
       "cashier": "Nwabisa"
     },
     {
-      "number": 515740,
-      "date": "2026-06-16",
-      "desc": "Bernini Blush 500ml",
-      "amount": 50.0,
-      "gp_pct": 38.4,
-      "points": 1,
-      "cashier": "Nwabisa"
-    },
-    {
       "number": 515745,
       "date": "2026-06-16",
       "desc": "Sedgwicks Old Brown Sherry 750ml",
@@ -29319,24 +28734,6 @@
       "amount": 50.0,
       "gp_pct": 24.3,
       "points": 1,
-      "cashier": "Nwabisa"
-    },
-    {
-      "number": 515747,
-      "date": "2026-06-16",
-      "desc": "Bernini Blush 500ml",
-      "amount": 50.0,
-      "gp_pct": 38.4,
-      "points": 1,
-      "cashier": "Nwabisa"
-    },
-    {
-      "number": 515752,
-      "date": "2026-06-16",
-      "desc": "Bernini Blush 500ml",
-      "amount": 120.0,
-      "gp_pct": 38.4,
-      "points": 2,
       "cashier": "Nwabisa"
     },
     {
@@ -29481,15 +28878,6 @@
       "amount": 50.0,
       "gp_pct": 24.3,
       "points": 1,
-      "cashier": "Nwabisa"
-    },
-    {
-      "number": 515797,
-      "date": "2026-06-17",
-      "desc": "Bernini Blush 500ml",
-      "amount": 120.0,
-      "gp_pct": 38.4,
-      "points": 2,
       "cashier": "Nwabisa"
     },
     {
@@ -30807,15 +30195,6 @@
       "cashier": "Thabiso"
     },
     {
-      "number": 516215,
-      "date": "2026-06-19",
-      "desc": "Bernini Blush 500ml",
-      "amount": 120.0,
-      "gp_pct": 38.4,
-      "points": 2,
-      "cashier": "Thabiso"
-    },
-    {
       "number": 516218,
       "date": "2026-06-19",
       "desc": "Bernini Blush 275ml",
@@ -31122,15 +30501,6 @@
       "cashier": "Nwabisa"
     },
     {
-      "number": 516318,
-      "date": "2026-06-20",
-      "desc": "Bernini Blush 500ml",
-      "amount": 90.0,
-      "gp_pct": 38.4,
-      "points": 1,
-      "cashier": "Nwabisa"
-    },
-    {
       "number": 516319,
       "date": "2026-06-20",
       "desc": "2Bernini Classic 500ml",
@@ -31199,15 +30569,6 @@
       "desc": "Sedgwicks Old Brown Sherry 750ml",
       "amount": 50.0,
       "gp_pct": 23.3,
-      "points": 1,
-      "cashier": "Nwabisa"
-    },
-    {
-      "number": 516333,
-      "date": "2026-06-20",
-      "desc": "Bernini Blush 500ml",
-      "amount": 90.0,
-      "gp_pct": 38.4,
       "points": 1,
       "cashier": "Nwabisa"
     },
@@ -31383,15 +30744,6 @@
       "cashier": "Thabiso"
     },
     {
-      "number": 516377,
-      "date": "2026-06-20",
-      "desc": "Bernini Blush 500ml",
-      "amount": 180.0,
-      "gp_pct": 38.4,
-      "points": 3,
-      "cashier": "Thabiso"
-    },
-    {
       "number": 516378,
       "date": "2026-06-20",
       "desc": "Paarl Perle' 1L",
@@ -31464,15 +30816,6 @@
       "cashier": "Thabiso"
     },
     {
-      "number": 516383,
-      "date": "2026-06-20",
-      "desc": "Bernini Blush 500ml",
-      "amount": 90.0,
-      "gp_pct": 38.4,
-      "points": 1,
-      "cashier": "Thabiso"
-    },
-    {
       "number": 516387,
       "date": "2026-06-20",
       "desc": "Braaiwors",
@@ -31524,15 +30867,6 @@
       "amount": 180.0,
       "gp_pct": 38.4,
       "points": 3,
-      "cashier": "Thabiso"
-    },
-    {
-      "number": 516392,
-      "date": "2026-06-20",
-      "desc": "Bernini Blush 500ml",
-      "amount": 90.0,
-      "gp_pct": 38.4,
-      "points": 1,
       "cashier": "Thabiso"
     },
     {
@@ -31614,15 +30948,6 @@
       "amount": 90.0,
       "gp_pct": 38.4,
       "points": 1,
-      "cashier": "Thabiso"
-    },
-    {
-      "number": 516407,
-      "date": "2026-06-20",
-      "desc": "Bernini Blush 500ml",
-      "amount": 180.0,
-      "gp_pct": 38.4,
-      "points": 3,
       "cashier": "Thabiso"
     },
     {
@@ -32211,15 +31536,6 @@
       "cashier": "Thabiso"
     },
     {
-      "number": 516568,
-      "date": "2026-06-21",
-      "desc": "Bernini Blush 500ml",
-      "amount": 195.0,
-      "gp_pct": 38.4,
-      "points": 3,
-      "cashier": "Thabiso"
-    },
-    {
       "number": 516569,
       "date": "2026-06-21",
       "desc": "Bernini Mimosa 500ml",
@@ -32487,15 +31803,6 @@
       "amount": 50.0,
       "gp_pct": 24.3,
       "points": 1,
-      "cashier": "Thabiso"
-    },
-    {
-      "number": 516635,
-      "date": "2026-06-21",
-      "desc": "Bernini Blush 500ml",
-      "amount": 120.0,
-      "gp_pct": 38.4,
-      "points": 2,
       "cashier": "Thabiso"
     },
     {
@@ -33039,15 +32346,6 @@
       "cashier": "Nwabisa"
     },
     {
-      "number": 516793,
-      "date": "2026-06-21",
-      "desc": "Bernini Blush 500ml",
-      "amount": 120.0,
-      "gp_pct": 38.4,
-      "points": 2,
-      "cashier": "Nwabisa"
-    },
-    {
       "number": 516794,
       "date": "2026-06-21",
       "desc": "Bernini Classic 275ml",
@@ -33108,24 +32406,6 @@
       "amount": 70.0,
       "gp_pct": 19.8,
       "points": 1,
-      "cashier": "Nwabisa"
-    },
-    {
-      "number": 516808,
-      "date": "2026-06-21",
-      "desc": "Bernini Blush 500ml",
-      "amount": 120.0,
-      "gp_pct": 38.4,
-      "points": 2,
-      "cashier": "Nwabisa"
-    },
-    {
-      "number": 516809,
-      "date": "2026-06-21",
-      "desc": "Bernini Blush 500ml",
-      "amount": 240.0,
-      "gp_pct": 38.4,
-      "points": 4,
       "cashier": "Nwabisa"
     },
     {
@@ -33327,15 +32607,6 @@
       "cashier": "Nwabisa"
     },
     {
-      "number": 516871,
-      "date": "2026-06-21",
-      "desc": "Bernini Blush 500ml",
-      "amount": 240.0,
-      "gp_pct": 38.4,
-      "points": 4,
-      "cashier": "Nwabisa"
-    },
-    {
       "number": 516876,
       "date": "2026-06-22",
       "desc": "Redd's MXD V Pine 440ml",
@@ -33444,15 +32715,6 @@
       "cashier": "Thabiso"
     },
     {
-      "number": 516928,
-      "date": "2026-06-22",
-      "desc": "Bernini Blush 500ml",
-      "amount": 90.0,
-      "gp_pct": 38.4,
-      "points": 1,
-      "cashier": "Thabiso"
-    },
-    {
       "number": 516930,
       "date": "2026-06-22",
       "desc": "2Bernini Classic 500ml",
@@ -33468,15 +32730,6 @@
       "amount": 180.0,
       "gp_pct": 38.4,
       "points": 3,
-      "cashier": "Thabiso"
-    },
-    {
-      "number": 516933,
-      "date": "2026-06-22",
-      "desc": "Bernini Blush 500ml",
-      "amount": 90.0,
-      "gp_pct": 38.4,
-      "points": 1,
       "cashier": "Thabiso"
     },
     {
@@ -33638,15 +32891,6 @@
       "desc": "Belgravia Gin & Tonic 440ml",
       "amount": 50.0,
       "gp_pct": 23.3,
-      "points": 1,
-      "cashier": "Nwabisa"
-    },
-    {
-      "number": 516977,
-      "date": "2026-06-22",
-      "desc": "Bernini Blush 500ml",
-      "amount": 90.0,
-      "gp_pct": 38.4,
       "points": 1,
       "cashier": "Nwabisa"
     },
@@ -33912,15 +33156,6 @@
       "cashier": "Thabiso"
     },
     {
-      "number": 517080,
-      "date": "2026-06-24",
-      "desc": "Bernini Blush 500ml",
-      "amount": 50.0,
-      "gp_pct": 38.4,
-      "points": 1,
-      "cashier": "Thabiso"
-    },
-    {
       "number": 517086,
       "date": "2026-06-24",
       "desc": "Pork Chops",
@@ -33980,15 +33215,6 @@
       "desc": "Carling Black Label 750ml",
       "amount": 125.0,
       "gp_pct": 24.3,
-      "points": 2,
-      "cashier": "Thabiso"
-    },
-    {
-      "number": 517097,
-      "date": "2026-06-24",
-      "desc": "Bernini Blush 500ml",
-      "amount": 120.0,
-      "gp_pct": 38.4,
       "points": 2,
       "cashier": "Thabiso"
     },
@@ -35892,15 +35118,6 @@
       "cashier": "Thabiso"
     },
     {
-      "number": 517622,
-      "date": "2026-06-26",
-      "desc": "Bernini Blush 500ml",
-      "amount": 120.0,
-      "gp_pct": 38.4,
-      "points": 2,
-      "cashier": "Thabiso"
-    },
-    {
       "number": 517625,
       "date": "2026-06-26",
       "desc": "Chiller's Punch Tequila Sunrise",
@@ -35925,15 +35142,6 @@
       "amount": 120.0,
       "gp_pct": 38.4,
       "points": 2,
-      "cashier": "Thabiso"
-    },
-    {
-      "number": 517631,
-      "date": "2026-06-26",
-      "desc": "Bernini Blush 500ml",
-      "amount": 50.0,
-      "gp_pct": 38.4,
-      "points": 1,
       "cashier": "Thabiso"
     },
     {
@@ -36141,15 +35349,6 @@
       "amount": 60.0,
       "gp_pct": 23.3,
       "points": 1,
-      "cashier": "Thabiso"
-    },
-    {
-      "number": 517671,
-      "date": "2026-06-26",
-      "desc": "Bernini Blush 500ml",
-      "amount": 120.0,
-      "gp_pct": 38.4,
-      "points": 2,
       "cashier": "Thabiso"
     },
     {
@@ -36786,8 +35985,8 @@
   "stock_summary": {
     "total_products": 743,
     "out_of_stock": 472,
-    "on_promo": 1,
+    "on_promo": 2,
     "dead_stock_30d": 74,
-    "loyalty_eligible": 282
+    "loyalty_eligible": 281
   }
 }
