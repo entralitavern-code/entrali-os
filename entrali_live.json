@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-27T22:32:57.840075",
+    "generated_at": "2026-06-27T22:39:40.750221",
     "generated_date": "2026-06-27",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-27",
-    "revenue": 63496.61,
-    "cost": 57973.02,
-    "gp_pct": 8.7,
-    "transactions": 554,
-    "vs_yesterday": 10867.52
+    "revenue": 64611.61,
+    "cost": 59096.37,
+    "gp_pct": 8.5,
+    "transactions": 562,
+    "vs_yesterday": 11982.52
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 695647.05,
-    "cost": 632519.23,
+    "revenue": 696762.05,
+    "cost": 633642.58,
     "gp_pct": 9.1,
-    "transactions": 6584,
+    "transactions": 6592,
     "days_elapsed": 27
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-27",
-      "revenue": 63496.61,
-      "cost": 57973.02,
-      "transactions": 554,
-      "gp_pct": 8.7
+      "revenue": 64611.61,
+      "cost": 59096.37,
+      "transactions": 562,
+      "gp_pct": 8.5
     }
   ],
   "hourly_today": [
@@ -672,10 +672,10 @@
     {
       "hour": 22,
       "label": "22:00",
-      "revenue": 1824.76,
-      "cost": 1641.55,
-      "gp_pct": 10.0,
-      "transactions": 15
+      "revenue": 2939.76,
+      "cost": 2736.73,
+      "gp_pct": 6.9,
+      "transactions": 23
     },
     {
       "hour": 23,
@@ -724,8 +724,8 @@
       "desc": "Klipdrift Export Brandy 750ml",
       "price": 200.0,
       "gp_pct": 12.5,
-      "revenue": 28800.0,
-      "qty_sold": 144.0
+      "revenue": 29000.0,
+      "qty_sold": 145.0
     },
     {
       "internal": 13,
@@ -748,8 +748,8 @@
       "desc": "Savanna Dry 500ml",
       "price": 25.0,
       "gp_pct": 13.3,
-      "revenue": 22125.0,
-      "qty_sold": 885.0
+      "revenue": 22425.0,
+      "qty_sold": 897.0
     },
     {
       "internal": 238,
@@ -804,8 +804,8 @@
       "desc": "Bernini Classic 500ml",
       "price": 25.0,
       "gp_pct": 38.4,
-      "revenue": 14705.0,
-      "qty_sold": 782.0
+      "revenue": 14730.0,
+      "qty_sold": 783.0
     },
     {
       "internal": 266,
@@ -820,8 +820,8 @@
       "desc": "Bernini Blush 500ml",
       "price": 25.0,
       "gp_pct": 38.4,
-      "revenue": 13145.0,
-      "qty_sold": 689.0
+      "revenue": 13265.0,
+      "qty_sold": 695.0
     },
     {
       "internal": 184,
@@ -844,16 +844,16 @@
       "desc": "Gordon's Gin 750ml",
       "price": 160.0,
       "gp_pct": 6.9,
-      "revenue": 11320.0,
-      "qty_sold": 64.0
+      "revenue": 11480.0,
+      "qty_sold": 65.0
     }
   ],
   "cashier_summary": [
     {
       "cashier": "Thabiso",
-      "revenue": 457563.02,
-      "cost": 420168.16,
-      "transactions": 4323,
+      "revenue": 458678.02,
+      "cost": 421291.51,
+      "transactions": 4331,
       "gp_pct": 8.2
     },
     {
@@ -930,7 +930,7 @@
       "price": 10.0,
       "cost": 5.0,
       "gp_pct": 50.0,
-      "qty": -865.0,
+      "qty": -871.0,
       "minimum": 0.0,
       "maximum": 0.0,
       "on_promo": false,
@@ -1718,6 +1718,25 @@
       "lastsold": "2026-04-29",
       "lastbuy": null,
       "loyalty_eligible": true,
+      "alert": "OUT OF STOCK"
+    },
+    {
+      "internal": 558,
+      "part_no": "09",
+      "desc": "Amarula Rasp Choc 750ml",
+      "group": "15",
+      "price": 180.0,
+      "cost": 149.99,
+      "gp_pct": 16.7,
+      "qty": -1.0,
+      "minimum": 0.0,
+      "maximum": 0.0,
+      "on_promo": false,
+      "promo_price": null,
+      "days_since_sold": 0,
+      "lastsold": "2026-06-27",
+      "lastbuy": "2026-06-10",
+      "loyalty_eligible": false,
       "alert": "OUT OF STOCK"
     },
     {
@@ -7665,25 +7684,6 @@
       "lastsold": "2023-12-12",
       "lastbuy": "2023-11-07",
       "loyalty_eligible": true,
-      "alert": "OUT OF STOCK"
-    },
-    {
-      "internal": 558,
-      "part_no": "09",
-      "desc": "Amarula Rasp Choc 750ml",
-      "group": "15",
-      "price": 180.0,
-      "cost": 149.99,
-      "gp_pct": 16.7,
-      "qty": 0.0,
-      "minimum": 0.0,
-      "maximum": 0.0,
-      "on_promo": false,
-      "promo_price": null,
-      "days_since_sold": 12,
-      "lastsold": "2026-06-15",
-      "lastbuy": "2026-06-10",
-      "loyalty_eligible": false,
       "alert": "OUT OF STOCK"
     },
     {
@@ -39089,6 +39089,24 @@
       "amount": 60.0,
       "gp_pct": 50.0,
       "points": 1,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 518381,
+      "date": "2026-06-27",
+      "desc": "Bernini Blush 500ml",
+      "amount": 120.0,
+      "gp_pct": 38.4,
+      "points": 2,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 518383,
+      "date": "2026-06-27",
+      "desc": "Redd's MXD V Pine 440ml",
+      "amount": 110.0,
+      "gp_pct": 20.8,
+      "points": 2,
       "cashier": "Thabiso"
     }
   ],
