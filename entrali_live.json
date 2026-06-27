@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-28T00:44:54.111838",
+    "generated_at": "2026-06-28T00:51:29.572409",
     "generated_date": "2026-06-28",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -26,10 +26,10 @@
   "latest_cashup": {
     "date": "2026-06-27",
     "cash_start": 0.0,
-    "cash_end": 0.0,
-    "cash_income": 0.0,
+    "cash_end": 31763.9,
+    "cash_income": 31763.9,
     "card": 0.0,
-    "total": 0.0
+    "total": 31763.9
   },
   "cashup_history": [
     {
@@ -267,10 +267,10 @@
     {
       "date": "2026-06-27",
       "cash_start": 0.0,
-      "cash_end": 0.0,
-      "cash_income": 0.0,
+      "cash_end": 31763.9,
+      "cash_income": 31763.9,
       "card": 0.0,
-      "total": 0.0
+      "total": 31763.9
     }
   ],
   "daily_summary": [
