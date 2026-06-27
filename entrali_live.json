@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-27T09:30:26.047115",
+    "generated_at": "2026-06-27T09:37:03.601240",
     "generated_date": "2026-06-27",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-27",
-    "revenue": 2357.0,
-    "cost": 2696.89,
-    "gp_pct": -14.4,
-    "transactions": 51,
-    "vs_yesterday": -50272.09
+    "revenue": 4582.0,
+    "cost": 5044.17,
+    "gp_pct": -10.1,
+    "transactions": 56,
+    "vs_yesterday": -48047.09
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 634507.44,
-    "cost": 616324.68,
-    "gp_pct": 2.9,
-    "transactions": 6081,
+    "revenue": 636732.44,
+    "cost": 618671.96,
+    "gp_pct": 2.8,
+    "transactions": 6086,
     "days_elapsed": 27
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-27",
-      "revenue": 2357.0,
-      "cost": 2696.89,
-      "transactions": 51,
-      "gp_pct": -14.4
+      "revenue": 4582.0,
+      "cost": 5044.17,
+      "transactions": 56,
+      "gp_pct": -10.1
     }
   ],
   "hourly_today": [
@@ -568,10 +568,10 @@
     {
       "hour": 9,
       "label": "09:00",
-      "revenue": 0.0,
-      "cost": 0.0,
-      "gp_pct": 0.0,
-      "transactions": 0
+      "revenue": 2225.0,
+      "cost": 2151.53,
+      "gp_pct": 3.3,
+      "transactions": 5
     },
     {
       "hour": 10,
@@ -692,24 +692,24 @@
       "desc": "Carling Black Label 750ml",
       "price": 25.0,
       "gp_pct": 24.3,
-      "revenue": 192268.7,
-      "qty_sold": 8853.0
+      "revenue": 193538.7,
+      "qty_sold": 8915.0
     },
     {
       "internal": 171,
       "desc": "Paarl Perle' 1L",
       "price": 45.0,
       "gp_pct": 21.9,
-      "revenue": 71560.0,
-      "qty_sold": 1791.0
+      "revenue": 72055.0,
+      "qty_sold": 1804.0
     },
     {
       "internal": 188,
       "desc": "Sedgwicks Old Brown Sherry 750ml",
       "price": 60.0,
       "gp_pct": 23.3,
-      "revenue": 39769.97,
-      "qty_sold": 755.0
+      "revenue": 40019.97,
+      "qty_sold": 760.0
     },
     {
       "internal": 172,
@@ -732,15 +732,23 @@
       "desc": "4th Street Sweet L/H 5l",
       "price": 180.0,
       "gp_pct": 11.9,
-      "revenue": 23040.0,
-      "qty_sold": 128.0
+      "revenue": 23220.0,
+      "qty_sold": 129.0
     },
     {
       "internal": 13,
       "desc": "Commando Brandy 750ml",
       "price": 200.0,
       "gp_pct": 10.5,
-      "revenue": 22979.17,
+      "revenue": 23179.17,
+      "qty_sold": 116.0
+    },
+    {
+      "internal": 238,
+      "desc": "4th Street Sweet Red 5L",
+      "price": 180.0,
+      "gp_pct": 16.8,
+      "revenue": 20700.0,
       "qty_sold": 115.0
     },
     {
@@ -750,14 +758,6 @@
       "gp_pct": 13.3,
       "revenue": 20625.0,
       "qty_sold": 825.0
-    },
-    {
-      "internal": 238,
-      "desc": "4th Street Sweet Red 5L",
-      "price": 180.0,
-      "gp_pct": 16.8,
-      "revenue": 20520.0,
-      "qty_sold": 114.0
     },
     {
       "internal": 231,
@@ -858,9 +858,9 @@
     },
     {
       "cashier": "Nwabisa",
-      "revenue": 387626.07,
-      "cost": 365446.34,
-      "transactions": 3627,
+      "revenue": 389851.07,
+      "cost": 367793.62,
+      "transactions": 3632,
       "gp_pct": 5.7
     }
   ],
@@ -1056,6 +1056,25 @@
       "alert": "OUT OF STOCK"
     },
     {
+      "internal": 171,
+      "part_no": "232",
+      "desc": "Paarl Perle' 1L",
+      "group": "2",
+      "price": 45.0,
+      "cost": 35.1667,
+      "gp_pct": 21.9,
+      "qty": -109.0,
+      "minimum": 0.0,
+      "maximum": 60.0,
+      "on_promo": false,
+      "promo_price": null,
+      "days_since_sold": 0,
+      "lastsold": "2026-06-27",
+      "lastbuy": "2026-06-11",
+      "loyalty_eligible": true,
+      "alert": "OUT OF STOCK"
+    },
+    {
       "internal": 469,
       "part_no": "4006",
       "desc": "Drinking Glass Hiball",
@@ -1071,25 +1090,6 @@
       "days_since_sold": 3,
       "lastsold": "2026-06-24",
       "lastbuy": "2025-08-31",
-      "loyalty_eligible": true,
-      "alert": "OUT OF STOCK"
-    },
-    {
-      "internal": 171,
-      "part_no": "232",
-      "desc": "Paarl Perle' 1L",
-      "group": "2",
-      "price": 45.0,
-      "cost": 35.1667,
-      "gp_pct": 21.9,
-      "qty": -96.0,
-      "minimum": 0.0,
-      "maximum": 60.0,
-      "on_promo": false,
-      "promo_price": null,
-      "days_since_sold": 1,
-      "lastsold": "2026-06-26",
-      "lastbuy": "2026-06-11",
       "loyalty_eligible": true,
       "alert": "OUT OF STOCK"
     },
@@ -8535,8 +8535,8 @@
       "maximum": 0.0,
       "on_promo": false,
       "promo_price": null,
-      "days_since_sold": 1,
-      "lastsold": "2026-06-26",
+      "days_since_sold": 0,
+      "lastsold": "2026-06-27",
       "lastbuy": "2024-12-31",
       "loyalty_eligible": false,
       "alert": "OUT OF STOCK"
@@ -36691,6 +36691,60 @@
       "gp_pct": 24.3,
       "points": 1,
       "cashier": "Thabiso"
+    },
+    {
+      "number": 517872,
+      "date": "2026-06-27",
+      "desc": "Sedgwicks Old Brown Sherry 750ml",
+      "amount": 200.0,
+      "gp_pct": 23.3,
+      "points": 4,
+      "cashier": "Nwabisa"
+    },
+    {
+      "number": 517872,
+      "date": "2026-06-27",
+      "desc": "Carling Black Label 750ml",
+      "amount": 488.0,
+      "gp_pct": 24.3,
+      "points": 9,
+      "cashier": "Nwabisa"
+    },
+    {
+      "number": 517873,
+      "date": "2026-06-27",
+      "desc": "Paarl Perle' 1L",
+      "amount": 450.0,
+      "gp_pct": 21.9,
+      "points": 9,
+      "cashier": "Nwabisa"
+    },
+    {
+      "number": 517873,
+      "date": "2026-06-27",
+      "desc": "Carling Black Label 750ml",
+      "amount": 732.0,
+      "gp_pct": 24.3,
+      "points": 14,
+      "cashier": "Nwabisa"
+    },
+    {
+      "number": 517876,
+      "date": "2026-06-27",
+      "desc": "Carling Black Label 750ml",
+      "amount": 50.0,
+      "gp_pct": 24.3,
+      "points": 1,
+      "cashier": "Nwabisa"
+    },
+    {
+      "number": 517878,
+      "date": "2026-06-27",
+      "desc": "Sedgwicks Old Brown Sherry 750ml",
+      "amount": 50.0,
+      "gp_pct": 23.3,
+      "points": 1,
+      "cashier": "Nwabisa"
     }
   ],
   "stock_summary": {
