@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-27T22:06:12.458916",
+    "generated_at": "2026-06-27T22:12:49.908024",
     "generated_date": "2026-06-27",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-27",
-    "revenue": 62186.85,
-    "cost": 56695.77,
+    "revenue": 62706.77,
+    "cost": 57165.68,
     "gp_pct": 8.8,
-    "transactions": 543,
-    "vs_yesterday": 9557.76
+    "transactions": 545,
+    "vs_yesterday": 10077.68
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 694337.29,
-    "cost": 631241.98,
+    "revenue": 694857.21,
+    "cost": 631711.89,
     "gp_pct": 9.1,
-    "transactions": 6573,
+    "transactions": 6575,
     "days_elapsed": 27
   },
   "latest_cashup": {
@@ -486,9 +486,9 @@
     },
     {
       "date": "2026-06-27",
-      "revenue": 62186.85,
-      "cost": 56695.77,
-      "transactions": 543,
+      "revenue": 62706.77,
+      "cost": 57165.68,
+      "transactions": 545,
       "gp_pct": 8.8
     }
   ],
@@ -672,10 +672,10 @@
     {
       "hour": 22,
       "label": "22:00",
-      "revenue": 515.0,
-      "cost": 431.13,
-      "gp_pct": 16.3,
-      "transactions": 4
+      "revenue": 1034.92,
+      "cost": 901.03,
+      "gp_pct": 12.9,
+      "transactions": 6
     },
     {
       "hour": 23,
@@ -780,8 +780,8 @@
       "desc": "KWV 3yrs 750ml",
       "price": 200.0,
       "gp_pct": 12.5,
-      "revenue": 17080.0,
-      "qty_sold": 88.0
+      "revenue": 17260.0,
+      "qty_sold": 89.0
     },
     {
       "internal": 169,
@@ -851,9 +851,9 @@
   "cashier_summary": [
     {
       "cashier": "Thabiso",
-      "revenue": 456253.26,
-      "cost": 418890.91,
-      "transactions": 4312,
+      "revenue": 456773.18,
+      "cost": 419360.82,
+      "transactions": 4314,
       "gp_pct": 8.2
     },
     {
@@ -38980,6 +38980,24 @@
       "amount": 110.0,
       "gp_pct": 20.8,
       "points": 2,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 518365,
+      "date": "2026-06-27",
+      "desc": "Smirnoff Storm Berry Twist 440ml",
+      "amount": 130.0,
+      "gp_pct": 24.8,
+      "points": 2,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 518365,
+      "date": "2026-06-27",
+      "desc": "Sol NRB 330ml",
+      "amount": 169.92,
+      "gp_pct": 21.9,
+      "points": 3,
       "cashier": "Thabiso"
     }
   ],
