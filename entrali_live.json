@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-28T00:12:25.467556",
+    "generated_at": "2026-06-28T00:18:51.275190",
     "generated_date": "2026-06-28",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-28",
-    "revenue": 6.0,
-    "cost": 1.94,
-    "gp_pct": 67.7,
-    "transactions": 2,
-    "vs_yesterday": -69758.45
+    "revenue": 536.0,
+    "cost": 666.86,
+    "gp_pct": -24.4,
+    "transactions": 3,
+    "vs_yesterday": -69228.45
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 701920.89,
-    "cost": 638269.37,
-    "gp_pct": 9.1,
-    "transactions": 6633,
+    "revenue": 702450.89,
+    "cost": 638934.28,
+    "gp_pct": 9.0,
+    "transactions": 6634,
     "days_elapsed": 28
   },
   "latest_cashup": {
@@ -486,20 +486,20 @@
     },
     {
       "date": "2026-06-28",
-      "revenue": 6.0,
-      "cost": 1.94,
-      "transactions": 2,
-      "gp_pct": 67.7
+      "revenue": 536.0,
+      "cost": 666.86,
+      "transactions": 3,
+      "gp_pct": -24.4
     }
   ],
   "hourly_today": [
     {
       "hour": 0,
       "label": "00:00",
-      "revenue": 6.0,
-      "cost": 1.94,
-      "gp_pct": 67.7,
-      "transactions": 2
+      "revenue": 536.0,
+      "cost": 491.94,
+      "gp_pct": 8.2,
+      "transactions": 3
     },
     {
       "hour": 1,
@@ -724,8 +724,8 @@
       "desc": "Klipdrift Export Brandy 750ml",
       "price": 200.0,
       "gp_pct": 12.5,
-      "revenue": 28200.0,
-      "qty_sold": 141.0
+      "revenue": 28400.0,
+      "qty_sold": 142.0
     },
     {
       "internal": 13,
@@ -851,10 +851,10 @@
   "cashier_summary": [
     {
       "cashier": "Thabiso",
-      "revenue": 456869.86,
-      "cost": 419624.62,
-      "transactions": 4317,
-      "gp_pct": 8.2
+      "revenue": 457399.86,
+      "cost": 420289.54,
+      "transactions": 4318,
+      "gp_pct": 8.1
     },
     {
       "cashier": "Nwabisa",
