@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-27T12:46:36.831723",
+    "generated_at": "2026-06-27T12:53:13.069355",
     "generated_date": "2026-06-27",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-27",
-    "revenue": 12254.0,
-    "cost": 12988.65,
-    "gp_pct": -6.0,
-    "transactions": 125,
-    "vs_yesterday": -40375.09
+    "revenue": 12503.0,
+    "cost": 13208.23,
+    "gp_pct": -5.6,
+    "transactions": 128,
+    "vs_yesterday": -40126.09
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 644404.44,
-    "cost": 626913.86,
+    "revenue": 644653.44,
+    "cost": 627133.45,
     "gp_pct": 2.7,
-    "transactions": 6155,
+    "transactions": 6158,
     "days_elapsed": 27
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-27",
-      "revenue": 12254.0,
-      "cost": 12988.65,
-      "transactions": 125,
-      "gp_pct": -6.0
+      "revenue": 12503.0,
+      "cost": 13208.23,
+      "transactions": 128,
+      "gp_pct": -5.6
     }
   ],
   "hourly_today": [
@@ -592,10 +592,10 @@
     {
       "hour": 12,
       "label": "12:00",
-      "revenue": 1537.0,
-      "cost": 1352.61,
+      "revenue": 1786.0,
+      "cost": 1572.19,
       "gp_pct": 12.0,
-      "transactions": 20
+      "transactions": 23
     },
     {
       "hour": 13,
@@ -732,8 +732,8 @@
       "desc": "Commando Brandy 750ml",
       "price": 200.0,
       "gp_pct": 10.5,
-      "revenue": 23979.17,
-      "qty_sold": 120.0
+      "revenue": 24179.17,
+      "qty_sold": 121.0
     },
     {
       "internal": 439,
@@ -858,9 +858,9 @@
     },
     {
       "cashier": "Nwabisa",
-      "revenue": 397523.07,
-      "cost": 375852.49,
-      "transactions": 3701,
+      "revenue": 397772.07,
+      "cost": 376072.07,
+      "transactions": 3704,
       "gp_pct": 5.5
     }
   ],
@@ -968,13 +968,13 @@
       "price": -1.0,
       "cost": -2.0,
       "gp_pct": 0.0,
-      "qty": -666.0,
+      "qty": -667.0,
       "minimum": 0.0,
       "maximum": 0.0,
       "on_promo": false,
       "promo_price": null,
-      "days_since_sold": 1,
-      "lastsold": "2026-06-26",
+      "days_since_sold": 0,
+      "lastsold": "2026-06-27",
       "lastbuy": null,
       "loyalty_eligible": false,
       "alert": "OUT OF STOCK"
@@ -36103,6 +36103,15 @@
       "desc": "Sedgwicks Old Brown Sherry 750ml",
       "amount": 60.0,
       "gp_pct": 23.3,
+      "points": 1,
+      "cashier": "Nwabisa"
+    },
+    {
+      "number": 517947,
+      "date": "2026-06-27",
+      "desc": "Castle Lite 660ml",
+      "amount": 50.0,
+      "gp_pct": 19.0,
       "points": 1,
       "cashier": "Nwabisa"
     }
