@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-27T10:42:00.327763",
+    "generated_at": "2026-06-27T10:48:33.579610",
     "generated_date": "2026-06-27",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-27",
-    "revenue": 9213.0,
-    "cost": 9998.16,
-    "gp_pct": -8.5,
-    "transactions": 82,
-    "vs_yesterday": -43416.09
+    "revenue": 9273.0,
+    "cost": 10042.28,
+    "gp_pct": -8.3,
+    "transactions": 84,
+    "vs_yesterday": -43356.09
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 641363.44,
-    "cost": 623625.95,
+    "revenue": 641423.44,
+    "cost": 623670.08,
     "gp_pct": 2.8,
-    "transactions": 6112,
+    "transactions": 6114,
     "days_elapsed": 27
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-27",
-      "revenue": 9213.0,
-      "cost": 9998.16,
-      "transactions": 82,
-      "gp_pct": -8.5
+      "revenue": 9273.0,
+      "cost": 10042.28,
+      "transactions": 84,
+      "gp_pct": -8.3
     }
   ],
   "hourly_today": [
@@ -576,10 +576,10 @@
     {
       "hour": 10,
       "label": "10:00",
-      "revenue": 2060.0,
-      "cost": 1990.97,
-      "gp_pct": 3.4,
-      "transactions": 13
+      "revenue": 2120.0,
+      "cost": 2035.09,
+      "gp_pct": 4.0,
+      "transactions": 15
     },
     {
       "hour": 11,
@@ -692,8 +692,8 @@
       "desc": "Carling Black Label 750ml",
       "price": 25.0,
       "gp_pct": 24.3,
-      "revenue": 195302.7,
-      "qty_sold": 8999.0
+      "revenue": 195327.7,
+      "qty_sold": 9000.0
     },
     {
       "internal": 171,
@@ -858,9 +858,9 @@
     },
     {
       "cashier": "Nwabisa",
-      "revenue": 394482.07,
-      "cost": 372747.61,
-      "transactions": 3658,
+      "revenue": 394542.07,
+      "cost": 372791.74,
+      "transactions": 3660,
       "gp_pct": 5.5
     }
   ],
@@ -1101,7 +1101,7 @@
       "price": 2.0,
       "cost": 0.875,
       "gp_pct": 56.2,
-      "qty": -85.0,
+      "qty": -90.0,
       "minimum": 0.0,
       "maximum": 0.0,
       "on_promo": false,
