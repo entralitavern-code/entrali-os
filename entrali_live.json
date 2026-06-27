@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-27T12:33:31.581465",
+    "generated_at": "2026-06-27T12:40:01.625239",
     "generated_date": "2026-06-27",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-27",
-    "revenue": 12149.0,
-    "cost": 12906.9,
-    "gp_pct": -6.2,
-    "transactions": 122,
-    "vs_yesterday": -40480.09
+    "revenue": 12229.0,
+    "cost": 12969.49,
+    "gp_pct": -6.1,
+    "transactions": 124,
+    "vs_yesterday": -40400.09
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 644299.44,
-    "cost": 626832.11,
+    "revenue": 644379.44,
+    "cost": 626894.7,
     "gp_pct": 2.7,
-    "transactions": 6152,
+    "transactions": 6154,
     "days_elapsed": 27
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-27",
-      "revenue": 12149.0,
-      "cost": 12906.9,
-      "transactions": 122,
-      "gp_pct": -6.2
+      "revenue": 12229.0,
+      "cost": 12969.49,
+      "transactions": 124,
+      "gp_pct": -6.1
     }
   ],
   "hourly_today": [
@@ -592,10 +592,10 @@
     {
       "hour": 12,
       "label": "12:00",
-      "revenue": 1432.0,
-      "cost": 1270.86,
-      "gp_pct": 11.3,
-      "transactions": 17
+      "revenue": 1512.0,
+      "cost": 1333.44,
+      "gp_pct": 11.8,
+      "transactions": 19
     },
     {
       "hour": 13,
@@ -708,8 +708,8 @@
       "desc": "Sedgwicks Old Brown Sherry 750ml",
       "price": 60.0,
       "gp_pct": 23.3,
-      "revenue": 40139.97,
-      "qty_sold": 762.0
+      "revenue": 40199.97,
+      "qty_sold": 763.0
     },
     {
       "internal": 172,
@@ -836,8 +836,8 @@
       "desc": "Castle Lager 750ml",
       "price": 20.0,
       "gp_pct": 17.1,
-      "revenue": 10571.57,
-      "qty_sold": 529.0
+      "revenue": 10591.57,
+      "qty_sold": 530.0
     },
     {
       "internal": 224,
@@ -858,10 +858,10 @@
     },
     {
       "cashier": "Nwabisa",
-      "revenue": 397418.07,
-      "cost": 375770.74,
-      "transactions": 3698,
-      "gp_pct": 5.4
+      "revenue": 397498.07,
+      "cost": 375833.32,
+      "transactions": 3700,
+      "gp_pct": 5.5
     }
   ],
   "low_stock_alerts": [
@@ -36094,6 +36094,15 @@
       "desc": "Carling Black Label 750ml",
       "amount": 50.0,
       "gp_pct": 24.3,
+      "points": 1,
+      "cashier": "Nwabisa"
+    },
+    {
+      "number": 517944,
+      "date": "2026-06-27",
+      "desc": "Sedgwicks Old Brown Sherry 750ml",
+      "amount": 60.0,
+      "gp_pct": 23.3,
       "points": 1,
       "cashier": "Nwabisa"
     }
