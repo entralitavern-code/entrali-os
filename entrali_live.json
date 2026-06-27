@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-27T15:17:32.075311",
+    "generated_at": "2026-06-27T15:23:54.964772",
     "generated_date": "2026-06-27",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-27",
-    "revenue": 21371.5,
-    "cost": 21992.54,
-    "gp_pct": -2.9,
-    "transactions": 204,
-    "vs_yesterday": -31257.59
+    "revenue": 22041.5,
+    "cost": 22562.47,
+    "gp_pct": -2.4,
+    "transactions": 210,
+    "vs_yesterday": -30587.59
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 653521.94,
-    "cost": 635917.76,
+    "revenue": 654191.94,
+    "cost": 636487.68,
     "gp_pct": 2.7,
-    "transactions": 6234,
+    "transactions": 6240,
     "days_elapsed": 27
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-27",
-      "revenue": 21371.5,
-      "cost": 21992.54,
-      "transactions": 204,
-      "gp_pct": -2.9
+      "revenue": 22041.5,
+      "cost": 22562.47,
+      "transactions": 210,
+      "gp_pct": -2.4
     }
   ],
   "hourly_today": [
@@ -616,10 +616,10 @@
     {
       "hour": 15,
       "label": "15:00",
-      "revenue": 1015.0,
-      "cost": 912.65,
-      "gp_pct": 10.1,
-      "transactions": 11
+      "revenue": 1685.0,
+      "cost": 1457.58,
+      "gp_pct": 13.5,
+      "transactions": 17
     },
     {
       "hour": 16,
@@ -692,8 +692,8 @@
       "desc": "Carling Black Label 750ml",
       "price": 25.0,
       "gp_pct": 24.3,
-      "revenue": 197772.7,
-      "qty_sold": 9109.0
+      "revenue": 197797.7,
+      "qty_sold": 9110.0
     },
     {
       "internal": 171,
@@ -740,16 +740,16 @@
       "desc": "4th Street Sweet L/H 5l",
       "price": 180.0,
       "gp_pct": 11.9,
-      "revenue": 23400.0,
-      "qty_sold": 130.0
+      "revenue": 23580.0,
+      "qty_sold": 131.0
     },
     {
       "internal": 161,
       "desc": "Savanna Dry 500ml",
       "price": 25.0,
       "gp_pct": 13.3,
-      "revenue": 20900.0,
-      "qty_sold": 836.0
+      "revenue": 20925.0,
+      "qty_sold": 837.0
     },
     {
       "internal": 238,
@@ -812,32 +812,32 @@
       "desc": "Sedgwicks Old Brown Sherry 1L",
       "price": 75.0,
       "gp_pct": 16.8,
-      "revenue": 12505.0,
-      "qty_sold": 169.0
+      "revenue": 12580.0,
+      "qty_sold": 170.0
     },
     {
       "internal": 266,
       "desc": "Pork Chops",
       "price": 40.0,
       "gp_pct": 39.4,
-      "revenue": 12405.0,
-      "qty_sold": 365.0
+      "revenue": 12485.0,
+      "qty_sold": 367.0
     },
     {
       "internal": 271,
       "desc": "Braaiwors",
       "price": 35.0,
       "gp_pct": 28.6,
-      "revenue": 11900.0,
-      "qty_sold": 381.0
+      "revenue": 11935.0,
+      "qty_sold": 382.0
     },
     {
       "internal": 55,
       "desc": "Bernini Blush 500ml",
       "price": 25.0,
       "gp_pct": 38.4,
-      "revenue": 11040.0,
-      "qty_sold": 564.0
+      "revenue": 11130.0,
+      "qty_sold": 570.0
     },
     {
       "internal": 134,
@@ -858,9 +858,9 @@
     },
     {
       "cashier": "Nwabisa",
-      "revenue": 406640.57,
-      "cost": 384856.38,
-      "transactions": 3780,
+      "revenue": 407310.57,
+      "cost": 385426.31,
+      "transactions": 3786,
       "gp_pct": 5.4
     }
   ],
@@ -1291,7 +1291,7 @@
       "price": 10.0,
       "cost": 7.99,
       "gp_pct": 20.1,
-      "qty": -24.0,
+      "qty": -25.0,
       "minimum": 0.0,
       "maximum": 0.0,
       "on_promo": false,
@@ -34331,6 +34331,24 @@
       "amount": 50.0,
       "gp_pct": 24.3,
       "points": 1,
+      "cashier": "Nwabisa"
+    },
+    {
+      "number": 518027,
+      "date": "2026-06-27",
+      "desc": "Pork Chops",
+      "amount": 80.0,
+      "gp_pct": 39.4,
+      "points": 1,
+      "cashier": "Nwabisa"
+    },
+    {
+      "number": 518027,
+      "date": "2026-06-27",
+      "desc": "Sol NRB 330ml",
+      "amount": 115.0,
+      "gp_pct": 21.9,
+      "points": 2,
       "cashier": "Nwabisa"
     }
   ],
