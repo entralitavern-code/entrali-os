@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-27T14:31:34.645087",
+    "generated_at": "2026-06-27T14:38:15.846180",
     "generated_date": "2026-06-27",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-27",
-    "revenue": 18706.5,
-    "cost": 19579.04,
-    "gp_pct": -4.7,
-    "transactions": 179,
-    "vs_yesterday": -33922.59
+    "revenue": 19121.5,
+    "cost": 19981.49,
+    "gp_pct": -4.5,
+    "transactions": 184,
+    "vs_yesterday": -33507.59
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 650856.94,
-    "cost": 633504.25,
+    "revenue": 651271.94,
+    "cost": 633906.7,
     "gp_pct": 2.7,
-    "transactions": 6209,
+    "transactions": 6214,
     "days_elapsed": 27
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-27",
-      "revenue": 18706.5,
-      "cost": 19579.04,
-      "transactions": 179,
-      "gp_pct": -4.7
+      "revenue": 19121.5,
+      "cost": 19981.49,
+      "transactions": 184,
+      "gp_pct": -4.5
     }
   ],
   "hourly_today": [
@@ -608,10 +608,10 @@
     {
       "hour": 14,
       "label": "14:00",
-      "revenue": 2267.0,
-      "cost": 2037.97,
-      "gp_pct": 10.1,
-      "transactions": 20
+      "revenue": 2682.0,
+      "cost": 2440.92,
+      "gp_pct": 9.0,
+      "transactions": 25
     },
     {
       "hour": 15,
@@ -700,8 +700,8 @@
       "desc": "Paarl Perle' 1L",
       "price": 45.0,
       "gp_pct": 21.3,
-      "revenue": 73225.0,
-      "qty_sold": 1834.0
+      "revenue": 73270.0,
+      "qty_sold": 1835.0
     },
     {
       "internal": 188,
@@ -764,8 +764,8 @@
       "desc": "Heineken 650ml",
       "price": 25.0,
       "gp_pct": 10.3,
-      "revenue": 18775.0,
-      "qty_sold": 751.0
+      "revenue": 18825.0,
+      "qty_sold": 753.0
     },
     {
       "internal": 200,
@@ -796,16 +796,16 @@
       "desc": "Bernini Classic 500ml",
       "price": 25.0,
       "gp_pct": 38.4,
-      "revenue": 13230.0,
-      "qty_sold": 693.0
+      "revenue": 13320.0,
+      "qty_sold": 699.0
     },
     {
       "internal": 712,
       "desc": "Bernini Mimosa 500ml",
       "price": 25.0,
       "gp_pct": 33.4,
-      "revenue": 13005.0,
-      "qty_sold": 675.0
+      "revenue": 13095.0,
+      "qty_sold": 681.0
     },
     {
       "internal": 184,
@@ -832,20 +832,20 @@
       "qty_sold": 380.0
     },
     {
+      "internal": 55,
+      "desc": "Bernini Blush 500ml",
+      "price": 25.0,
+      "gp_pct": 38.4,
+      "revenue": 10680.0,
+      "qty_sold": 540.0
+    },
+    {
       "internal": 224,
       "desc": "Gordon's Gin 750ml",
       "price": 160.0,
       "gp_pct": 6.9,
       "revenue": 10680.0,
       "qty_sold": 60.0
-    },
-    {
-      "internal": 134,
-      "desc": "Castle Lager 750ml",
-      "price": 20.0,
-      "gp_pct": 17.1,
-      "revenue": 10651.57,
-      "qty_sold": 533.0
     }
   ],
   "cashier_summary": [
@@ -858,9 +858,9 @@
     },
     {
       "cashier": "Nwabisa",
-      "revenue": 403975.57,
-      "cost": 382442.88,
-      "transactions": 3755,
+      "revenue": 404390.57,
+      "cost": 382845.33,
+      "transactions": 3760,
       "gp_pct": 5.3
     }
   ],
