@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-27T19:04:29.120830",
+    "generated_at": "2026-06-27T19:11:00.048895",
     "generated_date": "2026-06-27",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-27",
-    "revenue": 47760.75,
-    "cost": 51682.88,
-    "gp_pct": -8.2,
-    "transactions": 419,
-    "vs_yesterday": -4868.34
+    "revenue": 48200.75,
+    "cost": 52010.05,
+    "gp_pct": -7.9,
+    "transactions": 425,
+    "vs_yesterday": -4428.34
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 679911.19,
-    "cost": 665608.1,
+    "revenue": 680351.19,
+    "cost": 665935.26,
     "gp_pct": 2.1,
-    "transactions": 6449,
+    "transactions": 6455,
     "days_elapsed": 27
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-27",
-      "revenue": 47760.75,
-      "cost": 51682.88,
-      "transactions": 419,
-      "gp_pct": -8.2
+      "revenue": 48200.75,
+      "cost": 52010.05,
+      "transactions": 425,
+      "gp_pct": -7.9
     }
   ],
   "hourly_today": [
@@ -648,10 +648,10 @@
     {
       "hour": 19,
       "label": "19:00",
-      "revenue": 5.0,
-      "cost": 3.83,
-      "gp_pct": 23.4,
-      "transactions": 1
+      "revenue": 445.0,
+      "cost": 330.99,
+      "gp_pct": 25.6,
+      "transactions": 7
     },
     {
       "hour": 20,
@@ -692,8 +692,8 @@
       "desc": "Carling Black Label 750ml",
       "price": 25.0,
       "gp_pct": 24.3,
-      "revenue": 201739.03,
-      "qty_sold": 9288.0
+      "revenue": 201789.03,
+      "qty_sold": 9290.0
     },
     {
       "internal": 171,
@@ -812,8 +812,8 @@
       "desc": "Pork Chops",
       "price": 40.0,
       "gp_pct": 39.4,
-      "revenue": 12885.0,
-      "qty_sold": 377.0
+      "revenue": 13045.0,
+      "qty_sold": 381.0
     },
     {
       "internal": 184,
@@ -836,8 +836,8 @@
       "desc": "Braaiwors",
       "price": 35.0,
       "gp_pct": 28.6,
-      "revenue": 12420.0,
-      "qty_sold": 399.0
+      "revenue": 12455.0,
+      "qty_sold": 400.0
     },
     {
       "internal": 224,
@@ -858,9 +858,9 @@
     },
     {
       "cashier": "Nwabisa",
-      "revenue": 433029.82,
-      "cost": 414546.72,
-      "transactions": 3995,
+      "revenue": 433469.82,
+      "cost": 414873.88,
+      "transactions": 4001,
       "gp_pct": 4.3
     }
   ],
@@ -38429,6 +38429,24 @@
       "amount": 50.0,
       "gp_pct": 33.4,
       "points": 1,
+      "cashier": "Nwabisa"
+    },
+    {
+      "number": 518240,
+      "date": "2026-06-27",
+      "desc": "Smirnoff Storm Berry Twist 440ml",
+      "amount": 130.0,
+      "gp_pct": 24.8,
+      "points": 2,
+      "cashier": "Nwabisa"
+    },
+    {
+      "number": 518241,
+      "date": "2026-06-27",
+      "desc": "Pork Chops",
+      "amount": 120.0,
+      "gp_pct": 39.4,
+      "points": 2,
       "cashier": "Nwabisa"
     }
   ],
