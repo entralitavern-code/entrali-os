@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-27T22:59:41.633884",
+    "generated_at": "2026-06-27T23:06:27.557288",
     "generated_date": "2026-06-27",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-27",
-    "revenue": 66721.45,
-    "cost": 60830.91,
+    "revenue": 67021.45,
+    "cost": 61129.65,
     "gp_pct": 8.8,
-    "transactions": 574,
-    "vs_yesterday": 14092.36
+    "transactions": 575,
+    "vs_yesterday": 14392.36
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 698871.89,
-    "cost": 635377.12,
+    "revenue": 699171.89,
+    "cost": 635675.86,
     "gp_pct": 9.1,
-    "transactions": 6604,
+    "transactions": 6605,
     "days_elapsed": 27
   },
   "latest_cashup": {
@@ -486,9 +486,9 @@
     },
     {
       "date": "2026-06-27",
-      "revenue": 66721.45,
-      "cost": 60830.91,
-      "transactions": 574,
+      "revenue": 67021.45,
+      "cost": 61129.65,
+      "transactions": 575,
       "gp_pct": 8.8
     }
   ],
@@ -680,10 +680,10 @@
     {
       "hour": 23,
       "label": "23:00",
-      "revenue": 0.0,
-      "cost": 0.0,
-      "gp_pct": 0.0,
-      "transactions": 0
+      "revenue": 300.0,
+      "cost": 242.25,
+      "gp_pct": 19.3,
+      "transactions": 1
     }
   ],
   "top_products": [
@@ -692,8 +692,8 @@
       "desc": "Carling Black Label 750ml",
       "price": 25.0,
       "gp_pct": 24.3,
-      "revenue": 202864.03,
-      "qty_sold": 9333.0
+      "revenue": 202889.03,
+      "qty_sold": 9334.0
     },
     {
       "internal": 171,
@@ -851,9 +851,9 @@
   "cashier_summary": [
     {
       "cashier": "Thabiso",
-      "revenue": 460787.86,
-      "cost": 423026.05,
-      "transactions": 4343,
+      "revenue": 461087.86,
+      "cost": 423324.79,
+      "transactions": 4344,
       "gp_pct": 8.2
     },
     {
@@ -39187,6 +39187,33 @@
       "desc": "Carling Black Label 750ml",
       "amount": 50.0,
       "gp_pct": 24.3,
+      "points": 1,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 518395,
+      "date": "2026-06-27",
+      "desc": "Corona 355ml",
+      "amount": 240.0,
+      "gp_pct": 19.4,
+      "points": 4,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 518395,
+      "date": "2026-06-27",
+      "desc": "Red Bull 250ml",
+      "amount": 60.0,
+      "gp_pct": 18.8,
+      "points": 1,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 518396,
+      "date": "2026-06-27",
+      "desc": "Smirnoff Storm Berry Twist 440ml",
+      "amount": 50.0,
+      "gp_pct": 24.8,
       "points": 1,
       "cashier": "Thabiso"
     }
