@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-27T22:12:49.908024",
+    "generated_at": "2026-06-27T22:19:46.905655",
     "generated_date": "2026-06-27",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-27",
-    "revenue": 62706.77,
-    "cost": 57165.68,
-    "gp_pct": 8.8,
-    "transactions": 545,
-    "vs_yesterday": 10077.68
+    "revenue": 62696.77,
+    "cost": 57250.26,
+    "gp_pct": 8.7,
+    "transactions": 547,
+    "vs_yesterday": 10067.68
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 694857.21,
-    "cost": 631711.89,
+    "revenue": 694847.21,
+    "cost": 631796.47,
     "gp_pct": 9.1,
-    "transactions": 6575,
+    "transactions": 6577,
     "days_elapsed": 27
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-27",
-      "revenue": 62706.77,
-      "cost": 57165.68,
-      "transactions": 545,
-      "gp_pct": 8.8
+      "revenue": 62696.77,
+      "cost": 57250.26,
+      "transactions": 547,
+      "gp_pct": 8.7
     }
   ],
   "hourly_today": [
@@ -672,10 +672,10 @@
     {
       "hour": 22,
       "label": "22:00",
-      "revenue": 1034.92,
-      "cost": 901.03,
-      "gp_pct": 12.9,
-      "transactions": 6
+      "revenue": 1024.92,
+      "cost": 985.61,
+      "gp_pct": 3.8,
+      "transactions": 8
     },
     {
       "hour": 23,
@@ -692,8 +692,8 @@
       "desc": "Carling Black Label 750ml",
       "price": 25.0,
       "gp_pct": 24.3,
-      "revenue": 202714.03,
-      "qty_sold": 9327.0
+      "revenue": 202739.03,
+      "qty_sold": 9328.0
     },
     {
       "internal": 171,
@@ -851,9 +851,9 @@
   "cashier_summary": [
     {
       "cashier": "Thabiso",
-      "revenue": 456773.18,
-      "cost": 419360.82,
-      "transactions": 4314,
+      "revenue": 456763.18,
+      "cost": 419445.4,
+      "transactions": 4316,
       "gp_pct": 8.2
     },
     {
@@ -2933,6 +2933,25 @@
       "days_since_sold": 1965,
       "lastsold": "2021-02-08",
       "lastbuy": "2021-03-05",
+      "loyalty_eligible": false,
+      "alert": "OUT OF STOCK"
+    },
+    {
+      "internal": 114,
+      "part_no": "37",
+      "desc": "Castle Milk Stout 750ml",
+      "group": "1",
+      "price": 25.0,
+      "cost": 21.9158,
+      "gp_pct": 12.3,
+      "qty": 0.0,
+      "minimum": 0.0,
+      "maximum": 13.0,
+      "on_promo": false,
+      "promo_price": null,
+      "days_since_sold": 0,
+      "lastsold": "2026-06-27",
+      "lastbuy": "2026-06-17",
       "loyalty_eligible": false,
       "alert": "OUT OF STOCK"
     },
@@ -39003,7 +39022,7 @@
   ],
   "stock_summary": {
     "total_products": 743,
-    "out_of_stock": 476,
+    "out_of_stock": 477,
     "on_promo": 1,
     "dead_stock_30d": 72,
     "loyalty_eligible": 283
