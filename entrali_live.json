@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-27T23:06:27.557288",
+    "generated_at": "2026-06-27T23:12:59.966352",
     "generated_date": "2026-06-27",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-27",
-    "revenue": 67021.45,
-    "cost": 61129.65,
-    "gp_pct": 8.8,
-    "transactions": 575,
-    "vs_yesterday": 14392.36
+    "revenue": 68351.45,
+    "cost": 62224.2,
+    "gp_pct": 9.0,
+    "transactions": 582,
+    "vs_yesterday": 15722.36
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 699171.89,
-    "cost": 635675.86,
+    "revenue": 700501.89,
+    "cost": 636770.41,
     "gp_pct": 9.1,
-    "transactions": 6605,
+    "transactions": 6612,
     "days_elapsed": 27
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-27",
-      "revenue": 67021.45,
-      "cost": 61129.65,
-      "transactions": 575,
-      "gp_pct": 8.8
+      "revenue": 68351.45,
+      "cost": 62224.2,
+      "transactions": 582,
+      "gp_pct": 9.0
     }
   ],
   "hourly_today": [
@@ -680,10 +680,10 @@
     {
       "hour": 23,
       "label": "23:00",
-      "revenue": 300.0,
-      "cost": 242.25,
-      "gp_pct": 19.3,
-      "transactions": 1
+      "revenue": 1630.0,
+      "cost": 1393.3,
+      "gp_pct": 14.5,
+      "transactions": 8
     }
   ],
   "top_products": [
@@ -692,8 +692,8 @@
       "desc": "Carling Black Label 750ml",
       "price": 25.0,
       "gp_pct": 24.3,
-      "revenue": 202889.03,
-      "qty_sold": 9334.0
+      "revenue": 202964.03,
+      "qty_sold": 9337.0
     },
     {
       "internal": 171,
@@ -732,8 +732,8 @@
       "desc": "Commando Brandy 750ml",
       "price": 200.0,
       "gp_pct": 10.5,
-      "revenue": 25179.17,
-      "qty_sold": 126.0
+      "revenue": 25379.17,
+      "qty_sold": 127.0
     },
     {
       "internal": 439,
@@ -764,8 +764,8 @@
       "desc": "Heineken 650ml",
       "price": 25.0,
       "gp_pct": 10.3,
-      "revenue": 19725.0,
-      "qty_sold": 789.0
+      "revenue": 19825.0,
+      "qty_sold": 793.0
     },
     {
       "internal": 712,
@@ -780,8 +780,8 @@
       "desc": "KWV 3yrs 750ml",
       "price": 200.0,
       "gp_pct": 12.5,
-      "revenue": 17260.0,
-      "qty_sold": 89.0
+      "revenue": 17440.0,
+      "qty_sold": 90.0
     },
     {
       "internal": 169,
@@ -851,9 +851,9 @@
   "cashier_summary": [
     {
       "cashier": "Thabiso",
-      "revenue": 461087.86,
-      "cost": 423324.79,
-      "transactions": 4344,
+      "revenue": 462417.86,
+      "cost": 424419.34,
+      "transactions": 4351,
       "gp_pct": 8.2
     },
     {
@@ -39214,6 +39214,33 @@
       "desc": "Smirnoff Storm Berry Twist 440ml",
       "amount": 50.0,
       "gp_pct": 24.8,
+      "points": 1,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 518397,
+      "date": "2026-06-27",
+      "desc": "Brutal Fruit Ruby Apple 330ml",
+      "amount": 200.0,
+      "gp_pct": 21.1,
+      "points": 4,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 518400,
+      "date": "2026-06-27",
+      "desc": "Brutal Fruit Ruby Apple 500ml",
+      "amount": 250.0,
+      "gp_pct": 28.7,
+      "points": 5,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 518402,
+      "date": "2026-06-27",
+      "desc": "Carling Black Label 750ml",
+      "amount": 50.0,
+      "gp_pct": 24.3,
       "points": 1,
       "cashier": "Thabiso"
     }
