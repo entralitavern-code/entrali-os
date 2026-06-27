@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-27T15:30:30.175221",
+    "generated_at": "2026-06-27T15:37:04.353629",
     "generated_date": "2026-06-27",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-27",
-    "revenue": 22356.5,
-    "cost": 22789.88,
-    "gp_pct": -1.9,
-    "transactions": 214,
-    "vs_yesterday": -30272.59
+    "revenue": 22906.5,
+    "cost": 23265.76,
+    "gp_pct": -1.6,
+    "transactions": 219,
+    "vs_yesterday": -29722.59
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 654506.94,
-    "cost": 636715.1,
+    "revenue": 655056.94,
+    "cost": 637190.97,
     "gp_pct": 2.7,
-    "transactions": 6244,
+    "transactions": 6249,
     "days_elapsed": 27
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-27",
-      "revenue": 22356.5,
-      "cost": 22789.88,
-      "transactions": 214,
-      "gp_pct": -1.9
+      "revenue": 22906.5,
+      "cost": 23265.76,
+      "transactions": 219,
+      "gp_pct": -1.6
     }
   ],
   "hourly_today": [
@@ -616,10 +616,10 @@
     {
       "hour": 15,
       "label": "15:00",
-      "revenue": 2000.0,
-      "cost": 1709.99,
-      "gp_pct": 14.5,
-      "transactions": 21
+      "revenue": 2550.0,
+      "cost": 2185.87,
+      "gp_pct": 14.3,
+      "transactions": 26
     },
     {
       "hour": 16,
@@ -692,8 +692,8 @@
       "desc": "Carling Black Label 750ml",
       "price": 25.0,
       "gp_pct": 24.3,
-      "revenue": 197822.7,
-      "qty_sold": 9111.0
+      "revenue": 197872.7,
+      "qty_sold": 9113.0
     },
     {
       "internal": 171,
@@ -748,8 +748,8 @@
       "desc": "Savanna Dry 500ml",
       "price": 25.0,
       "gp_pct": 13.3,
-      "revenue": 20925.0,
-      "qty_sold": 837.0
+      "revenue": 21075.0,
+      "qty_sold": 843.0
     },
     {
       "internal": 238,
@@ -840,12 +840,12 @@
       "qty_sold": 570.0
     },
     {
-      "internal": 134,
-      "desc": "Castle Lager 750ml",
-      "price": 20.0,
-      "gp_pct": 17.1,
-      "revenue": 10751.57,
-      "qty_sold": 538.0
+      "internal": 224,
+      "desc": "Gordon's Gin 750ml",
+      "price": 160.0,
+      "gp_pct": 6.9,
+      "revenue": 10840.0,
+      "qty_sold": 61.0
     }
   ],
   "cashier_summary": [
@@ -858,9 +858,9 @@
     },
     {
       "cashier": "Nwabisa",
-      "revenue": 407625.57,
-      "cost": 385653.72,
-      "transactions": 3790,
+      "revenue": 408175.57,
+      "cost": 386129.6,
+      "transactions": 3795,
       "gp_pct": 5.4
     }
   ],
@@ -34357,6 +34357,15 @@
       "desc": "Barcadi Breezer Blackberry 440ml",
       "amount": 75.0,
       "gp_pct": 33.3,
+      "points": 1,
+      "cashier": "Nwabisa"
+    },
+    {
+      "number": 518038,
+      "date": "2026-06-27",
+      "desc": "Carling Black Label 750ml",
+      "amount": 50.0,
+      "gp_pct": 24.3,
       "points": 1,
       "cashier": "Nwabisa"
     }
