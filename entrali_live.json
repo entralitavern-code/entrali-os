@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-27T19:37:38.142965",
+    "generated_at": "2026-06-27T19:44:19.111283",
     "generated_date": "2026-06-27",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-27",
-    "revenue": 51004.75,
-    "cost": 54661.31,
-    "gp_pct": -7.2,
-    "transactions": 445,
-    "vs_yesterday": -1624.34
+    "revenue": 51674.75,
+    "cost": 47797.38,
+    "gp_pct": 7.5,
+    "transactions": 451,
+    "vs_yesterday": -954.34
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 683155.19,
-    "cost": 668586.52,
-    "gp_pct": 2.1,
-    "transactions": 6475,
+    "revenue": 683825.19,
+    "cost": 622343.59,
+    "gp_pct": 9.0,
+    "transactions": 6481,
     "days_elapsed": 27
   },
   "latest_cashup": {
@@ -284,30 +284,30 @@
     {
       "date": "2026-05-29",
       "revenue": 35311.7,
-      "cost": 33027.6,
+      "cost": 30055.6,
       "transactions": 347,
-      "gp_pct": 6.5
+      "gp_pct": 14.9
     },
     {
       "date": "2026-05-30",
       "revenue": 63530.71,
-      "cost": 65862.17,
+      "cost": 59175.17,
       "transactions": 551,
-      "gp_pct": -3.7
+      "gp_pct": 6.9
     },
     {
       "date": "2026-05-31",
       "revenue": 86103.38,
-      "cost": 83333.57,
+      "cost": 75903.57,
       "transactions": 733,
-      "gp_pct": 3.2
+      "gp_pct": 11.8
     },
     {
       "date": "2026-06-01",
       "revenue": 25074.83,
-      "cost": 24218.6,
+      "cost": 21989.6,
       "transactions": 274,
-      "gp_pct": 3.4
+      "gp_pct": 12.3
     },
     {
       "date": "2026-06-02",
@@ -319,51 +319,51 @@
     {
       "date": "2026-06-03",
       "revenue": 15245.5,
-      "cost": 15837.21,
+      "cost": 14351.21,
       "transactions": 148,
-      "gp_pct": -3.9
+      "gp_pct": 5.9
     },
     {
       "date": "2026-06-04",
       "revenue": 17648.5,
-      "cost": 17606.49,
+      "cost": 16120.49,
       "transactions": 148,
-      "gp_pct": 0.2
+      "gp_pct": 8.7
     },
     {
       "date": "2026-06-05",
       "revenue": 34210.03,
-      "cost": 32228.07,
+      "cost": 31485.07,
       "transactions": 231,
-      "gp_pct": 5.8
+      "gp_pct": 8.0
     },
     {
       "date": "2026-06-06",
       "revenue": 47307.21,
-      "cost": 45036.78,
+      "cost": 42807.78,
       "transactions": 389,
-      "gp_pct": 4.8
+      "gp_pct": 9.5
     },
     {
       "date": "2026-06-07",
       "revenue": 61864.25,
-      "cost": 61705.82,
+      "cost": 54275.82,
       "transactions": 544,
-      "gp_pct": 0.3
+      "gp_pct": 12.3
     },
     {
       "date": "2026-06-08",
       "revenue": 23564.38,
-      "cost": 23782.64,
+      "cost": 23039.64,
       "transactions": 269,
-      "gp_pct": -0.9
+      "gp_pct": 2.2
     },
     {
       "date": "2026-06-09",
       "revenue": 12855.0,
-      "cost": 12378.25,
+      "cost": 11635.25,
       "transactions": 141,
-      "gp_pct": 3.7
+      "gp_pct": 9.5
     },
     {
       "date": "2026-06-10",
@@ -382,37 +382,37 @@
     {
       "date": "2026-06-12",
       "revenue": 16504.5,
-      "cost": 15683.28,
+      "cost": 14940.28,
       "transactions": 130,
-      "gp_pct": 5.0
+      "gp_pct": 9.5
     },
     {
       "date": "2026-06-13",
       "revenue": 34556.0,
-      "cost": 34159.21,
+      "cost": 30444.21,
       "transactions": 325,
-      "gp_pct": 1.1
+      "gp_pct": 11.9
     },
     {
       "date": "2026-06-14",
       "revenue": 40977.88,
-      "cost": 37650.02,
+      "cost": 36164.02,
       "transactions": 414,
-      "gp_pct": 8.1
+      "gp_pct": 11.7
     },
     {
       "date": "2026-06-15",
       "revenue": 22084.0,
-      "cost": 22633.04,
+      "cost": 21890.04,
       "transactions": 282,
-      "gp_pct": -2.5
+      "gp_pct": 0.9
     },
     {
       "date": "2026-06-16",
       "revenue": 26556.84,
-      "cost": 27292.09,
+      "cost": 25063.09,
       "transactions": 325,
-      "gp_pct": -2.8
+      "gp_pct": 5.6
     },
     {
       "date": "2026-06-17",
@@ -424,9 +424,9 @@
     {
       "date": "2026-06-18",
       "revenue": 11496.0,
-      "cost": 12543.61,
+      "cost": 10314.61,
       "transactions": 121,
-      "gp_pct": -9.1
+      "gp_pct": 10.3
     },
     {
       "date": "2026-06-19",
@@ -438,23 +438,23 @@
     {
       "date": "2026-06-20",
       "revenue": 37062.64,
-      "cost": 33449.06,
+      "cost": 31963.06,
       "transactions": 312,
-      "gp_pct": 9.7
+      "gp_pct": 13.8
     },
     {
       "date": "2026-06-21",
       "revenue": 33715.0,
-      "cost": 30249.36,
+      "cost": 29506.36,
       "transactions": 308,
-      "gp_pct": 10.3
+      "gp_pct": 12.5
     },
     {
       "date": "2026-06-22",
       "revenue": 8889.0,
-      "cost": 9072.33,
+      "cost": 8329.33,
       "transactions": 117,
-      "gp_pct": -2.1
+      "gp_pct": 6.3
     },
     {
       "date": "2026-06-23",
@@ -473,23 +473,23 @@
     {
       "date": "2026-06-25",
       "revenue": 27020.5,
-      "cost": 25420.95,
+      "cost": 24677.95,
       "transactions": 215,
-      "gp_pct": 5.9
+      "gp_pct": 8.7
     },
     {
       "date": "2026-06-26",
       "revenue": 52629.09,
-      "cost": 54497.4,
+      "cost": 47067.4,
       "transactions": 448,
-      "gp_pct": -3.5
+      "gp_pct": 10.6
     },
     {
       "date": "2026-06-27",
-      "revenue": 51004.75,
-      "cost": 54661.31,
-      "transactions": 445,
-      "gp_pct": -7.2
+      "revenue": 51674.75,
+      "cost": 47797.38,
+      "transactions": 451,
+      "gp_pct": 7.5
     }
   ],
   "hourly_today": [
@@ -497,8 +497,8 @@
       "hour": 0,
       "label": "00:00",
       "revenue": 1790.0,
-      "cost": 2257.29,
-      "gp_pct": -26.1,
+      "cost": 1514.29,
+      "gp_pct": 15.4,
       "transactions": 32
     },
     {
@@ -569,8 +569,8 @@
       "hour": 9,
       "label": "09:00",
       "revenue": 4796.0,
-      "cost": 5314.65,
-      "gp_pct": -10.8,
+      "cost": 4571.65,
+      "gp_pct": 4.7,
       "transactions": 18
     },
     {
@@ -601,8 +601,8 @@
       "hour": 13,
       "label": "13:00",
       "revenue": 3771.5,
-      "cost": 4158.97,
-      "gp_pct": -10.3,
+      "cost": 3415.97,
+      "gp_pct": 9.4,
       "transactions": 29
     },
     {
@@ -625,33 +625,33 @@
       "hour": 16,
       "label": "16:00",
       "revenue": 6110.0,
-      "cost": 6536.03,
-      "gp_pct": -7.0,
+      "cost": 5793.03,
+      "gp_pct": 5.2,
       "transactions": 58
     },
     {
       "hour": 17,
       "label": "17:00",
       "revenue": 9181.25,
-      "cost": 10418.9,
-      "gp_pct": -13.5,
+      "cost": 8932.9,
+      "gp_pct": 2.7,
       "transactions": 68
     },
     {
       "hour": 18,
       "label": "18:00",
       "revenue": 7262.0,
-      "cost": 9165.73,
-      "gp_pct": -26.2,
+      "cost": 6193.73,
+      "gp_pct": 14.7,
       "transactions": 57
     },
     {
       "hour": 19,
       "label": "19:00",
-      "revenue": 3249.0,
-      "cost": 2982.25,
-      "gp_pct": 8.2,
-      "transactions": 27
+      "revenue": 3919.0,
+      "cost": 3548.33,
+      "gp_pct": 9.5,
+      "transactions": 33
     },
     {
       "hour": 20,
@@ -692,8 +692,8 @@
       "desc": "Carling Black Label 750ml",
       "price": 25.0,
       "gp_pct": 24.3,
-      "revenue": 201939.03,
-      "qty_sold": 9296.0
+      "revenue": 201964.03,
+      "qty_sold": 9297.0
     },
     {
       "internal": 171,
@@ -708,8 +708,8 @@
       "desc": "Sedgwicks Old Brown Sherry 750ml",
       "price": 60.0,
       "gp_pct": 23.3,
-      "revenue": 40579.97,
-      "qty_sold": 770.0
+      "revenue": 40679.97,
+      "qty_sold": 772.0
     },
     {
       "internal": 172,
@@ -779,7 +779,7 @@
       "internal": 200,
       "desc": "KWV 3yrs 750ml",
       "price": 200.0,
-      "gp_pct": -359.0,
+      "gp_pct": 12.5,
       "revenue": 16720.0,
       "qty_sold": 86.0
     },
@@ -840,28 +840,28 @@
       "qty_sold": 400.0
     },
     {
-      "internal": 224,
-      "desc": "Gordon's Gin 750ml",
-      "price": 160.0,
-      "gp_pct": 6.9,
-      "revenue": 11160.0,
-      "qty_sold": 63.0
+      "internal": 134,
+      "desc": "Castle Lager 750ml",
+      "price": 20.0,
+      "gp_pct": 17.1,
+      "revenue": 11191.57,
+      "qty_sold": 560.0
     }
   ],
   "cashier_summary": [
     {
       "cashier": "Thabiso",
-      "revenue": 445071.16,
-      "cost": 442118.45,
-      "transactions": 4214,
-      "gp_pct": 0.7
+      "revenue": 445741.16,
+      "cost": 409992.52,
+      "transactions": 4220,
+      "gp_pct": 8.0
     },
     {
       "cashier": "Nwabisa",
       "revenue": 434136.82,
-      "cost": 415455.74,
+      "cost": 384249.74,
       "transactions": 4007,
-      "gp_pct": 4.3
+      "gp_pct": 11.5
     }
   ],
   "low_stock_alerts": [
@@ -8120,6 +8120,25 @@
       "days_since_sold": 2059,
       "lastsold": "2020-11-06",
       "lastbuy": "2020-06-01",
+      "loyalty_eligible": true,
+      "alert": "OUT OF STOCK"
+    },
+    {
+      "internal": 593,
+      "part_no": "13722",
+      "desc": "Belgravia Gin & Tonic 440ml",
+      "group": "7",
+      "price": 25.0,
+      "cost": 19.1663,
+      "gp_pct": 23.3,
+      "qty": 0.0,
+      "minimum": 0.0,
+      "maximum": 0.0,
+      "on_promo": false,
+      "promo_price": null,
+      "days_since_sold": 0,
+      "lastsold": "2026-06-27",
+      "lastbuy": "2026-06-01",
       "loyalty_eligible": true,
       "alert": "OUT OF STOCK"
     },
@@ -38511,11 +38530,38 @@
       "gp_pct": 24.3,
       "points": 2,
       "cashier": "Thabiso"
+    },
+    {
+      "number": 518266,
+      "date": "2026-06-27",
+      "desc": "Belgravia Gin & Tonic 440ml",
+      "amount": 50.0,
+      "gp_pct": 23.3,
+      "points": 1,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 518269,
+      "date": "2026-06-27",
+      "desc": "Bernini Classic 275ml",
+      "amount": 100.0,
+      "gp_pct": 18.4,
+      "points": 2,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 518271,
+      "date": "2026-06-27",
+      "desc": "Sedgwicks Old Brown Sherry 750ml",
+      "amount": 100.0,
+      "gp_pct": 23.3,
+      "points": 2,
+      "cashier": "Thabiso"
     }
   ],
   "stock_summary": {
     "total_products": 743,
-    "out_of_stock": 474,
+    "out_of_stock": 475,
     "on_promo": 1,
     "dead_stock_30d": 72,
     "loyalty_eligible": 283
