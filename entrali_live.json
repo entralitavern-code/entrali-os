@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-27T21:05:20.869843",
+    "generated_at": "2026-06-27T21:12:00.951996",
     "generated_date": "2026-06-27",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-27",
-    "revenue": 56646.09,
-    "cost": 52062.69,
-    "gp_pct": 8.1,
-    "transactions": 500,
-    "vs_yesterday": 4017.0
+    "revenue": 57355.09,
+    "cost": 52619.91,
+    "gp_pct": 8.3,
+    "transactions": 506,
+    "vs_yesterday": 4726.0
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 688796.53,
-    "cost": 626608.9,
+    "revenue": 689505.53,
+    "cost": 627166.12,
     "gp_pct": 9.0,
-    "transactions": 6530,
+    "transactions": 6536,
     "days_elapsed": 27
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-27",
-      "revenue": 56646.09,
-      "cost": 52062.69,
-      "transactions": 500,
-      "gp_pct": 8.1
+      "revenue": 57355.09,
+      "cost": 52619.91,
+      "transactions": 506,
+      "gp_pct": 8.3
     }
   ],
   "hourly_today": [
@@ -664,10 +664,10 @@
     {
       "hour": 21,
       "label": "21:00",
-      "revenue": 259.0,
-      "cost": 208.12,
-      "gp_pct": 19.6,
-      "transactions": 4
+      "revenue": 968.0,
+      "cost": 765.34,
+      "gp_pct": 20.9,
+      "transactions": 10
     },
     {
       "hour": 22,
@@ -708,8 +708,8 @@
       "desc": "Sedgwicks Old Brown Sherry 750ml",
       "price": 60.0,
       "gp_pct": 23.3,
-      "revenue": 40779.97,
-      "qty_sold": 774.0
+      "revenue": 40879.97,
+      "qty_sold": 776.0
     },
     {
       "internal": 172,
@@ -772,8 +772,8 @@
       "desc": "Bernini Mimosa 500ml",
       "price": 25.0,
       "gp_pct": 33.4,
-      "revenue": 17405.0,
-      "qty_sold": 965.0
+      "revenue": 17480.0,
+      "qty_sold": 968.0
     },
     {
       "internal": 200,
@@ -812,16 +812,16 @@
       "desc": "Pork Chops",
       "price": 40.0,
       "gp_pct": 39.4,
-      "revenue": 13285.0,
-      "qty_sold": 387.0
+      "revenue": 13325.0,
+      "qty_sold": 388.0
     },
     {
       "internal": 55,
       "desc": "Bernini Blush 500ml",
       "price": 25.0,
       "gp_pct": 38.4,
-      "revenue": 13045.0,
-      "qty_sold": 685.0
+      "revenue": 13095.0,
+      "qty_sold": 687.0
     },
     {
       "internal": 184,
@@ -851,9 +851,9 @@
   "cashier_summary": [
     {
       "cashier": "Thabiso",
-      "revenue": 450712.5,
-      "cost": 414257.83,
-      "transactions": 4269,
+      "revenue": 451421.5,
+      "cost": 414815.05,
+      "transactions": 4275,
       "gp_pct": 8.1
     },
     {
@@ -1025,7 +1025,7 @@
       "price": 1.5,
       "cost": 0.485,
       "gp_pct": 67.7,
-      "qty": -200.0,
+      "qty": -202.0,
       "minimum": 0.0,
       "maximum": 7.0,
       "on_promo": false,
@@ -4226,6 +4226,25 @@
       "lastsold": null,
       "lastbuy": null,
       "loyalty_eligible": false,
+      "alert": "OUT OF STOCK"
+    },
+    {
+      "internal": 263,
+      "part_no": "5000",
+      "desc": "Stretton's Gin  Wild Berry 750ml",
+      "group": "4",
+      "price": 195.0,
+      "cost": 146.58,
+      "gp_pct": 24.8,
+      "qty": 0.0,
+      "minimum": 0.0,
+      "maximum": 0.0,
+      "on_promo": false,
+      "promo_price": null,
+      "days_since_sold": 0,
+      "lastsold": "2026-06-27",
+      "lastbuy": "2026-01-16",
+      "loyalty_eligible": true,
       "alert": "OUT OF STOCK"
     },
     {
@@ -38737,11 +38756,47 @@
       "gp_pct": 38.4,
       "points": 2,
       "cashier": "Thabiso"
+    },
+    {
+      "number": 518322,
+      "date": "2026-06-27",
+      "desc": "Stretton's Gin  Wild Berry 750ml",
+      "amount": 195.0,
+      "gp_pct": 24.8,
+      "points": 3,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 518325,
+      "date": "2026-06-27",
+      "desc": "Bernini Mimosa 500ml",
+      "amount": 50.0,
+      "gp_pct": 33.4,
+      "points": 1,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 518325,
+      "date": "2026-06-27",
+      "desc": "Bernini Blush 500ml",
+      "amount": 50.0,
+      "gp_pct": 38.4,
+      "points": 1,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 518326,
+      "date": "2026-06-27",
+      "desc": "Sedgwicks Old Brown Sherry 750ml",
+      "amount": 100.0,
+      "gp_pct": 23.3,
+      "points": 2,
+      "cashier": "Thabiso"
     }
   ],
   "stock_summary": {
     "total_products": 743,
-    "out_of_stock": 475,
+    "out_of_stock": 476,
     "on_promo": 1,
     "dead_stock_30d": 72,
     "loyalty_eligible": 283
