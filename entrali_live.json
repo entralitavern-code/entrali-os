@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-27T20:25:02.717175",
+    "generated_at": "2026-06-27T20:31:58.611098",
     "generated_date": "2026-06-27",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-27",
-    "revenue": 54563.09,
-    "cost": 50430.8,
-    "gp_pct": 7.6,
-    "transactions": 476,
-    "vs_yesterday": 1934.0
+    "revenue": 55258.09,
+    "cost": 50920.76,
+    "gp_pct": 7.8,
+    "transactions": 482,
+    "vs_yesterday": 2629.0
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 686713.53,
-    "cost": 624977.01,
+    "revenue": 687408.53,
+    "cost": 625466.97,
     "gp_pct": 9.0,
-    "transactions": 6506,
+    "transactions": 6512,
     "days_elapsed": 27
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-27",
-      "revenue": 54563.09,
-      "cost": 50430.8,
-      "transactions": 476,
-      "gp_pct": 7.6
+      "revenue": 55258.09,
+      "cost": 50920.76,
+      "transactions": 482,
+      "gp_pct": 7.8
     }
   ],
   "hourly_today": [
@@ -656,10 +656,10 @@
     {
       "hour": 20,
       "label": "20:00",
-      "revenue": 1884.34,
-      "cost": 1604.04,
-      "gp_pct": 14.9,
-      "transactions": 14
+      "revenue": 2579.34,
+      "cost": 2170.43,
+      "gp_pct": 15.9,
+      "transactions": 20
     },
     {
       "hour": 21,
@@ -692,8 +692,8 @@
       "desc": "Carling Black Label 750ml",
       "price": 25.0,
       "gp_pct": 24.3,
-      "revenue": 202239.03,
-      "qty_sold": 9308.0
+      "revenue": 202264.03,
+      "qty_sold": 9309.0
     },
     {
       "internal": 171,
@@ -796,8 +796,8 @@
       "desc": "Old Buck Gin 750ml",
       "price": 180.0,
       "gp_pct": 17.2,
-      "revenue": 14580.0,
-      "qty_sold": 81.0
+      "revenue": 14760.0,
+      "qty_sold": 82.0
     },
     {
       "internal": 599,
@@ -812,8 +812,8 @@
       "desc": "Pork Chops",
       "price": 40.0,
       "gp_pct": 39.4,
-      "revenue": 13125.0,
-      "qty_sold": 383.0
+      "revenue": 13205.0,
+      "qty_sold": 385.0
     },
     {
       "internal": 184,
@@ -836,8 +836,8 @@
       "desc": "Braaiwors",
       "price": 35.0,
       "gp_pct": 28.6,
-      "revenue": 12480.0,
-      "qty_sold": 401.0
+      "revenue": 12615.0,
+      "qty_sold": 406.0
     },
     {
       "internal": 134,
@@ -851,10 +851,10 @@
   "cashier_summary": [
     {
       "cashier": "Thabiso",
-      "revenue": 448629.5,
-      "cost": 412625.94,
-      "transactions": 4245,
-      "gp_pct": 8.0
+      "revenue": 449324.5,
+      "cost": 413115.9,
+      "transactions": 4251,
+      "gp_pct": 8.1
     },
     {
       "cashier": "Nwabisa",
@@ -1417,6 +1417,25 @@
       "alert": "OUT OF STOCK"
     },
     {
+      "internal": 169,
+      "part_no": "246",
+      "desc": "Redd's Original 660ml",
+      "group": "7",
+      "price": 25.0,
+      "cost": 20.7492,
+      "gp_pct": 17.0,
+      "qty": -5.0,
+      "minimum": 0.0,
+      "maximum": 13.0,
+      "on_promo": false,
+      "promo_price": null,
+      "days_since_sold": 0,
+      "lastsold": "2026-06-27",
+      "lastbuy": "2026-06-17",
+      "loyalty_eligible": false,
+      "alert": "OUT OF STOCK"
+    },
+    {
       "internal": 78,
       "part_no": "50811",
       "desc": "Empty Crate SAB",
@@ -1661,25 +1680,6 @@
       "lastsold": "2026-04-19",
       "lastbuy": null,
       "loyalty_eligible": true,
-      "alert": "OUT OF STOCK"
-    },
-    {
-      "internal": 169,
-      "part_no": "246",
-      "desc": "Redd's Original 660ml",
-      "group": "7",
-      "price": 25.0,
-      "cost": 20.7492,
-      "gp_pct": 17.0,
-      "qty": -1.0,
-      "minimum": 0.0,
-      "maximum": 13.0,
-      "on_promo": false,
-      "promo_price": null,
-      "days_since_sold": 0,
-      "lastsold": "2026-06-27",
-      "lastbuy": "2026-06-17",
-      "loyalty_eligible": false,
       "alert": "OUT OF STOCK"
     },
     {
@@ -38654,6 +38654,24 @@
       "desc": "Carling Black Label 750ml",
       "amount": 50.0,
       "gp_pct": 24.3,
+      "points": 1,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 518299,
+      "date": "2026-06-27",
+      "desc": "Braaiwors",
+      "amount": 100.0,
+      "gp_pct": 28.6,
+      "points": 2,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 518302,
+      "date": "2026-06-27",
+      "desc": "Chiller's Chaos 440ml",
+      "amount": 75.0,
+      "gp_pct": 21.7,
       "points": 1,
       "cashier": "Thabiso"
     }
