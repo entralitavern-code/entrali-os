@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-27T16:55:10.054741",
+    "generated_at": "2026-06-27T17:01:35.839616",
     "generated_date": "2026-06-27",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-27",
-    "revenue": 30757.5,
-    "cost": 31520.35,
-    "gp_pct": -2.5,
-    "transactions": 290,
-    "vs_yesterday": -21871.59
+    "revenue": 31802.5,
+    "cost": 32527.67,
+    "gp_pct": -2.3,
+    "transactions": 296,
+    "vs_yesterday": -20826.59
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 662907.94,
-    "cost": 645445.56,
+    "revenue": 663952.94,
+    "cost": 646452.88,
     "gp_pct": 2.6,
-    "transactions": 6320,
+    "transactions": 6326,
     "days_elapsed": 27
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-27",
-      "revenue": 30757.5,
-      "cost": 31520.35,
-      "transactions": 290,
-      "gp_pct": -2.5
+      "revenue": 31802.5,
+      "cost": 32527.67,
+      "transactions": 296,
+      "gp_pct": -2.3
     }
   ],
   "hourly_today": [
@@ -624,18 +624,18 @@
     {
       "hour": 16,
       "label": "16:00",
-      "revenue": 5555.0,
-      "cost": 5961.95,
-      "gp_pct": -7.3,
-      "transactions": 55
+      "revenue": 6110.0,
+      "cost": 6536.03,
+      "gp_pct": -7.0,
+      "transactions": 58
     },
     {
       "hour": 17,
       "label": "17:00",
-      "revenue": 0.0,
-      "cost": 0.0,
-      "gp_pct": 0.0,
-      "transactions": 0
+      "revenue": 490.0,
+      "cost": 433.24,
+      "gp_pct": 11.6,
+      "transactions": 3
     },
     {
       "hour": 18,
@@ -732,8 +732,8 @@
       "desc": "Commando Brandy 750ml",
       "price": 200.0,
       "gp_pct": 10.5,
-      "revenue": 24579.17,
-      "qty_sold": 123.0
+      "revenue": 24779.17,
+      "qty_sold": 124.0
     },
     {
       "internal": 439,
@@ -788,8 +788,8 @@
       "desc": "Bernini Mimosa 500ml",
       "price": 25.0,
       "gp_pct": 33.4,
-      "revenue": 14625.0,
-      "qty_sold": 783.0
+      "revenue": 14805.0,
+      "qty_sold": 795.0
     },
     {
       "internal": 183,
@@ -804,8 +804,8 @@
       "desc": "Bernini Classic 500ml",
       "price": 25.0,
       "gp_pct": 38.4,
-      "revenue": 13680.0,
-      "qty_sold": 723.0
+      "revenue": 13770.0,
+      "qty_sold": 729.0
     },
     {
       "internal": 184,
@@ -828,16 +828,16 @@
       "desc": "Braaiwors",
       "price": 35.0,
       "gp_pct": 28.6,
-      "revenue": 12195.0,
-      "qty_sold": 392.0
+      "revenue": 12230.0,
+      "qty_sold": 393.0
     },
     {
       "internal": 55,
       "desc": "Bernini Blush 500ml",
       "price": 25.0,
       "gp_pct": 38.4,
-      "revenue": 11580.0,
-      "qty_sold": 600.0
+      "revenue": 11670.0,
+      "qty_sold": 606.0
     },
     {
       "internal": 224,
@@ -858,9 +858,9 @@
     },
     {
       "cashier": "Nwabisa",
-      "revenue": 416026.57,
-      "cost": 394384.18,
-      "transactions": 3866,
+      "revenue": 417071.57,
+      "cost": 395391.51,
+      "transactions": 3872,
       "gp_pct": 5.2
     }
   ],
@@ -1265,6 +1265,25 @@
       "alert": "OUT OF STOCK"
     },
     {
+      "internal": 399,
+      "part_no": "4061",
+      "desc": "Drinking Glass Zombie",
+      "group": "10",
+      "price": 10.0,
+      "cost": 7.99,
+      "gp_pct": 20.1,
+      "qty": -26.0,
+      "minimum": 0.0,
+      "maximum": 0.0,
+      "on_promo": false,
+      "promo_price": null,
+      "days_since_sold": 0,
+      "lastsold": "2026-06-27",
+      "lastbuy": "2026-06-27",
+      "loyalty_eligible": true,
+      "alert": "OUT OF STOCK"
+    },
+    {
       "internal": 595,
       "part_no": "3321",
       "desc": "FF + BL COMBO",
@@ -1280,25 +1299,6 @@
       "days_since_sold": 54,
       "lastsold": "2026-05-04",
       "lastbuy": "2020-02-25",
-      "loyalty_eligible": true,
-      "alert": "OUT OF STOCK"
-    },
-    {
-      "internal": 399,
-      "part_no": "4061",
-      "desc": "Drinking Glass Zombie",
-      "group": "10",
-      "price": 10.0,
-      "cost": 7.99,
-      "gp_pct": 20.1,
-      "qty": -25.0,
-      "minimum": 0.0,
-      "maximum": 0.0,
-      "on_promo": false,
-      "promo_price": null,
-      "days_since_sold": 0,
-      "lastsold": "2026-06-27",
-      "lastbuy": "2026-06-27",
       "loyalty_eligible": true,
       "alert": "OUT OF STOCK"
     },
@@ -1490,6 +1490,25 @@
       "lastsold": "2026-05-30",
       "lastbuy": "2020-09-12",
       "loyalty_eligible": true,
+      "alert": "OUT OF STOCK"
+    },
+    {
+      "internal": 633,
+      "part_no": "1011",
+      "desc": "Mayfair 440ml",
+      "group": "7",
+      "price": 20.0,
+      "cost": 16.6663,
+      "gp_pct": 16.7,
+      "qty": -4.0,
+      "minimum": 0.0,
+      "maximum": 0.0,
+      "on_promo": false,
+      "promo_price": null,
+      "days_since_sold": 0,
+      "lastsold": "2026-06-27",
+      "lastbuy": "2026-03-31",
+      "loyalty_eligible": false,
       "alert": "OUT OF STOCK"
     },
     {
@@ -34597,7 +34616,7 @@
   ],
   "stock_summary": {
     "total_products": 743,
-    "out_of_stock": 471,
+    "out_of_stock": 472,
     "on_promo": 4,
     "dead_stock_30d": 74,
     "loyalty_eligible": 280
