@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-27T01:58:00.777294",
+    "generated_at": "2026-06-27T02:11:25.268109",
     "generated_date": "2026-06-27",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,37 +9,29 @@
   },
   "today": {
     "date": "2026-06-27",
-    "revenue": 2349.0,
-    "cost": 2693.39,
-    "gp_pct": -14.7,
-    "transactions": 49,
-    "vs_yesterday": -50280.09
+    "revenue": 2357.0,
+    "cost": 2696.89,
+    "gp_pct": -14.4,
+    "transactions": 51,
+    "vs_yesterday": -50272.09
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 634499.44,
-    "cost": 616321.18,
+    "revenue": 634507.44,
+    "cost": 616324.68,
     "gp_pct": 2.9,
-    "transactions": 6079,
+    "transactions": 6081,
     "days_elapsed": 27
   },
   "latest_cashup": {
-    "date": "2026-06-25",
-    "cash_start": 2222.9,
-    "cash_end": 16296.9,
-    "cash_income": 14074.0,
+    "date": "2026-06-26",
+    "cash_start": 0.0,
+    "cash_end": 25099.9,
+    "cash_income": 25099.9,
     "card": 0.0,
-    "total": 14074.0
+    "total": 25099.9
   },
   "cashup_history": [
-    {
-      "date": "2026-05-27",
-      "cash_start": 780.4,
-      "cash_end": 8639.9,
-      "cash_income": 7859.5,
-      "card": 5670.0,
-      "total": 13529.5
-    },
     {
       "date": "2026-05-28",
       "cash_start": 760.4,
@@ -271,6 +263,14 @@
       "cash_income": 14074.0,
       "card": 0.0,
       "total": 14074.0
+    },
+    {
+      "date": "2026-06-26",
+      "cash_start": 0.0,
+      "cash_end": 25099.9,
+      "cash_income": 25099.9,
+      "card": 0.0,
+      "total": 25099.9
     }
   ],
   "daily_summary": [
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-27",
-      "revenue": 2349.0,
-      "cost": 2693.39,
-      "transactions": 49,
-      "gp_pct": -14.7
+      "revenue": 2357.0,
+      "cost": 2696.89,
+      "transactions": 51,
+      "gp_pct": -14.4
     }
   ],
   "hourly_today": [
@@ -504,10 +504,10 @@
     {
       "hour": 1,
       "label": "01:00",
-      "revenue": 559.0,
-      "cost": 436.1,
-      "gp_pct": 22.0,
-      "transactions": 17
+      "revenue": 567.0,
+      "cost": 439.6,
+      "gp_pct": 22.5,
+      "transactions": 19
     },
     {
       "hour": 2,
@@ -851,9 +851,9 @@
   "cashier_summary": [
     {
       "cashier": "Thabiso",
-      "revenue": 442926.16,
-      "cost": 439844.94,
-      "transactions": 4198,
+      "revenue": 442934.16,
+      "cost": 439848.44,
+      "transactions": 4200,
       "gp_pct": 0.7
     },
     {
@@ -1101,7 +1101,7 @@
       "price": 2.0,
       "cost": 0.875,
       "gp_pct": 56.2,
-      "qty": -81.0,
+      "qty": -85.0,
       "minimum": 0.0,
       "maximum": 0.0,
       "on_promo": false,
