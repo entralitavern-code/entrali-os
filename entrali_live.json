@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-27T15:50:06.896650",
+    "generated_at": "2026-06-27T15:56:46.086467",
     "generated_date": "2026-06-27",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-27",
-    "revenue": 23841.5,
-    "cost": 24891.9,
-    "gp_pct": -4.4,
-    "transactions": 230,
-    "vs_yesterday": -28787.59
+    "revenue": 24576.5,
+    "cost": 25379.31,
+    "gp_pct": -3.3,
+    "transactions": 233,
+    "vs_yesterday": -28052.59
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 655991.94,
-    "cost": 638817.12,
-    "gp_pct": 2.6,
-    "transactions": 6260,
+    "revenue": 656726.94,
+    "cost": 639304.52,
+    "gp_pct": 2.7,
+    "transactions": 6263,
     "days_elapsed": 27
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-27",
-      "revenue": 23841.5,
-      "cost": 24891.9,
-      "transactions": 230,
-      "gp_pct": -4.4
+      "revenue": 24576.5,
+      "cost": 25379.31,
+      "transactions": 233,
+      "gp_pct": -3.3
     }
   ],
   "hourly_today": [
@@ -616,10 +616,10 @@
     {
       "hour": 15,
       "label": "15:00",
-      "revenue": 3485.0,
-      "cost": 3131.05,
-      "gp_pct": 10.2,
-      "transactions": 37
+      "revenue": 4220.0,
+      "cost": 3874.43,
+      "gp_pct": 8.2,
+      "transactions": 40
     },
     {
       "hour": 16,
@@ -700,8 +700,8 @@
       "desc": "Paarl Perle' 1L",
       "price": 45.0,
       "gp_pct": 21.3,
-      "revenue": 73720.0,
-      "qty_sold": 1847.0
+      "revenue": 74170.0,
+      "qty_sold": 1859.0
     },
     {
       "internal": 188,
@@ -858,10 +858,10 @@
     },
     {
       "cashier": "Nwabisa",
-      "revenue": 409110.57,
-      "cost": 387755.74,
-      "transactions": 3806,
-      "gp_pct": 5.2
+      "revenue": 409845.57,
+      "cost": 388243.15,
+      "transactions": 3809,
+      "gp_pct": 5.3
     }
   ],
   "low_stock_alerts": [
@@ -34403,6 +34403,24 @@
       "amount": 732.0,
       "gp_pct": 24.3,
       "points": 14,
+      "cashier": "Nwabisa"
+    },
+    {
+      "number": 518053,
+      "date": "2026-06-27",
+      "desc": "Castle Lite 660ml",
+      "amount": 50.0,
+      "gp_pct": 19.0,
+      "points": 1,
+      "cashier": "Nwabisa"
+    },
+    {
+      "number": 518054,
+      "date": "2026-06-27",
+      "desc": "Paarl Perle' 1L",
+      "amount": 450.0,
+      "gp_pct": 21.3,
+      "points": 9,
       "cashier": "Nwabisa"
     }
   ],
