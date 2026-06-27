@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-27T12:53:13.069355",
+    "generated_at": "2026-06-27T12:59:43.780466",
     "generated_date": "2026-06-27",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-27",
-    "revenue": 12503.0,
-    "cost": 13208.23,
-    "gp_pct": -5.6,
-    "transactions": 128,
-    "vs_yesterday": -40126.09
+    "revenue": 12668.0,
+    "cost": 13344.27,
+    "gp_pct": -5.3,
+    "transactions": 130,
+    "vs_yesterday": -39961.09
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 644653.44,
-    "cost": 627133.45,
+    "revenue": 644818.44,
+    "cost": 627269.48,
     "gp_pct": 2.7,
-    "transactions": 6158,
+    "transactions": 6160,
     "days_elapsed": 27
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-27",
-      "revenue": 12503.0,
-      "cost": 13208.23,
-      "transactions": 128,
-      "gp_pct": -5.6
+      "revenue": 12668.0,
+      "cost": 13344.27,
+      "transactions": 130,
+      "gp_pct": -5.3
     }
   ],
   "hourly_today": [
@@ -592,10 +592,10 @@
     {
       "hour": 12,
       "label": "12:00",
-      "revenue": 1786.0,
-      "cost": 1572.19,
-      "gp_pct": 12.0,
-      "transactions": 23
+      "revenue": 1951.0,
+      "cost": 1708.23,
+      "gp_pct": 12.4,
+      "transactions": 25
     },
     {
       "hour": 13,
@@ -692,8 +692,8 @@
       "desc": "Carling Black Label 750ml",
       "price": 25.0,
       "gp_pct": 24.3,
-      "revenue": 196384.7,
-      "qty_sold": 9049.0
+      "revenue": 196409.7,
+      "qty_sold": 9050.0
     },
     {
       "internal": 171,
@@ -858,9 +858,9 @@
     },
     {
       "cashier": "Nwabisa",
-      "revenue": 397772.07,
-      "cost": 376072.07,
-      "transactions": 3704,
+      "revenue": 397937.07,
+      "cost": 376208.11,
+      "transactions": 3706,
       "gp_pct": 5.5
     }
   ],
