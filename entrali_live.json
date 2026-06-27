@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-27T19:50:55.343440",
+    "generated_at": "2026-06-27T20:04:35.725622",
     "generated_date": "2026-06-27",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-27",
-    "revenue": 51864.75,
-    "cost": 47991.12,
+    "revenue": 52908.75,
+    "cost": 48936.67,
     "gp_pct": 7.5,
-    "transactions": 454,
-    "vs_yesterday": -764.34
+    "transactions": 463,
+    "vs_yesterday": 279.66
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 684015.19,
-    "cost": 622537.33,
+    "revenue": 685059.19,
+    "cost": 623482.88,
     "gp_pct": 9.0,
-    "transactions": 6484,
+    "transactions": 6493,
     "days_elapsed": 27
   },
   "latest_cashup": {
@@ -486,9 +486,9 @@
     },
     {
       "date": "2026-06-27",
-      "revenue": 51864.75,
-      "cost": 47991.12,
-      "transactions": 454,
+      "revenue": 52908.75,
+      "cost": 48936.67,
+      "transactions": 463,
       "gp_pct": 7.5
     }
   ],
@@ -648,18 +648,18 @@
     {
       "hour": 19,
       "label": "19:00",
-      "revenue": 4109.0,
-      "cost": 3704.23,
-      "gp_pct": 9.9,
-      "transactions": 36
+      "revenue": 4923.0,
+      "cost": 4494.71,
+      "gp_pct": 8.7,
+      "transactions": 44
     },
     {
       "hour": 20,
       "label": "20:00",
-      "revenue": 0.0,
-      "cost": 0.0,
-      "gp_pct": 0.0,
-      "transactions": 0
+      "revenue": 230.0,
+      "cost": 192.91,
+      "gp_pct": 16.1,
+      "transactions": 1
     },
     {
       "hour": 21,
@@ -692,8 +692,8 @@
       "desc": "Carling Black Label 750ml",
       "price": 25.0,
       "gp_pct": 24.3,
-      "revenue": 202014.03,
-      "qty_sold": 9299.0
+      "revenue": 202089.03,
+      "qty_sold": 9302.0
     },
     {
       "internal": 171,
@@ -708,8 +708,8 @@
       "desc": "Sedgwicks Old Brown Sherry 750ml",
       "price": 60.0,
       "gp_pct": 23.3,
-      "revenue": 40679.97,
-      "qty_sold": 772.0
+      "revenue": 40779.97,
+      "qty_sold": 774.0
     },
     {
       "internal": 172,
@@ -792,20 +792,20 @@
       "qty_sold": 641.0
     },
     {
+      "internal": 183,
+      "desc": "Old Buck Gin 750ml",
+      "price": 180.0,
+      "gp_pct": 17.2,
+      "revenue": 14400.0,
+      "qty_sold": 80.0
+    },
+    {
       "internal": 599,
       "desc": "Bernini Classic 500ml",
       "price": 25.0,
       "gp_pct": 38.4,
       "revenue": 14365.0,
       "qty_sold": 766.0
-    },
-    {
-      "internal": 183,
-      "desc": "Old Buck Gin 750ml",
-      "price": 180.0,
-      "gp_pct": 17.2,
-      "revenue": 14220.0,
-      "qty_sold": 79.0
     },
     {
       "internal": 266,
@@ -851,9 +851,9 @@
   "cashier_summary": [
     {
       "cashier": "Thabiso",
-      "revenue": 445931.16,
-      "cost": 410186.26,
-      "transactions": 4223,
+      "revenue": 446975.16,
+      "cost": 411131.81,
+      "transactions": 4232,
       "gp_pct": 8.0
     },
     {
@@ -38564,6 +38564,42 @@
       "desc": "Carling Black Label 750ml",
       "amount": 50.0,
       "gp_pct": 24.3,
+      "points": 1,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 518277,
+      "date": "2026-06-27",
+      "desc": "Sedgwicks Old Brown Sherry 750ml",
+      "amount": 100.0,
+      "gp_pct": 23.3,
+      "points": 2,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 518278,
+      "date": "2026-06-27",
+      "desc": "Bernini Blush 275ml",
+      "amount": 400.0,
+      "gp_pct": 18.4,
+      "points": 8,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 518279,
+      "date": "2026-06-27",
+      "desc": "Carling Black Label 750ml",
+      "amount": 75.0,
+      "gp_pct": 24.3,
+      "points": 1,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 518281,
+      "date": "2026-06-27",
+      "desc": "Red Bull 250ml",
+      "amount": 80.0,
+      "gp_pct": 18.8,
       "points": 1,
       "cashier": "Thabiso"
     }
