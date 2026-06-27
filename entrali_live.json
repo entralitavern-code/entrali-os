@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-27T18:05:57.775980",
+    "generated_at": "2026-06-27T18:12:26.617768",
     "generated_date": "2026-06-27",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-27",
-    "revenue": 41128.75,
-    "cost": 43077.01,
+    "revenue": 41768.75,
+    "cost": 43740.48,
     "gp_pct": -4.7,
-    "transactions": 366,
-    "vs_yesterday": -11500.34
+    "transactions": 372,
+    "vs_yesterday": -10860.34
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 673279.19,
-    "cost": 657002.22,
+    "revenue": 673919.19,
+    "cost": 657665.69,
     "gp_pct": 2.4,
-    "transactions": 6396,
+    "transactions": 6402,
     "days_elapsed": 27
   },
   "latest_cashup": {
@@ -486,9 +486,9 @@
     },
     {
       "date": "2026-06-27",
-      "revenue": 41128.75,
-      "cost": 43077.01,
-      "transactions": 366,
+      "revenue": 41768.75,
+      "cost": 43740.48,
+      "transactions": 372,
       "gp_pct": -4.7
     }
   ],
@@ -640,10 +640,10 @@
     {
       "hour": 18,
       "label": "18:00",
-      "revenue": 635.0,
-      "cost": 547.1,
-      "gp_pct": 13.8,
-      "transactions": 5
+      "revenue": 1275.0,
+      "cost": 1112.15,
+      "gp_pct": 12.8,
+      "transactions": 11
     },
     {
       "hour": 19,
@@ -708,8 +708,8 @@
       "desc": "Sedgwicks Old Brown Sherry 750ml",
       "price": 60.0,
       "gp_pct": 23.3,
-      "revenue": 40419.97,
-      "qty_sold": 767.0
+      "revenue": 40479.97,
+      "qty_sold": 768.0
     },
     {
       "internal": 172,
@@ -820,8 +820,8 @@
       "desc": "Pork Chops",
       "price": 40.0,
       "gp_pct": 39.4,
-      "revenue": 12565.0,
-      "qty_sold": 369.0
+      "revenue": 12645.0,
+      "qty_sold": 371.0
     },
     {
       "internal": 55,
@@ -858,9 +858,9 @@
     },
     {
       "cashier": "Nwabisa",
-      "revenue": 426397.82,
-      "cost": 405940.85,
-      "transactions": 3942,
+      "revenue": 427037.82,
+      "cost": 406604.32,
+      "transactions": 3948,
       "gp_pct": 4.8
     }
   ],
@@ -5175,6 +5175,25 @@
       "days_since_sold": 9999,
       "lastsold": null,
       "lastbuy": null,
+      "loyalty_eligible": false,
+      "alert": "OUT OF STOCK"
+    },
+    {
+      "internal": 363,
+      "part_no": "60010",
+      "desc": "Russian Bear 750ml",
+      "group": "3",
+      "price": 160.0,
+      "cost": 137.4167,
+      "gp_pct": 14.1,
+      "qty": 0.0,
+      "minimum": 0.0,
+      "maximum": 0.0,
+      "on_promo": false,
+      "promo_price": null,
+      "days_since_sold": 0,
+      "lastsold": "2026-06-27",
+      "lastbuy": "2026-04-04",
       "loyalty_eligible": false,
       "alert": "OUT OF STOCK"
     },
@@ -34783,11 +34802,38 @@
       "gp_pct": 20.8,
       "points": 1,
       "cashier": "Nwabisa"
+    },
+    {
+      "number": 518189,
+      "date": "2026-06-27",
+      "desc": "Sedgwicks Old Brown Sherry 750ml",
+      "amount": 60.0,
+      "gp_pct": 23.3,
+      "points": 1,
+      "cashier": "Nwabisa"
+    },
+    {
+      "number": 518191,
+      "date": "2026-06-27",
+      "desc": "Pork Chops",
+      "amount": 80.0,
+      "gp_pct": 39.4,
+      "points": 1,
+      "cashier": "Nwabisa"
+    },
+    {
+      "number": 518193,
+      "date": "2026-06-27",
+      "desc": "Belgravia Dry Lemon 440ml",
+      "amount": 130.0,
+      "gp_pct": 23.3,
+      "points": 2,
+      "cashier": "Nwabisa"
     }
   ],
   "stock_summary": {
     "total_products": 743,
-    "out_of_stock": 472,
+    "out_of_stock": 473,
     "on_promo": 4,
     "dead_stock_30d": 74,
     "loyalty_eligible": 280
