@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-27T20:11:40.188332",
+    "generated_at": "2026-06-27T20:18:23.800822",
     "generated_date": "2026-06-27",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-27",
-    "revenue": 52938.75,
-    "cost": 49167.13,
-    "gp_pct": 7.1,
-    "transactions": 464,
-    "vs_yesterday": 309.66
+    "revenue": 53393.75,
+    "cost": 49328.75,
+    "gp_pct": 7.6,
+    "transactions": 469,
+    "vs_yesterday": 764.66
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 685089.19,
-    "cost": 623713.34,
+    "revenue": 685544.19,
+    "cost": 623874.96,
     "gp_pct": 9.0,
-    "transactions": 6494,
+    "transactions": 6499,
     "days_elapsed": 27
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-27",
-      "revenue": 52938.75,
-      "cost": 49167.13,
-      "transactions": 464,
-      "gp_pct": 7.1
+      "revenue": 53393.75,
+      "cost": 49328.75,
+      "transactions": 469,
+      "gp_pct": 7.6
     }
   ],
   "hourly_today": [
@@ -656,10 +656,10 @@
     {
       "hour": 20,
       "label": "20:00",
-      "revenue": 260.0,
-      "cost": 218.79,
-      "gp_pct": 15.8,
-      "transactions": 2
+      "revenue": 715.0,
+      "cost": 584.99,
+      "gp_pct": 18.2,
+      "transactions": 7
     },
     {
       "hour": 21,
@@ -692,8 +692,8 @@
       "desc": "Carling Black Label 750ml",
       "price": 25.0,
       "gp_pct": 24.3,
-      "revenue": 202139.03,
-      "qty_sold": 9304.0
+      "revenue": 202164.03,
+      "qty_sold": 9305.0
     },
     {
       "internal": 171,
@@ -812,8 +812,8 @@
       "desc": "Pork Chops",
       "price": 40.0,
       "gp_pct": 39.4,
-      "revenue": 13085.0,
-      "qty_sold": 382.0
+      "revenue": 13125.0,
+      "qty_sold": 383.0
     },
     {
       "internal": 184,
@@ -836,24 +836,24 @@
       "desc": "Braaiwors",
       "price": 35.0,
       "gp_pct": 28.6,
-      "revenue": 12455.0,
-      "qty_sold": 400.0
+      "revenue": 12480.0,
+      "qty_sold": 401.0
     },
     {
       "internal": 134,
       "desc": "Castle Lager 750ml",
       "price": 20.0,
       "gp_pct": 17.1,
-      "revenue": 11191.57,
-      "qty_sold": 560.0
+      "revenue": 11211.57,
+      "qty_sold": 561.0
     }
   ],
   "cashier_summary": [
     {
       "cashier": "Thabiso",
-      "revenue": 447005.16,
-      "cost": 411362.27,
-      "transactions": 4233,
+      "revenue": 447460.16,
+      "cost": 411523.89,
+      "transactions": 4238,
       "gp_pct": 8.0
     },
     {
