@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-27T11:41:08.896524",
+    "generated_at": "2026-06-27T11:47:37.075336",
     "generated_date": "2026-06-27",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-27",
-    "revenue": 9548.0,
-    "cost": 10270.12,
-    "gp_pct": -7.6,
-    "transactions": 93,
-    "vs_yesterday": -43081.09
+    "revenue": 10147.0,
+    "cost": 10854.5,
+    "gp_pct": -7.0,
+    "transactions": 98,
+    "vs_yesterday": -42482.09
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 641698.44,
-    "cost": 624195.34,
+    "revenue": 642297.44,
+    "cost": 624779.72,
     "gp_pct": 2.7,
-    "transactions": 6123,
+    "transactions": 6128,
     "days_elapsed": 27
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-27",
-      "revenue": 9548.0,
-      "cost": 10270.12,
-      "transactions": 93,
-      "gp_pct": -7.6
+      "revenue": 10147.0,
+      "cost": 10854.5,
+      "transactions": 98,
+      "gp_pct": -7.0
     }
   ],
   "hourly_today": [
@@ -584,10 +584,10 @@
     {
       "hour": 11,
       "label": "11:00",
-      "revenue": 225.0,
-      "cost": 179.91,
-      "gp_pct": 20.0,
-      "transactions": 8
+      "revenue": 824.0,
+      "cost": 764.29,
+      "gp_pct": 7.2,
+      "transactions": 13
     },
     {
       "hour": 12,
@@ -692,8 +692,8 @@
       "desc": "Carling Black Label 750ml",
       "price": 25.0,
       "gp_pct": 24.3,
-      "revenue": 195452.7,
-      "qty_sold": 9005.0
+      "revenue": 196015.7,
+      "qty_sold": 9032.0
     },
     {
       "internal": 171,
@@ -858,9 +858,9 @@
     },
     {
       "cashier": "Nwabisa",
-      "revenue": 394817.07,
-      "cost": 373133.96,
-      "transactions": 3669,
+      "revenue": 395416.07,
+      "cost": 373718.34,
+      "transactions": 3674,
       "gp_pct": 5.5
     }
   ],
@@ -36014,6 +36014,42 @@
       "amount": 50.0,
       "gp_pct": 24.3,
       "points": 1,
+      "cashier": "Nwabisa"
+    },
+    {
+      "number": 517914,
+      "date": "2026-06-27",
+      "desc": "Smirnoff Vodka 200ml",
+      "amount": 60.0,
+      "gp_pct": 20.3,
+      "points": 1,
+      "cashier": "Nwabisa"
+    },
+    {
+      "number": 517914,
+      "date": "2026-06-27",
+      "desc": "Carling Black Label 750ml",
+      "amount": 50.0,
+      "gp_pct": 24.3,
+      "points": 1,
+      "cashier": "Nwabisa"
+    },
+    {
+      "number": 517917,
+      "date": "2026-06-27",
+      "desc": "Carling Black Label 750ml",
+      "amount": 244.0,
+      "gp_pct": 24.3,
+      "points": 4,
+      "cashier": "Nwabisa"
+    },
+    {
+      "number": 517918,
+      "date": "2026-06-27",
+      "desc": "Carling Black Label 750ml",
+      "amount": 244.0,
+      "gp_pct": 24.3,
+      "points": 4,
       "cashier": "Nwabisa"
     }
   ],
