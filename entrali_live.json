@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-27T12:13:45.348334",
+    "generated_at": "2026-06-27T12:20:28.284111",
     "generated_date": "2026-06-27",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-27",
-    "revenue": 11742.0,
-    "cost": 12497.16,
+    "revenue": 12054.0,
+    "cost": 12825.32,
     "gp_pct": -6.4,
-    "transactions": 116,
-    "vs_yesterday": -40887.09
+    "transactions": 119,
+    "vs_yesterday": -40575.09
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 643892.44,
-    "cost": 626422.37,
+    "revenue": 644204.44,
+    "cost": 626750.53,
     "gp_pct": 2.7,
-    "transactions": 6146,
+    "transactions": 6149,
     "days_elapsed": 27
   },
   "latest_cashup": {
@@ -486,9 +486,9 @@
     },
     {
       "date": "2026-06-27",
-      "revenue": 11742.0,
-      "cost": 12497.16,
-      "transactions": 116,
+      "revenue": 12054.0,
+      "cost": 12825.32,
+      "transactions": 119,
       "gp_pct": -6.4
     }
   ],
@@ -592,10 +592,10 @@
     {
       "hour": 12,
       "label": "12:00",
-      "revenue": 1025.0,
-      "cost": 861.12,
-      "gp_pct": 16.0,
-      "transactions": 11
+      "revenue": 1337.0,
+      "cost": 1189.28,
+      "gp_pct": 11.0,
+      "transactions": 14
     },
     {
       "hour": 13,
@@ -692,8 +692,8 @@
       "desc": "Carling Black Label 750ml",
       "price": 25.0,
       "gp_pct": 24.3,
-      "revenue": 196334.7,
-      "qty_sold": 9047.0
+      "revenue": 196384.7,
+      "qty_sold": 9049.0
     },
     {
       "internal": 171,
@@ -858,10 +858,10 @@
     },
     {
       "cashier": "Nwabisa",
-      "revenue": 397011.07,
-      "cost": 375361.0,
-      "transactions": 3692,
-      "gp_pct": 5.5
+      "revenue": 397323.07,
+      "cost": 375689.16,
+      "transactions": 3695,
+      "gp_pct": 5.4
     }
   ],
   "low_stock_alerts": [
@@ -1177,13 +1177,13 @@
       "price": 220.0,
       "cost": 200.92,
       "gp_pct": 8.7,
-      "qty": -39.0,
+      "qty": -40.0,
       "minimum": 0.0,
       "maximum": 0.0,
       "on_promo": false,
       "promo_price": null,
-      "days_since_sold": 1,
-      "lastsold": "2026-06-26",
+      "days_since_sold": 0,
+      "lastsold": "2026-06-27",
       "lastbuy": "2021-09-08",
       "loyalty_eligible": false,
       "alert": "OUT OF STOCK"
@@ -36077,6 +36077,24 @@
       "amount": 120.0,
       "gp_pct": 34.7,
       "points": 2,
+      "cashier": "Nwabisa"
+    },
+    {
+      "number": 517937,
+      "date": "2026-06-27",
+      "desc": "Castle Lite 660ml",
+      "amount": 50.0,
+      "gp_pct": 19.0,
+      "points": 1,
+      "cashier": "Nwabisa"
+    },
+    {
+      "number": 517939,
+      "date": "2026-06-27",
+      "desc": "Carling Black Label 750ml",
+      "amount": 50.0,
+      "gp_pct": 24.3,
+      "points": 1,
       "cashier": "Nwabisa"
     }
   ],
