@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-27T17:40:17.024157",
+    "generated_at": "2026-06-27T17:46:45.997757",
     "generated_date": "2026-06-27",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-27",
-    "revenue": 38013.75,
-    "cost": 39779.54,
-    "gp_pct": -4.6,
-    "transactions": 342,
-    "vs_yesterday": -14615.34
+    "revenue": 39123.75,
+    "cost": 41270.33,
+    "gp_pct": -5.5,
+    "transactions": 350,
+    "vs_yesterday": -13505.34
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 670164.19,
-    "cost": 653704.75,
-    "gp_pct": 2.5,
-    "transactions": 6372,
+    "revenue": 671274.19,
+    "cost": 655195.54,
+    "gp_pct": 2.4,
+    "transactions": 6380,
     "days_elapsed": 27
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-27",
-      "revenue": 38013.75,
-      "cost": 39779.54,
-      "transactions": 342,
-      "gp_pct": -4.6
+      "revenue": 39123.75,
+      "cost": 41270.33,
+      "transactions": 350,
+      "gp_pct": -5.5
     }
   ],
   "hourly_today": [
@@ -632,10 +632,10 @@
     {
       "hour": 17,
       "label": "17:00",
-      "revenue": 6701.25,
-      "cost": 7376.04,
-      "gp_pct": -10.1,
-      "transactions": 49
+      "revenue": 7811.25,
+      "cost": 9175.91,
+      "gp_pct": -17.5,
+      "transactions": 57
     },
     {
       "hour": 18,
@@ -772,16 +772,16 @@
       "desc": "Bernini Mimosa 500ml",
       "price": 25.0,
       "gp_pct": 33.4,
-      "revenue": 16965.0,
-      "qty_sold": 939.0
+      "revenue": 17145.0,
+      "qty_sold": 951.0
     },
     {
       "internal": 200,
       "desc": "KWV 3yrs 750ml",
       "price": 200.0,
       "gp_pct": -359.0,
-      "revenue": 15820.0,
-      "qty_sold": 81.0
+      "revenue": 16000.0,
+      "qty_sold": 82.0
     },
     {
       "internal": 169,
@@ -792,20 +792,20 @@
       "qty_sold": 641.0
     },
     {
+      "internal": 599,
+      "desc": "Bernini Classic 500ml",
+      "price": 25.0,
+      "gp_pct": 38.4,
+      "revenue": 14130.0,
+      "qty_sold": 753.0
+    },
+    {
       "internal": 183,
       "desc": "Old Buck Gin 750ml",
       "price": 180.0,
       "gp_pct": 17.2,
       "revenue": 14040.0,
       "qty_sold": 78.0
-    },
-    {
-      "internal": 599,
-      "desc": "Bernini Classic 500ml",
-      "price": 25.0,
-      "gp_pct": 38.4,
-      "revenue": 13950.0,
-      "qty_sold": 741.0
     },
     {
       "internal": 184,
@@ -858,10 +858,10 @@
     },
     {
       "cashier": "Nwabisa",
-      "revenue": 423282.82,
-      "cost": 402643.38,
-      "transactions": 3918,
-      "gp_pct": 4.9
+      "revenue": 424392.82,
+      "cost": 404134.17,
+      "transactions": 3926,
+      "gp_pct": 4.8
     }
   ],
   "low_stock_alerts": [
@@ -1265,25 +1265,6 @@
       "alert": "OUT OF STOCK"
     },
     {
-      "internal": 399,
-      "part_no": "4061",
-      "desc": "Drinking Glass Zombie",
-      "group": "10",
-      "price": 10.0,
-      "cost": 7.99,
-      "gp_pct": 20.1,
-      "qty": -26.0,
-      "minimum": 0.0,
-      "maximum": 0.0,
-      "on_promo": false,
-      "promo_price": null,
-      "days_since_sold": 0,
-      "lastsold": "2026-06-27",
-      "lastbuy": "2026-06-27",
-      "loyalty_eligible": true,
-      "alert": "OUT OF STOCK"
-    },
-    {
       "internal": 595,
       "part_no": "3321",
       "desc": "FF + BL COMBO",
@@ -1299,6 +1280,25 @@
       "days_since_sold": 54,
       "lastsold": "2026-05-04",
       "lastbuy": "2020-02-25",
+      "loyalty_eligible": true,
+      "alert": "OUT OF STOCK"
+    },
+    {
+      "internal": 399,
+      "part_no": "4061",
+      "desc": "Drinking Glass Zombie",
+      "group": "10",
+      "price": 10.0,
+      "cost": 7.99,
+      "gp_pct": 20.1,
+      "qty": -25.0,
+      "minimum": 0.0,
+      "maximum": 0.0,
+      "on_promo": false,
+      "promo_price": null,
+      "days_since_sold": 0,
+      "lastsold": "2026-06-27",
+      "lastbuy": "2026-06-27",
       "loyalty_eligible": true,
       "alert": "OUT OF STOCK"
     },
@@ -34728,6 +34728,15 @@
       "amount": 100.0,
       "gp_pct": 23.3,
       "points": 2,
+      "cashier": "Nwabisa"
+    },
+    {
+      "number": 518165,
+      "date": "2026-06-27",
+      "desc": "Belgravia Gin & Tonic 440ml",
+      "amount": 75.0,
+      "gp_pct": 23.3,
+      "points": 1,
       "cashier": "Nwabisa"
     }
   ],
