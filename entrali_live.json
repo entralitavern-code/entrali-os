@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-27T21:18:50.437945",
+    "generated_at": "2026-06-27T21:25:51.752625",
     "generated_date": "2026-06-27",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-27",
-    "revenue": 58095.09,
-    "cost": 53229.66,
-    "gp_pct": 8.4,
-    "transactions": 513,
-    "vs_yesterday": 5466.0
+    "revenue": 59235.09,
+    "cost": 54196.48,
+    "gp_pct": 8.5,
+    "transactions": 519,
+    "vs_yesterday": 6606.0
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 690245.53,
-    "cost": 627775.87,
+    "revenue": 691385.53,
+    "cost": 628742.69,
     "gp_pct": 9.1,
-    "transactions": 6543,
+    "transactions": 6549,
     "days_elapsed": 27
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-27",
-      "revenue": 58095.09,
-      "cost": 53229.66,
-      "transactions": 513,
-      "gp_pct": 8.4
+      "revenue": 59235.09,
+      "cost": 54196.48,
+      "transactions": 519,
+      "gp_pct": 8.5
     }
   ],
   "hourly_today": [
@@ -664,10 +664,10 @@
     {
       "hour": 21,
       "label": "21:00",
-      "revenue": 1708.0,
-      "cost": 1375.09,
-      "gp_pct": 19.5,
-      "transactions": 17
+      "revenue": 2848.0,
+      "cost": 2341.91,
+      "gp_pct": 17.8,
+      "transactions": 23
     },
     {
       "hour": 22,
@@ -692,8 +692,8 @@
       "desc": "Carling Black Label 750ml",
       "price": 25.0,
       "gp_pct": 24.3,
-      "revenue": 202364.03,
-      "qty_sold": 9313.0
+      "revenue": 202464.03,
+      "qty_sold": 9317.0
     },
     {
       "internal": 171,
@@ -724,8 +724,8 @@
       "desc": "Klipdrift Export Brandy 750ml",
       "price": 200.0,
       "gp_pct": 12.5,
-      "revenue": 28400.0,
-      "qty_sold": 142.0
+      "revenue": 28800.0,
+      "qty_sold": 144.0
     },
     {
       "internal": 13,
@@ -740,16 +740,16 @@
       "desc": "4th Street Sweet L/H 5l",
       "price": 180.0,
       "gp_pct": 11.9,
-      "revenue": 24660.0,
-      "qty_sold": 137.0
+      "revenue": 24840.0,
+      "qty_sold": 138.0
     },
     {
       "internal": 161,
       "desc": "Savanna Dry 500ml",
       "price": 25.0,
       "gp_pct": 13.3,
-      "revenue": 22050.0,
-      "qty_sold": 882.0
+      "revenue": 22100.0,
+      "qty_sold": 884.0
     },
     {
       "internal": 238,
@@ -844,16 +844,16 @@
       "desc": "Castle Lager 750ml",
       "price": 20.0,
       "gp_pct": 17.1,
-      "revenue": 11251.57,
-      "qty_sold": 563.0
+      "revenue": 11271.57,
+      "qty_sold": 564.0
     }
   ],
   "cashier_summary": [
     {
       "cashier": "Thabiso",
-      "revenue": 452161.5,
-      "cost": 415424.8,
-      "transactions": 4282,
+      "revenue": 453301.5,
+      "cost": 416391.62,
+      "transactions": 4288,
       "gp_pct": 8.1
     },
     {
@@ -38826,6 +38826,42 @@
       "desc": "Heineken 330ml",
       "amount": 110.0,
       "gp_pct": 28.1,
+      "points": 2,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 518335,
+      "date": "2026-06-27",
+      "desc": "Carling Black Label 750ml",
+      "amount": 100.0,
+      "gp_pct": 24.3,
+      "points": 2,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 518336,
+      "date": "2026-06-27",
+      "desc": "Corona 355ml",
+      "amount": 120.0,
+      "gp_pct": 19.4,
+      "points": 2,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 518338,
+      "date": "2026-06-27",
+      "desc": "Smirnoff Storm Berry Twist 440ml",
+      "amount": 130.0,
+      "gp_pct": 24.8,
+      "points": 2,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 518339,
+      "date": "2026-06-27",
+      "desc": "Corona 355ml",
+      "amount": 120.0,
+      "gp_pct": 19.4,
       "points": 2,
       "cashier": "Thabiso"
     }
