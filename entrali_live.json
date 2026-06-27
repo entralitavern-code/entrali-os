@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-27T20:18:23.800822",
+    "generated_at": "2026-06-27T20:25:02.717175",
     "generated_date": "2026-06-27",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-27",
-    "revenue": 53393.75,
-    "cost": 49328.75,
+    "revenue": 54563.09,
+    "cost": 50430.8,
     "gp_pct": 7.6,
-    "transactions": 469,
-    "vs_yesterday": 764.66
+    "transactions": 476,
+    "vs_yesterday": 1934.0
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 685544.19,
-    "cost": 623874.96,
+    "revenue": 686713.53,
+    "cost": 624977.01,
     "gp_pct": 9.0,
-    "transactions": 6499,
+    "transactions": 6506,
     "days_elapsed": 27
   },
   "latest_cashup": {
@@ -486,9 +486,9 @@
     },
     {
       "date": "2026-06-27",
-      "revenue": 53393.75,
-      "cost": 49328.75,
-      "transactions": 469,
+      "revenue": 54563.09,
+      "cost": 50430.8,
+      "transactions": 476,
       "gp_pct": 7.6
     }
   ],
@@ -656,10 +656,10 @@
     {
       "hour": 20,
       "label": "20:00",
-      "revenue": 715.0,
-      "cost": 584.99,
-      "gp_pct": 18.2,
-      "transactions": 7
+      "revenue": 1884.34,
+      "cost": 1604.04,
+      "gp_pct": 14.9,
+      "transactions": 14
     },
     {
       "hour": 21,
@@ -692,8 +692,8 @@
       "desc": "Carling Black Label 750ml",
       "price": 25.0,
       "gp_pct": 24.3,
-      "revenue": 202164.03,
-      "qty_sold": 9305.0
+      "revenue": 202239.03,
+      "qty_sold": 9308.0
     },
     {
       "internal": 171,
@@ -748,8 +748,8 @@
       "desc": "Savanna Dry 500ml",
       "price": 25.0,
       "gp_pct": 13.3,
-      "revenue": 21925.0,
-      "qty_sold": 877.0
+      "revenue": 22025.0,
+      "qty_sold": 881.0
     },
     {
       "internal": 238,
@@ -780,24 +780,24 @@
       "desc": "KWV 3yrs 750ml",
       "price": 200.0,
       "gp_pct": 12.5,
-      "revenue": 16720.0,
-      "qty_sold": 86.0
+      "revenue": 16900.0,
+      "qty_sold": 87.0
     },
     {
       "internal": 169,
       "desc": "Redd's Original 660ml",
       "price": 25.0,
       "gp_pct": 17.0,
-      "revenue": 15297.0,
-      "qty_sold": 641.0
+      "revenue": 15397.0,
+      "qty_sold": 645.0
     },
     {
       "internal": 183,
       "desc": "Old Buck Gin 750ml",
       "price": 180.0,
       "gp_pct": 17.2,
-      "revenue": 14400.0,
-      "qty_sold": 80.0
+      "revenue": 14580.0,
+      "qty_sold": 81.0
     },
     {
       "internal": 599,
@@ -844,16 +844,16 @@
       "desc": "Castle Lager 750ml",
       "price": 20.0,
       "gp_pct": 17.1,
-      "revenue": 11211.57,
-      "qty_sold": 561.0
+      "revenue": 11231.57,
+      "qty_sold": 562.0
     }
   ],
   "cashier_summary": [
     {
       "cashier": "Thabiso",
-      "revenue": 447460.16,
-      "cost": 411523.89,
-      "transactions": 4238,
+      "revenue": 448629.5,
+      "cost": 412625.94,
+      "transactions": 4245,
       "gp_pct": 8.0
     },
     {
@@ -1044,13 +1044,13 @@
       "price": 1.5,
       "cost": 0.485,
       "gp_pct": 67.7,
-      "qty": -191.0,
+      "qty": -194.0,
       "minimum": 0.0,
       "maximum": 7.0,
       "on_promo": false,
       "promo_price": null,
-      "days_since_sold": 5,
-      "lastsold": "2026-06-22",
+      "days_since_sold": 0,
+      "lastsold": "2026-06-27",
       "lastbuy": "2025-10-29",
       "loyalty_eligible": true,
       "alert": "OUT OF STOCK"
@@ -1234,7 +1234,7 @@
       "price": 10.0,
       "cost": 7.99,
       "gp_pct": 20.1,
-      "qty": -28.0,
+      "qty": -29.0,
       "minimum": 0.0,
       "maximum": 0.0,
       "on_promo": false,
@@ -38628,6 +38628,33 @@
       "amount": 110.0,
       "gp_pct": 28.1,
       "points": 2,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 518293,
+      "date": "2026-06-27",
+      "desc": "Sol NRB 330ml",
+      "amount": 169.92,
+      "gp_pct": 21.9,
+      "points": 3,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 518294,
+      "date": "2026-06-27",
+      "desc": "Sol NRB 330ml",
+      "amount": 169.92,
+      "gp_pct": 21.9,
+      "points": 3,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 518295,
+      "date": "2026-06-27",
+      "desc": "Carling Black Label 750ml",
+      "amount": 50.0,
+      "gp_pct": 24.3,
+      "points": 1,
       "cashier": "Thabiso"
     }
   ],
