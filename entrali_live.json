@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-27T15:23:54.964772",
+    "generated_at": "2026-06-27T15:30:30.175221",
     "generated_date": "2026-06-27",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-27",
-    "revenue": 22041.5,
-    "cost": 22562.47,
-    "gp_pct": -2.4,
-    "transactions": 210,
-    "vs_yesterday": -30587.59
+    "revenue": 22356.5,
+    "cost": 22789.88,
+    "gp_pct": -1.9,
+    "transactions": 214,
+    "vs_yesterday": -30272.59
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 654191.94,
-    "cost": 636487.68,
+    "revenue": 654506.94,
+    "cost": 636715.1,
     "gp_pct": 2.7,
-    "transactions": 6240,
+    "transactions": 6244,
     "days_elapsed": 27
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-27",
-      "revenue": 22041.5,
-      "cost": 22562.47,
-      "transactions": 210,
-      "gp_pct": -2.4
+      "revenue": 22356.5,
+      "cost": 22789.88,
+      "transactions": 214,
+      "gp_pct": -1.9
     }
   ],
   "hourly_today": [
@@ -616,10 +616,10 @@
     {
       "hour": 15,
       "label": "15:00",
-      "revenue": 1685.0,
-      "cost": 1457.58,
-      "gp_pct": 13.5,
-      "transactions": 17
+      "revenue": 2000.0,
+      "cost": 1709.99,
+      "gp_pct": 14.5,
+      "transactions": 21
     },
     {
       "hour": 16,
@@ -692,8 +692,8 @@
       "desc": "Carling Black Label 750ml",
       "price": 25.0,
       "gp_pct": 24.3,
-      "revenue": 197797.7,
-      "qty_sold": 9110.0
+      "revenue": 197822.7,
+      "qty_sold": 9111.0
     },
     {
       "internal": 171,
@@ -740,8 +740,8 @@
       "desc": "4th Street Sweet L/H 5l",
       "price": 180.0,
       "gp_pct": 11.9,
-      "revenue": 23580.0,
-      "qty_sold": 131.0
+      "revenue": 23760.0,
+      "qty_sold": 132.0
     },
     {
       "internal": 161,
@@ -858,9 +858,9 @@
     },
     {
       "cashier": "Nwabisa",
-      "revenue": 407310.57,
-      "cost": 385426.31,
-      "transactions": 3786,
+      "revenue": 407625.57,
+      "cost": 385653.72,
+      "transactions": 3790,
       "gp_pct": 5.4
     }
   ],
@@ -34349,6 +34349,15 @@
       "amount": 115.0,
       "gp_pct": 21.9,
       "points": 2,
+      "cashier": "Nwabisa"
+    },
+    {
+      "number": 518033,
+      "date": "2026-06-27",
+      "desc": "Barcadi Breezer Blackberry 440ml",
+      "amount": 75.0,
+      "gp_pct": 33.3,
+      "points": 1,
       "cashier": "Nwabisa"
     }
   ],
