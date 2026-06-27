@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-27T11:01:34.627882",
+    "generated_at": "2026-06-27T11:08:03.006696",
     "generated_date": "2026-06-27",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -10,7 +10,7 @@
   "today": {
     "date": "2026-06-27",
     "revenue": 9348.0,
-    "cost": 10104.53,
+    "cost": 10109.13,
     "gp_pct": -8.1,
     "transactions": 86,
     "vs_yesterday": -43281.09
@@ -18,8 +18,8 @@
   "mtd": {
     "month": "June 2026",
     "revenue": 641498.44,
-    "cost": 623732.32,
-    "gp_pct": 2.8,
+    "cost": 624146.14,
+    "gp_pct": 2.7,
     "transactions": 6116,
     "days_elapsed": 27
   },
@@ -277,217 +277,217 @@
     {
       "date": "2026-05-28",
       "revenue": 11107.0,
-      "cost": 9870.51,
+      "cost": 9879.46,
       "transactions": 115,
       "gp_pct": 11.1
     },
     {
       "date": "2026-05-29",
       "revenue": 35311.7,
-      "cost": 33031.18,
+      "cost": 33041.76,
       "transactions": 347,
-      "gp_pct": 6.5
+      "gp_pct": 6.4
     },
     {
       "date": "2026-05-30",
       "revenue": 63530.71,
-      "cost": 65854.85,
+      "cost": 65885.96,
       "transactions": 551,
       "gp_pct": -3.7
     },
     {
       "date": "2026-05-31",
       "revenue": 86103.38,
-      "cost": 83324.53,
+      "cost": 83346.04,
       "transactions": 733,
       "gp_pct": 3.2
     },
     {
       "date": "2026-06-01",
       "revenue": 25074.83,
-      "cost": 24208.66,
+      "cost": 24219.6,
       "transactions": 274,
-      "gp_pct": 3.5
+      "gp_pct": 3.4
     },
     {
       "date": "2026-06-02",
       "revenue": 23979.58,
-      "cost": 22529.47,
+      "cost": 22554.74,
       "transactions": 192,
-      "gp_pct": 6.0
+      "gp_pct": 5.9
     },
     {
       "date": "2026-06-03",
       "revenue": 15245.5,
-      "cost": 15813.3,
+      "cost": 15837.21,
       "transactions": 148,
-      "gp_pct": -3.7
+      "gp_pct": -3.9
     },
     {
       "date": "2026-06-04",
       "revenue": 17648.5,
-      "cost": 17601.51,
+      "cost": 17607.49,
       "transactions": 148,
-      "gp_pct": 0.3
+      "gp_pct": 0.2
     },
     {
       "date": "2026-06-05",
       "revenue": 34210.03,
-      "cost": 32197.49,
+      "cost": 32241.55,
       "transactions": 231,
-      "gp_pct": 5.9
+      "gp_pct": 5.8
     },
     {
       "date": "2026-06-06",
       "revenue": 47307.21,
-      "cost": 45004.37,
+      "cost": 45046.09,
       "transactions": 389,
-      "gp_pct": 4.9
+      "gp_pct": 4.8
     },
     {
       "date": "2026-06-07",
       "revenue": 61864.25,
-      "cost": 61687.71,
+      "cost": 61710.98,
       "transactions": 544,
-      "gp_pct": 0.3
+      "gp_pct": 0.2
     },
     {
       "date": "2026-06-08",
       "revenue": 23564.38,
-      "cost": 23769.8,
+      "cost": 23790.96,
       "transactions": 269,
-      "gp_pct": -0.9
+      "gp_pct": -1.0
     },
     {
       "date": "2026-06-09",
       "revenue": 12855.0,
-      "cost": 12370.03,
+      "cost": 12378.25,
       "transactions": 141,
-      "gp_pct": 3.8
+      "gp_pct": 3.7
     },
     {
       "date": "2026-06-10",
       "revenue": 6651.0,
-      "cost": 6309.68,
+      "cost": 6314.78,
       "transactions": 85,
       "gp_pct": 5.1
     },
     {
       "date": "2026-06-11",
       "revenue": 9202.33,
-      "cost": 9595.53,
+      "cost": 9603.12,
       "transactions": 109,
-      "gp_pct": -4.3
+      "gp_pct": -4.4
     },
     {
       "date": "2026-06-12",
       "revenue": 16504.5,
-      "cost": 15668.16,
+      "cost": 15687.44,
       "transactions": 130,
-      "gp_pct": 5.1
+      "gp_pct": 5.0
     },
     {
       "date": "2026-06-13",
       "revenue": 34556.0,
-      "cost": 34148.98,
+      "cost": 34167.53,
       "transactions": 325,
-      "gp_pct": 1.2
+      "gp_pct": 1.1
     },
     {
       "date": "2026-06-14",
       "revenue": 40977.88,
-      "cost": 37644.95,
+      "cost": 37662.5,
       "transactions": 414,
       "gp_pct": 8.1
     },
     {
       "date": "2026-06-15",
       "revenue": 22084.0,
-      "cost": 22619.11,
+      "cost": 22635.04,
       "transactions": 282,
-      "gp_pct": -2.4
+      "gp_pct": -2.5
     },
     {
       "date": "2026-06-16",
       "revenue": 26556.84,
-      "cost": 27294.92,
+      "cost": 27306.56,
       "transactions": 325,
       "gp_pct": -2.8
     },
     {
       "date": "2026-06-17",
       "revenue": 11093.0,
-      "cost": 9671.21,
+      "cost": 9675.45,
       "transactions": 143,
       "gp_pct": 12.8
     },
     {
       "date": "2026-06-18",
       "revenue": 11496.0,
-      "cost": 12545.48,
+      "cost": 12552.93,
       "transactions": 121,
-      "gp_pct": -9.1
+      "gp_pct": -9.2
     },
     {
       "date": "2026-06-19",
       "revenue": 19459.5,
-      "cost": 16733.54,
+      "cost": 16747.09,
       "transactions": 191,
-      "gp_pct": 14.0
+      "gp_pct": 13.9
     },
     {
       "date": "2026-06-20",
       "revenue": 37062.64,
-      "cost": 33436.98,
+      "cost": 33449.06,
       "transactions": 312,
-      "gp_pct": 9.8
+      "gp_pct": 9.7
     },
     {
       "date": "2026-06-21",
       "revenue": 33715.0,
-      "cost": 30244.62,
+      "cost": 30249.36,
       "transactions": 308,
       "gp_pct": 10.3
     },
     {
       "date": "2026-06-22",
       "revenue": 8889.0,
-      "cost": 9068.34,
+      "cost": 9072.33,
       "transactions": 117,
-      "gp_pct": -2.0
+      "gp_pct": -2.1
     },
     {
       "date": "2026-06-23",
       "revenue": 1861.0,
-      "cost": 3791.07,
+      "cost": 3795.06,
       "transactions": 77,
-      "gp_pct": -103.7
+      "gp_pct": -103.9
     },
     {
       "date": "2026-06-24",
       "revenue": 10642.88,
-      "cost": 9806.57,
+      "cost": 9813.55,
       "transactions": 92,
-      "gp_pct": 7.9
+      "gp_pct": 7.8
     },
     {
       "date": "2026-06-25",
       "revenue": 27020.5,
-      "cost": 25398.41,
+      "cost": 25420.95,
       "transactions": 215,
-      "gp_pct": 6.0
+      "gp_pct": 5.9
     },
     {
       "date": "2026-06-26",
       "revenue": 52629.09,
-      "cost": 54467.89,
+      "cost": 54497.4,
       "transactions": 448,
       "gp_pct": -3.5
     },
     {
       "date": "2026-06-27",
       "revenue": 9348.0,
-      "cost": 10104.53,
+      "cost": 10109.13,
       "transactions": 86,
       "gp_pct": -8.1
     }
@@ -569,15 +569,15 @@
       "hour": 9,
       "label": "09:00",
       "revenue": 4796.0,
-      "cost": 5310.3,
-      "gp_pct": -10.7,
+      "cost": 5314.65,
+      "gp_pct": -10.8,
       "transactions": 18
     },
     {
       "hour": 10,
       "label": "10:00",
       "revenue": 2170.0,
-      "cost": 2078.42,
+      "cost": 2078.67,
       "gp_pct": 4.2,
       "transactions": 16
     },
@@ -699,7 +699,7 @@
       "internal": 171,
       "desc": "Paarl Perle' 1L",
       "price": 45.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "revenue": 72190.0,
       "qty_sold": 1807.0
     },
@@ -852,14 +852,14 @@
     {
       "cashier": "Thabiso",
       "revenue": 442934.16,
-      "cost": 439848.44,
+      "cost": 440151.68,
       "transactions": 4200,
-      "gp_pct": 0.7
+      "gp_pct": 0.6
     },
     {
       "cashier": "Nwabisa",
       "revenue": 394617.07,
-      "cost": 372853.98,
+      "cost": 373036.71,
       "transactions": 3662,
       "gp_pct": 5.5
     }
@@ -1052,25 +1052,6 @@
       "days_since_sold": 5,
       "lastsold": "2026-06-22",
       "lastbuy": "2025-10-29",
-      "loyalty_eligible": true,
-      "alert": "OUT OF STOCK"
-    },
-    {
-      "internal": 171,
-      "part_no": "232",
-      "desc": "Paarl Perle' 1L",
-      "group": "2",
-      "price": 45.0,
-      "cost": 35.1667,
-      "gp_pct": 21.9,
-      "qty": -112.0,
-      "minimum": 0.0,
-      "maximum": 60.0,
-      "on_promo": false,
-      "promo_price": null,
-      "days_since_sold": 0,
-      "lastsold": "2026-06-27",
-      "lastbuy": "2026-06-11",
       "loyalty_eligible": true,
       "alert": "OUT OF STOCK"
     },
@@ -2590,7 +2571,7 @@
       "promo_price": null,
       "days_since_sold": 384,
       "lastsold": "2025-06-08",
-      "lastbuy": "2026-06-24",
+      "lastbuy": "2026-06-25",
       "loyalty_eligible": false,
       "alert": "OUT OF STOCK"
     },
@@ -2666,7 +2647,7 @@
       "promo_price": null,
       "days_since_sold": 442,
       "lastsold": "2025-04-11",
-      "lastbuy": "2026-06-24",
+      "lastbuy": "2026-06-25",
       "loyalty_eligible": false,
       "alert": "OUT OF STOCK"
     },
@@ -9896,7 +9877,7 @@
       "date": "2026-05-28",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Thabiso"
     },
@@ -9986,7 +9967,7 @@
       "date": "2026-05-28",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Thabiso"
     },
@@ -10292,7 +10273,7 @@
       "date": "2026-05-29",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Nwabisa"
     },
@@ -10301,7 +10282,7 @@
       "date": "2026-05-29",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Nwabisa"
     },
@@ -11336,7 +11317,7 @@
       "date": "2026-05-30",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Nwabisa"
     },
@@ -11354,7 +11335,7 @@
       "date": "2026-05-30",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Nwabisa"
     },
@@ -11660,7 +11641,7 @@
       "date": "2026-05-30",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Nwabisa"
     },
@@ -11705,7 +11686,7 @@
       "date": "2026-05-30",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Nwabisa"
     },
@@ -11723,7 +11704,7 @@
       "date": "2026-05-30",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Nwabisa"
     },
@@ -11894,7 +11875,7 @@
       "date": "2026-05-30",
       "desc": "Bahama Peach Matini 440ml",
       "amount": 240.0,
-      "gp_pct": 20.8,
+      "gp_pct": 20.9,
       "points": 4,
       "cashier": "Nwabisa"
     },
@@ -12029,7 +12010,7 @@
       "date": "2026-05-30",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Nwabisa"
     },
@@ -12119,7 +12100,7 @@
       "date": "2026-05-30",
       "desc": "Gordon's Gin 200ml",
       "amount": 70.0,
-      "gp_pct": 29.9,
+      "gp_pct": 29.2,
       "points": 1,
       "cashier": "Nwabisa"
     },
@@ -12191,7 +12172,7 @@
       "date": "2026-05-30",
       "desc": "Bahama Strawberry 440ml",
       "amount": 120.0,
-      "gp_pct": 25.0,
+      "gp_pct": 20.8,
       "points": 2,
       "cashier": "Nwabisa"
     },
@@ -12254,7 +12235,7 @@
       "date": "2026-05-30",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Nwabisa"
     },
@@ -13118,7 +13099,7 @@
       "date": "2026-05-31",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Thabiso"
     },
@@ -13136,7 +13117,7 @@
       "date": "2026-05-31",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Thabiso"
     },
@@ -13262,7 +13243,7 @@
       "date": "2026-05-31",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Thabiso"
     },
@@ -13289,7 +13270,7 @@
       "date": "2026-05-31",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Thabiso"
     },
@@ -13370,7 +13351,7 @@
       "date": "2026-05-31",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Thabiso"
     },
@@ -13649,7 +13630,7 @@
       "date": "2026-05-31",
       "desc": "Bahama Peach Matini 440ml",
       "amount": 120.0,
-      "gp_pct": 20.8,
+      "gp_pct": 20.9,
       "points": 2,
       "cashier": "Thabiso"
     },
@@ -13730,7 +13711,7 @@
       "date": "2026-05-31",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Thabiso"
     },
@@ -14675,7 +14656,7 @@
       "date": "2026-05-31",
       "desc": "Bahama Peach Matini 440ml",
       "amount": 60.0,
-      "gp_pct": 20.8,
+      "gp_pct": 20.9,
       "points": 1,
       "cashier": "Thabiso"
     },
@@ -14882,7 +14863,7 @@
       "date": "2026-05-31",
       "desc": "Gordon's Gin 200ml",
       "amount": 70.0,
-      "gp_pct": 29.9,
+      "gp_pct": 29.2,
       "points": 1,
       "cashier": "Nwabisa"
     },
@@ -15872,7 +15853,7 @@
       "date": "2026-05-31",
       "desc": "Bahama Peach Matini 440ml",
       "amount": 160.0,
-      "gp_pct": 20.8,
+      "gp_pct": 20.9,
       "points": 3,
       "cashier": "Nwabisa"
     },
@@ -16277,7 +16258,7 @@
       "date": "2026-06-01",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Thabiso"
     },
@@ -16331,7 +16312,7 @@
       "date": "2026-06-01",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Thabiso"
     },
@@ -16367,7 +16348,7 @@
       "date": "2026-06-01",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Thabiso"
     },
@@ -16988,7 +16969,7 @@
       "date": "2026-06-02",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Thabiso"
     },
@@ -17069,7 +17050,7 @@
       "date": "2026-06-02",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Thabiso"
     },
@@ -17078,7 +17059,7 @@
       "date": "2026-06-02",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Thabiso"
     },
@@ -17096,7 +17077,7 @@
       "date": "2026-06-02",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Thabiso"
     },
@@ -17276,7 +17257,7 @@
       "date": "2026-06-02",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Thabiso"
     },
@@ -17303,7 +17284,7 @@
       "date": "2026-06-02",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Thabiso"
     },
@@ -17384,7 +17365,7 @@
       "date": "2026-06-02",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Thabiso"
     },
@@ -17555,7 +17536,7 @@
       "date": "2026-06-03",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Thabiso"
     },
@@ -17618,7 +17599,7 @@
       "date": "2026-06-03",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Thabiso"
     },
@@ -17672,7 +17653,7 @@
       "date": "2026-06-03",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Thabiso"
     },
@@ -17708,7 +17689,7 @@
       "date": "2026-06-03",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Thabiso"
     },
@@ -17717,7 +17698,7 @@
       "date": "2026-06-03",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Thabiso"
     },
@@ -17735,7 +17716,7 @@
       "date": "2026-06-03",
       "desc": "Paarl Perle' 1L",
       "amount": 180.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 3,
       "cashier": "Thabiso"
     },
@@ -17798,7 +17779,7 @@
       "date": "2026-06-03",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Thabiso"
     },
@@ -17870,7 +17851,7 @@
       "date": "2026-06-03",
       "desc": "Paarl Perle' 1L",
       "amount": 90.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 1,
       "cashier": "Thabiso"
     },
@@ -18410,7 +18391,7 @@
       "date": "2026-06-04",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Nwabisa"
     },
@@ -18428,7 +18409,7 @@
       "date": "2026-06-04",
       "desc": "Gordon's Gin 200ml",
       "amount": 70.0,
-      "gp_pct": 29.9,
+      "gp_pct": 29.2,
       "points": 1,
       "cashier": "Nwabisa"
     },
@@ -18482,7 +18463,7 @@
       "date": "2026-06-05",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Nwabisa"
     },
@@ -18491,7 +18472,7 @@
       "date": "2026-06-05",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Nwabisa"
     },
@@ -18518,7 +18499,7 @@
       "date": "2026-06-05",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Nwabisa"
     },
@@ -18527,7 +18508,7 @@
       "date": "2026-06-05",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Nwabisa"
     },
@@ -18536,7 +18517,7 @@
       "date": "2026-06-05",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Nwabisa"
     },
@@ -18545,7 +18526,7 @@
       "date": "2026-06-05",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Nwabisa"
     },
@@ -18617,7 +18598,7 @@
       "date": "2026-06-05",
       "desc": "Paarl Perle' 1L",
       "amount": 135.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 2,
       "cashier": "Nwabisa"
     },
@@ -18635,7 +18616,7 @@
       "date": "2026-06-05",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Nwabisa"
     },
@@ -18671,7 +18652,7 @@
       "date": "2026-06-05",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Nwabisa"
     },
@@ -18752,7 +18733,7 @@
       "date": "2026-06-05",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Nwabisa"
     },
@@ -18797,7 +18778,7 @@
       "date": "2026-06-05",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Nwabisa"
     },
@@ -18905,7 +18886,7 @@
       "date": "2026-06-05",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Thabiso"
     },
@@ -18968,7 +18949,7 @@
       "date": "2026-06-05",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Thabiso"
     },
@@ -19103,7 +19084,7 @@
       "date": "2026-06-05",
       "desc": "Gordon's Gin 200ml",
       "amount": 70.0,
-      "gp_pct": 29.9,
+      "gp_pct": 29.2,
       "points": 1,
       "cashier": "Thabiso"
     },
@@ -19238,7 +19219,7 @@
       "date": "2026-06-06",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Nwabisa"
     },
@@ -19346,7 +19327,7 @@
       "date": "2026-06-06",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Nwabisa"
     },
@@ -19409,7 +19390,7 @@
       "date": "2026-06-06",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Nwabisa"
     },
@@ -19436,7 +19417,7 @@
       "date": "2026-06-06",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Nwabisa"
     },
@@ -19544,7 +19525,7 @@
       "date": "2026-06-06",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Nwabisa"
     },
@@ -19580,7 +19561,7 @@
       "date": "2026-06-06",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Nwabisa"
     },
@@ -19598,7 +19579,7 @@
       "date": "2026-06-06",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Nwabisa"
     },
@@ -19697,7 +19678,7 @@
       "date": "2026-06-06",
       "desc": "Gordon's Gin 200ml",
       "amount": 70.0,
-      "gp_pct": 29.9,
+      "gp_pct": 29.2,
       "points": 1,
       "cashier": "Nwabisa"
     },
@@ -19751,7 +19732,7 @@
       "date": "2026-06-06",
       "desc": "Bahama Strawberry 440ml",
       "amount": 60.0,
-      "gp_pct": 25.0,
+      "gp_pct": 20.8,
       "points": 1,
       "cashier": "Nwabisa"
     },
@@ -19787,7 +19768,7 @@
       "date": "2026-06-06",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Nwabisa"
     },
@@ -19976,7 +19957,7 @@
       "date": "2026-06-06",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Nwabisa"
     },
@@ -20003,7 +19984,7 @@
       "date": "2026-06-06",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Nwabisa"
     },
@@ -20039,7 +20020,7 @@
       "date": "2026-06-06",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Nwabisa"
     },
@@ -20102,7 +20083,7 @@
       "date": "2026-06-06",
       "desc": "Paarl Perle' 1L",
       "amount": 90.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 1,
       "cashier": "Nwabisa"
     },
@@ -20651,7 +20632,7 @@
       "date": "2026-06-07",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Thabiso"
     },
@@ -20669,7 +20650,7 @@
       "date": "2026-06-07",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Thabiso"
     },
@@ -20687,7 +20668,7 @@
       "date": "2026-06-07",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Thabiso"
     },
@@ -20822,7 +20803,7 @@
       "date": "2026-06-07",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Thabiso"
     },
@@ -20894,7 +20875,7 @@
       "date": "2026-06-07",
       "desc": "Paarl Perle' 1L",
       "amount": 90.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 1,
       "cashier": "Thabiso"
     },
@@ -20939,7 +20920,7 @@
       "date": "2026-06-07",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Thabiso"
     },
@@ -21326,7 +21307,7 @@
       "date": "2026-06-07",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Thabiso"
     },
@@ -21425,7 +21406,7 @@
       "date": "2026-06-07",
       "desc": "Gordon's Gin 200ml",
       "amount": 70.0,
-      "gp_pct": 29.9,
+      "gp_pct": 29.2,
       "points": 1,
       "cashier": "Nwabisa"
     },
@@ -21632,7 +21613,7 @@
       "date": "2026-06-07",
       "desc": "Gordon's Gin 200ml",
       "amount": 70.0,
-      "gp_pct": 29.9,
+      "gp_pct": 29.2,
       "points": 1,
       "cashier": "Nwabisa"
     },
@@ -22343,7 +22324,7 @@
       "date": "2026-06-08",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Thabiso"
     },
@@ -22370,7 +22351,7 @@
       "date": "2026-06-08",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Thabiso"
     },
@@ -22442,7 +22423,7 @@
       "date": "2026-06-08",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Thabiso"
     },
@@ -22595,7 +22576,7 @@
       "date": "2026-06-08",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Thabiso"
     },
@@ -22631,7 +22612,7 @@
       "date": "2026-06-08",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Thabiso"
     },
@@ -22667,7 +22648,7 @@
       "date": "2026-06-08",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Thabiso"
     },
@@ -23063,7 +23044,7 @@
       "date": "2026-06-09",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Thabiso"
     },
@@ -23081,7 +23062,7 @@
       "date": "2026-06-09",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Thabiso"
     },
@@ -23423,7 +23404,7 @@
       "date": "2026-06-10",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Thabiso"
     },
@@ -23711,7 +23692,7 @@
       "date": "2026-06-11",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Thabiso"
     },
@@ -23810,7 +23791,7 @@
       "date": "2026-06-11",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Thabiso"
     },
@@ -23837,7 +23818,7 @@
       "date": "2026-06-11",
       "desc": "Gordon's Gin 200ml",
       "amount": 70.0,
-      "gp_pct": 29.9,
+      "gp_pct": 29.2,
       "points": 1,
       "cashier": "Nwabisa"
     },
@@ -24026,7 +24007,7 @@
       "date": "2026-06-12",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Thabiso"
     },
@@ -24062,7 +24043,7 @@
       "date": "2026-06-12",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Thabiso"
     },
@@ -24152,7 +24133,7 @@
       "date": "2026-06-12",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Thabiso"
     },
@@ -24242,7 +24223,7 @@
       "date": "2026-06-12",
       "desc": "Gordon's Gin 200ml",
       "amount": 70.0,
-      "gp_pct": 29.9,
+      "gp_pct": 29.2,
       "points": 1,
       "cashier": "Thabiso"
     },
@@ -24260,7 +24241,7 @@
       "date": "2026-06-12",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Thabiso"
     },
@@ -24278,7 +24259,7 @@
       "date": "2026-06-12",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Thabiso"
     },
@@ -24548,7 +24529,7 @@
       "date": "2026-06-13",
       "desc": "Gordon's Gin 200ml",
       "amount": 70.0,
-      "gp_pct": 29.9,
+      "gp_pct": 29.2,
       "points": 1,
       "cashier": "Nwabisa"
     },
@@ -24620,7 +24601,7 @@
       "date": "2026-06-13",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Nwabisa"
     },
@@ -24800,7 +24781,7 @@
       "date": "2026-06-13",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Nwabisa"
     },
@@ -24899,7 +24880,7 @@
       "date": "2026-06-13",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Thabiso"
     },
@@ -25178,7 +25159,7 @@
       "date": "2026-06-13",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Thabiso"
     },
@@ -25196,7 +25177,7 @@
       "date": "2026-06-13",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Thabiso"
     },
@@ -25403,7 +25384,7 @@
       "date": "2026-06-13",
       "desc": "Gordon's Gin 200ml",
       "amount": 70.0,
-      "gp_pct": 29.9,
+      "gp_pct": 29.2,
       "points": 1,
       "cashier": "Thabiso"
     },
@@ -25691,7 +25672,7 @@
       "date": "2026-06-14",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Thabiso"
     },
@@ -25718,7 +25699,7 @@
       "date": "2026-06-14",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Thabiso"
     },
@@ -26006,7 +25987,7 @@
       "date": "2026-06-14",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Thabiso"
     },
@@ -26015,7 +25996,7 @@
       "date": "2026-06-14",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Thabiso"
     },
@@ -26222,7 +26203,7 @@
       "date": "2026-06-14",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Thabiso"
     },
@@ -27392,7 +27373,7 @@
       "date": "2026-06-15",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Thabiso"
     },
@@ -27437,7 +27418,7 @@
       "date": "2026-06-15",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Thabiso"
     },
@@ -27455,7 +27436,7 @@
       "date": "2026-06-15",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Thabiso"
     },
@@ -27608,7 +27589,7 @@
       "date": "2026-06-15",
       "desc": "Bahama Peach Matini 440ml",
       "amount": 120.0,
-      "gp_pct": 20.8,
+      "gp_pct": 20.9,
       "points": 2,
       "cashier": "Thabiso"
     },
@@ -27698,7 +27679,7 @@
       "date": "2026-06-15",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Thabiso"
     },
@@ -27707,7 +27688,7 @@
       "date": "2026-06-15",
       "desc": "Paarl Perle' 1L",
       "amount": 90.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 1,
       "cashier": "Thabiso"
     },
@@ -27725,7 +27706,7 @@
       "date": "2026-06-15",
       "desc": "Paarl Perle' 1L",
       "amount": 90.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 1,
       "cashier": "Thabiso"
     },
@@ -27896,7 +27877,7 @@
       "date": "2026-06-15",
       "desc": "Bahama Peach Matini 440ml",
       "amount": 120.0,
-      "gp_pct": 20.8,
+      "gp_pct": 20.9,
       "points": 2,
       "cashier": "Nwabisa"
     },
@@ -27950,7 +27931,7 @@
       "date": "2026-06-15",
       "desc": "Bahama Peach Matini 440ml",
       "amount": 120.0,
-      "gp_pct": 20.8,
+      "gp_pct": 20.9,
       "points": 2,
       "cashier": "Nwabisa"
     },
@@ -28049,7 +28030,7 @@
       "date": "2026-06-16",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Thabiso"
     },
@@ -28373,7 +28354,7 @@
       "date": "2026-06-16",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Thabiso"
     },
@@ -28553,7 +28534,7 @@
       "date": "2026-06-16",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Nwabisa"
     },
@@ -28985,7 +28966,7 @@
       "date": "2026-06-17",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Thabiso"
     },
@@ -29075,7 +29056,7 @@
       "date": "2026-06-17",
       "desc": "Gordon's Gin 200ml",
       "amount": 70.0,
-      "gp_pct": 29.9,
+      "gp_pct": 29.2,
       "points": 1,
       "cashier": "Thabiso"
     },
@@ -29219,7 +29200,7 @@
       "date": "2026-06-18",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Thabiso"
     },
@@ -29228,7 +29209,7 @@
       "date": "2026-06-18",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Thabiso"
     },
@@ -29660,7 +29641,7 @@
       "date": "2026-06-19",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Nwabisa"
     },
@@ -29822,7 +29803,7 @@
       "date": "2026-06-19",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Nwabisa"
     },
@@ -29858,7 +29839,7 @@
       "date": "2026-06-19",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Thabiso"
     },
@@ -29939,7 +29920,7 @@
       "date": "2026-06-19",
       "desc": "Paarl Perle' 1L",
       "amount": 90.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 1,
       "cashier": "Thabiso"
     },
@@ -30308,7 +30289,7 @@
       "date": "2026-06-20",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Nwabisa"
     },
@@ -30398,7 +30379,7 @@
       "date": "2026-06-20",
       "desc": "Paarl Perle' 1L",
       "amount": 2200.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 44,
       "cashier": "Nwabisa"
     },
@@ -30713,7 +30694,7 @@
       "date": "2026-06-20",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Thabiso"
     },
@@ -30767,7 +30748,7 @@
       "date": "2026-06-20",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Thabiso"
     },
@@ -30794,7 +30775,7 @@
       "date": "2026-06-20",
       "desc": "Paarl Perle' 1L",
       "amount": 90.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 1,
       "cashier": "Thabiso"
     },
@@ -31352,7 +31333,7 @@
       "date": "2026-06-20",
       "desc": "Gordon's Gin 200ml",
       "amount": 70.0,
-      "gp_pct": 29.9,
+      "gp_pct": 29.2,
       "points": 1,
       "cashier": "Thabiso"
     },
@@ -31586,7 +31567,7 @@
       "date": "2026-06-21",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Thabiso"
     },
@@ -31982,7 +31963,7 @@
       "date": "2026-06-21",
       "desc": "Gordon's Gin 200ml",
       "amount": 70.0,
-      "gp_pct": 29.9,
+      "gp_pct": 29.2,
       "points": 1,
       "cashier": "Thabiso"
     },
@@ -32648,7 +32629,7 @@
       "date": "2026-06-22",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Thabiso"
     },
@@ -32990,7 +32971,7 @@
       "date": "2026-06-23",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Thabiso"
     },
@@ -33116,7 +33097,7 @@
       "date": "2026-06-24",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Thabiso"
     },
@@ -33269,7 +33250,7 @@
       "date": "2026-06-24",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Thabiso"
     },
@@ -33467,7 +33448,7 @@
       "date": "2026-06-25",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Thabiso"
     },
@@ -33485,7 +33466,7 @@
       "date": "2026-06-25",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Thabiso"
     },
@@ -33557,7 +33538,7 @@
       "date": "2026-06-25",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Thabiso"
     },
@@ -33620,7 +33601,7 @@
       "date": "2026-06-25",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Thabiso"
     },
@@ -33800,7 +33781,7 @@
       "date": "2026-06-25",
       "desc": "Gordon's Gin 200ml",
       "amount": 70.0,
-      "gp_pct": 29.9,
+      "gp_pct": 29.2,
       "points": 1,
       "cashier": "Thabiso"
     },
@@ -33836,7 +33817,7 @@
       "date": "2026-06-25",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Thabiso"
     },
@@ -33935,7 +33916,7 @@
       "date": "2026-06-25",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Nwabisa"
     },
@@ -34214,7 +34195,7 @@
       "date": "2026-06-26",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Nwabisa"
     },
@@ -34259,7 +34240,7 @@
       "date": "2026-06-26",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Nwabisa"
     },
@@ -34403,7 +34384,7 @@
       "date": "2026-06-26",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Nwabisa"
     },
@@ -34475,7 +34456,7 @@
       "date": "2026-06-26",
       "desc": "Paarl Perle' 1L",
       "amount": 900.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 18,
       "cashier": "Nwabisa"
     },
@@ -34790,7 +34771,7 @@
       "date": "2026-06-26",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Thabiso"
     },
@@ -34808,7 +34789,7 @@
       "date": "2026-06-26",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Thabiso"
     },
@@ -34817,7 +34798,7 @@
       "date": "2026-06-26",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Thabiso"
     },
@@ -35060,7 +35041,7 @@
       "date": "2026-06-26",
       "desc": "Gordon's Gin 200ml",
       "amount": 70.0,
-      "gp_pct": 29.9,
+      "gp_pct": 29.2,
       "points": 1,
       "cashier": "Thabiso"
     },
@@ -35933,7 +35914,7 @@
       "date": "2026-06-27",
       "desc": "Paarl Perle' 1L",
       "amount": 450.0,
-      "gp_pct": 21.9,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Nwabisa"
     },
@@ -36039,7 +36020,7 @@
   ],
   "stock_summary": {
     "total_products": 743,
-    "out_of_stock": 473,
+    "out_of_stock": 472,
     "on_promo": 2,
     "dead_stock_30d": 74,
     "loyalty_eligible": 281
