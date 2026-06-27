@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-27T12:00:29.252839",
+    "generated_at": "2026-06-27T12:07:09.690381",
     "generated_date": "2026-06-27",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-27",
-    "revenue": 10717.0,
-    "cost": 11804.04,
-    "gp_pct": -10.1,
-    "transactions": 105,
-    "vs_yesterday": -41912.09
+    "revenue": 11037.0,
+    "cost": 12111.17,
+    "gp_pct": -9.7,
+    "transactions": 109,
+    "vs_yesterday": -41592.09
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 642867.44,
-    "cost": 625729.25,
+    "revenue": 643187.44,
+    "cost": 626036.38,
     "gp_pct": 2.7,
-    "transactions": 6135,
+    "transactions": 6139,
     "days_elapsed": 27
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-27",
-      "revenue": 10717.0,
-      "cost": 11804.04,
-      "transactions": 105,
-      "gp_pct": -10.1
+      "revenue": 11037.0,
+      "cost": 12111.17,
+      "transactions": 109,
+      "gp_pct": -9.7
     }
   ],
   "hourly_today": [
@@ -592,10 +592,10 @@
     {
       "hour": 12,
       "label": "12:00",
-      "revenue": 0.0,
-      "cost": 0.0,
-      "gp_pct": 0.0,
-      "transactions": 0
+      "revenue": 320.0,
+      "cost": 279.37,
+      "gp_pct": 12.7,
+      "transactions": 4
     },
     {
       "hour": 13,
@@ -692,8 +692,8 @@
       "desc": "Carling Black Label 750ml",
       "price": 25.0,
       "gp_pct": 24.3,
-      "revenue": 196284.7,
-      "qty_sold": 9045.0
+      "revenue": 196309.7,
+      "qty_sold": 9046.0
     },
     {
       "internal": 171,
@@ -732,8 +732,8 @@
       "desc": "Commando Brandy 750ml",
       "price": 200.0,
       "gp_pct": 10.5,
-      "revenue": 23779.17,
-      "qty_sold": 119.0
+      "revenue": 23979.17,
+      "qty_sold": 120.0
     },
     {
       "internal": 439,
@@ -858,9 +858,9 @@
     },
     {
       "cashier": "Nwabisa",
-      "revenue": 395986.07,
-      "cost": 374667.88,
-      "transactions": 3681,
+      "revenue": 396306.07,
+      "cost": 374975.01,
+      "transactions": 3685,
       "gp_pct": 5.4
     }
   ],
