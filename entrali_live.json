@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-27T14:38:15.846180",
+    "generated_at": "2026-06-27T14:44:55.196684",
     "generated_date": "2026-06-27",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-27",
-    "revenue": 19121.5,
-    "cost": 19981.49,
-    "gp_pct": -4.5,
-    "transactions": 184,
-    "vs_yesterday": -33507.59
+    "revenue": 19921.5,
+    "cost": 20707.19,
+    "gp_pct": -3.9,
+    "transactions": 188,
+    "vs_yesterday": -32707.59
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 651271.94,
-    "cost": 633906.7,
+    "revenue": 652071.94,
+    "cost": 634632.4,
     "gp_pct": 2.7,
-    "transactions": 6214,
+    "transactions": 6218,
     "days_elapsed": 27
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-27",
-      "revenue": 19121.5,
-      "cost": 19981.49,
-      "transactions": 184,
-      "gp_pct": -4.5
+      "revenue": 19921.5,
+      "cost": 20707.19,
+      "transactions": 188,
+      "gp_pct": -3.9
     }
   ],
   "hourly_today": [
@@ -608,10 +608,10 @@
     {
       "hour": 14,
       "label": "14:00",
-      "revenue": 2682.0,
-      "cost": 2440.92,
-      "gp_pct": 9.0,
-      "transactions": 25
+      "revenue": 3482.0,
+      "cost": 3203.95,
+      "gp_pct": 8.0,
+      "transactions": 29
     },
     {
       "hour": 15,
@@ -700,8 +700,8 @@
       "desc": "Paarl Perle' 1L",
       "price": 45.0,
       "gp_pct": 21.3,
-      "revenue": 73270.0,
-      "qty_sold": 1835.0
+      "revenue": 73720.0,
+      "qty_sold": 1847.0
     },
     {
       "internal": 188,
@@ -836,8 +836,8 @@
       "desc": "Bernini Blush 500ml",
       "price": 25.0,
       "gp_pct": 38.4,
-      "revenue": 10680.0,
-      "qty_sold": 540.0
+      "revenue": 10770.0,
+      "qty_sold": 546.0
     },
     {
       "internal": 224,
@@ -858,9 +858,9 @@
     },
     {
       "cashier": "Nwabisa",
-      "revenue": 404390.57,
-      "cost": 382845.33,
-      "transactions": 3760,
+      "revenue": 405190.57,
+      "cost": 383571.03,
+      "transactions": 3764,
       "gp_pct": 5.3
     }
   ],
@@ -34286,6 +34286,15 @@
       "amount": 50.0,
       "gp_pct": 24.3,
       "points": 1,
+      "cashier": "Nwabisa"
+    },
+    {
+      "number": 518006,
+      "date": "2026-06-27",
+      "desc": "Paarl Perle' 1L",
+      "amount": 450.0,
+      "gp_pct": 21.3,
+      "points": 9,
       "cashier": "Nwabisa"
     }
   ],
