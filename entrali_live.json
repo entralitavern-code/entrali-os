@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-28T00:25:23.091871",
+    "generated_at": "2026-06-28T00:31:47.989889",
     "generated_date": "2026-06-28",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-28",
-    "revenue": 876.0,
-    "cost": 792.63,
-    "gp_pct": 9.5,
-    "transactions": 9,
-    "vs_yesterday": -68888.45
+    "revenue": 996.0,
+    "cost": 887.63,
+    "gp_pct": 10.9,
+    "transactions": 10,
+    "vs_yesterday": -68768.45
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 702790.89,
-    "cost": 639060.06,
+    "revenue": 702910.89,
+    "cost": 639155.06,
     "gp_pct": 9.1,
-    "transactions": 6640,
+    "transactions": 6641,
     "days_elapsed": 28
   },
   "latest_cashup": {
@@ -486,20 +486,20 @@
     },
     {
       "date": "2026-06-28",
-      "revenue": 876.0,
-      "cost": 792.63,
-      "transactions": 9,
-      "gp_pct": 9.5
+      "revenue": 996.0,
+      "cost": 887.63,
+      "transactions": 10,
+      "gp_pct": 10.9
     }
   ],
   "hourly_today": [
     {
       "hour": 0,
       "label": "00:00",
-      "revenue": 876.0,
-      "cost": 792.63,
-      "gp_pct": 9.5,
-      "transactions": 9
+      "revenue": 996.0,
+      "cost": 887.63,
+      "gp_pct": 10.9,
+      "transactions": 10
     },
     {
       "hour": 1,
@@ -851,9 +851,9 @@
   "cashier_summary": [
     {
       "cashier": "Thabiso",
-      "revenue": 457739.86,
-      "cost": 420415.32,
-      "transactions": 4324,
+      "revenue": 457859.86,
+      "cost": 420510.31,
+      "transactions": 4325,
       "gp_pct": 8.2
     },
     {
@@ -39035,6 +39035,15 @@
       "amount": 50.0,
       "gp_pct": 24.3,
       "points": 1,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 518431,
+      "date": "2026-06-28",
+      "desc": "Bahama Watermelon 440ml",
+      "amount": 120.0,
+      "gp_pct": 20.8,
+      "points": 2,
       "cashier": "Thabiso"
     }
   ],
