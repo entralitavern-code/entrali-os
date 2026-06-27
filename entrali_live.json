@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-27T22:26:19.938854",
+    "generated_at": "2026-06-27T22:32:57.840075",
     "generated_date": "2026-06-27",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-27",
-    "revenue": 63081.77,
-    "cost": 57575.38,
+    "revenue": 63496.61,
+    "cost": 57973.02,
     "gp_pct": 8.7,
-    "transactions": 550,
-    "vs_yesterday": 10452.68
+    "transactions": 554,
+    "vs_yesterday": 10867.52
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 695232.21,
-    "cost": 632121.59,
+    "revenue": 695647.05,
+    "cost": 632519.23,
     "gp_pct": 9.1,
-    "transactions": 6580,
+    "transactions": 6584,
     "days_elapsed": 27
   },
   "latest_cashup": {
@@ -486,9 +486,9 @@
     },
     {
       "date": "2026-06-27",
-      "revenue": 63081.77,
-      "cost": 57575.38,
-      "transactions": 550,
+      "revenue": 63496.61,
+      "cost": 57973.02,
+      "transactions": 554,
       "gp_pct": 8.7
     }
   ],
@@ -672,10 +672,10 @@
     {
       "hour": 22,
       "label": "22:00",
-      "revenue": 1409.92,
-      "cost": 1291.82,
-      "gp_pct": 8.4,
-      "transactions": 11
+      "revenue": 1824.76,
+      "cost": 1641.55,
+      "gp_pct": 10.0,
+      "transactions": 15
     },
     {
       "hour": 23,
@@ -804,8 +804,8 @@
       "desc": "Bernini Classic 500ml",
       "price": 25.0,
       "gp_pct": 38.4,
-      "revenue": 14655.0,
-      "qty_sold": 780.0
+      "revenue": 14705.0,
+      "qty_sold": 782.0
     },
     {
       "internal": 266,
@@ -851,9 +851,9 @@
   "cashier_summary": [
     {
       "cashier": "Thabiso",
-      "revenue": 457148.18,
-      "cost": 419770.52,
-      "transactions": 4319,
+      "revenue": 457563.02,
+      "cost": 420168.16,
+      "transactions": 4323,
       "gp_pct": 8.2
     },
     {
@@ -39052,6 +39052,42 @@
       "desc": "Old Buck Gin 200ml",
       "amount": 65.0,
       "gp_pct": 20.8,
+      "points": 1,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 518372,
+      "date": "2026-06-27",
+      "desc": "Sol NRB 330ml",
+      "amount": 169.92,
+      "gp_pct": 21.9,
+      "points": 3,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 518373,
+      "date": "2026-06-27",
+      "desc": "Sol NRB 330ml",
+      "amount": 169.92,
+      "gp_pct": 21.9,
+      "points": 3,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 518374,
+      "date": "2026-06-27",
+      "desc": "Bernini Classic 500ml",
+      "amount": 50.0,
+      "gp_pct": 38.4,
+      "points": 1,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 518375,
+      "date": "2026-06-27",
+      "desc": "Ice cubes",
+      "amount": 60.0,
+      "gp_pct": 50.0,
       "points": 1,
       "cashier": "Thabiso"
     }
