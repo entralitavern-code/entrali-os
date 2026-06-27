@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-27T13:25:28.873919",
+    "generated_at": "2026-06-27T13:32:11.730717",
     "generated_date": "2026-06-27",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-27",
-    "revenue": 13454.0,
-    "cost": 14006.05,
-    "gp_pct": -4.1,
-    "transactions": 142,
-    "vs_yesterday": -39175.09
+    "revenue": 13744.0,
+    "cost": 15033.0,
+    "gp_pct": -9.4,
+    "transactions": 145,
+    "vs_yesterday": -38885.09
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 645604.44,
-    "cost": 627931.26,
-    "gp_pct": 2.7,
-    "transactions": 6172,
+    "revenue": 645894.44,
+    "cost": 628958.21,
+    "gp_pct": 2.6,
+    "transactions": 6175,
     "days_elapsed": 27
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-27",
-      "revenue": 13454.0,
-      "cost": 14006.05,
-      "transactions": 142,
-      "gp_pct": -4.1
+      "revenue": 13744.0,
+      "cost": 15033.0,
+      "transactions": 145,
+      "gp_pct": -9.4
     }
   ],
   "hourly_today": [
@@ -600,10 +600,10 @@
     {
       "hour": 13,
       "label": "13:00",
-      "revenue": 786.0,
-      "cost": 661.78,
-      "gp_pct": 15.8,
-      "transactions": 12
+      "revenue": 1076.0,
+      "cost": 1688.73,
+      "gp_pct": -56.9,
+      "transactions": 15
     },
     {
       "hour": 14,
@@ -768,20 +768,20 @@
       "qty_sold": 739.0
     },
     {
+      "internal": 200,
+      "desc": "KWV 3yrs 750ml",
+      "price": 200.0,
+      "gp_pct": -359.0,
+      "revenue": 15460.0,
+      "qty_sold": 79.0
+    },
+    {
       "internal": 169,
       "desc": "Redd's Original 660ml",
       "price": 25.0,
       "gp_pct": 17.0,
       "revenue": 15297.0,
       "qty_sold": 641.0
-    },
-    {
-      "internal": 200,
-      "desc": "KWV 3yrs 750ml",
-      "price": 200.0,
-      "gp_pct": -359.0,
-      "revenue": 15280.0,
-      "qty_sold": 78.0
     },
     {
       "internal": 183,
@@ -836,8 +836,8 @@
       "desc": "Castle Lager 750ml",
       "price": 20.0,
       "gp_pct": 17.1,
-      "revenue": 10611.57,
-      "qty_sold": 531.0
+      "revenue": 10631.57,
+      "qty_sold": 532.0
     },
     {
       "internal": 224,
@@ -858,10 +858,10 @@
     },
     {
       "cashier": "Nwabisa",
-      "revenue": 398723.07,
-      "cost": 376869.89,
-      "transactions": 3718,
-      "gp_pct": 5.5
+      "revenue": 399013.07,
+      "cost": 377896.84,
+      "transactions": 3721,
+      "gp_pct": 5.3
     }
   ],
   "low_stock_alerts": [
