@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-27T13:51:35.853614",
+    "generated_at": "2026-06-27T13:58:05.543839",
     "generated_date": "2026-06-27",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-27",
-    "revenue": 16159.0,
-    "cost": 17268.48,
-    "gp_pct": -6.9,
-    "transactions": 155,
-    "vs_yesterday": -36470.09
+    "revenue": 16364.0,
+    "cost": 17437.15,
+    "gp_pct": -6.6,
+    "transactions": 157,
+    "vs_yesterday": -36265.09
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 648309.44,
-    "cost": 631193.69,
+    "revenue": 648514.44,
+    "cost": 631362.36,
     "gp_pct": 2.6,
-    "transactions": 6185,
+    "transactions": 6187,
     "days_elapsed": 27
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-27",
-      "revenue": 16159.0,
-      "cost": 17268.48,
-      "transactions": 155,
-      "gp_pct": -6.9
+      "revenue": 16364.0,
+      "cost": 17437.15,
+      "transactions": 157,
+      "gp_pct": -6.6
     }
   ],
   "hourly_today": [
@@ -600,10 +600,10 @@
     {
       "hour": 13,
       "label": "13:00",
-      "revenue": 3491.0,
-      "cost": 3924.21,
-      "gp_pct": -12.4,
-      "transactions": 25
+      "revenue": 3696.0,
+      "cost": 4092.87,
+      "gp_pct": -10.7,
+      "transactions": 27
     },
     {
       "hour": 14,
@@ -692,8 +692,8 @@
       "desc": "Carling Black Label 750ml",
       "price": 25.0,
       "gp_pct": 24.3,
-      "revenue": 197053.7,
-      "qty_sold": 9078.0
+      "revenue": 197078.7,
+      "qty_sold": 9079.0
     },
     {
       "internal": 171,
@@ -744,20 +744,20 @@
       "qty_sold": 130.0
     },
     {
+      "internal": 238,
+      "desc": "4th Street Sweet Red 5L",
+      "price": 180.0,
+      "gp_pct": 16.8,
+      "revenue": 20880.0,
+      "qty_sold": 116.0
+    },
+    {
       "internal": 161,
       "desc": "Savanna Dry 500ml",
       "price": 25.0,
       "gp_pct": 13.3,
       "revenue": 20825.0,
       "qty_sold": 833.0
-    },
-    {
-      "internal": 238,
-      "desc": "4th Street Sweet Red 5L",
-      "price": 180.0,
-      "gp_pct": 16.8,
-      "revenue": 20700.0,
-      "qty_sold": 115.0
     },
     {
       "internal": 231,
@@ -858,9 +858,9 @@
     },
     {
       "cashier": "Nwabisa",
-      "revenue": 401428.07,
-      "cost": 380132.32,
-      "transactions": 3731,
+      "revenue": 401633.07,
+      "cost": 380300.99,
+      "transactions": 3733,
       "gp_pct": 5.3
     }
   ],
