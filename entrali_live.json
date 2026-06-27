@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-27T21:32:42.780779",
+    "generated_at": "2026-06-27T21:39:26.721206",
     "generated_date": "2026-06-27",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-27",
-    "revenue": 59625.09,
-    "cost": 54492.16,
-    "gp_pct": 8.6,
-    "transactions": 523,
-    "vs_yesterday": 6996.0
+    "revenue": 59740.09,
+    "cost": 54714.39,
+    "gp_pct": 8.4,
+    "transactions": 525,
+    "vs_yesterday": 7111.0
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 691775.53,
-    "cost": 629038.37,
+    "revenue": 691890.53,
+    "cost": 629260.6,
     "gp_pct": 9.1,
-    "transactions": 6553,
+    "transactions": 6555,
     "days_elapsed": 27
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-27",
-      "revenue": 59625.09,
-      "cost": 54492.16,
-      "transactions": 523,
-      "gp_pct": 8.6
+      "revenue": 59740.09,
+      "cost": 54714.39,
+      "transactions": 525,
+      "gp_pct": 8.4
     }
   ],
   "hourly_today": [
@@ -664,10 +664,10 @@
     {
       "hour": 21,
       "label": "21:00",
-      "revenue": 3238.0,
-      "cost": 2637.58,
-      "gp_pct": 18.5,
-      "transactions": 27
+      "revenue": 3353.0,
+      "cost": 2710.82,
+      "gp_pct": 19.2,
+      "transactions": 29
     },
     {
       "hour": 22,
@@ -812,8 +812,8 @@
       "desc": "Pork Chops",
       "price": 40.0,
       "gp_pct": 39.4,
-      "revenue": 13325.0,
-      "qty_sold": 388.0
+      "revenue": 13365.0,
+      "qty_sold": 389.0
     },
     {
       "internal": 55,
@@ -836,25 +836,25 @@
       "desc": "Braaiwors",
       "price": 35.0,
       "gp_pct": 28.6,
-      "revenue": 12650.0,
-      "qty_sold": 407.0
+      "revenue": 12685.0,
+      "qty_sold": 408.0
     },
     {
-      "internal": 134,
-      "desc": "Castle Lager 750ml",
-      "price": 20.0,
-      "gp_pct": 17.1,
-      "revenue": 11271.57,
-      "qty_sold": 564.0
+      "internal": 224,
+      "desc": "Gordon's Gin 750ml",
+      "price": 160.0,
+      "gp_pct": 6.9,
+      "revenue": 11320.0,
+      "qty_sold": 64.0
     }
   ],
   "cashier_summary": [
     {
       "cashier": "Thabiso",
-      "revenue": 453691.5,
-      "cost": 416687.3,
-      "transactions": 4292,
-      "gp_pct": 8.2
+      "revenue": 453806.5,
+      "cost": 416909.53,
+      "transactions": 4294,
+      "gp_pct": 8.1
     },
     {
       "cashier": "Nwabisa",
