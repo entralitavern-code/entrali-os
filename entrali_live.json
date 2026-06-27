@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-27T20:38:36.951326",
+    "generated_at": "2026-06-27T20:45:30.331286",
     "generated_date": "2026-06-27",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-27",
-    "revenue": 55317.09,
-    "cost": 50951.58,
-    "gp_pct": 7.9,
-    "transactions": 484,
-    "vs_yesterday": 2688.0
+    "revenue": 55572.09,
+    "cost": 51146.3,
+    "gp_pct": 8.0,
+    "transactions": 486,
+    "vs_yesterday": 2943.0
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 687467.53,
-    "cost": 625497.79,
+    "revenue": 687722.53,
+    "cost": 625692.52,
     "gp_pct": 9.0,
-    "transactions": 6514,
+    "transactions": 6516,
     "days_elapsed": 27
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-27",
-      "revenue": 55317.09,
-      "cost": 50951.58,
-      "transactions": 484,
-      "gp_pct": 7.9
+      "revenue": 55572.09,
+      "cost": 51146.3,
+      "transactions": 486,
+      "gp_pct": 8.0
     }
   ],
   "hourly_today": [
@@ -656,10 +656,10 @@
     {
       "hour": 20,
       "label": "20:00",
-      "revenue": 2638.34,
-      "cost": 2207.82,
-      "gp_pct": 16.3,
-      "transactions": 22
+      "revenue": 2893.34,
+      "cost": 2402.55,
+      "gp_pct": 17.0,
+      "transactions": 24
     },
     {
       "hour": 21,
@@ -764,8 +764,8 @@
       "desc": "Heineken 650ml",
       "price": 25.0,
       "gp_pct": 10.3,
-      "revenue": 19600.0,
-      "qty_sold": 784.0
+      "revenue": 19700.0,
+      "qty_sold": 788.0
     },
     {
       "internal": 712,
@@ -812,8 +812,8 @@
       "desc": "Pork Chops",
       "price": 40.0,
       "gp_pct": 39.4,
-      "revenue": 13205.0,
-      "qty_sold": 385.0
+      "revenue": 13285.0,
+      "qty_sold": 387.0
     },
     {
       "internal": 184,
@@ -836,8 +836,8 @@
       "desc": "Braaiwors",
       "price": 35.0,
       "gp_pct": 28.6,
-      "revenue": 12615.0,
-      "qty_sold": 406.0
+      "revenue": 12650.0,
+      "qty_sold": 407.0
     },
     {
       "internal": 134,
@@ -851,9 +851,9 @@
   "cashier_summary": [
     {
       "cashier": "Thabiso",
-      "revenue": 449383.5,
-      "cost": 413146.72,
-      "transactions": 4253,
+      "revenue": 449638.5,
+      "cost": 413341.44,
+      "transactions": 4255,
       "gp_pct": 8.1
     },
     {
@@ -38681,6 +38681,15 @@
       "desc": "Bernini Classic 500ml",
       "amount": 50.0,
       "gp_pct": 38.4,
+      "points": 1,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 518305,
+      "date": "2026-06-27",
+      "desc": "Pork Chops",
+      "amount": 80.0,
+      "gp_pct": 39.4,
       "points": 1,
       "cashier": "Thabiso"
     }
