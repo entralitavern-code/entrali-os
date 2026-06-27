@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-27T11:08:03.006696",
+    "generated_at": "2026-06-27T11:14:39.224674",
     "generated_date": "2026-06-27",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-27",
-    "revenue": 9348.0,
-    "cost": 10109.13,
-    "gp_pct": -8.1,
-    "transactions": 86,
-    "vs_yesterday": -43281.09
+    "revenue": 9347.0,
+    "cost": 10146.96,
+    "gp_pct": -8.6,
+    "transactions": 87,
+    "vs_yesterday": -43282.09
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 641498.44,
-    "cost": 624146.14,
+    "revenue": 641497.44,
+    "cost": 624072.17,
     "gp_pct": 2.7,
-    "transactions": 6116,
+    "transactions": 6117,
     "days_elapsed": 27
   },
   "latest_cashup": {
@@ -277,35 +277,35 @@
     {
       "date": "2026-05-28",
       "revenue": 11107.0,
-      "cost": 9879.46,
+      "cost": 9875.3,
       "transactions": 115,
       "gp_pct": 11.1
     },
     {
       "date": "2026-05-29",
       "revenue": 35311.7,
-      "cost": 33041.76,
+      "cost": 33027.6,
       "transactions": 347,
-      "gp_pct": 6.4
+      "gp_pct": 6.5
     },
     {
       "date": "2026-05-30",
       "revenue": 63530.71,
-      "cost": 65885.96,
+      "cost": 65862.17,
       "transactions": 551,
       "gp_pct": -3.7
     },
     {
       "date": "2026-05-31",
       "revenue": 86103.38,
-      "cost": 83346.04,
+      "cost": 83333.57,
       "transactions": 733,
       "gp_pct": 3.2
     },
     {
       "date": "2026-06-01",
       "revenue": 25074.83,
-      "cost": 24219.6,
+      "cost": 24218.6,
       "transactions": 274,
       "gp_pct": 3.4
     },
@@ -326,37 +326,37 @@
     {
       "date": "2026-06-04",
       "revenue": 17648.5,
-      "cost": 17607.49,
+      "cost": 17606.49,
       "transactions": 148,
       "gp_pct": 0.2
     },
     {
       "date": "2026-06-05",
       "revenue": 34210.03,
-      "cost": 32241.55,
+      "cost": 32228.07,
       "transactions": 231,
       "gp_pct": 5.8
     },
     {
       "date": "2026-06-06",
       "revenue": 47307.21,
-      "cost": 45046.09,
+      "cost": 45036.78,
       "transactions": 389,
       "gp_pct": 4.8
     },
     {
       "date": "2026-06-07",
       "revenue": 61864.25,
-      "cost": 61710.98,
+      "cost": 61705.82,
       "transactions": 544,
-      "gp_pct": 0.2
+      "gp_pct": 0.3
     },
     {
       "date": "2026-06-08",
       "revenue": 23564.38,
-      "cost": 23790.96,
+      "cost": 23782.64,
       "transactions": 269,
-      "gp_pct": -1.0
+      "gp_pct": -0.9
     },
     {
       "date": "2026-06-09",
@@ -368,7 +368,7 @@
     {
       "date": "2026-06-10",
       "revenue": 6651.0,
-      "cost": 6314.78,
+      "cost": 6309.62,
       "transactions": 85,
       "gp_pct": 5.1
     },
@@ -382,51 +382,51 @@
     {
       "date": "2026-06-12",
       "revenue": 16504.5,
-      "cost": 15687.44,
+      "cost": 15683.28,
       "transactions": 130,
       "gp_pct": 5.0
     },
     {
       "date": "2026-06-13",
       "revenue": 34556.0,
-      "cost": 34167.53,
+      "cost": 34159.21,
       "transactions": 325,
       "gp_pct": 1.1
     },
     {
       "date": "2026-06-14",
       "revenue": 40977.88,
-      "cost": 37662.5,
+      "cost": 37650.02,
       "transactions": 414,
       "gp_pct": 8.1
     },
     {
       "date": "2026-06-15",
       "revenue": 22084.0,
-      "cost": 22635.04,
+      "cost": 22633.04,
       "transactions": 282,
       "gp_pct": -2.5
     },
     {
       "date": "2026-06-16",
       "revenue": 26556.84,
-      "cost": 27306.56,
+      "cost": 27292.09,
       "transactions": 325,
       "gp_pct": -2.8
     },
     {
       "date": "2026-06-17",
       "revenue": 11093.0,
-      "cost": 9675.45,
+      "cost": 9658.82,
       "transactions": 143,
-      "gp_pct": 12.8
+      "gp_pct": 12.9
     },
     {
       "date": "2026-06-18",
       "revenue": 11496.0,
-      "cost": 12552.93,
+      "cost": 12543.61,
       "transactions": 121,
-      "gp_pct": -9.2
+      "gp_pct": -9.1
     },
     {
       "date": "2026-06-19",
@@ -466,7 +466,7 @@
     {
       "date": "2026-06-24",
       "revenue": 10642.88,
-      "cost": 9813.55,
+      "cost": 9812.55,
       "transactions": 92,
       "gp_pct": 7.8
     },
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-27",
-      "revenue": 9348.0,
-      "cost": 10109.13,
-      "transactions": 86,
-      "gp_pct": -8.1
+      "revenue": 9347.0,
+      "cost": 10146.96,
+      "transactions": 87,
+      "gp_pct": -8.6
     }
   ],
   "hourly_today": [
@@ -584,10 +584,10 @@
     {
       "hour": 11,
       "label": "11:00",
-      "revenue": 25.0,
+      "revenue": 24.0,
       "cost": 18.92,
-      "gp_pct": 24.3,
-      "transactions": 1
+      "gp_pct": 21.2,
+      "transactions": 2
     },
     {
       "hour": 12,
@@ -692,8 +692,8 @@
       "desc": "Carling Black Label 750ml",
       "price": 25.0,
       "gp_pct": 24.3,
-      "revenue": 195352.7,
-      "qty_sold": 9001.0
+      "revenue": 195402.7,
+      "qty_sold": 9003.0
     },
     {
       "internal": 171,
@@ -852,15 +852,15 @@
     {
       "cashier": "Thabiso",
       "revenue": 442934.16,
-      "cost": 440151.68,
+      "cost": 440049.04,
       "transactions": 4200,
-      "gp_pct": 0.6
+      "gp_pct": 0.7
     },
     {
       "cashier": "Nwabisa",
-      "revenue": 394617.07,
-      "cost": 373036.71,
-      "transactions": 3662,
+      "revenue": 394616.07,
+      "cost": 373010.8,
+      "transactions": 3663,
       "gp_pct": 5.5
     }
   ],
@@ -1006,13 +1006,13 @@
       "price": -1.0,
       "cost": -2.0,
       "gp_pct": 0.0,
-      "qty": -392.0,
+      "qty": -393.0,
       "minimum": 0.0,
       "maximum": 0.0,
       "on_promo": false,
       "promo_price": null,
-      "days_since_sold": 1,
-      "lastsold": "2026-06-26",
+      "days_since_sold": 0,
+      "lastsold": "2026-06-27",
       "lastbuy": null,
       "loyalty_eligible": false,
       "alert": "OUT OF STOCK"
@@ -1056,25 +1056,6 @@
       "alert": "OUT OF STOCK"
     },
     {
-      "internal": 469,
-      "part_no": "4006",
-      "desc": "Drinking Glass Hiball",
-      "group": "10",
-      "price": 10.0,
-      "cost": 7.99,
-      "gp_pct": 20.1,
-      "qty": -101.0,
-      "minimum": 0.0,
-      "maximum": 0.0,
-      "on_promo": false,
-      "promo_price": null,
-      "days_since_sold": 3,
-      "lastsold": "2026-06-24",
-      "lastbuy": "2025-08-31",
-      "loyalty_eligible": true,
-      "alert": "OUT OF STOCK"
-    },
-    {
       "internal": 126,
       "part_no": "354",
       "desc": "Savannah",
@@ -1094,21 +1075,21 @@
       "alert": "OUT OF STOCK"
     },
     {
-      "internal": 399,
-      "part_no": "4061",
-      "desc": "Drinking Glass Zombie",
+      "internal": 469,
+      "part_no": "4006",
+      "desc": "Drinking Glass Hiball",
       "group": "10",
       "price": 10.0,
-      "cost": 7.99,
-      "gp_pct": 20.1,
-      "qty": -48.0,
+      "cost": 6.99,
+      "gp_pct": 30.1,
+      "qty": -60.0,
       "minimum": 0.0,
       "maximum": 0.0,
       "on_promo": false,
       "promo_price": null,
-      "days_since_sold": 0,
-      "lastsold": "2026-06-27",
-      "lastbuy": "2025-12-26",
+      "days_since_sold": 3,
+      "lastsold": "2026-06-24",
+      "lastbuy": "2026-06-27",
       "loyalty_eligible": true,
       "alert": "OUT OF STOCK"
     },
@@ -1208,25 +1189,6 @@
       "alert": "OUT OF STOCK"
     },
     {
-      "internal": 496,
-      "part_no": "40061",
-      "desc": "Drinking Glass Fancy",
-      "group": "10",
-      "price": 5.0,
-      "cost": 7.99,
-      "gp_pct": -59.8,
-      "qty": -39.0,
-      "minimum": 0.0,
-      "maximum": 0.0,
-      "on_promo": false,
-      "promo_price": null,
-      "days_since_sold": 9,
-      "lastsold": "2026-06-18",
-      "lastbuy": "2025-08-31",
-      "loyalty_eligible": false,
-      "alert": "OUT OF STOCK"
-    },
-    {
       "internal": 603,
       "part_no": "42",
       "desc": "Pork x3",
@@ -1318,6 +1280,25 @@
       "days_since_sold": 54,
       "lastsold": "2026-05-04",
       "lastbuy": "2020-02-25",
+      "loyalty_eligible": true,
+      "alert": "OUT OF STOCK"
+    },
+    {
+      "internal": 399,
+      "part_no": "4061",
+      "desc": "Drinking Glass Zombie",
+      "group": "10",
+      "price": 10.0,
+      "cost": 7.99,
+      "gp_pct": 20.1,
+      "qty": -24.0,
+      "minimum": 0.0,
+      "maximum": 0.0,
+      "on_promo": false,
+      "promo_price": null,
+      "days_since_sold": 0,
+      "lastsold": "2026-06-27",
+      "lastbuy": "2026-06-27",
       "loyalty_eligible": true,
       "alert": "OUT OF STOCK"
     },
@@ -36016,13 +35997,22 @@
       "gp_pct": 24.3,
       "points": 9,
       "cashier": "Nwabisa"
+    },
+    {
+      "number": 517908,
+      "date": "2026-06-27",
+      "desc": "Carling Black Label 750ml",
+      "amount": 50.0,
+      "gp_pct": 24.3,
+      "points": 1,
+      "cashier": "Nwabisa"
     }
   ],
   "stock_summary": {
     "total_products": 743,
-    "out_of_stock": 472,
+    "out_of_stock": 471,
     "on_promo": 2,
     "dead_stock_30d": 74,
-    "loyalty_eligible": 281
+    "loyalty_eligible": 282
   }
 }
