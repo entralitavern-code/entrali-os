@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-27T15:43:26.727754",
+    "generated_at": "2026-06-27T15:50:06.896650",
     "generated_date": "2026-06-27",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-27",
-    "revenue": 23121.5,
-    "cost": 23437.8,
-    "gp_pct": -1.4,
-    "transactions": 225,
-    "vs_yesterday": -29507.59
+    "revenue": 23841.5,
+    "cost": 24891.9,
+    "gp_pct": -4.4,
+    "transactions": 230,
+    "vs_yesterday": -28787.59
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 655271.94,
-    "cost": 637363.01,
-    "gp_pct": 2.7,
-    "transactions": 6255,
+    "revenue": 655991.94,
+    "cost": 638817.12,
+    "gp_pct": 2.6,
+    "transactions": 6260,
     "days_elapsed": 27
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-27",
-      "revenue": 23121.5,
-      "cost": 23437.8,
-      "transactions": 225,
-      "gp_pct": -1.4
+      "revenue": 23841.5,
+      "cost": 24891.9,
+      "transactions": 230,
+      "gp_pct": -4.4
     }
   ],
   "hourly_today": [
@@ -616,10 +616,10 @@
     {
       "hour": 15,
       "label": "15:00",
-      "revenue": 2765.0,
-      "cost": 2357.91,
-      "gp_pct": 14.7,
-      "transactions": 32
+      "revenue": 3485.0,
+      "cost": 3131.05,
+      "gp_pct": 10.2,
+      "transactions": 37
     },
     {
       "hour": 16,
@@ -692,8 +692,8 @@
       "desc": "Carling Black Label 750ml",
       "price": 25.0,
       "gp_pct": 24.3,
-      "revenue": 197997.7,
-      "qty_sold": 9118.0
+      "revenue": 198729.7,
+      "qty_sold": 9154.0
     },
     {
       "internal": 171,
@@ -784,6 +784,14 @@
       "qty_sold": 641.0
     },
     {
+      "internal": 712,
+      "desc": "Bernini Mimosa 500ml",
+      "price": 25.0,
+      "gp_pct": 33.4,
+      "revenue": 13905.0,
+      "qty_sold": 735.0
+    },
+    {
       "internal": 183,
       "desc": "Old Buck Gin 750ml",
       "price": 180.0,
@@ -798,14 +806,6 @@
       "gp_pct": 38.4,
       "revenue": 13320.0,
       "qty_sold": 699.0
-    },
-    {
-      "internal": 712,
-      "desc": "Bernini Mimosa 500ml",
-      "price": 25.0,
-      "gp_pct": 33.4,
-      "revenue": 13275.0,
-      "qty_sold": 693.0
     },
     {
       "internal": 184,
@@ -858,10 +858,10 @@
     },
     {
       "cashier": "Nwabisa",
-      "revenue": 408390.57,
-      "cost": 386301.64,
-      "transactions": 3801,
-      "gp_pct": 5.4
+      "revenue": 409110.57,
+      "cost": 387755.74,
+      "transactions": 3806,
+      "gp_pct": 5.2
     }
   ],
   "low_stock_alerts": [
@@ -34385,6 +34385,24 @@
       "amount": 50.0,
       "gp_pct": 24.3,
       "points": 1,
+      "cashier": "Nwabisa"
+    },
+    {
+      "number": 518048,
+      "date": "2026-06-27",
+      "desc": "Old Buck Gin 200ml",
+      "amount": 65.0,
+      "gp_pct": 20.8,
+      "points": 1,
+      "cashier": "Nwabisa"
+    },
+    {
+      "number": 518051,
+      "date": "2026-06-27",
+      "desc": "Carling Black Label 750ml",
+      "amount": 732.0,
+      "gp_pct": 24.3,
+      "points": 14,
       "cashier": "Nwabisa"
     }
   ],
