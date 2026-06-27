@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-27T14:51:31.055834",
+    "generated_at": "2026-06-27T14:57:58.575662",
     "generated_date": "2026-06-27",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-27",
-    "revenue": 20241.5,
-    "cost": 20965.77,
+    "revenue": 20356.5,
+    "cost": 21079.89,
     "gp_pct": -3.6,
-    "transactions": 191,
-    "vs_yesterday": -32387.59
+    "transactions": 193,
+    "vs_yesterday": -32272.59
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 652391.94,
-    "cost": 634890.98,
+    "revenue": 652506.94,
+    "cost": 635005.1,
     "gp_pct": 2.7,
-    "transactions": 6221,
+    "transactions": 6223,
     "days_elapsed": 27
   },
   "latest_cashup": {
@@ -486,9 +486,9 @@
     },
     {
       "date": "2026-06-27",
-      "revenue": 20241.5,
-      "cost": 20965.77,
-      "transactions": 191,
+      "revenue": 20356.5,
+      "cost": 21079.89,
+      "transactions": 193,
       "gp_pct": -3.6
     }
   ],
@@ -608,10 +608,10 @@
     {
       "hour": 14,
       "label": "14:00",
-      "revenue": 3802.0,
-      "cost": 3462.52,
-      "gp_pct": 8.9,
-      "transactions": 32
+      "revenue": 3917.0,
+      "cost": 3576.65,
+      "gp_pct": 8.7,
+      "transactions": 34
     },
     {
       "hour": 15,
@@ -744,20 +744,20 @@
       "qty_sold": 130.0
     },
     {
+      "internal": 161,
+      "desc": "Savanna Dry 500ml",
+      "price": 25.0,
+      "gp_pct": 13.3,
+      "revenue": 20900.0,
+      "qty_sold": 836.0
+    },
+    {
       "internal": 238,
       "desc": "4th Street Sweet Red 5L",
       "price": 180.0,
       "gp_pct": 16.8,
       "revenue": 20880.0,
       "qty_sold": 116.0
-    },
-    {
-      "internal": 161,
-      "desc": "Savanna Dry 500ml",
-      "price": 25.0,
-      "gp_pct": 13.3,
-      "revenue": 20875.0,
-      "qty_sold": 835.0
     },
     {
       "internal": 231,
@@ -836,8 +836,8 @@
       "desc": "Bernini Blush 500ml",
       "price": 25.0,
       "gp_pct": 38.4,
-      "revenue": 10770.0,
-      "qty_sold": 546.0
+      "revenue": 10860.0,
+      "qty_sold": 552.0
     },
     {
       "internal": 134,
@@ -858,9 +858,9 @@
     },
     {
       "cashier": "Nwabisa",
-      "revenue": 405510.57,
-      "cost": 383829.6,
-      "transactions": 3767,
+      "revenue": 405625.57,
+      "cost": 383943.73,
+      "transactions": 3769,
       "gp_pct": 5.3
     }
   ],
