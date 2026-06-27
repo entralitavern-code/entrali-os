@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-27T22:39:40.750221",
+    "generated_at": "2026-06-27T22:46:19.058076",
     "generated_date": "2026-06-27",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-27",
-    "revenue": 64611.61,
-    "cost": 59096.37,
-    "gp_pct": 8.5,
-    "transactions": 562,
-    "vs_yesterday": 11982.52
+    "revenue": 65436.45,
+    "cost": 59678.12,
+    "gp_pct": 8.8,
+    "transactions": 568,
+    "vs_yesterday": 12807.36
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 696762.05,
-    "cost": 633642.58,
+    "revenue": 697586.89,
+    "cost": 634224.33,
     "gp_pct": 9.1,
-    "transactions": 6592,
+    "transactions": 6598,
     "days_elapsed": 27
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-27",
-      "revenue": 64611.61,
-      "cost": 59096.37,
-      "transactions": 562,
-      "gp_pct": 8.5
+      "revenue": 65436.45,
+      "cost": 59678.12,
+      "transactions": 568,
+      "gp_pct": 8.8
     }
   ],
   "hourly_today": [
@@ -672,10 +672,10 @@
     {
       "hour": 22,
       "label": "22:00",
-      "revenue": 2939.76,
-      "cost": 2736.73,
-      "gp_pct": 6.9,
-      "transactions": 23
+      "revenue": 3764.6,
+      "cost": 3413.47,
+      "gp_pct": 9.3,
+      "transactions": 29
     },
     {
       "hour": 23,
@@ -692,8 +692,8 @@
       "desc": "Carling Black Label 750ml",
       "price": 25.0,
       "gp_pct": 24.3,
-      "revenue": 202764.03,
-      "qty_sold": 9329.0
+      "revenue": 202814.03,
+      "qty_sold": 9331.0
     },
     {
       "internal": 171,
@@ -772,8 +772,8 @@
       "desc": "Bernini Mimosa 500ml",
       "price": 25.0,
       "gp_pct": 33.4,
-      "revenue": 17745.0,
-      "qty_sold": 981.0
+      "revenue": 17865.0,
+      "qty_sold": 987.0
     },
     {
       "internal": 200,
@@ -851,9 +851,9 @@
   "cashier_summary": [
     {
       "cashier": "Thabiso",
-      "revenue": 458678.02,
-      "cost": 421291.51,
-      "transactions": 4331,
+      "revenue": 459502.86,
+      "cost": 421873.26,
+      "transactions": 4337,
       "gp_pct": 8.2
     },
     {
@@ -1234,7 +1234,7 @@
       "price": 10.0,
       "cost": 7.99,
       "gp_pct": 20.1,
-      "qty": -29.0,
+      "qty": -32.0,
       "minimum": 0.0,
       "maximum": 0.0,
       "on_promo": false,
@@ -39107,6 +39107,51 @@
       "amount": 110.0,
       "gp_pct": 20.8,
       "points": 2,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 518384,
+      "date": "2026-06-27",
+      "desc": "Bernini Mimosa 500ml",
+      "amount": 120.0,
+      "gp_pct": 33.4,
+      "points": 2,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 518384,
+      "date": "2026-06-27",
+      "desc": "Barcadi Breezer Blackberry 440ml",
+      "amount": 150.0,
+      "gp_pct": 33.3,
+      "points": 3,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 518385,
+      "date": "2026-06-27",
+      "desc": "Carling Black Label 750ml",
+      "amount": 50.0,
+      "gp_pct": 24.3,
+      "points": 1,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 518386,
+      "date": "2026-06-27",
+      "desc": "Sol NRB 330ml",
+      "amount": 169.92,
+      "gp_pct": 21.9,
+      "points": 3,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 518387,
+      "date": "2026-06-27",
+      "desc": "Sol NRB 330ml",
+      "amount": 169.92,
+      "gp_pct": 21.9,
+      "points": 3,
       "cashier": "Thabiso"
     }
   ],
