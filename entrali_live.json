@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-27T19:11:00.048895",
+    "generated_at": "2026-06-27T19:17:30.699698",
     "generated_date": "2026-06-27",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-27",
-    "revenue": 48200.75,
-    "cost": 52010.05,
-    "gp_pct": -7.9,
-    "transactions": 425,
-    "vs_yesterday": -4428.34
+    "revenue": 48847.75,
+    "cost": 52591.9,
+    "gp_pct": -7.7,
+    "transactions": 430,
+    "vs_yesterday": -3781.34
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 680351.19,
-    "cost": 665935.26,
+    "revenue": 680998.19,
+    "cost": 666517.11,
     "gp_pct": 2.1,
-    "transactions": 6455,
+    "transactions": 6460,
     "days_elapsed": 27
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-27",
-      "revenue": 48200.75,
-      "cost": 52010.05,
-      "transactions": 425,
-      "gp_pct": -7.9
+      "revenue": 48847.75,
+      "cost": 52591.9,
+      "transactions": 430,
+      "gp_pct": -7.7
     }
   ],
   "hourly_today": [
@@ -648,10 +648,10 @@
     {
       "hour": 19,
       "label": "19:00",
-      "revenue": 445.0,
-      "cost": 330.99,
-      "gp_pct": 25.6,
-      "transactions": 7
+      "revenue": 1092.0,
+      "cost": 896.26,
+      "gp_pct": 17.9,
+      "transactions": 12
     },
     {
       "hour": 20,
@@ -692,8 +692,8 @@
       "desc": "Carling Black Label 750ml",
       "price": 25.0,
       "gp_pct": 24.3,
-      "revenue": 201789.03,
-      "qty_sold": 9290.0
+      "revenue": 201814.03,
+      "qty_sold": 9291.0
     },
     {
       "internal": 171,
@@ -732,8 +732,8 @@
       "desc": "Commando Brandy 750ml",
       "price": 200.0,
       "gp_pct": 10.5,
-      "revenue": 24979.17,
-      "qty_sold": 125.0
+      "revenue": 25179.17,
+      "qty_sold": 126.0
     },
     {
       "internal": 439,
@@ -772,8 +772,8 @@
       "desc": "Bernini Mimosa 500ml",
       "price": 25.0,
       "gp_pct": 33.4,
-      "revenue": 17285.0,
-      "qty_sold": 959.0
+      "revenue": 17405.0,
+      "qty_sold": 965.0
     },
     {
       "internal": 200,
@@ -858,9 +858,9 @@
     },
     {
       "cashier": "Nwabisa",
-      "revenue": 433469.82,
-      "cost": 414873.88,
-      "transactions": 4001,
+      "revenue": 434116.82,
+      "cost": 415455.74,
+      "transactions": 4006,
       "gp_pct": 4.3
     }
   ],
@@ -1227,6 +1227,25 @@
       "alert": "OUT OF STOCK"
     },
     {
+      "internal": 399,
+      "part_no": "4061",
+      "desc": "Drinking Glass Zombie",
+      "group": "10",
+      "price": 10.0,
+      "cost": 7.99,
+      "gp_pct": 20.1,
+      "qty": -28.0,
+      "minimum": 0.0,
+      "maximum": 0.0,
+      "on_promo": false,
+      "promo_price": null,
+      "days_since_sold": 0,
+      "lastsold": "2026-06-27",
+      "lastbuy": "2026-06-27",
+      "loyalty_eligible": true,
+      "alert": "OUT OF STOCK"
+    },
+    {
       "internal": 682,
       "part_no": "1317",
       "desc": "Gordon's Dry Gin 25ml",
@@ -1242,25 +1261,6 @@
       "days_since_sold": 14,
       "lastsold": "2026-06-13",
       "lastbuy": null,
-      "loyalty_eligible": true,
-      "alert": "OUT OF STOCK"
-    },
-    {
-      "internal": 399,
-      "part_no": "4061",
-      "desc": "Drinking Glass Zombie",
-      "group": "10",
-      "price": 10.0,
-      "cost": 7.99,
-      "gp_pct": 20.1,
-      "qty": -27.0,
-      "minimum": 0.0,
-      "maximum": 0.0,
-      "on_promo": false,
-      "promo_price": null,
-      "days_since_sold": 0,
-      "lastsold": "2026-06-27",
-      "lastbuy": "2026-06-27",
       "loyalty_eligible": true,
       "alert": "OUT OF STOCK"
     },
@@ -38446,6 +38446,33 @@
       "desc": "Pork Chops",
       "amount": 120.0,
       "gp_pct": 39.4,
+      "points": 2,
+      "cashier": "Nwabisa"
+    },
+    {
+      "number": 518246,
+      "date": "2026-06-27",
+      "desc": "Bernini Mimosa 500ml",
+      "amount": 120.0,
+      "gp_pct": 33.4,
+      "points": 2,
+      "cashier": "Nwabisa"
+    },
+    {
+      "number": 518248,
+      "date": "2026-06-27",
+      "desc": "Castle Lite 500ml",
+      "amount": 100.0,
+      "gp_pct": 26.9,
+      "points": 2,
+      "cashier": "Nwabisa"
+    },
+    {
+      "number": 518250,
+      "date": "2026-06-27",
+      "desc": "Hunters Gold 330ml",
+      "amount": 100.0,
+      "gp_pct": 19.1,
       "points": 2,
       "cashier": "Nwabisa"
     }
