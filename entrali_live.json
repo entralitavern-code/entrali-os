@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-28T12:32:03.698480",
+    "generated_at": "2026-06-28T12:38:48.431288",
     "generated_date": "2026-06-28",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-28",
-    "revenue": 24983.71,
-    "cost": 23294.44,
+    "revenue": 25133.71,
+    "cost": 23416.18,
     "gp_pct": 6.8,
-    "transactions": 161,
-    "vs_yesterday": -44780.74
+    "transactions": 165,
+    "vs_yesterday": -44630.74
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 726898.6,
-    "cost": 661561.86,
+    "revenue": 727048.6,
+    "cost": 661683.61,
     "gp_pct": 9.0,
-    "transactions": 6792,
+    "transactions": 6796,
     "days_elapsed": 28
   },
   "latest_cashup": {
@@ -486,9 +486,9 @@
     },
     {
       "date": "2026-06-28",
-      "revenue": 24983.71,
-      "cost": 23294.44,
-      "transactions": 161,
+      "revenue": 25133.71,
+      "cost": 23416.18,
+      "transactions": 165,
       "gp_pct": 6.8
     }
   ],
@@ -592,10 +592,10 @@
     {
       "hour": 12,
       "label": "12:00",
-      "revenue": 4445.0,
-      "cost": 4367.19,
-      "gp_pct": 1.8,
-      "transactions": 23
+      "revenue": 4595.0,
+      "cost": 4488.94,
+      "gp_pct": 2.3,
+      "transactions": 27
     },
     {
       "hour": 13,
@@ -748,8 +748,8 @@
       "desc": "Savanna Dry 500ml",
       "price": 25.0,
       "gp_pct": 13.3,
-      "revenue": 22050.0,
-      "qty_sold": 882.0
+      "revenue": 22100.0,
+      "qty_sold": 884.0
     },
     {
       "internal": 238,
@@ -851,9 +851,9 @@
   "cashier_summary": [
     {
       "cashier": "Thabiso",
-      "revenue": 481847.57,
-      "cost": 442917.12,
-      "transactions": 4476,
+      "revenue": 481997.57,
+      "cost": 443038.87,
+      "transactions": 4480,
       "gp_pct": 8.1
     },
     {
@@ -930,13 +930,13 @@
       "price": 10.0,
       "cost": 5.0,
       "gp_pct": 50.0,
-      "qty": -871.0,
+      "qty": -872.0,
       "minimum": 0.0,
       "maximum": 0.0,
       "on_promo": false,
       "promo_price": null,
-      "days_since_sold": 1,
-      "lastsold": "2026-06-27",
+      "days_since_sold": 0,
+      "lastsold": "2026-06-28",
       "lastbuy": "2021-03-29",
       "loyalty_eligible": true,
       "alert": "OUT OF STOCK"
