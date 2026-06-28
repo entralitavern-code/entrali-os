@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-28T12:38:48.431288",
+    "generated_at": "2026-06-28T12:45:21.912856",
     "generated_date": "2026-06-28",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-28",
-    "revenue": 25133.71,
-    "cost": 23416.18,
-    "gp_pct": 6.8,
-    "transactions": 165,
-    "vs_yesterday": -44630.74
+    "revenue": 25748.71,
+    "cost": 23930.38,
+    "gp_pct": 7.1,
+    "transactions": 170,
+    "vs_yesterday": -44015.74
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 727048.6,
-    "cost": 661683.61,
+    "revenue": 727663.6,
+    "cost": 662197.8,
     "gp_pct": 9.0,
-    "transactions": 6796,
+    "transactions": 6801,
     "days_elapsed": 28
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-28",
-      "revenue": 25133.71,
-      "cost": 23416.18,
-      "transactions": 165,
-      "gp_pct": 6.8
+      "revenue": 25748.71,
+      "cost": 23930.38,
+      "transactions": 170,
+      "gp_pct": 7.1
     }
   ],
   "hourly_today": [
@@ -592,10 +592,10 @@
     {
       "hour": 12,
       "label": "12:00",
-      "revenue": 4595.0,
-      "cost": 4488.94,
-      "gp_pct": 2.3,
-      "transactions": 27
+      "revenue": 5210.0,
+      "cost": 5003.14,
+      "gp_pct": 4.0,
+      "transactions": 32
     },
     {
       "hour": 13,
@@ -812,8 +812,8 @@
       "desc": "Bernini Blush 500ml",
       "price": 25.0,
       "gp_pct": 38.4,
-      "revenue": 13645.0,
-      "qty_sold": 715.0
+      "revenue": 13765.0,
+      "qty_sold": 721.0
     },
     {
       "internal": 266,
@@ -851,9 +851,9 @@
   "cashier_summary": [
     {
       "cashier": "Thabiso",
-      "revenue": 481997.57,
-      "cost": 443038.87,
-      "transactions": 4480,
+      "revenue": 482612.57,
+      "cost": 443553.06,
+      "transactions": 4485,
       "gp_pct": 8.1
     },
     {
@@ -39621,6 +39621,33 @@
       "amount": 50.0,
       "gp_pct": 19.0,
       "points": 1,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 518587,
+      "date": "2026-06-28",
+      "desc": "Stella Artois 330ml",
+      "amount": 95.0,
+      "gp_pct": 26.5,
+      "points": 1,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 518590,
+      "date": "2026-06-28",
+      "desc": "Chiller's Punch Tequila Sunrise",
+      "amount": 140.0,
+      "gp_pct": 25.2,
+      "points": 2,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 518591,
+      "date": "2026-06-28",
+      "desc": "Bernini Blush 500ml",
+      "amount": 120.0,
+      "gp_pct": 38.4,
+      "points": 2,
       "cashier": "Thabiso"
     }
   ],
