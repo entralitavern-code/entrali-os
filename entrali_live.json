@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-28T11:19:40.265981",
+    "generated_at": "2026-06-28T11:26:19.667957",
     "generated_date": "2026-06-28",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-28",
-    "revenue": 17912.71,
-    "cost": 16604.83,
-    "gp_pct": 7.3,
-    "transactions": 119,
-    "vs_yesterday": -51851.74
+    "revenue": 18117.71,
+    "cost": 16774.96,
+    "gp_pct": 7.4,
+    "transactions": 120,
+    "vs_yesterday": -51646.74
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 719827.6,
-    "cost": 654872.26,
+    "revenue": 720032.6,
+    "cost": 655042.38,
     "gp_pct": 9.0,
-    "transactions": 6750,
+    "transactions": 6751,
     "days_elapsed": 28
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-28",
-      "revenue": 17912.71,
-      "cost": 16604.83,
-      "transactions": 119,
-      "gp_pct": 7.3
+      "revenue": 18117.71,
+      "cost": 16774.96,
+      "transactions": 120,
+      "gp_pct": 7.4
     }
   ],
   "hourly_today": [
@@ -584,10 +584,10 @@
     {
       "hour": 11,
       "label": "11:00",
-      "revenue": 2750.0,
-      "cost": 2311.43,
-      "gp_pct": 15.9,
-      "transactions": 13
+      "revenue": 2955.0,
+      "cost": 2481.56,
+      "gp_pct": 16.0,
+      "transactions": 14
     },
     {
       "hour": 12,
@@ -692,8 +692,8 @@
       "desc": "Carling Black Label 750ml",
       "price": 25.0,
       "gp_pct": 24.3,
-      "revenue": 207362.24,
-      "qty_sold": 9553.0
+      "revenue": 207387.24,
+      "qty_sold": 9554.0
     },
     {
       "internal": 171,
@@ -764,8 +764,8 @@
       "desc": "Heineken 650ml",
       "price": 25.0,
       "gp_pct": 10.3,
-      "revenue": 19800.0,
-      "qty_sold": 792.0
+      "revenue": 19900.0,
+      "qty_sold": 796.0
     },
     {
       "internal": 712,
@@ -851,9 +851,9 @@
   "cashier_summary": [
     {
       "cashier": "Thabiso",
-      "revenue": 474776.57,
-      "cost": 436227.52,
-      "transactions": 4434,
+      "revenue": 474981.57,
+      "cost": 436397.64,
+      "transactions": 4435,
       "gp_pct": 8.1
     },
     {
@@ -39486,6 +39486,15 @@
       "amount": 100.0,
       "gp_pct": 23.3,
       "points": 2,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 518541,
+      "date": "2026-06-28",
+      "desc": "Brutal Fruit Ruby Apple 500ml",
+      "amount": 50.0,
+      "gp_pct": 28.7,
+      "points": 1,
       "cashier": "Thabiso"
     }
   ],
