@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-28T12:12:20.247650",
+    "generated_at": "2026-06-28T12:18:56.590033",
     "generated_date": "2026-06-28",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-28",
-    "revenue": 21258.71,
-    "cost": 19755.5,
-    "gp_pct": 7.1,
-    "transactions": 144,
-    "vs_yesterday": -48505.74
+    "revenue": 22603.71,
+    "cost": 21053.25,
+    "gp_pct": 6.9,
+    "transactions": 151,
+    "vs_yesterday": -47160.74
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 723173.6,
-    "cost": 658022.93,
+    "revenue": 724518.6,
+    "cost": 659320.68,
     "gp_pct": 9.0,
-    "transactions": 6775,
+    "transactions": 6782,
     "days_elapsed": 28
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-28",
-      "revenue": 21258.71,
-      "cost": 19755.5,
-      "transactions": 144,
-      "gp_pct": 7.1
+      "revenue": 22603.71,
+      "cost": 21053.25,
+      "transactions": 151,
+      "gp_pct": 6.9
     }
   ],
   "hourly_today": [
@@ -592,10 +592,10 @@
     {
       "hour": 12,
       "label": "12:00",
-      "revenue": 720.0,
-      "cost": 627.34,
-      "gp_pct": 12.9,
-      "transactions": 6
+      "revenue": 2065.0,
+      "cost": 1863.02,
+      "gp_pct": 9.8,
+      "transactions": 13
     },
     {
       "hour": 13,
@@ -692,8 +692,8 @@
       "desc": "Carling Black Label 750ml",
       "price": 25.0,
       "gp_pct": 24.3,
-      "revenue": 208000.24,
-      "qty_sold": 9583.0
+      "revenue": 208538.24,
+      "qty_sold": 9609.0
     },
     {
       "internal": 171,
@@ -740,8 +740,8 @@
       "desc": "4th Street Sweet L/H 5l",
       "price": 180.0,
       "gp_pct": 11.9,
-      "revenue": 24660.0,
-      "qty_sold": 137.0
+      "revenue": 25020.0,
+      "qty_sold": 139.0
     },
     {
       "internal": 161,
@@ -812,8 +812,8 @@
       "desc": "Bernini Blush 500ml",
       "price": 25.0,
       "gp_pct": 38.4,
-      "revenue": 13380.0,
-      "qty_sold": 702.0
+      "revenue": 13405.0,
+      "qty_sold": 703.0
     },
     {
       "internal": 266,
@@ -851,9 +851,9 @@
   "cashier_summary": [
     {
       "cashier": "Thabiso",
-      "revenue": 478122.57,
-      "cost": 439378.18,
-      "transactions": 4459,
+      "revenue": 479467.57,
+      "cost": 440675.93,
+      "transactions": 4466,
       "gp_pct": 8.1
     },
     {
@@ -1094,6 +1094,25 @@
       "alert": "OUT OF STOCK"
     },
     {
+      "internal": 422,
+      "part_no": "6248",
+      "desc": "Klipdr & Coke 2L",
+      "group": "8",
+      "price": 220.0,
+      "cost": 200.92,
+      "gp_pct": 8.7,
+      "qty": -46.0,
+      "minimum": 0.0,
+      "maximum": 0.0,
+      "on_promo": false,
+      "promo_price": null,
+      "days_since_sold": 0,
+      "lastsold": "2026-06-28",
+      "lastbuy": "2021-09-08",
+      "loyalty_eligible": false,
+      "alert": "OUT OF STOCK"
+    },
+    {
       "internal": 605,
       "part_no": "20008",
       "desc": "Pork & Beef",
@@ -1109,25 +1128,6 @@
       "days_since_sold": 28,
       "lastsold": "2026-05-31",
       "lastbuy": null,
-      "loyalty_eligible": false,
-      "alert": "OUT OF STOCK"
-    },
-    {
-      "internal": 422,
-      "part_no": "6248",
-      "desc": "Klipdr & Coke 2L",
-      "group": "8",
-      "price": 220.0,
-      "cost": 200.92,
-      "gp_pct": 8.7,
-      "qty": -45.0,
-      "minimum": 0.0,
-      "maximum": 0.0,
-      "on_promo": false,
-      "promo_price": null,
-      "days_since_sold": 0,
-      "lastsold": "2026-06-28",
-      "lastbuy": "2021-09-08",
       "loyalty_eligible": false,
       "alert": "OUT OF STOCK"
     },
@@ -39558,6 +39558,15 @@
       "amount": 120.0,
       "gp_pct": 38.4,
       "points": 2,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 518572,
+      "date": "2026-06-28",
+      "desc": "Carling Black Label 750ml",
+      "amount": 488.0,
+      "gp_pct": 24.3,
+      "points": 9,
       "cashier": "Thabiso"
     }
   ],
