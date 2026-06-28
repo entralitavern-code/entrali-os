@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-28T08:41:51.138760",
+    "generated_at": "2026-06-28T08:48:32.000864",
     "generated_date": "2026-06-28",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-28",
-    "revenue": 1638.5,
-    "cost": 1479.92,
-    "gp_pct": 9.7,
-    "transactions": 21,
-    "vs_yesterday": -68125.95
+    "revenue": 2013.5,
+    "cost": 1800.74,
+    "gp_pct": 10.6,
+    "transactions": 27,
+    "vs_yesterday": -67750.95
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 703553.39,
-    "cost": 639747.34,
+    "revenue": 703928.39,
+    "cost": 640068.17,
     "gp_pct": 9.1,
-    "transactions": 6652,
+    "transactions": 6658,
     "days_elapsed": 28
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-28",
-      "revenue": 1638.5,
-      "cost": 1479.92,
-      "transactions": 21,
-      "gp_pct": 9.7
+      "revenue": 2013.5,
+      "cost": 1800.74,
+      "transactions": 27,
+      "gp_pct": 10.6
     }
   ],
   "hourly_today": [
@@ -560,10 +560,10 @@
     {
       "hour": 8,
       "label": "08:00",
-      "revenue": 529.5,
-      "cost": 484.82,
-      "gp_pct": 8.4,
-      "transactions": 7
+      "revenue": 904.5,
+      "cost": 805.65,
+      "gp_pct": 10.9,
+      "transactions": 13
     },
     {
       "hour": 9,
@@ -692,8 +692,8 @@
       "desc": "Carling Black Label 750ml",
       "price": 25.0,
       "gp_pct": 24.3,
-      "revenue": 200775.03,
-      "qty_sold": 9236.0
+      "revenue": 200825.03,
+      "qty_sold": 9238.0
     },
     {
       "internal": 171,
@@ -740,8 +740,8 @@
       "desc": "4th Street Sweet L/H 5l",
       "price": 180.0,
       "gp_pct": 11.9,
-      "revenue": 24120.0,
-      "qty_sold": 134.0
+      "revenue": 24300.0,
+      "qty_sold": 135.0
     },
     {
       "internal": 161,
@@ -788,8 +788,8 @@
       "desc": "Redd's Original 660ml",
       "price": 25.0,
       "gp_pct": 17.0,
-      "revenue": 15522.0,
-      "qty_sold": 650.0
+      "revenue": 15672.0,
+      "qty_sold": 656.0
     },
     {
       "internal": 599,
@@ -851,9 +851,9 @@
   "cashier_summary": [
     {
       "cashier": "Thabiso",
-      "revenue": 458502.36,
-      "cost": 421102.6,
-      "transactions": 4336,
+      "revenue": 458877.36,
+      "cost": 421423.43,
+      "transactions": 4342,
       "gp_pct": 8.2
     },
     {
@@ -892,13 +892,13 @@
       "price": -1.0,
       "cost": -2.0,
       "gp_pct": 0.0,
-      "qty": -926.0,
+      "qty": -931.0,
       "minimum": 0.0,
       "maximum": 0.0,
       "on_promo": false,
       "promo_price": null,
-      "days_since_sold": 1,
-      "lastsold": "2026-06-27",
+      "days_since_sold": 0,
+      "lastsold": "2026-06-28",
       "lastbuy": null,
       "loyalty_eligible": false,
       "alert": "OUT OF STOCK"
@@ -1303,6 +1303,25 @@
       "alert": "OUT OF STOCK"
     },
     {
+      "internal": 169,
+      "part_no": "246",
+      "desc": "Redd's Original 660ml",
+      "group": "7",
+      "price": 25.0,
+      "cost": 20.7492,
+      "gp_pct": 17.0,
+      "qty": -17.0,
+      "minimum": 0.0,
+      "maximum": 13.0,
+      "on_promo": false,
+      "promo_price": null,
+      "days_since_sold": 0,
+      "lastsold": "2026-06-28",
+      "lastbuy": "2026-06-17",
+      "loyalty_eligible": false,
+      "alert": "OUT OF STOCK"
+    },
+    {
       "internal": 74,
       "part_no": "50844",
       "desc": "660ml Hunter's Returns",
@@ -1318,25 +1337,6 @@
       "days_since_sold": 5,
       "lastsold": "2026-06-23",
       "lastbuy": null,
-      "loyalty_eligible": false,
-      "alert": "OUT OF STOCK"
-    },
-    {
-      "internal": 169,
-      "part_no": "246",
-      "desc": "Redd's Original 660ml",
-      "group": "7",
-      "price": 25.0,
-      "cost": 20.7492,
-      "gp_pct": 17.0,
-      "qty": -11.0,
-      "minimum": 0.0,
-      "maximum": 13.0,
-      "on_promo": false,
-      "promo_price": null,
-      "days_since_sold": 0,
-      "lastsold": "2026-06-28",
-      "lastbuy": "2026-06-17",
       "loyalty_eligible": false,
       "alert": "OUT OF STOCK"
     },
