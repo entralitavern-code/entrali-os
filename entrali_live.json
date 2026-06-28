@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-28T11:52:38.518547",
+    "generated_at": "2026-06-28T11:59:13.523635",
     "generated_date": "2026-06-28",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-28",
-    "revenue": 20123.71,
-    "cost": 18577.44,
-    "gp_pct": 7.7,
-    "transactions": 135,
-    "vs_yesterday": -49640.74
+    "revenue": 20498.71,
+    "cost": 18892.74,
+    "gp_pct": 7.8,
+    "transactions": 137,
+    "vs_yesterday": -49265.74
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 722038.6,
-    "cost": 656844.87,
+    "revenue": 722413.6,
+    "cost": 657160.17,
     "gp_pct": 9.0,
-    "transactions": 6766,
+    "transactions": 6768,
     "days_elapsed": 28
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-28",
-      "revenue": 20123.71,
-      "cost": 18577.44,
-      "transactions": 135,
-      "gp_pct": 7.7
+      "revenue": 20498.71,
+      "cost": 18892.74,
+      "transactions": 137,
+      "gp_pct": 7.8
     }
   ],
   "hourly_today": [
@@ -584,10 +584,10 @@
     {
       "hour": 11,
       "label": "11:00",
-      "revenue": 4961.0,
-      "cost": 4284.04,
-      "gp_pct": 13.6,
-      "transactions": 29
+      "revenue": 5336.0,
+      "cost": 4599.34,
+      "gp_pct": 13.8,
+      "transactions": 31
     },
     {
       "hour": 12,
@@ -716,16 +716,16 @@
       "desc": "Paarl Perle' 2L",
       "price": 75.0,
       "gp_pct": 13.0,
-      "revenue": 37255.61,
-      "qty_sold": 502.0
+      "revenue": 37330.61,
+      "qty_sold": 503.0
     },
     {
       "internal": 204,
       "desc": "Klipdrift Export Brandy 750ml",
       "price": 200.0,
       "gp_pct": 12.5,
-      "revenue": 29000.0,
-      "qty_sold": 145.0
+      "revenue": 29200.0,
+      "qty_sold": 146.0
     },
     {
       "internal": 13,
@@ -851,9 +851,9 @@
   "cashier_summary": [
     {
       "cashier": "Thabiso",
-      "revenue": 476987.57,
-      "cost": 438200.13,
-      "transactions": 4450,
+      "revenue": 477362.57,
+      "cost": 438515.43,
+      "transactions": 4452,
       "gp_pct": 8.1
     },
     {
@@ -39530,6 +39530,15 @@
       "desc": "Castle Lite 660ml",
       "amount": 125.0,
       "gp_pct": 19.0,
+      "points": 2,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 518558,
+      "date": "2026-06-28",
+      "desc": "Smirnoff Storm Berry Twist 440ml",
+      "amount": 100.0,
+      "gp_pct": 24.8,
       "points": 2,
       "cashier": "Thabiso"
     }
