@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-28T11:59:13.523635",
+    "generated_at": "2026-06-28T12:05:51.077140",
     "generated_date": "2026-06-28",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-28",
-    "revenue": 20498.71,
-    "cost": 18892.74,
+    "revenue": 20993.71,
+    "cost": 19346.45,
     "gp_pct": 7.8,
-    "transactions": 137,
-    "vs_yesterday": -49265.74
+    "transactions": 141,
+    "vs_yesterday": -48770.74
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 722413.6,
-    "cost": 657160.17,
+    "revenue": 722908.6,
+    "cost": 657613.88,
     "gp_pct": 9.0,
-    "transactions": 6768,
+    "transactions": 6772,
     "days_elapsed": 28
   },
   "latest_cashup": {
@@ -486,9 +486,9 @@
     },
     {
       "date": "2026-06-28",
-      "revenue": 20498.71,
-      "cost": 18892.74,
-      "transactions": 137,
+      "revenue": 20993.71,
+      "cost": 19346.45,
+      "transactions": 141,
       "gp_pct": 7.8
     }
   ],
@@ -584,18 +584,18 @@
     {
       "hour": 11,
       "label": "11:00",
-      "revenue": 5336.0,
-      "cost": 4599.34,
+      "revenue": 5376.0,
+      "cost": 4633.84,
       "gp_pct": 13.8,
-      "transactions": 31
+      "transactions": 32
     },
     {
       "hour": 12,
       "label": "12:00",
-      "revenue": 0.0,
-      "cost": 0.0,
-      "gp_pct": 0.0,
-      "transactions": 0
+      "revenue": 455.0,
+      "cost": 419.21,
+      "gp_pct": 7.9,
+      "transactions": 3
     },
     {
       "hour": 13,
@@ -716,8 +716,8 @@
       "desc": "Paarl Perle' 2L",
       "price": 75.0,
       "gp_pct": 13.0,
-      "revenue": 37330.61,
-      "qty_sold": 503.0
+      "revenue": 37405.61,
+      "qty_sold": 504.0
     },
     {
       "internal": 204,
@@ -732,8 +732,8 @@
       "desc": "Commando Brandy 750ml",
       "price": 200.0,
       "gp_pct": 10.5,
-      "revenue": 25379.17,
-      "qty_sold": 127.0
+      "revenue": 25579.17,
+      "qty_sold": 128.0
     },
     {
       "internal": 439,
@@ -780,8 +780,8 @@
       "desc": "KWV 3yrs 750ml",
       "price": 200.0,
       "gp_pct": 12.5,
-      "revenue": 17440.0,
-      "qty_sold": 90.0
+      "revenue": 17620.0,
+      "qty_sold": 91.0
     },
     {
       "internal": 169,
@@ -851,9 +851,9 @@
   "cashier_summary": [
     {
       "cashier": "Thabiso",
-      "revenue": 477362.57,
-      "cost": 438515.43,
-      "transactions": 4452,
+      "revenue": 477857.57,
+      "cost": 438969.14,
+      "transactions": 4456,
       "gp_pct": 8.1
     },
     {
