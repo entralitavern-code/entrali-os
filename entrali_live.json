@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-28T12:18:56.590033",
+    "generated_at": "2026-06-28T12:25:31.842386",
     "generated_date": "2026-06-28",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-28",
-    "revenue": 22603.71,
-    "cost": 21053.25,
-    "gp_pct": 6.9,
-    "transactions": 151,
-    "vs_yesterday": -47160.74
+    "revenue": 23113.71,
+    "cost": 21473.08,
+    "gp_pct": 7.1,
+    "transactions": 157,
+    "vs_yesterday": -46650.74
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 724518.6,
-    "cost": 659320.68,
+    "revenue": 725028.6,
+    "cost": 659740.51,
     "gp_pct": 9.0,
-    "transactions": 6782,
+    "transactions": 6788,
     "days_elapsed": 28
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-28",
-      "revenue": 22603.71,
-      "cost": 21053.25,
-      "transactions": 151,
-      "gp_pct": 6.9
+      "revenue": 23113.71,
+      "cost": 21473.08,
+      "transactions": 157,
+      "gp_pct": 7.1
     }
   ],
   "hourly_today": [
@@ -592,10 +592,10 @@
     {
       "hour": 12,
       "label": "12:00",
-      "revenue": 2065.0,
-      "cost": 1863.02,
-      "gp_pct": 9.8,
-      "transactions": 13
+      "revenue": 2575.0,
+      "cost": 2545.84,
+      "gp_pct": 1.1,
+      "transactions": 19
     },
     {
       "hour": 13,
@@ -692,8 +692,8 @@
       "desc": "Carling Black Label 750ml",
       "price": 25.0,
       "gp_pct": 24.3,
-      "revenue": 208538.24,
-      "qty_sold": 9609.0
+      "revenue": 208563.24,
+      "qty_sold": 9610.0
     },
     {
       "internal": 171,
@@ -764,16 +764,16 @@
       "desc": "Heineken 650ml",
       "price": 25.0,
       "gp_pct": 10.3,
-      "revenue": 19900.0,
-      "qty_sold": 796.0
+      "revenue": 19950.0,
+      "qty_sold": 798.0
     },
     {
       "internal": 712,
       "desc": "Bernini Mimosa 500ml",
       "price": 25.0,
       "gp_pct": 33.4,
-      "revenue": 17815.0,
-      "qty_sold": 985.0
+      "revenue": 17865.0,
+      "qty_sold": 987.0
     },
     {
       "internal": 200,
@@ -851,9 +851,9 @@
   "cashier_summary": [
     {
       "cashier": "Thabiso",
-      "revenue": 479467.57,
-      "cost": 440675.93,
-      "transactions": 4466,
+      "revenue": 479977.57,
+      "cost": 441095.76,
+      "transactions": 4472,
       "gp_pct": 8.1
     },
     {
@@ -1044,7 +1044,7 @@
       "price": 10.0,
       "cost": 7.61,
       "gp_pct": 23.9,
-      "qty": -199.0,
+      "qty": -200.0,
       "minimum": 0.0,
       "maximum": 0.0,
       "on_promo": false,
@@ -39567,6 +39567,15 @@
       "amount": 488.0,
       "gp_pct": 24.3,
       "points": 9,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 518577,
+      "date": "2026-06-28",
+      "desc": "Bernini Mimosa 500ml",
+      "amount": 50.0,
+      "gp_pct": 33.4,
+      "points": 1,
       "cashier": "Thabiso"
     }
   ],
