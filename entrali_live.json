@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-28T12:45:21.912856",
+    "generated_at": "2026-06-28T12:51:59.430191",
     "generated_date": "2026-06-28",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-28",
-    "revenue": 25748.71,
-    "cost": 23930.38,
-    "gp_pct": 7.1,
-    "transactions": 170,
-    "vs_yesterday": -44015.74
+    "revenue": 26783.71,
+    "cost": 24800.48,
+    "gp_pct": 7.4,
+    "transactions": 175,
+    "vs_yesterday": -42980.74
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 727663.6,
-    "cost": 662197.8,
+    "revenue": 728698.6,
+    "cost": 663067.91,
     "gp_pct": 9.0,
-    "transactions": 6801,
+    "transactions": 6806,
     "days_elapsed": 28
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-28",
-      "revenue": 25748.71,
-      "cost": 23930.38,
-      "transactions": 170,
-      "gp_pct": 7.1
+      "revenue": 26783.71,
+      "cost": 24800.48,
+      "transactions": 175,
+      "gp_pct": 7.4
     }
   ],
   "hourly_today": [
@@ -592,10 +592,10 @@
     {
       "hour": 12,
       "label": "12:00",
-      "revenue": 5210.0,
-      "cost": 5003.14,
-      "gp_pct": 4.0,
-      "transactions": 32
+      "revenue": 6245.0,
+      "cost": 5873.24,
+      "gp_pct": 6.0,
+      "transactions": 37
     },
     {
       "hour": 13,
@@ -724,16 +724,16 @@
       "desc": "Klipdrift Export Brandy 750ml",
       "price": 200.0,
       "gp_pct": 12.5,
-      "revenue": 29200.0,
-      "qty_sold": 146.0
+      "revenue": 29400.0,
+      "qty_sold": 147.0
     },
     {
       "internal": 13,
       "desc": "Commando Brandy 750ml",
       "price": 200.0,
       "gp_pct": 10.5,
-      "revenue": 25579.17,
-      "qty_sold": 128.0
+      "revenue": 25779.17,
+      "qty_sold": 129.0
     },
     {
       "internal": 439,
@@ -764,8 +764,8 @@
       "desc": "Heineken 650ml",
       "price": 25.0,
       "gp_pct": 10.3,
-      "revenue": 19950.0,
-      "qty_sold": 798.0
+      "revenue": 20050.0,
+      "qty_sold": 802.0
     },
     {
       "internal": 712,
@@ -796,8 +796,8 @@
       "desc": "Bernini Classic 500ml",
       "price": 25.0,
       "gp_pct": 38.4,
-      "revenue": 15355.0,
-      "qty_sold": 814.0
+      "revenue": 15475.0,
+      "qty_sold": 820.0
     },
     {
       "internal": 183,
@@ -812,8 +812,8 @@
       "desc": "Bernini Blush 500ml",
       "price": 25.0,
       "gp_pct": 38.4,
-      "revenue": 13765.0,
-      "qty_sold": 721.0
+      "revenue": 13840.0,
+      "qty_sold": 724.0
     },
     {
       "internal": 266,
@@ -851,9 +851,9 @@
   "cashier_summary": [
     {
       "cashier": "Thabiso",
-      "revenue": 482612.57,
-      "cost": 443553.06,
-      "transactions": 4485,
+      "revenue": 483647.57,
+      "cost": 444423.16,
+      "transactions": 4490,
       "gp_pct": 8.1
     },
     {
@@ -39648,6 +39648,33 @@
       "amount": 120.0,
       "gp_pct": 38.4,
       "points": 2,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 518592,
+      "date": "2026-06-28",
+      "desc": "Brutal Fruit Ruby Apple 500ml",
+      "amount": 50.0,
+      "gp_pct": 28.7,
+      "points": 1,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 518593,
+      "date": "2026-06-28",
+      "desc": "Bernini Classic 500ml",
+      "amount": 120.0,
+      "gp_pct": 38.4,
+      "points": 2,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 518595,
+      "date": "2026-06-28",
+      "desc": "Bernini Blush 500ml",
+      "amount": 75.0,
+      "gp_pct": 38.4,
+      "points": 1,
       "cashier": "Thabiso"
     }
   ],
