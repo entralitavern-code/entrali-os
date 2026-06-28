@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-28T12:51:59.430191",
+    "generated_at": "2026-06-28T12:58:31.431711",
     "generated_date": "2026-06-28",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-28",
-    "revenue": 26783.71,
-    "cost": 24800.48,
-    "gp_pct": 7.4,
-    "transactions": 175,
-    "vs_yesterday": -42980.74
+    "revenue": 27270.71,
+    "cost": 25226.52,
+    "gp_pct": 7.5,
+    "transactions": 181,
+    "vs_yesterday": -42493.74
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 728698.6,
-    "cost": 663067.91,
+    "revenue": 729185.6,
+    "cost": 663493.94,
     "gp_pct": 9.0,
-    "transactions": 6806,
+    "transactions": 6812,
     "days_elapsed": 28
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-28",
-      "revenue": 26783.71,
-      "cost": 24800.48,
-      "transactions": 175,
-      "gp_pct": 7.4
+      "revenue": 27270.71,
+      "cost": 25226.52,
+      "transactions": 181,
+      "gp_pct": 7.5
     }
   ],
   "hourly_today": [
@@ -592,10 +592,10 @@
     {
       "hour": 12,
       "label": "12:00",
-      "revenue": 6245.0,
-      "cost": 5873.24,
-      "gp_pct": 6.0,
-      "transactions": 37
+      "revenue": 6732.0,
+      "cost": 6299.27,
+      "gp_pct": 6.4,
+      "transactions": 43
     },
     {
       "hour": 13,
@@ -732,8 +732,8 @@
       "desc": "Commando Brandy 750ml",
       "price": 200.0,
       "gp_pct": 10.5,
-      "revenue": 25779.17,
-      "qty_sold": 129.0
+      "revenue": 25979.17,
+      "qty_sold": 130.0
     },
     {
       "internal": 439,
@@ -764,8 +764,8 @@
       "desc": "Heineken 650ml",
       "price": 25.0,
       "gp_pct": 10.3,
-      "revenue": 20050.0,
-      "qty_sold": 802.0
+      "revenue": 20125.0,
+      "qty_sold": 805.0
     },
     {
       "internal": 712,
@@ -851,9 +851,9 @@
   "cashier_summary": [
     {
       "cashier": "Thabiso",
-      "revenue": 483647.57,
-      "cost": 444423.16,
-      "transactions": 4490,
+      "revenue": 484134.57,
+      "cost": 444849.2,
+      "transactions": 4496,
       "gp_pct": 8.1
     },
     {
@@ -1063,7 +1063,7 @@
       "price": 2.0,
       "cost": 0.875,
       "gp_pct": 56.2,
-      "qty": -108.0,
+      "qty": -110.0,
       "minimum": 0.0,
       "maximum": 0.0,
       "on_promo": false,
