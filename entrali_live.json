@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-28T09:54:24.334363",
+    "generated_at": "2026-06-28T10:01:05.425050",
     "generated_date": "2026-06-28",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-28",
-    "revenue": 9572.71,
-    "cost": 9162.95,
-    "gp_pct": 4.3,
-    "transactions": 63,
-    "vs_yesterday": -60191.74
+    "revenue": 9967.71,
+    "cost": 9481.53,
+    "gp_pct": 4.9,
+    "transactions": 69,
+    "vs_yesterday": -59796.74
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 711487.6,
-    "cost": 647430.38,
+    "revenue": 711882.6,
+    "cost": 647748.95,
     "gp_pct": 9.0,
-    "transactions": 6694,
+    "transactions": 6700,
     "days_elapsed": 28
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-28",
-      "revenue": 9572.71,
-      "cost": 9162.95,
-      "transactions": 63,
-      "gp_pct": 4.3
+      "revenue": 9967.71,
+      "cost": 9481.53,
+      "transactions": 69,
+      "gp_pct": 4.9
     }
   ],
   "hourly_today": [
@@ -568,10 +568,10 @@
     {
       "hour": 9,
       "label": "09:00",
-      "revenue": 6869.21,
-      "cost": 6645.24,
-      "gp_pct": 3.3,
-      "transactions": 34
+      "revenue": 7264.21,
+      "cost": 6963.81,
+      "gp_pct": 4.1,
+      "transactions": 40
     },
     {
       "hour": 10,
@@ -692,16 +692,16 @@
       "desc": "Carling Black Label 750ml",
       "price": 25.0,
       "gp_pct": 24.3,
-      "revenue": 205173.24,
-      "qty_sold": 9452.0
+      "revenue": 205198.24,
+      "qty_sold": 9453.0
     },
     {
       "internal": 171,
       "desc": "Paarl Perle' 1L",
       "price": 45.0,
       "gp_pct": 21.3,
-      "revenue": 74800.0,
-      "qty_sold": 1875.0
+      "revenue": 74890.0,
+      "qty_sold": 1877.0
     },
     {
       "internal": 188,
@@ -851,9 +851,9 @@
   "cashier_summary": [
     {
       "cashier": "Thabiso",
-      "revenue": 466436.57,
-      "cost": 428785.63,
-      "transactions": 4378,
+      "revenue": 466831.57,
+      "cost": 429104.21,
+      "transactions": 4384,
       "gp_pct": 8.1
     },
     {
@@ -1063,13 +1063,13 @@
       "price": 2.0,
       "cost": 0.875,
       "gp_pct": 56.2,
-      "qty": -106.0,
+      "qty": -108.0,
       "minimum": 0.0,
       "maximum": 0.0,
       "on_promo": false,
       "promo_price": null,
-      "days_since_sold": 1,
-      "lastsold": "2026-06-27",
+      "days_since_sold": 0,
+      "lastsold": "2026-06-28",
       "lastbuy": "2026-05-02",
       "loyalty_eligible": true,
       "alert": "OUT OF STOCK"
