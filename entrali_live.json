@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-28T12:05:51.077140",
+    "generated_at": "2026-06-28T12:12:20.247650",
     "generated_date": "2026-06-28",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-28",
-    "revenue": 20993.71,
-    "cost": 19346.45,
-    "gp_pct": 7.8,
-    "transactions": 141,
-    "vs_yesterday": -48770.74
+    "revenue": 21258.71,
+    "cost": 19755.5,
+    "gp_pct": 7.1,
+    "transactions": 144,
+    "vs_yesterday": -48505.74
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 722908.6,
-    "cost": 657613.88,
+    "revenue": 723173.6,
+    "cost": 658022.93,
     "gp_pct": 9.0,
-    "transactions": 6772,
+    "transactions": 6775,
     "days_elapsed": 28
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-28",
-      "revenue": 20993.71,
-      "cost": 19346.45,
-      "transactions": 141,
-      "gp_pct": 7.8
+      "revenue": 21258.71,
+      "cost": 19755.5,
+      "transactions": 144,
+      "gp_pct": 7.1
     }
   ],
   "hourly_today": [
@@ -592,10 +592,10 @@
     {
       "hour": 12,
       "label": "12:00",
-      "revenue": 455.0,
-      "cost": 419.21,
-      "gp_pct": 7.9,
-      "transactions": 3
+      "revenue": 720.0,
+      "cost": 627.34,
+      "gp_pct": 12.9,
+      "transactions": 6
     },
     {
       "hour": 13,
@@ -692,8 +692,8 @@
       "desc": "Carling Black Label 750ml",
       "price": 25.0,
       "gp_pct": 24.3,
-      "revenue": 207975.24,
-      "qty_sold": 9582.0
+      "revenue": 208000.24,
+      "qty_sold": 9583.0
     },
     {
       "internal": 171,
@@ -808,20 +808,20 @@
       "qty_sold": 81.0
     },
     {
+      "internal": 55,
+      "desc": "Bernini Blush 500ml",
+      "price": 25.0,
+      "gp_pct": 38.4,
+      "revenue": 13380.0,
+      "qty_sold": 702.0
+    },
+    {
       "internal": 266,
       "desc": "Pork Chops",
       "price": 40.0,
       "gp_pct": 39.4,
       "revenue": 13295.0,
       "qty_sold": 387.0
-    },
-    {
-      "internal": 55,
-      "desc": "Bernini Blush 500ml",
-      "price": 25.0,
-      "gp_pct": 38.4,
-      "revenue": 13260.0,
-      "qty_sold": 696.0
     },
     {
       "internal": 271,
@@ -851,9 +851,9 @@
   "cashier_summary": [
     {
       "cashier": "Thabiso",
-      "revenue": 477857.57,
-      "cost": 438969.14,
-      "transactions": 4456,
+      "revenue": 478122.57,
+      "cost": 439378.18,
+      "transactions": 4459,
       "gp_pct": 8.1
     },
     {
@@ -39539,6 +39539,24 @@
       "desc": "Smirnoff Storm Berry Twist 440ml",
       "amount": 100.0,
       "gp_pct": 24.8,
+      "points": 2,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 518563,
+      "date": "2026-06-28",
+      "desc": "Corona 355ml",
+      "amount": 120.0,
+      "gp_pct": 19.4,
+      "points": 2,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 518565,
+      "date": "2026-06-28",
+      "desc": "Bernini Blush 500ml",
+      "amount": 120.0,
+      "gp_pct": 38.4,
       "points": 2,
       "cashier": "Thabiso"
     }
