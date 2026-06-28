@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-28T11:06:36.023415",
+    "generated_at": "2026-06-28T11:13:05.254088",
     "generated_date": "2026-06-28",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-28",
-    "revenue": 15832.71,
-    "cost": 14852.86,
-    "gp_pct": 6.2,
-    "transactions": 111,
-    "vs_yesterday": -53931.74
+    "revenue": 16227.71,
+    "cost": 15198.22,
+    "gp_pct": 6.3,
+    "transactions": 114,
+    "vs_yesterday": -53536.74
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 717747.6,
-    "cost": 653120.28,
+    "revenue": 718142.6,
+    "cost": 653465.64,
     "gp_pct": 9.0,
-    "transactions": 6742,
+    "transactions": 6745,
     "days_elapsed": 28
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-28",
-      "revenue": 15832.71,
-      "cost": 14852.86,
-      "transactions": 111,
-      "gp_pct": 6.2
+      "revenue": 16227.71,
+      "cost": 15198.22,
+      "transactions": 114,
+      "gp_pct": 6.3
     }
   ],
   "hourly_today": [
@@ -584,10 +584,10 @@
     {
       "hour": 11,
       "label": "11:00",
-      "revenue": 670.0,
-      "cost": 559.46,
-      "gp_pct": 16.5,
-      "transactions": 5
+      "revenue": 1065.0,
+      "cost": 904.82,
+      "gp_pct": 15.0,
+      "transactions": 8
     },
     {
       "hour": 12,
@@ -692,8 +692,8 @@
       "desc": "Carling Black Label 750ml",
       "price": 25.0,
       "gp_pct": 24.3,
-      "revenue": 207212.24,
-      "qty_sold": 9547.0
+      "revenue": 207362.24,
+      "qty_sold": 9553.0
     },
     {
       "internal": 171,
@@ -851,9 +851,9 @@
   "cashier_summary": [
     {
       "cashier": "Thabiso",
-      "revenue": 472696.57,
-      "cost": 434475.54,
-      "transactions": 4426,
+      "revenue": 473091.57,
+      "cost": 434820.9,
+      "transactions": 4429,
       "gp_pct": 8.1
     },
     {
@@ -2249,6 +2249,25 @@
       "days_since_sold": 180,
       "lastsold": "2025-12-30",
       "lastbuy": "2025-08-25",
+      "loyalty_eligible": false,
+      "alert": "OUT OF STOCK"
+    },
+    {
+      "internal": 38,
+      "part_no": "603",
+      "desc": "J & B Rare 750 ml",
+      "group": "9",
+      "price": 220.0,
+      "cost": 209.99,
+      "gp_pct": 4.5,
+      "qty": 0.0,
+      "minimum": 0.0,
+      "maximum": 215.0,
+      "on_promo": false,
+      "promo_price": null,
+      "days_since_sold": 0,
+      "lastsold": "2026-06-28",
+      "lastbuy": "2026-04-08",
       "loyalty_eligible": false,
       "alert": "OUT OF STOCK"
     },
@@ -39432,11 +39451,20 @@
       "gp_pct": 19.4,
       "points": 1,
       "cashier": "Thabiso"
+    },
+    {
+      "number": 518535,
+      "date": "2026-06-28",
+      "desc": "Carling Black Label 750ml",
+      "amount": 125.0,
+      "gp_pct": 24.3,
+      "points": 2,
+      "cashier": "Thabiso"
     }
   ],
   "stock_summary": {
     "total_products": 743,
-    "out_of_stock": 477,
+    "out_of_stock": 478,
     "on_promo": 1,
     "dead_stock_30d": 71,
     "loyalty_eligible": 283
