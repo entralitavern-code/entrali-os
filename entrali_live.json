@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-28T11:32:52.903598",
+    "generated_at": "2026-06-28T11:39:24.755498",
     "generated_date": "2026-06-28",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-28",
-    "revenue": 18557.71,
-    "cost": 17193.44,
-    "gp_pct": 7.4,
-    "transactions": 122,
-    "vs_yesterday": -51206.74
+    "revenue": 19307.71,
+    "cost": 18092.47,
+    "gp_pct": 6.3,
+    "transactions": 128,
+    "vs_yesterday": -50456.74
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 720472.6,
-    "cost": 655460.87,
+    "revenue": 721222.6,
+    "cost": 656359.9,
     "gp_pct": 9.0,
-    "transactions": 6753,
+    "transactions": 6759,
     "days_elapsed": 28
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-28",
-      "revenue": 18557.71,
-      "cost": 17193.44,
-      "transactions": 122,
-      "gp_pct": 7.4
+      "revenue": 19307.71,
+      "cost": 18092.47,
+      "transactions": 128,
+      "gp_pct": 6.3
     }
   ],
   "hourly_today": [
@@ -584,10 +584,10 @@
     {
       "hour": 11,
       "label": "11:00",
-      "revenue": 3395.0,
-      "cost": 2900.04,
-      "gp_pct": 14.6,
-      "transactions": 16
+      "revenue": 4145.0,
+      "cost": 3569.16,
+      "gp_pct": 13.9,
+      "transactions": 22
     },
     {
       "hour": 12,
@@ -692,8 +692,8 @@
       "desc": "Carling Black Label 750ml",
       "price": 25.0,
       "gp_pct": 24.3,
-      "revenue": 207631.24,
-      "qty_sold": 9566.0
+      "revenue": 207975.24,
+      "qty_sold": 9582.0
     },
     {
       "internal": 171,
@@ -724,8 +724,8 @@
       "desc": "Klipdrift Export Brandy 750ml",
       "price": 200.0,
       "gp_pct": 12.5,
-      "revenue": 28800.0,
-      "qty_sold": 144.0
+      "revenue": 29000.0,
+      "qty_sold": 145.0
     },
     {
       "internal": 13,
@@ -804,8 +804,8 @@
       "desc": "Old Buck Gin 750ml",
       "price": 180.0,
       "gp_pct": 17.2,
-      "revenue": 14400.0,
-      "qty_sold": 80.0
+      "revenue": 14580.0,
+      "qty_sold": 81.0
     },
     {
       "internal": 266,
@@ -851,9 +851,9 @@
   "cashier_summary": [
     {
       "cashier": "Thabiso",
-      "revenue": 475421.57,
-      "cost": 436816.13,
-      "transactions": 4437,
+      "revenue": 476171.57,
+      "cost": 437715.16,
+      "transactions": 4443,
       "gp_pct": 8.1
     },
     {
@@ -39504,6 +39504,24 @@
       "amount": 244.0,
       "gp_pct": 24.3,
       "points": 4,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 518545,
+      "date": "2026-06-28",
+      "desc": "Carling Black Label 750ml",
+      "amount": 244.0,
+      "gp_pct": 24.3,
+      "points": 4,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 518546,
+      "date": "2026-06-28",
+      "desc": "Carling Black Label 750ml",
+      "amount": 75.0,
+      "gp_pct": 24.3,
+      "points": 1,
       "cashier": "Thabiso"
     }
   ],
