@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-28T12:58:31.431711",
+    "generated_at": "2026-06-28T13:05:20.378979",
     "generated_date": "2026-06-28",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-28",
-    "revenue": 27270.71,
-    "cost": 25226.52,
-    "gp_pct": 7.5,
-    "transactions": 181,
-    "vs_yesterday": -42493.74
+    "revenue": 27510.71,
+    "cost": 25415.89,
+    "gp_pct": 7.6,
+    "transactions": 183,
+    "vs_yesterday": -42253.74
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 729185.6,
-    "cost": 663493.94,
+    "revenue": 729425.6,
+    "cost": 663683.32,
     "gp_pct": 9.0,
-    "transactions": 6812,
+    "transactions": 6814,
     "days_elapsed": 28
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-28",
-      "revenue": 27270.71,
-      "cost": 25226.52,
-      "transactions": 181,
-      "gp_pct": 7.5
+      "revenue": 27510.71,
+      "cost": 25415.89,
+      "transactions": 183,
+      "gp_pct": 7.6
     }
   ],
   "hourly_today": [
@@ -600,10 +600,10 @@
     {
       "hour": 13,
       "label": "13:00",
-      "revenue": 0.0,
-      "cost": 0.0,
-      "gp_pct": 0.0,
-      "transactions": 0
+      "revenue": 240.0,
+      "cost": 189.37,
+      "gp_pct": 21.1,
+      "transactions": 2
     },
     {
       "hour": 14,
@@ -796,8 +796,8 @@
       "desc": "Bernini Classic 500ml",
       "price": 25.0,
       "gp_pct": 38.4,
-      "revenue": 15475.0,
-      "qty_sold": 820.0
+      "revenue": 15595.0,
+      "qty_sold": 826.0
     },
     {
       "internal": 183,
@@ -851,9 +851,9 @@
   "cashier_summary": [
     {
       "cashier": "Thabiso",
-      "revenue": 484134.57,
-      "cost": 444849.2,
-      "transactions": 4496,
+      "revenue": 484374.57,
+      "cost": 445038.57,
+      "transactions": 4498,
       "gp_pct": 8.1
     },
     {
@@ -39674,6 +39674,24 @@
       "desc": "Bernini Blush 500ml",
       "amount": 75.0,
       "gp_pct": 38.4,
+      "points": 1,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 518603,
+      "date": "2026-06-28",
+      "desc": "Bernini Classic 500ml",
+      "amount": 120.0,
+      "gp_pct": 38.4,
+      "points": 2,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 518604,
+      "date": "2026-06-28",
+      "desc": "Stella Artois 330ml",
+      "amount": 95.0,
+      "gp_pct": 26.5,
       "points": 1,
       "cashier": "Thabiso"
     }
