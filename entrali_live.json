@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-28T11:13:05.254088",
+    "generated_at": "2026-06-28T11:19:40.265981",
     "generated_date": "2026-06-28",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-28",
-    "revenue": 16227.71,
-    "cost": 15198.22,
-    "gp_pct": 6.3,
-    "transactions": 114,
-    "vs_yesterday": -53536.74
+    "revenue": 17912.71,
+    "cost": 16604.83,
+    "gp_pct": 7.3,
+    "transactions": 119,
+    "vs_yesterday": -51851.74
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 718142.6,
-    "cost": 653465.64,
+    "revenue": 719827.6,
+    "cost": 654872.26,
     "gp_pct": 9.0,
-    "transactions": 6745,
+    "transactions": 6750,
     "days_elapsed": 28
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-28",
-      "revenue": 16227.71,
-      "cost": 15198.22,
-      "transactions": 114,
-      "gp_pct": 6.3
+      "revenue": 17912.71,
+      "cost": 16604.83,
+      "transactions": 119,
+      "gp_pct": 7.3
     }
   ],
   "hourly_today": [
@@ -584,10 +584,10 @@
     {
       "hour": 11,
       "label": "11:00",
-      "revenue": 1065.0,
-      "cost": 904.82,
-      "gp_pct": 15.0,
-      "transactions": 8
+      "revenue": 2750.0,
+      "cost": 2311.43,
+      "gp_pct": 15.9,
+      "transactions": 13
     },
     {
       "hour": 12,
@@ -700,16 +700,16 @@
       "desc": "Paarl Perle' 1L",
       "price": 45.0,
       "gp_pct": 21.3,
-      "revenue": 75385.0,
-      "qty_sold": 1890.0
+      "revenue": 75430.0,
+      "qty_sold": 1891.0
     },
     {
       "internal": 188,
       "desc": "Sedgwicks Old Brown Sherry 750ml",
       "price": 60.0,
       "gp_pct": 23.3,
-      "revenue": 41539.97,
-      "qty_sold": 789.0
+      "revenue": 41639.97,
+      "qty_sold": 791.0
     },
     {
       "internal": 172,
@@ -724,8 +724,8 @@
       "desc": "Klipdrift Export Brandy 750ml",
       "price": 200.0,
       "gp_pct": 12.5,
-      "revenue": 28400.0,
-      "qty_sold": 142.0
+      "revenue": 28600.0,
+      "qty_sold": 143.0
     },
     {
       "internal": 13,
@@ -796,16 +796,16 @@
       "desc": "Bernini Classic 500ml",
       "price": 25.0,
       "gp_pct": 38.4,
-      "revenue": 14875.0,
-      "qty_sold": 790.0
+      "revenue": 15355.0,
+      "qty_sold": 814.0
     },
     {
       "internal": 183,
       "desc": "Old Buck Gin 750ml",
       "price": 180.0,
       "gp_pct": 17.2,
-      "revenue": 14220.0,
-      "qty_sold": 79.0
+      "revenue": 14400.0,
+      "qty_sold": 80.0
     },
     {
       "internal": 266,
@@ -851,9 +851,9 @@
   "cashier_summary": [
     {
       "cashier": "Thabiso",
-      "revenue": 473091.57,
-      "cost": 434820.9,
-      "transactions": 4429,
+      "revenue": 474776.57,
+      "cost": 436227.52,
+      "transactions": 4434,
       "gp_pct": 8.1
     },
     {
@@ -39458,6 +39458,33 @@
       "desc": "Carling Black Label 750ml",
       "amount": 125.0,
       "gp_pct": 24.3,
+      "points": 2,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 518536,
+      "date": "2026-06-28",
+      "desc": "Castle Lite 500ml",
+      "amount": 300.0,
+      "gp_pct": 26.9,
+      "points": 6,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 518536,
+      "date": "2026-06-28",
+      "desc": "Bernini Classic 500ml",
+      "amount": 480.0,
+      "gp_pct": 38.4,
+      "points": 9,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 518539,
+      "date": "2026-06-28",
+      "desc": "Sedgwicks Old Brown Sherry 750ml",
+      "amount": 100.0,
+      "gp_pct": 23.3,
       "points": 2,
       "cashier": "Thabiso"
     }
