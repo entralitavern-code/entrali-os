@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-28T08:22:09.284011",
+    "generated_at": "2026-06-28T08:28:40.783506",
     "generated_date": "2026-06-28",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -10,36 +10,28 @@
   "today": {
     "date": "2026-06-28",
     "revenue": 1109.0,
-    "cost": 995.1,
-    "gp_pct": 10.3,
+    "cost": 1017.3,
+    "gp_pct": 8.3,
     "transactions": 14,
     "vs_yesterday": -68655.45
   },
   "mtd": {
     "month": "June 2026",
     "revenue": 703023.89,
-    "cost": 639262.53,
+    "cost": 639284.73,
     "gp_pct": 9.1,
     "transactions": 6645,
     "days_elapsed": 28
   },
   "latest_cashup": {
-    "date": "2026-06-27",
-    "cash_start": 0.0,
-    "cash_end": 31763.9,
-    "cash_income": 31763.9,
+    "date": "2026-06-28",
+    "cash_start": 1883.9,
+    "cash_end": 0.0,
+    "cash_income": -1883.9,
     "card": 0.0,
-    "total": 31763.9
+    "total": -1883.9
   },
   "cashup_history": [
-    {
-      "date": "2026-05-29",
-      "cash_start": 961.7,
-      "cash_end": 18986.9,
-      "cash_income": 18025.2,
-      "card": 0.0,
-      "total": 18025.2
-    },
     {
       "date": "2026-05-30",
       "cash_start": 0.0,
@@ -271,6 +263,14 @@
       "cash_income": 31763.9,
       "card": 0.0,
       "total": 31763.9
+    },
+    {
+      "date": "2026-06-28",
+      "cash_start": 1883.9,
+      "cash_end": 0.0,
+      "cash_income": -1883.9,
+      "card": 0.0,
+      "total": -1883.9
     }
   ],
   "daily_summary": [
@@ -487,9 +487,9 @@
     {
       "date": "2026-06-28",
       "revenue": 1109.0,
-      "cost": 995.1,
+      "cost": 1017.3,
       "transactions": 14,
-      "gp_pct": 10.3
+      "gp_pct": 8.3
     }
   ],
   "hourly_today": [
@@ -788,8 +788,8 @@
       "desc": "Redd's Original 660ml",
       "price": 25.0,
       "gp_pct": 17.0,
-      "revenue": 15497.0,
-      "qty_sold": 649.0
+      "revenue": 15522.0,
+      "qty_sold": 650.0
     },
     {
       "internal": 599,
@@ -852,7 +852,7 @@
     {
       "cashier": "Thabiso",
       "revenue": 457972.86,
-      "cost": 420617.78,
+      "cost": 420639.99,
       "transactions": 4329,
       "gp_pct": 8.2
     },
