@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-28T11:46:04.900897",
+    "generated_at": "2026-06-28T11:52:38.518547",
     "generated_date": "2026-06-28",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-28",
-    "revenue": 19908.71,
-    "cost": 18394.84,
-    "gp_pct": 7.6,
-    "transactions": 133,
-    "vs_yesterday": -49855.74
+    "revenue": 20123.71,
+    "cost": 18577.44,
+    "gp_pct": 7.7,
+    "transactions": 135,
+    "vs_yesterday": -49640.74
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 721823.6,
-    "cost": 656662.27,
+    "revenue": 722038.6,
+    "cost": 656844.87,
     "gp_pct": 9.0,
-    "transactions": 6764,
+    "transactions": 6766,
     "days_elapsed": 28
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-28",
-      "revenue": 19908.71,
-      "cost": 18394.84,
-      "transactions": 133,
-      "gp_pct": 7.6
+      "revenue": 20123.71,
+      "cost": 18577.44,
+      "transactions": 135,
+      "gp_pct": 7.7
     }
   ],
   "hourly_today": [
@@ -584,10 +584,10 @@
     {
       "hour": 11,
       "label": "11:00",
-      "revenue": 4746.0,
-      "cost": 4101.44,
+      "revenue": 4961.0,
+      "cost": 4284.04,
       "gp_pct": 13.6,
-      "transactions": 27
+      "transactions": 29
     },
     {
       "hour": 12,
@@ -716,8 +716,8 @@
       "desc": "Paarl Perle' 2L",
       "price": 75.0,
       "gp_pct": 13.0,
-      "revenue": 37180.61,
-      "qty_sold": 501.0
+      "revenue": 37255.61,
+      "qty_sold": 502.0
     },
     {
       "internal": 204,
@@ -851,9 +851,9 @@
   "cashier_summary": [
     {
       "cashier": "Thabiso",
-      "revenue": 476772.57,
-      "cost": 438017.53,
-      "transactions": 4448,
+      "revenue": 476987.57,
+      "cost": 438200.13,
+      "transactions": 4450,
       "gp_pct": 8.1
     },
     {
@@ -1699,6 +1699,25 @@
       "lastsold": "2026-04-03",
       "lastbuy": "2023-12-16",
       "loyalty_eligible": true,
+      "alert": "OUT OF STOCK"
+    },
+    {
+      "internal": 314,
+      "part_no": "2370",
+      "desc": "Sch G/ Ale 1l",
+      "group": "21",
+      "price": 20.0,
+      "cost": 17.38,
+      "gp_pct": 13.1,
+      "qty": -1.0,
+      "minimum": 0.0,
+      "maximum": 0.0,
+      "on_promo": false,
+      "promo_price": null,
+      "days_since_sold": 0,
+      "lastsold": "2026-06-28",
+      "lastbuy": "2026-06-16",
+      "loyalty_eligible": false,
       "alert": "OUT OF STOCK"
     },
     {
@@ -4605,25 +4624,6 @@
       "days_since_sold": 1946,
       "lastsold": "2021-02-28",
       "lastbuy": null,
-      "loyalty_eligible": false,
-      "alert": "OUT OF STOCK"
-    },
-    {
-      "internal": 314,
-      "part_no": "2370",
-      "desc": "Sch G/ Ale 1l",
-      "group": "21",
-      "price": 20.0,
-      "cost": 17.38,
-      "gp_pct": 13.1,
-      "qty": 0.0,
-      "minimum": 0.0,
-      "maximum": 0.0,
-      "on_promo": false,
-      "promo_price": null,
-      "days_since_sold": 1,
-      "lastsold": "2026-06-27",
-      "lastbuy": "2026-06-16",
       "loyalty_eligible": false,
       "alert": "OUT OF STOCK"
     },
