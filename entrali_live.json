@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-28T13:11:50.551046",
+    "generated_at": "2026-06-28T13:18:25.730317",
     "generated_date": "2026-06-28",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-28",
-    "revenue": 27990.71,
-    "cost": 25776.88,
+    "revenue": 28172.71,
+    "cost": 25933.79,
     "gp_pct": 7.9,
-    "transactions": 188,
-    "vs_yesterday": -41773.74
+    "transactions": 192,
+    "vs_yesterday": -41591.74
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 729905.6,
-    "cost": 664044.31,
+    "revenue": 730087.6,
+    "cost": 664201.21,
     "gp_pct": 9.0,
-    "transactions": 6819,
+    "transactions": 6823,
     "days_elapsed": 28
   },
   "latest_cashup": {
@@ -486,9 +486,9 @@
     },
     {
       "date": "2026-06-28",
-      "revenue": 27990.71,
-      "cost": 25776.88,
-      "transactions": 188,
+      "revenue": 28172.71,
+      "cost": 25933.79,
+      "transactions": 192,
       "gp_pct": 7.9
     }
   ],
@@ -600,10 +600,10 @@
     {
       "hour": 13,
       "label": "13:00",
-      "revenue": 720.0,
-      "cost": 550.37,
-      "gp_pct": 23.6,
-      "transactions": 7
+      "revenue": 902.0,
+      "cost": 707.27,
+      "gp_pct": 21.6,
+      "transactions": 11
     },
     {
       "hour": 14,
@@ -692,16 +692,16 @@
       "desc": "Carling Black Label 750ml",
       "price": 25.0,
       "gp_pct": 24.3,
-      "revenue": 209589.24,
-      "qty_sold": 9660.0
+      "revenue": 209614.24,
+      "qty_sold": 9661.0
     },
     {
       "internal": 171,
       "desc": "Paarl Perle' 1L",
       "price": 45.0,
       "gp_pct": 21.3,
-      "revenue": 75925.0,
-      "qty_sold": 1904.0
+      "revenue": 75970.0,
+      "qty_sold": 1905.0
     },
     {
       "internal": 188,
@@ -764,8 +764,8 @@
       "desc": "Heineken 650ml",
       "price": 25.0,
       "gp_pct": 10.3,
-      "revenue": 20125.0,
-      "qty_sold": 805.0
+      "revenue": 20225.0,
+      "qty_sold": 809.0
     },
     {
       "internal": 712,
@@ -851,9 +851,9 @@
   "cashier_summary": [
     {
       "cashier": "Thabiso",
-      "revenue": 484854.57,
-      "cost": 445399.57,
-      "transactions": 4503,
+      "revenue": 485036.57,
+      "cost": 445556.47,
+      "transactions": 4507,
       "gp_pct": 8.1
     },
     {
