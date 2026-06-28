@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-28T08:55:19.920200",
+    "generated_at": "2026-06-28T09:01:48.690861",
     "generated_date": "2026-06-28",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-28",
-    "revenue": 2703.5,
-    "cost": 2517.71,
-    "gp_pct": 6.9,
-    "transactions": 29,
-    "vs_yesterday": -67060.95
+    "revenue": 3153.5,
+    "cost": 2942.7,
+    "gp_pct": 6.7,
+    "transactions": 30,
+    "vs_yesterday": -66610.95
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 704618.39,
-    "cost": 640785.14,
+    "revenue": 705068.39,
+    "cost": 641210.13,
     "gp_pct": 9.1,
-    "transactions": 6660,
+    "transactions": 6661,
     "days_elapsed": 28
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-28",
-      "revenue": 2703.5,
-      "cost": 2517.71,
-      "transactions": 29,
-      "gp_pct": 6.9
+      "revenue": 3153.5,
+      "cost": 2942.7,
+      "transactions": 30,
+      "gp_pct": 6.7
     }
   ],
   "hourly_today": [
@@ -568,10 +568,10 @@
     {
       "hour": 9,
       "label": "09:00",
-      "revenue": 0.0,
-      "cost": 0.0,
-      "gp_pct": 0.0,
-      "transactions": 0
+      "revenue": 450.0,
+      "cost": 424.99,
+      "gp_pct": 5.6,
+      "transactions": 1
     },
     {
       "hour": 10,
@@ -700,8 +700,8 @@
       "desc": "Paarl Perle' 1L",
       "price": 45.0,
       "gp_pct": 21.3,
-      "revenue": 73405.0,
-      "qty_sold": 1838.0
+      "revenue": 73855.0,
+      "qty_sold": 1850.0
     },
     {
       "internal": 188,
@@ -851,9 +851,9 @@
   "cashier_summary": [
     {
       "cashier": "Thabiso",
-      "revenue": 459567.36,
-      "cost": 422140.4,
-      "transactions": 4344,
+      "revenue": 460017.36,
+      "cost": 422565.39,
+      "transactions": 4345,
       "gp_pct": 8.1
     },
     {
@@ -39070,6 +39070,15 @@
       "desc": "Carling Black Label 750ml",
       "amount": 488.0,
       "gp_pct": 24.3,
+      "points": 9,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 518451,
+      "date": "2026-06-28",
+      "desc": "Paarl Perle' 1L",
+      "amount": 450.0,
+      "gp_pct": 21.3,
       "points": 9,
       "cashier": "Thabiso"
     }
