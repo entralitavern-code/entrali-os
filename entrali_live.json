@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-28T09:27:59.635035",
+    "generated_at": "2026-06-28T09:34:27.122894",
     "generated_date": "2026-06-28",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-28",
-    "revenue": 6846.38,
-    "cost": 6623.67,
-    "gp_pct": 3.3,
-    "transactions": 42,
-    "vs_yesterday": -62918.07
+    "revenue": 7312.71,
+    "cost": 7040.15,
+    "gp_pct": 3.7,
+    "transactions": 50,
+    "vs_yesterday": -62451.74
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 708761.27,
-    "cost": 644891.09,
+    "revenue": 709227.6,
+    "cost": 645307.58,
     "gp_pct": 9.0,
-    "transactions": 6673,
+    "transactions": 6681,
     "days_elapsed": 28
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-28",
-      "revenue": 6846.38,
-      "cost": 6623.67,
-      "transactions": 42,
-      "gp_pct": 3.3
+      "revenue": 7312.71,
+      "cost": 7040.15,
+      "transactions": 50,
+      "gp_pct": 3.7
     }
   ],
   "hourly_today": [
@@ -568,10 +568,10 @@
     {
       "hour": 9,
       "label": "09:00",
-      "revenue": 4142.88,
-      "cost": 4067.58,
-      "gp_pct": 1.8,
-      "transactions": 13
+      "revenue": 4609.21,
+      "cost": 4522.44,
+      "gp_pct": 1.9,
+      "transactions": 21
     },
     {
       "hour": 10,
@@ -692,8 +692,8 @@
       "desc": "Carling Black Label 750ml",
       "price": 25.0,
       "gp_pct": 24.3,
-      "revenue": 204101.91,
-      "qty_sold": 9400.0
+      "revenue": 204172.24,
+      "qty_sold": 9403.0
     },
     {
       "internal": 171,
@@ -851,9 +851,9 @@
   "cashier_summary": [
     {
       "cashier": "Thabiso",
-      "revenue": 463710.24,
-      "cost": 426246.35,
-      "transactions": 4357,
+      "revenue": 464176.57,
+      "cost": 426662.84,
+      "transactions": 4365,
       "gp_pct": 8.1
     },
     {
@@ -39152,6 +39152,15 @@
       "amount": 50.0,
       "gp_pct": 24.3,
       "points": 1,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 518470,
+      "date": "2026-06-28",
+      "desc": "Corona 355ml",
+      "amount": 120.0,
+      "gp_pct": 19.4,
+      "points": 2,
       "cashier": "Thabiso"
     }
   ],
