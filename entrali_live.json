@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-28T11:00:09.784664",
+    "generated_at": "2026-06-28T11:06:36.023415",
     "generated_date": "2026-06-28",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-28",
-    "revenue": 15162.71,
-    "cost": 14293.4,
-    "gp_pct": 5.7,
-    "transactions": 106,
-    "vs_yesterday": -54601.74
+    "revenue": 15832.71,
+    "cost": 14852.86,
+    "gp_pct": 6.2,
+    "transactions": 111,
+    "vs_yesterday": -53931.74
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 717077.6,
-    "cost": 652560.83,
+    "revenue": 717747.6,
+    "cost": 653120.28,
     "gp_pct": 9.0,
-    "transactions": 6737,
+    "transactions": 6742,
     "days_elapsed": 28
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-28",
-      "revenue": 15162.71,
-      "cost": 14293.4,
-      "transactions": 106,
-      "gp_pct": 5.7
+      "revenue": 15832.71,
+      "cost": 14852.86,
+      "transactions": 111,
+      "gp_pct": 6.2
     }
   ],
   "hourly_today": [
@@ -584,10 +584,10 @@
     {
       "hour": 11,
       "label": "11:00",
-      "revenue": 0.0,
-      "cost": 0.0,
-      "gp_pct": 0.0,
-      "transactions": 0
+      "revenue": 670.0,
+      "cost": 559.46,
+      "gp_pct": 16.5,
+      "transactions": 5
     },
     {
       "hour": 12,
@@ -692,8 +692,8 @@
       "desc": "Carling Black Label 750ml",
       "price": 25.0,
       "gp_pct": 24.3,
-      "revenue": 207187.24,
-      "qty_sold": 9546.0
+      "revenue": 207212.24,
+      "qty_sold": 9547.0
     },
     {
       "internal": 171,
@@ -740,8 +740,8 @@
       "desc": "4th Street Sweet L/H 5l",
       "price": 180.0,
       "gp_pct": 11.9,
-      "revenue": 24480.0,
-      "qty_sold": 136.0
+      "revenue": 24660.0,
+      "qty_sold": 137.0
     },
     {
       "internal": 161,
@@ -756,8 +756,8 @@
       "desc": "4th Street Sweet Red 5L",
       "price": 180.0,
       "gp_pct": 16.8,
-      "revenue": 21420.0,
-      "qty_sold": 119.0
+      "revenue": 21600.0,
+      "qty_sold": 120.0
     },
     {
       "internal": 231,
@@ -804,8 +804,8 @@
       "desc": "Old Buck Gin 750ml",
       "price": 180.0,
       "gp_pct": 17.2,
-      "revenue": 14040.0,
-      "qty_sold": 78.0
+      "revenue": 14220.0,
+      "qty_sold": 79.0
     },
     {
       "internal": 266,
@@ -851,9 +851,9 @@
   "cashier_summary": [
     {
       "cashier": "Thabiso",
-      "revenue": 472026.57,
-      "cost": 433916.09,
-      "transactions": 4421,
+      "revenue": 472696.57,
+      "cost": 434475.54,
+      "transactions": 4426,
       "gp_pct": 8.1
     },
     {
@@ -39422,6 +39422,15 @@
       "amount": 120.0,
       "gp_pct": 38.4,
       "points": 2,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 518529,
+      "date": "2026-06-28",
+      "desc": "Corona 355ml",
+      "amount": 80.0,
+      "gp_pct": 19.4,
+      "points": 1,
       "cashier": "Thabiso"
     }
   ],
