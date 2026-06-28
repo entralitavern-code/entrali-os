@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-28T12:25:31.842386",
+    "generated_at": "2026-06-28T12:32:03.698480",
     "generated_date": "2026-06-28",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-28",
-    "revenue": 23113.71,
-    "cost": 21473.08,
-    "gp_pct": 7.1,
-    "transactions": 157,
-    "vs_yesterday": -46650.74
+    "revenue": 24983.71,
+    "cost": 23294.44,
+    "gp_pct": 6.8,
+    "transactions": 161,
+    "vs_yesterday": -44780.74
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 725028.6,
-    "cost": 659740.51,
+    "revenue": 726898.6,
+    "cost": 661561.86,
     "gp_pct": 9.0,
-    "transactions": 6788,
+    "transactions": 6792,
     "days_elapsed": 28
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-28",
-      "revenue": 23113.71,
-      "cost": 21473.08,
-      "transactions": 157,
-      "gp_pct": 7.1
+      "revenue": 24983.71,
+      "cost": 23294.44,
+      "transactions": 161,
+      "gp_pct": 6.8
     }
   ],
   "hourly_today": [
@@ -592,10 +592,10 @@
     {
       "hour": 12,
       "label": "12:00",
-      "revenue": 2575.0,
-      "cost": 2545.84,
-      "gp_pct": 1.1,
-      "transactions": 19
+      "revenue": 4445.0,
+      "cost": 4367.19,
+      "gp_pct": 1.8,
+      "transactions": 23
     },
     {
       "hour": 13,
@@ -692,16 +692,16 @@
       "desc": "Carling Black Label 750ml",
       "price": 25.0,
       "gp_pct": 24.3,
-      "revenue": 208563.24,
-      "qty_sold": 9610.0
+      "revenue": 209539.24,
+      "qty_sold": 9658.0
     },
     {
       "internal": 171,
       "desc": "Paarl Perle' 1L",
       "price": 45.0,
       "gp_pct": 21.3,
-      "revenue": 75475.0,
-      "qty_sold": 1892.0
+      "revenue": 75925.0,
+      "qty_sold": 1904.0
     },
     {
       "internal": 188,
@@ -812,8 +812,8 @@
       "desc": "Bernini Blush 500ml",
       "price": 25.0,
       "gp_pct": 38.4,
-      "revenue": 13405.0,
-      "qty_sold": 703.0
+      "revenue": 13645.0,
+      "qty_sold": 715.0
     },
     {
       "internal": 266,
@@ -851,9 +851,9 @@
   "cashier_summary": [
     {
       "cashier": "Thabiso",
-      "revenue": 479977.57,
-      "cost": 441095.76,
-      "transactions": 4472,
+      "revenue": 481847.57,
+      "cost": 442917.12,
+      "transactions": 4476,
       "gp_pct": 8.1
     },
     {
@@ -39575,6 +39575,51 @@
       "desc": "Bernini Mimosa 500ml",
       "amount": 50.0,
       "gp_pct": 33.4,
+      "points": 1,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 518579,
+      "date": "2026-06-28",
+      "desc": "Carling Black Label 750ml",
+      "amount": 732.0,
+      "gp_pct": 24.3,
+      "points": 14,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 518579,
+      "date": "2026-06-28",
+      "desc": "Paarl Perle' 1L",
+      "amount": 450.0,
+      "gp_pct": 21.3,
+      "points": 9,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 518580,
+      "date": "2026-06-28",
+      "desc": "Carling Black Label 750ml",
+      "amount": 244.0,
+      "gp_pct": 24.3,
+      "points": 4,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 518581,
+      "date": "2026-06-28",
+      "desc": "Bernini Blush 500ml",
+      "amount": 240.0,
+      "gp_pct": 38.4,
+      "points": 4,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 518582,
+      "date": "2026-06-28",
+      "desc": "Castle Lite 660ml",
+      "amount": 50.0,
+      "gp_pct": 19.0,
       "points": 1,
       "cashier": "Thabiso"
     }
