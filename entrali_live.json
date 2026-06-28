@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-28T09:47:52.237801",
+    "generated_at": "2026-06-28T09:54:24.334363",
     "generated_date": "2026-06-28",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-28",
-    "revenue": 8937.71,
-    "cost": 8716.2,
-    "gp_pct": 2.5,
-    "transactions": 57,
-    "vs_yesterday": -60826.74
+    "revenue": 9572.71,
+    "cost": 9162.95,
+    "gp_pct": 4.3,
+    "transactions": 63,
+    "vs_yesterday": -60191.74
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 710852.6,
-    "cost": 646983.63,
+    "revenue": 711487.6,
+    "cost": 647430.38,
     "gp_pct": 9.0,
-    "transactions": 6688,
+    "transactions": 6694,
     "days_elapsed": 28
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-28",
-      "revenue": 8937.71,
-      "cost": 8716.2,
-      "transactions": 57,
-      "gp_pct": 2.5
+      "revenue": 9572.71,
+      "cost": 9162.95,
+      "transactions": 63,
+      "gp_pct": 4.3
     }
   ],
   "hourly_today": [
@@ -568,10 +568,10 @@
     {
       "hour": 9,
       "label": "09:00",
-      "revenue": 6234.21,
-      "cost": 6101.74,
-      "gp_pct": 2.1,
-      "transactions": 28
+      "revenue": 6869.21,
+      "cost": 6645.24,
+      "gp_pct": 3.3,
+      "transactions": 34
     },
     {
       "hour": 10,
@@ -732,16 +732,16 @@
       "desc": "Commando Brandy 750ml",
       "price": 200.0,
       "gp_pct": 10.5,
-      "revenue": 24979.17,
-      "qty_sold": 125.0
+      "revenue": 25179.17,
+      "qty_sold": 126.0
     },
     {
       "internal": 439,
       "desc": "4th Street Sweet L/H 5l",
       "price": 180.0,
       "gp_pct": 11.9,
-      "revenue": 24300.0,
-      "qty_sold": 135.0
+      "revenue": 24480.0,
+      "qty_sold": 136.0
     },
     {
       "internal": 161,
@@ -788,8 +788,8 @@
       "desc": "Redd's Original 660ml",
       "price": 25.0,
       "gp_pct": 17.0,
-      "revenue": 15672.0,
-      "qty_sold": 656.0
+      "revenue": 15697.0,
+      "qty_sold": 657.0
     },
     {
       "internal": 599,
@@ -851,10 +851,10 @@
   "cashier_summary": [
     {
       "cashier": "Thabiso",
-      "revenue": 465801.57,
-      "cost": 428338.88,
-      "transactions": 4372,
-      "gp_pct": 8.0
+      "revenue": 466436.57,
+      "cost": 428785.63,
+      "transactions": 4378,
+      "gp_pct": 8.1
     },
     {
       "cashier": "Nwabisa",
@@ -1310,7 +1310,7 @@
       "price": 25.0,
       "cost": 20.7492,
       "gp_pct": 17.0,
-      "qty": -17.0,
+      "qty": -18.0,
       "minimum": 0.0,
       "maximum": 13.0,
       "on_promo": false,
@@ -39215,6 +39215,15 @@
       "amount": 120.0,
       "gp_pct": 19.4,
       "points": 2,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 518483,
+      "date": "2026-06-28",
+      "desc": "Commando Brandy 200ml",
+      "amount": 70.0,
+      "gp_pct": 19.8,
+      "points": 1,
       "cashier": "Thabiso"
     }
   ],
