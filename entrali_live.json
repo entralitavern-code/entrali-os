@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-28T11:39:24.755498",
+    "generated_at": "2026-06-28T11:46:04.900897",
     "generated_date": "2026-06-28",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-28",
-    "revenue": 19307.71,
-    "cost": 18092.47,
-    "gp_pct": 6.3,
-    "transactions": 128,
-    "vs_yesterday": -50456.74
+    "revenue": 19908.71,
+    "cost": 18394.84,
+    "gp_pct": 7.6,
+    "transactions": 133,
+    "vs_yesterday": -49855.74
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 721222.6,
-    "cost": 656359.9,
+    "revenue": 721823.6,
+    "cost": 656662.27,
     "gp_pct": 9.0,
-    "transactions": 6759,
+    "transactions": 6764,
     "days_elapsed": 28
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-28",
-      "revenue": 19307.71,
-      "cost": 18092.47,
-      "transactions": 128,
-      "gp_pct": 6.3
+      "revenue": 19908.71,
+      "cost": 18394.84,
+      "transactions": 133,
+      "gp_pct": 7.6
     }
   ],
   "hourly_today": [
@@ -584,10 +584,10 @@
     {
       "hour": 11,
       "label": "11:00",
-      "revenue": 4145.0,
-      "cost": 3569.16,
-      "gp_pct": 13.9,
-      "transactions": 22
+      "revenue": 4746.0,
+      "cost": 4101.44,
+      "gp_pct": 13.6,
+      "transactions": 27
     },
     {
       "hour": 12,
@@ -700,8 +700,8 @@
       "desc": "Paarl Perle' 1L",
       "price": 45.0,
       "gp_pct": 21.3,
-      "revenue": 75430.0,
-      "qty_sold": 1891.0
+      "revenue": 75475.0,
+      "qty_sold": 1892.0
     },
     {
       "internal": 188,
@@ -844,16 +844,16 @@
       "desc": "Gordon's Gin 750ml",
       "price": 160.0,
       "gp_pct": 6.9,
-      "revenue": 11480.0,
-      "qty_sold": 65.0
+      "revenue": 11640.0,
+      "qty_sold": 66.0
     }
   ],
   "cashier_summary": [
     {
       "cashier": "Thabiso",
-      "revenue": 476171.57,
-      "cost": 437715.16,
-      "transactions": 4443,
+      "revenue": 476772.57,
+      "cost": 438017.53,
+      "transactions": 4448,
       "gp_pct": 8.1
     },
     {
@@ -39522,6 +39522,15 @@
       "amount": 75.0,
       "gp_pct": 24.3,
       "points": 1,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 518553,
+      "date": "2026-06-28",
+      "desc": "Castle Lite 660ml",
+      "amount": 125.0,
+      "gp_pct": 19.0,
+      "points": 2,
       "cashier": "Thabiso"
     }
   ],
