@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-28T10:33:48.482212",
+    "generated_at": "2026-06-28T10:40:25.830769",
     "generated_date": "2026-06-28",
     "interval_seconds": 300,
     "dbf_path": "C:\\RMan",
@@ -9,18 +9,18 @@
   },
   "today": {
     "date": "2026-06-28",
-    "revenue": 13020.71,
-    "cost": 12339.25,
-    "gp_pct": 5.2,
-    "transactions": 86,
-    "vs_yesterday": -56743.74
+    "revenue": 13707.71,
+    "cost": 13022.56,
+    "gp_pct": 5.0,
+    "transactions": 90,
+    "vs_yesterday": -56056.74
   },
   "mtd": {
     "month": "June 2026",
-    "revenue": 714935.6,
-    "cost": 650606.67,
+    "revenue": 715622.6,
+    "cost": 651289.99,
     "gp_pct": 9.0,
-    "transactions": 6717,
+    "transactions": 6721,
     "days_elapsed": 28
   },
   "latest_cashup": {
@@ -486,10 +486,10 @@
     },
     {
       "date": "2026-06-28",
-      "revenue": 13020.71,
-      "cost": 12339.25,
-      "transactions": 86,
-      "gp_pct": 5.2
+      "revenue": 13707.71,
+      "cost": 13022.56,
+      "transactions": 90,
+      "gp_pct": 5.0
     }
   ],
   "hourly_today": [
@@ -576,10 +576,10 @@
     {
       "hour": 10,
       "label": "10:00",
-      "revenue": 3053.0,
-      "cost": 2857.72,
-      "gp_pct": 6.4,
-      "transactions": 17
+      "revenue": 3740.0,
+      "cost": 3493.21,
+      "gp_pct": 6.6,
+      "transactions": 21
     },
     {
       "hour": 11,
@@ -692,8 +692,8 @@
       "desc": "Carling Black Label 750ml",
       "price": 25.0,
       "gp_pct": 24.3,
-      "revenue": 206768.24,
-      "qty_sold": 9527.0
+      "revenue": 206818.24,
+      "qty_sold": 9529.0
     },
     {
       "internal": 171,
@@ -764,8 +764,8 @@
       "desc": "Heineken 650ml",
       "price": 25.0,
       "gp_pct": 10.3,
-      "revenue": 19775.0,
-      "qty_sold": 791.0
+      "revenue": 19800.0,
+      "qty_sold": 792.0
     },
     {
       "internal": 712,
@@ -788,8 +788,8 @@
       "desc": "Redd's Original 660ml",
       "price": 25.0,
       "gp_pct": 17.0,
-      "revenue": 15697.0,
-      "qty_sold": 657.0
+      "revenue": 15722.0,
+      "qty_sold": 658.0
     },
     {
       "internal": 599,
@@ -851,9 +851,9 @@
   "cashier_summary": [
     {
       "cashier": "Thabiso",
-      "revenue": 469884.57,
-      "cost": 431961.93,
-      "transactions": 4401,
+      "revenue": 470571.57,
+      "cost": 432645.25,
+      "transactions": 4405,
       "gp_pct": 8.1
     },
     {
@@ -1310,7 +1310,7 @@
       "price": 25.0,
       "cost": 20.7492,
       "gp_pct": 17.0,
-      "qty": -18.0,
+      "qty": -19.0,
       "minimum": 0.0,
       "maximum": 13.0,
       "on_promo": false,
@@ -1443,13 +1443,13 @@
       "price": 16.0,
       "cost": 16.0,
       "gp_pct": 0.0,
-      "qty": -4.0,
+      "qty": -5.0,
       "minimum": 0.0,
       "maximum": 0.0,
       "on_promo": false,
       "promo_price": null,
-      "days_since_sold": 9,
-      "lastsold": "2026-06-19",
+      "days_since_sold": 0,
+      "lastsold": "2026-06-28",
       "lastbuy": null,
       "loyalty_eligible": false,
       "alert": "OUT OF STOCK"
@@ -39342,13 +39342,31 @@
       "gp_pct": 24.3,
       "points": 1,
       "cashier": "Thabiso"
+    },
+    {
+      "number": 518511,
+      "date": "2026-06-28",
+      "desc": "Redd's Dry 660ml",
+      "amount": 150.0,
+      "gp_pct": 25.3,
+      "points": 3,
+      "cashier": "Thabiso"
+    },
+    {
+      "number": 518511,
+      "date": "2026-06-28",
+      "desc": "Carling Black Label 750ml",
+      "amount": 50.0,
+      "gp_pct": 24.3,
+      "points": 1,
+      "cashier": "Thabiso"
     }
   ],
   "stock_summary": {
     "total_products": 743,
     "out_of_stock": 477,
     "on_promo": 1,
-    "dead_stock_30d": 72,
+    "dead_stock_30d": 71,
     "loyalty_eligible": 283
   }
 }
